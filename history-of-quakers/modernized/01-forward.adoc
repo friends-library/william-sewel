@@ -1,7 +1,7 @@
 == Forward by Editor
 
-William Sewel`'s History of the Rise, Increase,
-and Progress of the Christian People Called Quakers was first published in Dutch in 1717,
+William Sewel`'s _History of the Rise, Increase,
+and Progress of the Christian People Called Quakers_ was first published in Dutch in 1717,
 and then translated into English (by Sewel himself) and printed in 1722.
 The original publication consisted of twelve volumes,
 but was reprinted (with slightly modernized spelling
@@ -22,23 +22,27 @@ etc.). I have also added one explanatory footnote, two or three definitions in b
 and some English translations for Latin phrases found throughout.
 Before beginning, I suggest a quick perusal of the terms defined below.
 
+[.signed-section-signature]
 Jason R. Henderson
+
+[.signed-section-context-close]
 April, 2017
 
-Short Glossary of Terms:
+[.old-style]
+=== Short Glossary of Terms:
 
-Professor - One who professes faith in Christ
+Professor:: One who professes faith in Christ
 
-Forms - Outward ceremonies, structures, ordinances, practices in religion
+Forms:: Outward ceremonies, structures, ordinances, practices in religion
 
-Premunire - Premunire was a legal judgment designed to disenfranchise
+Premunire:: Premunire was a legal judgment designed to disenfranchise
 those who refused to formally swear allegiance to the King of England.
 Those under a sentence of premunire were considered traitors to their country.
 They lost all rights to property and possessions,
 were removed from under the kings protection, and were often imprisoned for life.
 
-Prolixity - Unnecessary length, wordiness
+Prolixity:: Unnecessary length, wordiness
 
-Apostasy - falling away, departure, desertion of original Christianity.
+Apostasy:: falling away, departure, desertion of original Christianity.
 
-Conventicle - An unlawful religious gathering
+Conventicle:: An unlawful religious gathering

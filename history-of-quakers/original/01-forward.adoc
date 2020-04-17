@@ -1,7 +1,7 @@
 == Forward by Editor
 
-William Sewel`'s History of the Rise, Increase,
-and Progress of the Christian People Called Quakers was first published in Dutch in 1717,
+William Sewel`'s _History of the Rise, Increase,
+and Progress of the Christian People Called Quakers_ was first published in Dutch in 1717,
 and then translated into English (by Sewel himself) and printed in 1722.
 The original publication consisted of twelve volumes,
 but was reprinted (with slightly modernized spelling
@@ -21,42 +21,45 @@ with the exception of adding one explanatory footnote,
 and a few English translations for Latin phrases found throughout.
 Before beginning, I suggest a quick perusal of the terms defined below.
 
+[.signed-section-signature]
 Jason R. Henderson
+
+[.signed-section-context-close]
 June, 2016
 
-Short Glossary of Terms:
+[old.style]
+=== Short Glossary of Terms:
 
-Papist - Roman Catholic
+Papist:: Roman Catholic
 
-Popery - Roman Catholicism
+Popery:: Roman Catholicism
 
-Professor - One who professes faith in Christ
+Professor:: One who professes faith in Christ
 
-Want or wanting - Lack or lacking (i.e. "`God`'s manifest love was not wanting`")
+Want or wanting:: Lack or lacking (i.e. "`God`'s manifest love was not wanting`")
 
-Conversation - Conduct, manner of living
+Conversation:: Conduct, manner of living
 
-Loath - unwilling (i.e. "`He was loath to go with me`")
+Loath:: unwilling (i.e. "`He was loath to go with me`")
 
-To own - To acknowledge, approve (i.e. "`We could not own him as one of us`")
+To own:: To acknowledge, approve (i.e. "`We could not own him as one of us`")
 
-Forms - Outward ceremonies, structures, ordinances, practices in religion
+Forms:: Outward ceremonies, structures, ordinances, practices in religion
 
-Premunire - Premunire was a legal judgment designed to disenfranchise
+Premunire:: Premunire was a legal judgment designed to disenfranchise
 those who refused to formally swear allegiance to the King of England.
 Those under a sentence of premunire were considered traitors to their country.
 They lost all rights to property and possessions,
 were removed from under the kings protection, and were often imprisoned for life.
 
-Assizes - Court sessions
+Assizes:: Court sessions
 
-Prolixity - Unnecessary length, wordiness
+Prolixity:: Unnecessary length, wordiness
 
-Apostasy - falling away, departure, desertion of original Christianity.
+Apostasy:: falling away, departure, desertion of original Christianity.
 
-Viz.
-- Namely, i.e.
+Viz:: Namely, i.e.
 
-Physic - Medicine
+Physic:: Medicine
 
-Conventicle - An unlawful religious gathering
+Conventicle:: An unlawful religious gathering
