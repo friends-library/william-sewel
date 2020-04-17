@@ -2,16 +2,23 @@
 
 === 1650--1652
 
-Convincement of a Trooper--Labors of G. Fox in divers places--Injustice
-of Death penalty for Stealing -- Letters of G. Fox to different
-individuals--Convincement of R. Farns worth,
-J+++.+++ Nayler and W. Dewsbury--G. Fox preaches in several
-Steeple-houses--Several Priests convinced,
-and become Quakers-- King`'s army beaten at Worcester--General convincement--Cruelty
-inflicted on G. Fox at Pattrington--G. Fox travels into Nottinghamshire,
-Lincolnshire and Yorkshire --Convincement of F. Howgill and J. Audland--
-Convincement of E. Burrough--Swarthmore--Convincement in the family of
-Judge Fell --Increase of Preachers among the Quakers.
+[.chapter-synopsis]
+* Convincement of a Trooper
+* Labors of G. Fox in various places
+* Injustice of Death penalty for Stealing
+* Letters of G. Fox to different individuals
+* Convincement of R. Farns worth, J+++.+++ Nayler and W. Dewsbury
+* G. Fox preaches in several Steeple-houses
+* Several Priests convinced, and become Quakers
+* King`'s army beaten at Worcester
+* General convincement
+* Cruelty inflicted on G. Fox at Pattrington
+* G. Fox travels into Nottinghamshire, Lincolnshire and Yorkshire
+* Convincement of F. Howgill and J. Audland
+* Convincement of E. Burrough
+* Swarthmore
+* Convincement in the family of Judge Fell
+* Increase of Preachers among the Quakers
 
 The year 1651 had scarce begun, when the Scots resolved, notwithstanding their overthrow,
 to crown their new King, which, after he had sworn to maintain the Covenant,
@@ -127,6 +134,9 @@ etc. and he was the more troubled about it,
 because this practice was contrary to the law of God in old time.
 Wherefore he wrote the following two letters to the judges.
 
+[.embedded-content-document.letter]
+--
+
 I am moved to write unto you to take heed of putting men to death for stealing cattle,
 or money, etc. for the thieves in the old time were to make restitution;
 and if they had not wherewithal, they were to be sold for their theft.
@@ -141,7 +151,13 @@ for he delights in true judgment, and in mercy.
 I beseech you to mind these things, and prize your time, now you have it; and fear God,
 and serve him; for he is a consuming fire.
 
+--
+
+[.offset]
 The other letter was thus.
+
+[.embedded-content-document.letter]
+--
 
 I am moved to write unto you, that you do true justice to every man,
 and see that none be oppressed, nor wronged: nor no oaths imposed;
@@ -156,6 +172,8 @@ Love mercy and true judgment, justice, and righteousness, for the Lord delights 
 Consider these things in time, and take heed how you do spend your time:
 now you have time, prize it, and show mercy, that you may receive mercy from the Lord:
 for he is coming to try all things, and will plead with all flesh, as by fire.
+
+--
 
 While G. Fox was in prison among the felons, it grieved him to hear their foul language;
 and he often reproved them for their wicked words, and evil carriage towards each other:
@@ -175,9 +193,9 @@ to put people to death for stealing; and that it was an incumbent duty to show m
 But notwithstanding his writing so, she was condemned to die,
 and a grave was made for her.
 G+++.+++ Fox having heard this, wrote a few words, containing,
-"`A warning for all people to beware of covetousness, and to fear the Lord,
+'`A warning for all people to beware of covetousness, and to fear the Lord,
 and prize their time, while they have it;
-that so they might avoid wickedness;`" and when the woman, at the time appointed,
+that so they might avoid wickedness;`' and when the woman, at the time appointed,
 was carried forth to execution, he gave this writing to be read at the gallows;
 but when she was upon the ladder, with a cloth over her face, and ready to be turned off,
 she was reprieved, and was brought back again to prison,
@@ -200,6 +218,9 @@ at which they grew so angry, that he was committed close prisoner.
 Hereupon G. Fox wrote to the justices, and those that were concerned in his commitment,
 the following lines.
 
+[.embedded-content-document.letter]
+--
+
 You, who are without Christ, and yet use the words which he and his saints have spoken,
 consider, neither he nor his apostles did ever imprison any;
 but my Savior is merciful even to the unmerciful and rebellious.
@@ -219,9 +240,14 @@ If the love of God had broken your hearts, you would not have imprisoned me;
 but my love is to you, as to all my fellow creatures: and that you may weigh yourselves,
 and see how you stand, is this written.
 
+--
+
 About this time he gave forth the following paper
 to those that were convinced of the truth,
 to show them the deceit of the world, and how the priests had deceived the people:
+
+[.embedded-content-document.paper]
+--
 
 Christ was ever hated; and the righteous, for his sake.
 Mind who they were, that did ever hate them.
@@ -278,9 +304,15 @@ All the holy servants of God did ever cry against deceit:
 and where the Lord has manifested his love, they do loathe it,
 and that nature which holds it up.
 
+--
+
 He also wrote a serious exhortation to the magistrates of Derby,
 to consider whom they imprisoned.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 I desire you to consider in time, whom you do imprison:
@@ -326,12 +358,17 @@ O friends, lay these things to heart, and let them not seem light things to you.
 I wrote unto you in love, to mind the laws of God, and your own souls,
 and do as the holy men of God did.
 
+--
+
 During his imprisonment there, he was under a great exercise and travail in spirit,
 because of the wickedness of that town;
 for though some were convinced there of the doctrine of truth,
 yet generally they were a hardened people:
 and he seeing the visitation of God`'s love pass away from them, he mourned,
 and wrote the following lamentation.
+
+[.embedded-content-document]
+--
 
 O Derby! as the waters run away when the flood gates are up,
 so does the visitation of God`'s love pass away from you,
@@ -354,7 +391,9 @@ and bowed down; covetousness abounds: and he that does wickedly is honored:
 so deceit does bear with deceit; and yet they profess Christ in words.
 O the deceit that is within you! it does even break
 my heart to see how God is dishonored in you,
-O Derby!`'
+O Derby!
+
+--
 
 After he had written this,
 he perceived that his imprisonment there would not continue long;
@@ -714,7 +753,7 @@ Then he told him, he was; and so the man rode away to the justice.
 
 Now the men that guarded G. Fox, said, it would be well,
 if the justice was not drunk when they came to him, because he used to be drunk early,
-G+++.+++ Fox being brought in before him, and not putting off his hat, and saying you to him,
+G+++.+++ Fox being brought in before him, and not putting off his hat, and saying _you_ to him,
 the justice asked the man that rode there before, whether he was not mazed or fond?
 But the man said, "`No: it is his principle so to behave himself G. Fox,
 who was unwilling to let any opportunity slip, without admonishing people to virtue,
@@ -975,7 +1014,7 @@ insomuch that none that were guided by the Spirit of God now could acknowledge t
 While G. Fox was thus preaching, many old people went into the chapel,
 and looked out at the windows, thinking it a strange thing to see a man preach on a hill,
 and not in the church,
-(as they called it.) He perceiving this said,`'That the steeple-house,
+(as they called it.) He perceiving this said, '`That the steeple-house,
 and the ground whereon it stood, was no more holy than that hill; and that those temples,
 which they called the dreadful houses of God,
 were not set up by the command of God and Christ;
