@@ -2,19 +2,27 @@
 
 === 1656-1657.
 
-"`The Fanatic History`"--Answered by J. Nayler -- Death of J. Nayler--M. Fisher
-and A. Austin go to New England--Their barbarous usage -- Laws made to prevent
-Quakers from going to New England--Interview between the Protector and G. Fox
-and E. Pyot-- Letters of warning from E. Burrough to the Protector--Singular
-conference between C. Birkhead and an English congregation at Middleburg,
-Zealand --Travels of W. Ames and W. Caton --Author`'s parents convinced
---G. Fox and the Governor of Tenby -- Quakers excommunicated in Scotland
---G. Fox travels over Scotland--Severities against Quakers in New England--Singular
-incidents of G. Robinson`'s travels to Jerusalem.
+[.chapter-synopsis]
+* "`The Fanatic History`"
+* Answered by J. Nayler
+* Death of J. Nayler
+* M. Fisher and A. Austin go to New England
+* Their barbarous usage
+* Laws made to prevent Quakers from going to New England
+* Interview between the Protector and G. Fox and E. Pyot
+* Letters of warning from E. Burrough to the Protector
+* Singular conference between C. Birkhead and an English congregation at Middleburg, Zealand
+* Travels of W. Ames and W. Caton
+* Author`'s parents convinced
+* G. Fox and the Governor of Tenby
+* Quakers excommunicated in Scotland
+* G. Fox travels over Scotland
+* Severities against Quakers in New England
+* Singular incidents of G. Robinson`'s travels to Jerusalem
 
 When king Charles the Second had ascended the throne, one Richard Blome published a book,
-entitled.
-The Fanatic History,
+entitled,
+[.book-title]#The Fanatic History#,
 which was said to be published with the approbation of orthodox divines,
 (so called,) and dedicated by him to the king.
 This book struck chiefly against the Quakers,
@@ -27,7 +35,10 @@ we are so numerous, and seducing, that we will,
 (in a little time,) diffuse our poison over the better part of his kingdom,
 which none but a regal authority can stifle.`'
 
-'`I say then, what is become of your spiritual weapons?
+[.embedded-content-document.paper]
+--
+
+I say then, what is become of your spiritual weapons?
 Have not your teachers told people of the strength of truth, and the power of godliness?
 Have you lost both, (may wisdom say,) and run you now to the arm of flesh,
 to get errors stifled, (as you call them,) or else your hope is lost,
@@ -130,9 +141,15 @@ For a just man falls seven times, and rises up again;
 but the wicked shall fall into mischief.`" Prov. 24:15-16.
 See also Mic. 7:8.
 
+[.signed-section-signature]
 J+++.+++ N.
 
+--
+
 === In answer to the book.
+
+[.embedded-content-document.paper]
+--
 
 The day is come that the Scripture is fulfilled, which the Lord spoke by his prophet, Isa. 44:25.
 That he will make the diviners mad;
@@ -143,8 +160,8 @@ that will see and behold it,
 according to 2 Tim. 3:9. And is not this manifest madness and folly in them,
 called orthodox and divines, to present unto the king their packet of Hes,
 which have been seven years told over, and so long since disproved and confuted,
-as may be seen in a book called, Saul`'s Errand to Damascus,
-etc. printed in the year 1653, and in several other books since.
+as may be seen in a book called, [.book-title]#Saul`'s Errand to Damascus,
+Etc.# printed in the year 1653, and in several other books since.
 It already has been, and is now manifest unto all men of sober understandings,
 that these men, falsely called orthodox and divines, have had no defence,
 either to vindicate themselves, or disprove the people called Quakers,
@@ -156,8 +173,7 @@ requiring him to defend those lies which you falsely call the faith.
 But this we know, according as it is written, Prov. 29:12,19.
 that '`if a ruler hearken to lies, and his servants are wicked;
 but a wise king scatters the wicked, and brings the wheel over them.`"
-Chap.
-xx.`"26.
+Chap. 20:26.
 
 These pretended divines are such as have bowed and
 crouched under every appearance of a power,
@@ -297,6 +313,8 @@ and in the light which you reproaches, are you seen to be the man that makes lie
 and carries tales to shed blood.`' Ezek. 22:9.
 12.
 
+--
+
 Thus much and more J. Nayler wrote to answer the falsehoods whereof he was accused,
 and to apologize for the doctrine of which he had made profession,
 and to show that the fault of his crime must no ways be attributed
@@ -341,7 +359,7 @@ because the tempted may go from, and neglect the teaching of it.
 David and Peter,
 as their transgression came by their departing from this infallible guide,
 the Holy Spirit, so their recovery was only by it.--Jos.
-Wyeth`'s Anguis Flagel.]
+Wyeth`'s [.book-title]#Anguis Flagel#.]
 
 Yet to proceed further with J. Nayler: he wrote, after his recovery,
 many papers and edifying letters: he also answered two letters, which,
@@ -391,7 +409,10 @@ in the latter end of the year 1660, about the 44th year of his age.
 About two hours before his death, he spoke,
 in the presence of several witnesses these words:
 
-'`There is a spirit which I feel, that delights to do no evil, nor to revenge any wrong,
+[.embedded-content-document.testimony]
+--
+
+There is a spirit which I feel, that delights to do no evil, nor to revenge any wrong,
 but delights to endure all things, in hope to enjoy its own in the end.
 Its hope is to outlive all wrath and contention,
 and to weary out all exaltation and cruelty,
@@ -410,15 +431,18 @@ It never rejoices but through sufferings; for with the world`'s joy it is murder
 I found it alone, being forsaken.
 I have fellowship therein with them who lived in dens, and desolate places of the earth,
 who through death obtained this resurrection, and eternal holy life.^
-footnote:[N. B. There is a passage in the book called, The complete History of England,
-vol.
-iii. page 201, which says that J. Nayler died with no fruits,
+footnote:[N. B. There is a passage in the book called, [.book-title]#The Complete History of England,
+Vol.
+iii#. page 201, which says that J. Nayler died with no fruits,
 nor so much as signs of repentance.
 How the author came by such information, we cannot tell,
 but that it is a manifest mistake we doubt not but
 the impartial reader is by this time abundantly convinced.]
 
-JAMES NAYLER.
+[.signed-section-signature]
+James Nayler.
+
+--
 
 This was J. Nayler`'s last testimony, or dying words; and thus he gave proof,
 that though he had erred, yet with great confidence he hoped for a happy resurrection.
@@ -605,6 +629,9 @@ having heard of the design of making him king, wrote a letter to him, wherein I 
 that after having told the protector, that he had had many warnings from the Lord,
 he thus speaks to him:
 
+[.embedded-content-document.letter]
+--
+
 I as one that has obtained mercy from the Lord, and unto whom his word is committed,
 being moved of him, do hereby in his presence yet once more warn you,
 that you fear before him, and diligently hearken to him,
@@ -726,7 +753,10 @@ and hardening your heart against the cry of the poor.
 This I was moved in bowels of pity to lay before you, who am your friend,
 not in flattery, but in an upright heart, who wishes well unto you in the Lord.
 
-EDWARD BURROUGH.
+[.signed-section-signature]
+Edward Burrough
+
+--
 
 That which Edward Burrough mentions in the forepart of this letter,
 of the grievous burdens and oppression laid upon the just,
@@ -748,7 +778,12 @@ In the next month Edward Burrough spoke with him about it,
 and Cromwell told him in effect that all persecution and cruelty was against his mind,
 and said that he was not guilty of those persecutions
 acted unjustly upon Burrough`'s friends.
-This made Edward Burrough write again to him, and bid him, '`Consider what the cause is,
+This made Edward Burrough write again to him, and bid him,
+
+[.embedded-content-document.letter]
+--
+
+Consider what the cause is,
 that what you desire not to be done, is yet done: is it not that you may please men;
 making it appear you are more willing to do the false teachers of this nation,
 and wicked men, a pleasure, than to acknowledge the people of God, in relieving them,
@@ -803,7 +838,10 @@ through suffering the people of God to be oppressed in your name,
 which will be your overthrow absolutely, if you removes! it not, by turning,
 and easing the oppressed.
 
-E+++.+++ BURROUGH.`'
+[.signed-section-signature]
+E+++.+++ Burrough
+
+--
 
 This letter was delivered to Oliver Cromwell, in the Fourth month,
 and in the month following Edward Burrough wrote again to him,
@@ -968,7 +1006,7 @@ and he went with W. Ames to Zutphen in Gelderland;
 where meeting with nothing but opposition, he returned to Amsterdam,
 and from there by Leyden and the Hague, to Rotterdam;
 from which place he went to Zealand,
-where he wrote the book called '`The Moderate Enquirer Resolved,`' both in Latin and English,
+where he wrote the book called [.book-title]#The Moderate Enquirer Resolved#, both in Latin and English,
 which was afterwards translated indifferently into Dutch.
 After some stay, Caton returned again to England, and came to London,
 where the society of his friends was in a thriving condition,
@@ -1249,15 +1287,20 @@ but told him afterwards, that was not the business he came about,
 but that he was sent from his brethren, the friars, at Jerusalem,
 to propound to him some questions.
 
+[.numbered]
 1+++.+++ Whether he would promise, when he came to Jerusalem,
 that he would visit the holy places as other pilgrims did?
 
+[.numbered]
 2+++.+++ Whether he would pay so much money as pilgrims used to do?
 
+[.numbered]
 3+++.+++ Whether he would wear such a sort of habit as was usual with pilgrims?
 
+[.numbered]
 4+++.+++ That he must speak nothing against the Turks laws.
 
+[.numbered]
 5+++.+++ And when he came to Jerusalem, not speak any thing about religion.
 
 Not being willing to enter into a promise, he was by the Irish friar,
@@ -1267,7 +1310,7 @@ a French merchant called Surrubi, took him into his house,
 and lodged him about three weeks.
 This man entertained him very kindly,
 and would say sometimes that it was the Lord`'s doings;
-'`For,`' said he,`' when my own countrymen come to me, they are little to me,
+'`For,`' said he, `'when my own countrymen come to me, they are little to me,
 but you I can willingly receive.`'
 After much trouble, Robinson got opportunity, by the help of the said French merchant,
 who was an ancient man, to return by sea to Jaffa;

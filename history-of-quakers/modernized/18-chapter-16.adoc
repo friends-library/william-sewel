@@ -2,22 +2,42 @@
 
 === 1664-1667.
 
-Continuation of persecution under the Conventicle Act--Account of the Author`'s Parents--
-"`Epistle to the Friends of Truth`"--Six hundred Friends in the jails of England--some
-of those banished set ashore by the Captains of Wessels--Wessels not allowed to sail
-to the West Indies without taking banished Quakers--Plague in London -Further trials
-and banishment of Quakers--I. Penington on Persecution--G. Fox and Margaret Fell again
-brought to trial and premunired--Removal of G. Fox to Scarborough Castle-- Interesting
-interviews--Incidents in the life of W. Dundas--Death of W. Caton--Death of many banished
-Friends on board ship -- Captured by a Privateer--G. Fox and Dr. Cradock--G. Fox released
--- Great fire in London--T. Ibbitt -- Epistle of S. Crisp - Persecution by W. Armorer--Death
-of R. Farnsworth--Robert Barclay-Persecutors of M. Halhead.
+[.chapter-synopsis]
+* Continuation of persecution under the Conventicle Act
+* Account of the Author`'s Parents
+* "`Epistle to the Friends of Truth`"
+* Six hundred Friends in the jails of England
+* Some of those banished set ashore by the Captains of Vessels
+* Vessels not allowed to sail to the West Indies without taking banished Quakers
+* Plague in London
+* Further trials and banishment of Quakers
+* I. Penington on Persecution
+* G. Fox and Margaret Fell again brought to trial and premunired
+* Removal of G. Fox to Scarborough Castle
+* Interesting interviews
+* Incidents in the life of W. Dundas
+* Death of W. Caton
+* Death of many banished Friends on board ship
+* Captured by a Privateer
+* G. Fox and Dr. Cradock
+* G. Fox released
+* Great fire in London
+* T. Ibbitt
+* Epistle of S. Crisp
+* Persecution by W. Armorer
+* Death of R. Farnsworth
+* Robert Barclay
+* Persecutors of M. Halhead
 
 Again, in December, twelve of those called Quakers, were condemned to banishment;
 for it was resolved to go on, not regarding what George Bishop gave forth in print,
 and caused to be delivered to the king and the members of parliament, being as follows:
 
-To the King and both Houses of Parliament, this says the Lord.
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
+To the King and both Houses of Parliament, thus says the Lord.
 
 Meddle not with my people, because of their conscience to me,
 and banish them not out of the nation because of their conscience; for if you do,
@@ -25,8 +45,13 @@ I will send my plagues upon you, and you shall know that I am the Lord.
 
 Written in obedience to the Lord, by his servant,
 
-GEORGE BISHOP.
+[.signed-section-signature]
+George Bishop.
+
+[.signed-section-context-close]
 Bristol, the 29th of the Fifth month, 1664.
+
+--
 
 The fulfilling of this prediction we shall see;
 for within a short time a war ensued with the Dutch,
@@ -87,7 +112,7 @@ so that he got a clear sight of the superstition and errors of the Catholic reli
 in which he was trained up; and then entering into discourse with his master,
 was persuaded to renounce popery, and to enter into the communion of the Baptists.
 This broke all his measures concerning his intended travels;
-and then resolving to settle where he was, he took to wife one Catharine`' de Mol,
+and then resolving to settle where he was, he took to wife one Catharine de Mol,
 a virtuous maid,
 whose father was one of the primitive Baptists that arose under the persecution in Flanders,
 from which he with many more came to settle in Holland.
@@ -208,7 +233,7 @@ And when she had done speaking, I do not remember she was contradicted by any;
 but one of their speakers concluded the meeting with a prayer.
 
 Before that time she wrote and published a small book to those of her former society,
-which she called a Serious Reproof of the Flemish Baptists:
+which she called [.book-title]#A Serious Reproof of the Flemish Baptists:#
 in which she dealt very plainly with them; and showed how they were apostatized.
 She wrote also some other treatises, extant in print;
 and was much beloved and well esteemed by English friends,
@@ -243,6 +268,10 @@ To give a small instance of her true zeal for God,
 I will insert here the following epistle she wrote to her friends,
 to stir up the pure mind in them.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle to the Friends of the Church.
 
 Grace and peace be multiplied among you, my dearly and much beloved friends,
@@ -265,8 +294,8 @@ knowing the preciousness of it,
 cannot but desire that others may also participate of the same; labor, therefore, for it,
 my friends, that so, when the Lord comes and calls to an account,
 every one may be found faithful according to what he has received:
-for this is the talent which the Lord has given, '`the knowledge of him who is true,
-and who rewards everyone according to his deeds:`' but the negligent
+for this is the talent which the Lord has given, the knowledge of him who is true,
+and who rewards everyone according to his deeds: but the negligent
 and slothful servant said that his Lord was a hard man,
 and that he gathered where he had not strewed, and this was his condemnation:
 for the Lord said, "`You knew that I was an austere man;
@@ -355,7 +384,10 @@ This is written from me, a young plant, in love to you,
 according to the gift received from the Lord.
 My salutation is to you all in the light of truth.
 
-JUDITH ZINSPENNING.
+[.signed-section-signature]
+Judith Zinspenning.
+
+--
 
 In the year 1664 came forth a small book in print, to the king,
 and both houses of parliament, wherein were set forth,
@@ -580,6 +612,9 @@ from going on with this mischievous work of persecution.
 In this paper, containing some queries, among many weighty expressions,
 I find these also:
 
+[.embedded-content-document.paper]
+--
+
 After you have done all you can, even made laws as strong as you can,
 and put them in the strictest course of execution you can,
 one night from the Lord may end the controversy,
@@ -625,7 +660,8 @@ Now that you may more clearly see the temper of my spirit,
 and how my heart stands to this thing, I shall a little open unto you,
 my faith and hope about it, in these ensuing particulars:
 
-First, I am assured in my heart and soul, that this despised people, called Quakers,
+[.numbered]
+_First,_ I am assured in my heart and soul, that this despised people, called Quakers,
 is of the Lord`'s begetting in his own life and nature.
 Indeed, had I not seen the power of God in them,
 and received from the Lord an unquestionable testimony concerning them,
@@ -636,13 +672,15 @@ and that which God has begotten in my heart, refreshed by the power of life in t
 and none but the Lord knows the beauty and excellency of glory,
 which he has hid under this appearance.
 
-Secondly, The Lord has hitherto preserved them against great oppositions,
+[.numbered]
+_Secondly,_ The Lord has hitherto preserved them against great oppositions,
 and is still able able to preserve them.
 Every power hitherto has made nothing of overrunning them; yet they have hitherto stood,
 by the care and tender mercy of the Lord;
 and the several powers which have persecuted them, have fallen one after another.
 
-Thirdly, I have had experience myself of the Lord`'s goodness and preservation of me,
+[.numbered]
+_Thirdly,_ I have had experience myself of the Lord`'s goodness and preservation of me,
 in my suffering with them for the testimony of his truth,
 who made my bonds pleasant to me, and my noisome prison,
 (enough to have destroyed my weakly and tenderly
@@ -652,7 +690,8 @@ as also with love to, and prayers for,
 those who had been the means of outwardly afflicting me,
 and others on the Lord`'s account.
 
-Fourthly, I have no doubt in my heart that the Lord will deliver us.
+[.numbered]
+_Fourthly,_ I have no doubt in my heart that the Lord will deliver us.
 The strength of man, the resolution of man is nothing in my eye in compare with the Lord.
 Whom the Lord loves, he can save at his pleasure.
 Has he begun to break our bonds and deliver us, and shall we now distrust him?
@@ -662,7 +701,8 @@ He indeed that looks with man`'s eye, can see no ground of hope,
 nor hardly a possibility of deliverance; but, to the eye of faith,
 it is now nearer than when God began first to deliver.
 
-Fifthly, It is the delight of the Lord, and his glory to deliver his people,
+[.numbered]
+_Fifthly,_ It is the delight of the Lord, and his glory to deliver his people,
 when to the eye of sense it seems impossible.
 Then does the Lord delight to stretch forth his arm, when none else can help:
 and then does it please him to deal with the enemies of his truth and people,
@@ -684,7 +724,9 @@ and enabled by him, both to do his will, and to suffer for his name-sake.
 And if we cannot thus overcome you, even in patience of spirit, and in love to you,
 and if the Lord our God please not to appear for us,
 we are content to be overcome by you.
-So the will of the Lord be done says my soul.`'
+So the will of the Lord be done says my soul.
+
+--
 
 This the author concludes with a postscript,
 containing a serious exhortation to forsake evil.
@@ -954,8 +996,8 @@ This I know by my own experience, for I have had familiar conversation with him.
 
 In this his prison he was much visited, even by people of note.
 General Fairfax`'s widow came once to him with a great company, one of which was a priest,
-who began to quarrel with him, because speaking to one person, he said thee and thou,
-and not you; and those that spoke so, the priest said, he counted but fools.
+who began to quarrel with him, because speaking to one person, he said _thee_ and _thou,_
+and not _you;_ and those that spoke so, the priest said, he counted but fools.
 Which made G. Fox ask him, whether they, that translated the Scriptures,
 and that made the grammar and accidence, were fools;
 seeing they translated the Scriptures so, and made the grammar so, thou to one,
@@ -1200,11 +1242,15 @@ and entrance denied him by the said officer,
 the burgomaster charged him not to hinder Caton from visiting the prisoners.
 About this time a law was made in England, called,
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 An Act for Restraining Non-Conformists from Inhabiting in Corporations.
 
 Whereas various persons, vicars, curates, lecturers, and other persons in holy orders,
 have not declared their unfeigned assent and consent in the use
-of all things contained and prescribed in the book of Common Prayer,
+of all things contained and prescribed in the [.book-title]#Book of Common Prayer,#
 and administration of the sacraments, and other rites and ceremonies of the church,
 according to the use of the church of England,
 or have not subscribed to the declaration or acknowledgment
@@ -1238,7 +1284,7 @@ and every of them, who have not declared their unfeigned assent and consent,
 as aforesaid, and subscribed the declaration as aforesaid,
 and shall not take and subscribe the oath following:
 
-(2) '`I, A. B., do swear, that it is not lawful upon any pretense whatsoever,
+(2) I, A. B., do swear, that it is not lawful upon any pretense whatsoever,
 to take arms against the king;
 and that I do abhor that traitorous position of taking
 arms by his authority against his person,
@@ -1246,6 +1292,8 @@ or against those that are commissioned by him, in pursuance of such commission;
 and that I will not at anytime endeavor any alteration of government,
 either in church or state:`' shall not come within five miles of any city,
 etc. nor teach school, on pain to forfeit 40£.
+
+--
 
 And though this act was chiefly made against the Presbyterians and Independents,
 who formerly had been employed in the public church, yet they suffered but little by it;
@@ -1409,12 +1457,18 @@ This order being obtained, was not long after brought to Scarborough,
 and delivered to the governor, who upon the receipt thereof, discharged him,
 and gave him the following passport:
 
+[.embedded-content-document.legal]
+--
+
 Permit the bearer thereof, George Fox, late a prisoner here,
 and now discharged by his majesty`'s order, quietly to pass about his lawful occasions,
 without any molestation.
 Given under my hand at Scarborough Castle, this first day of September,
 
-JORDAN CROSLANDS, Governor of Scarborough Castle.
+[.signed-section-signature]
+Jordan Croslands, Governor of Scarborough Castle.
+
+--
 
 G+++.+++ Fox being thus released,
 would have given the governor something for the civility
@@ -1527,6 +1581,10 @@ and saw the fulfilling of what had been shown him some years before.
 Notwithstanding this stroke on London, persecution did not cease,
 which gave occasion to Josiah Coale to write these lines to the king:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 King Charles,
 
 Set the people of God at liberty,
@@ -1536,16 +1594,23 @@ and lead them by his spirit; or else his judgments shall not depart from your ki
 until thereby he has wrought the liberty of his people, and removed their oppressions.
 And remember you are once more warned,
 
+[.signed-section-closing]
 By a servant of the Lord,
 
+[.signed-section-signature]
 JOSIAH COALE.
 
-London, Dec.
-2nd, 1666.
+[.signed-section-context-close]
+London, Dec. 2nd, 1666.
+
+--
 
 About this time, or it may be in the next month, Stephen Crisp published an epistle,
 containing an exhortation to his friends,
 and also a prediction concerning succeeding times, which is as follows:
+
+[.embedded-content-document.epistle]
+--
 
 Friends, I am the more drawn forth at this time to visit you with an epistle,
 because the Lord has given me some sight of his great and dreadful day,
@@ -1730,8 +1795,10 @@ and we shall yet live to praise him who is worthy of glory, of honor and renown,
 from the rising of the sun, to the setting of the same, now and forever, amen, amen,
 says my soul.
 
+--
+
 In the year 1667 a book came forth in print at London, with this title,
-Persecution appearing with its open face in William Armorer.
+[.book-title]#Persecution Appearing With Its Open Face in William Armorer.#
 This was written by some of the prisoners called Quakers,
 and contained a relation of the impetuous carriage of the said Armorer,
 who being a knight and justice of peace, had made it his business many years,
@@ -1856,7 +1923,7 @@ one may easily guess how matters were transacted here, which sometimes was so gr
 that the spectators showed their dislike.
 When once the jury for lack of good witnesses, could not agree to find the bill,
 Armorer rose off the bench, and appeared as a witness.
-But notwithstanding the jury, returning the second time, brought it in ignorumus.
+But notwithstanding the jury, returning the second time, brought it in _ignorumus._
 Upon which the other justice said to them, that sir William Armorer,
 an honorable gentleman, had taken his oath also.
 To which the jury returned, it was true, sir William Armorer was an honorable gentleman,
@@ -1918,10 +1985,10 @@ that by reason of debts they fell into poverty.
 
 About this time a certain Catholic author,
 who expressed his name no further than with the letters A. S. gave forth a book called,
-'`The Reconciler of Religions; or, A Decider of all Controversies in matters of Faith.`'
+[.book-title]#The Reconciler of Religions;# or, [.book-title]#A Decider of All Controversies in Matters of Faith.#
 Josiah Coale, who was very zealous for religion, and well saw what this author aimed at,
-answered him by a book that appeared in print, with the title of, '`The Whore unveiled;
-or The Mystery of the Deceit of the Church of Rome revealed.`'
+answered him by a book that appeared in print, with the title of, [.book-title]#The Whore Unveiled;
+or the Myster#
 Now although the said A. S. chiefly struck at the Quakers as the worst of heretics,
 falsely perverting their doctrine, as importing,
 that the same spirit that reproved Judas of sin, did also induce him to desperation,
@@ -2004,6 +2071,10 @@ Among the many expressions which signified his good frame of mind,
 and the divine consolation he felt, were also these words,
 that were taken in writing from his mouth:
 
+[.embedded-content-document.testimony]
+--
+
+[.salutation]
 Friends,
 
 God has been mightily with me, and has stood by me at this time;
@@ -2013,6 +2084,8 @@ But God has appeared for the acknowledging of our testimony,
 and has broken in upon me as a flood,
 and I am filled with his love more than I am able to express;
 and God is really appeared for us, etc.
+
+--
 
 This he spoke but a short time before his departure;
 and exhorted his friends to faithfulness and steadfastness,

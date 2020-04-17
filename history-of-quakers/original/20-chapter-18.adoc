@@ -1,15 +1,27 @@
 == Chapter XVIII.
 
-=== 1670-1674
+=== 1670-1674.
 
-Trial of W. Penn and W. Mead--Courage of the Prisoners,
-and resolution of the Jury-- Persecution of T. Rudyard for exposing the injustice of
-the Court--Recorder Howell-- Justice Whaley and Friends in Nottingham--Cruelties in
-Warwickshire-Horslydown Meeting--S. Eccles and the Priest in Cork--Prayer of G. Fox--G.
-Fox in America-- William Prince of Orange--G. Fox returns to England and is imprisoned--M.
-Halhead and General Lambert--Letter from M. Halhead to G. Fox-Trial of G. Fox and T.
-Lower at Worcester--Recommitment of G. Fox--G. Fox before the King`'s Bench--Remanded
-to Worcester--Premunired--Again brought before the King`'s Bench.
+[.chapter-synopsis]
+* Trial of W. Penn and W. Mead
+* Courage of the Prisoners, and resolution of the Jury
+* Persecution of T. Rudyard for exposing the injustice of the Court
+* Recorder Howell
+* Justice Whaley and Friends in Nottingham
+* Cruelties in Warwickshire-Horslydown Meeting
+* S. Eccles and the Priest in Cork
+* Prayer of G. Fox
+* G+++.+++ Fox in America
+* William Prince of Orange
+* G+++.+++ Fox returns to England and is imprisoned
+* M+++.+++ Halhead and General Lambert
+* Letter from M. Halhead to G. Fox
+* Trial of G. Fox and T. Lower at Worcester
+* Recommitment of G. Fox
+* G+++.+++ Fox before the King`'s Bench
+* Remanded to Worcester
+* Premunired
+* Again brought before the King`'s Bench
 
 Now, although persecution was not so hot in London, as in other places in the country,
 yet sometimes even there it was very severe,
@@ -61,7 +73,7 @@ who were assembled in a great number in Gracechurch-street,
 but they could not hear what he said.
 
 The recorder then asked William Mead, whether he was there?
-Who answered, that '`It is a maxim in your own law, nemo tenetur seipsum accusare,
+Who answered, that '`It is a maxim in your own law, _nemo tenetur seipsum accusare,_
 which if it be not true Latin, I am sure it is good English.
 That no man is bound to accuse himself;
 why then dost "`thou offer to ensnare me with such a question?`'
@@ -113,7 +125,7 @@ to say it is the common law, unless we know both where, and what it is:
 for where there is no law, there is no transgression; and that law which is not in being,
 is so far from being common, that it is no law at all`' The recorder snapped him hereupon,
 with, '`You are an impertinent fellow, will you teach the court what law is?
-It is lex non scripta,^
+It is __lex non scripta,__^
 footnote:["`The unwritten law.`"--alluding to the '`Common Law of England.`']
 that which many have studied thirty or forty years to know,
 and would you have me tell you in a moment.`'
@@ -167,7 +179,7 @@ but many ten thousand families besides.`'
 He being now hauled into the bail-dock, it was W. Mead`'s turn to plead, who spoke thus,
 '`Ye men of the jury, I now stand here to answer to an indictment against me,
 which is a bundle of stuff full of lies and falsehoods: for therein I am accused,
-that I met vi et armis, illicite et tumultuose.^
+that I met __vi et armis, illicite et tumultuose.__^
 footnote:[By force and arms; unlawfully and tumultuously.]
 Time was when I had freedom to use a carnal weapon, and then I thought I feared no man:
 but now I fear the living God, and dare not make use thereof, nor hurt any man,
@@ -191,9 +203,11 @@ and next a Papist.`'
 Mead, not being minded openly to affront this alderman,
 told him this well-known Latin verse.
 
-=== Turpa est doctori cum culpa redarguit ipsum.^
-footnote:[Shame to that teacher who is guilty of the fault with which he taxes others.]^
+[quote]
+____
+__Turpa est doctori cum culpa redarguit ipsum.__^
 footnote:[Shame to that teacher who is guilty of the fault with which he taxes others.]
+____
 
 For Brown himself formerly had been an Independent,
 though now he belonged to the church of England, and was of the court party.
@@ -276,14 +290,20 @@ before they gave a more satisfactory verdict,
 they called for pen, ink, and paper, and so went up again:
 and after half an hour returning, delivered the following verdict in writing.
 
+[.embedded-content-document.legal]
+--
+
 We, the jurors hereafter named,
 do find William Penn to be guilty of speaking or preaching to an assembly,
 met together in Gracechurch-street, the 14th of August last, 1670,
 and that Willam Mead is not guilty of the said indictment.
 
+[.signed-section-signature]
 Foreman.
 Thomas Veer, Charles Milson, Edward Bushel, Gregory Walklet, John Hammond, John Baily,
 Henry Henly, William Lever, Henry Michel, James Damask, John Brightman, William Plumsted.
+
+--
 
 This verdict the mayor and recorder resented at so high a rate,
 that they exceeded the bounds of all moderation and civility; and the recorder said,
@@ -482,18 +502,21 @@ Moreover, that in the place of judicature he had undervalued,
 vilified and condemned Magna Charta.
 And therefore, that he should be brought to trial, in order to condign punishment,
 in such manner as the house shall judge most fit and requisite.
-Two days after, viz. Die Veneris, the 18th of December, it was resolved,
+Two days after, viz._ Die Veneris,_ the 18th of December, it was resolved,
 that the precedents and practice of fining or imprisoning jurors for verdicts is illegal.
 The book containing the fore-mentioned trial of W. Penn
 and W. Mead was reprinted I think more than once;
 for it came to be much in request,
 because the liberties of the people were therein well defended,
 and arbitrary power controlled.
-The title of it was, The People`'s Ancient and Just Liberties asserted;
+The title of it was, [.book-title]#The People`'s Ancient and Just Liberties Asserted;#
 and underneath was added this well known verse of Juvenal,
 
-Sio volo, sic jubeo; stat pro ratione voluntas.
+[quote]
+____
+_Sio volo, sic jubeo; stat pro ratione voluntas._
 (in English: Thus I wish, thus I order, my will stands in place of reason.)
+____
 
 This matter was more circumstantially treated of in a book in print,
 by Thomas Rudyard a lawyer, who showed therein at large the right of juries,
@@ -513,7 +536,7 @@ that he stirred up persons to disobedience of the laws,
 and abetted and encouraged such as met in unlawful and seditious conventicles,
 contrary to the late act.
 But his case being brought before the justices of the court of Common Pleas,
-at Westminster, by an habeas corpus (i.e. a writ of unlawful imprisonment), that court,
+at Westminster, by an _habeas corpus_ (i.e. a writ of unlawful imprisonment), that court,
 after solemn debate, gave their judgment, that Thomas Rudyard was unjustly imprisoned,
 and unjustly detained.
 And so he was set at liberty.
@@ -589,8 +612,11 @@ though the witnesses had not seen it, as was requisite by law.
 And this informing came so much in vogue,
 that some magistrates themselves turned informers.
 
-Quid non mortalia pectora cogis Auri sacra fames!^
+[quote]
+____
+__Quid non mortalia pectora cogis Auri sacra fames!__^
 footnote:[What will not the cursed thirst of gold force mankind to perform!]
+____
 
 I might write a large volume of these abominable deeds, if I could find leisure for it;
 yet now and then I will mention a few instances,
@@ -806,6 +832,9 @@ and though by reason of a heavy sickness, of which he began to recover,
 he continued still weak, yet he did not omit preaching;
 and about this time he made the following prayer to the Lord, which he put in writing:
 
+[.embedded-content-document.prayer]
+--
+
 O Lord God Almighty! prosper Truth, and preserve justice and equity in the land,
 and bring down all injustice and iniquity, oppression and falsehood, and cruelty,
 and unmercifulness in the land, that mercy and righteousness may flourish.
@@ -823,9 +852,13 @@ where no unclean thing can enter, neither shall come; but such works lead people
 And the Lord in mercy bring down all these things in the nation to stop thy wrath, O God,
 from coming on the land.
 
+[.signed-section-signature]
 G+++.+++ Fox.
 
+[.signed-section-context-close]
 This Prayer was wrote the 17th day, at Night, of the 2d Month, 1671
+
+--
 
 G+++.+++ Fox thinking his wife now at liberty, understood that her enemies,
 notwithstanding the king`'s order to release her,
@@ -846,7 +879,7 @@ with several of his friends that accompanied him.
 
 Now whilst I leave him on ship-board, I cannot forbear to mention,
 that this year at London came forth a witty pamphlet with this title,
-An easy Way to get Money cum Privilegio, without fear or cumber,
+[.book-title]#An Easy Way to Get Money cum Privilegio, without Fear or Cumber,#
 printed for the society of informers.
 This book contained a satirical rebuke to the informers, and began thus:
 '`To all you that can work, and will not;
@@ -1174,6 +1207,10 @@ Now before I leave Halhead,
 I will insert here a copy of a letter he wrote in the year 1674, to G. Fox,
 who was then prisoner in Worcester jail: the said letter was thus:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 George Fox,
 
 Thou dear and well beloved of the Lord, whom he sent, out of his eternal love to me,
@@ -1201,7 +1238,10 @@ as I dwell and abide faithful to him, who is my light and life, my joy and peace
 God over all, blessed forevermore.
 Amen.
 
-MILES HALHEAD.
+[.signed-section-signature]
+Miles Halhead.
+
+--
 
 In the month called January, 1673-4, G. Fox and Thomas Lower,
 were brought to their trial in the court at Worcester,
@@ -1300,7 +1340,7 @@ and that he would answer him, and bring his whole parish in evidence against him
 And he told him the same afterwards to his face; which so cooled the priest`'s eagerness,
 that he thought it more safe for him to let him alone.
 
-Soon after the sessions were over, an habeas corpus was sent down to Worcester,
+Soon after the sessions were over, an _habeas corpus_ was sent down to Worcester,
 for the sheriff`" to bring up G. Fox to the king`'s bench bar; whereupon his son-in-law,
 Lower, conducted him: for the under sheriff had made Lower his deputy,
 to convey G. Fox to London, who being arrived there,
@@ -1464,6 +1504,9 @@ and delivered to them the following declaration,
 setting forth what he was ready to promise instead
 of the oaths of allegiance and supremacy.
 
+[.embedded-content-document.address]
+--
+
 This I do in the truth, and in the presence of God declare,
 that king Charles the Second is lawful king of this realm,
 and of all others his dominions; and that he was brought in,
@@ -1481,10 +1524,13 @@ knowing them to be works of darkness, and the fruits of an evil spirit,
 and against the peace of the kingdom, and not from the spirit of God,
 the fruit of which is love.
 I dare not take an oath, because it is forbidden by Christ and the apostle;
-but if I break my yea or nay, then let me suffer the same`' penalty,
+but if I break my yea or nay, then let me suffer the same penalty,
 as they that break their oaths.
 
-GEORGE FOX.
+[.signed-section-signature]
+George Fox.
+
+--
 
 This declaration, being the substance of what oaths of allegiance and supremacy contain,
 G+++.+++ Fox presented to the judges of the king`'s bench;
@@ -1531,18 +1577,28 @@ and desired him to give order to the jailer,
 that he might have liberty to go out of the jail into the city.
 Whereupon Parker wrote the following letter to the jailer.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mr. Harris,
 
 I have been much importuned by some friends to George Fox, to write to you.
 I am informed by them, that he is in a very weak condition, and very much indisposed.
 What lawful favor you can do for the benefit of the air, for his health, pray show him.
 I suppose the next term they will make application to the king.
-I am.
+I am,
 
+[.signed-section-closing]
 Sir, your loving friend,
 
-HENRY PARKER.
+[.signed-section-signature]
+Henry Parker
+
+[.signed-section-context-close]
 Evesham, the 8th of October, 1674.
+
+--
 
 This letter was sufficient warrant for the jailer to permit G.
 Fox to be brought from prison to the house of one of his friends.
@@ -1569,9 +1625,9 @@ that was as innocent as a child, had had a pardon granted him.
 G+++.+++ Fox unwilling to have a pardon,
 but desiring to have the validity of his indictment tried before the judges,
 the lord chancellor, who showed himself a discreet man,
-procured that an habeas corpus was granted to bring G. Fox to London,
+procured that an _habeas corpus_ was granted to bring G. Fox to London,
 once more to appear before the king`'s bench.
-The habeas corpus was with the first opportunity sent down by his wife to Worcester;
+The _habeas corpus_ was with the first opportunity sent down by his wife to Worcester;
 but there they would not part with him at first,
 (being now recovered a little of his sickness,) under a pretense that he was premunired,
 and was not to go out in that manner.

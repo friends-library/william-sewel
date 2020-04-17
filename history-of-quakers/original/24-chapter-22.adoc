@@ -2,14 +2,23 @@
 
 === 1689--1694
 
-Revolution in England--Parliament confirms liberty of conscience--Friends`' declaration
-of fidelity--Friends in Barbados relieved--Death of R. Barclay--Epistle of S. Crisp
-to all the churches of Christ--Sickness and death of G. Fox--Character of G. Fox--Epistle
-of G. Fox to all the children of God
-everywhere--Apostacy of G. Keith--G. Keith`'s misrepresentations
-of the principles of Friends--Declaration of the Christian doctrine of the Quakers--Francis
-Bugg--Petition to Parliament for an Affirmation instead of an Oath-- State of the case
-by T. Ecclestone--Death of Queen Mary.
+[.chapter-synopsis]
+* Revolution in England
+* Parliament confirms liberty of conscience
+* Friends`' declaration of fidelity
+* Friends in Barbados relieved
+* Death of R. Barclay
+* Epistle of S. Crisp to all the churches of Christ
+* Sickness and death of G. Fox
+* Character of G. Fox
+* Epistle of G. Fox to all the children of God everywhere
+* Apostacy of G. Keith
+* G. Keith`'s misrepresentations of the principles of Friends
+* Declaration of the Christian doctrine of the Quakers
+* Francis Bugg
+* Petition to Parliament for an Affirmation instead of an Oath
+* State of the case by T. Ecclestone
+* Death of Queen Mary
 
 I proceed now to the year 1689, in the beginning of which the peers of the realm,
 etc. offered the administration of the government to the prince of Orange,
@@ -78,7 +87,10 @@ yet to comply with the people called Quakers,
 who for conscience-sake scrupled to take any oath,
 this act enjoined that they should subscribe the following declaration:
 
-'`I A. B. do sincerely promise and solemnly declare, before God and the world,
+[.embedded-content-document.legal]
+--
+
+I, _A. B._ do sincerely promise and solemnly declare, before God and the world,
 that I will be true and faithful to king William and queen Mary;
 and I do solemnly profess and declare, that I do from my heart abhor,
 detest and renounce, as impious and heretical, that damnable doctrine and position,
@@ -86,15 +98,22 @@ that princes excommunicated or deprived by the pope, or any authority of the see
 may be deposed or murdered by their subjects, or any other whatsoever.
 And I declare that no foreign prince, person, prelate, state, or potentate, hath,
 or ought to have any power, jurisdiction, superiority, preeminence, or authority,
-ecclesiastical or spiritual, within this realm.`'
+ecclesiastical or spiritual, within this realm.
+
+--
 
 Besides this they were obliged to subscribe also another,
 with respect to their orthodoxy, and for excluding Socinianism.
 
-'`I A. B. profess faith in God the Father, and in Jesus Christ his eternal Son,
+[.embedded-content-document.legal]
+--
+
+I, _A. B._ profess faith in God the Father, and in Jesus Christ his eternal Son,
 the true God, and in the holy Spirit, one God, blessed forevermore:
 and do acknowledge the holy Scriptures of the Old and New
-Testament to be given by divine inspiration.`'
+Testament to be given by divine inspiration.
+
+--
 
 And lest any Papist might make use of this declaration,
 there were required sufficient Protestant witnesses
@@ -139,10 +158,14 @@ They now that were thus oppressed, sent over a petition to the king,
 wherein they set forth how they were molested, and prayed for relief;
 which had such effect, that the king issued forth the following order:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 At the Council at Whitehall, Dec.
 12, 1689.
 
-=== Present the king`'s most excellent majesty in council.
+Present the king`'s most excellent majesty in council.
 
 Upon reading a petition of the people called Quakers, inhabiting the island of Barbados,
 setting forth, that because the said Quakers could not bear arms,
@@ -157,7 +180,10 @@ who is to give the petitioners such relief in relation to the militia,
 as to him shall seem just and reasonable to answer their particular circumstances,
 and to make report thereof to his majesty.
 
-RICHARD COLLINGE
+[.signed-section-signature]
+Richard Collinge.
+
+--
 
 This year deceased Alexander Parker, sometimes mentioned in this history,
 being a man not only of a godly life and conversation,
@@ -186,7 +212,10 @@ in which he exhorted them more particularly to charity;
 and since therein several remarkable duties are held forth and recommended,
 I cannot well omit to insert a copy of it here, which is as followeth:
 
-'`Dearly beloved friends and brethren,
+[.embedded-content-document.epistle]
+--
+
+Dearly beloved friends and brethren,
 gathered out of the world by the eternal arm and power of the mighty God,
 to bear his holy name in your generation;
 my love and life in the fellowship of the universal spirit salutes you all,
@@ -389,7 +418,7 @@ over that nature and ground in themselves that would be apt to take an offense,
 or construe any word or action to a worse sense than the simplicity thereof,
 or the intention of the other concerned will allow of.
 
-'`And whereas it may often fall out, that among a great many,
+And whereas it may often fall out, that among a great many,
 some may have a different apprehension of a matter from the rest of their brethren,
 especially in outward or temporal things;
 there ought to be a Christian liberty maintained
@@ -407,7 +436,7 @@ and to be offended and angry if it be not received;
 this is the seed of sedition and strife that hath grown up in too many,
 to their own hurt.
 
-'`And, therefore, my dear friends, beware of it,
+And, therefore, my dear friends, beware of it,
 and seek not to drive a matter on in fierceness or in anger,
 nor to take offense into your minds at any time, because what seems to be clear to you,
 is not presently received;
@@ -444,7 +473,7 @@ which are brought forth in their due seasons, for edification and building up th
 and for repairing the decayed places, and also for defence of them that are feeble,
 that hurtful things may not come near them.
 
-'`Oh friends! great is the work the Lord hath called you to, and is fitting you for,
+Oh friends! great is the work the Lord hath called you to, and is fitting you for,
 who innocently wait upon him; and the Lord hath opened my heart unto you,
 and laid it upon me to exhort and beseech you to
 have a care that ye quit yourselves as ye ought,
@@ -460,7 +489,7 @@ to see that every one hath right done him; and the other,
 to take care there be nothing lacking to the comfort of the poor,
 that are made partakers of the same faith with you.
 
-'`And when ye meet about these things, keep the Lord in your eye,
+And when ye meet about these things, keep the Lord in your eye,
 and wait to feel his power to guide and direct you,
 to speak and behave yourselves in the church of God, as becomes the peaceable gospel:
 and beware of all brittleness of spirit, and sharp reflections upon each other`'s words;
@@ -497,7 +526,7 @@ of us like to discharge ourselves well towards others,
 but by taking heed to ourselves, to be kept in that sober innocent frame of spirit,
 which the truth calls for.
 
-'`In the next place, my dear friends, when ye are called upon in point of justice,
+In the next place, my dear friends, when ye are called upon in point of justice,
 to give a sentence of right between friend and friend,
 take heed that neither party get possession of your spirit afore hand,
 by any way or means whatsoever,
@@ -519,7 +548,7 @@ and their abounding in their own sense may hurt themselves, yet you will be pres
 and enjoy your peace and satisfaction in the discharge
 of your consciences in the sight of God.
 
-'`And as concerning practical charity, ye know it is supported by liberality,
+And as concerning practical charity, ye know it is supported by liberality,
 and where liberality ceases, charity waxes cold, yea, so far ceases;
 where there is no contribution, there is no distribution; where the one is sparing,
 the other is sparing; and therefore let every one nourish charity in the root, that is,
@@ -537,7 +566,7 @@ as to neglect the service God had given them the things of this life for:
 either to give them up when called for in a testimony of his worthy name,
 or to communicate of them to those that were in necessity.
 
-'`Now as concerning the necessities of the poof,
+Now as concerning the necessities of the poof,
 there is great need of wisdom when ye meet together about that affair:
 for as I said before,
 though the worthiness or unworthiness of persons is not to be considered in judgment,
@@ -551,7 +580,7 @@ and then to deal out that love in the outward manifestations thereof,
 according to the measure, that the Lord in his wisdom working in you,
 shall measure forth to them.
 
-'`And as to those who by sickness, lameness, age, or other impotency,
+And as to those who by sickness, lameness, age, or other impotency,
 are brought into poverty by the hand of Providence;
 these are your peculiar care and objects pointed out to you, to bestow your charity upon,
 for by them the Lord calls for it; for as the earth is the Lord`'s, and the fulness of it,
@@ -583,7 +612,7 @@ they are of your household, and under your care, both to visit and to relieve,
 as members of one body, of which Christ Jesus is head; and he that giveth to such poor,
 lends to the Lord, and he will repay it.
 
-'`But there is another sort of poor,
+But there is another sort of poor,
 who make themselves poor through their sloth and carelessness,
 and sometimes by their willfulness, being heady and high-minded,
 and taking things in hand that are more than they can manage,
@@ -598,7 +627,7 @@ while they neglect their own, and run into a worse way than the unbelievers,
 while they profess to be believers,
 yet do not take a due care for those of their own household.
 
-'`The charity that is proper to such, is to give them admonition and reproof,
+The charity that is proper to such, is to give them admonition and reproof,
 and to convince them of their sloth and negligence; and if they submit to your reproof,
 and are willing to amend,
 then care ought to be taken to help them into a way and means to support themselves;
@@ -613,7 +642,7 @@ and hearing truth preached, but in answering the blessed principle of truth,
 in life and conversation,
 and therein both the rich and the poor have fellowship one with another.
 
-'`There are another sort that are made poor by the oppressions and cruelties of others.
+There are another sort that are made poor by the oppressions and cruelties of others.
 These oppressed poor cry loud in the ears of the Almighty,
 and he will in his own time avenge their cause;
 but in the meantime there is a tenderness to be extended to them,
@@ -624,7 +653,7 @@ and help the distressed; and this is an acceptable work of charity,
 and a great comfort to such in their sharp afflictions,
 and their souls will bless the instruments of their ease and comfort.
 
-'`And my dear friends, as God hath honored you with so high and holy a calling,
+And my dear friends, as God hath honored you with so high and holy a calling,
 to be his servants and workmen in this his great and notable day,
 and to work together in his power, in setting forth his praise and glory in the earth,
 and gathering together in one the scattered seed in this and other nations; oh,
@@ -640,7 +669,7 @@ leave your business for the Lord`'s work,
 and he will take care your business shall not suffer, but will add a blessing upon it,
 which will do more for you than the time can do that might be saved out of his service.
 
-'`And when you have to do with perverse, and froward, or disorderly persons,
+And when you have to do with perverse, and froward, or disorderly persons,
 whom ye have occasion to reprove, and to rebuke for the truth`'s sake,
 and you find them stout and high, and reflecting upon you;
 then is a time for the Lamb`'s meekness to shine forth,
@@ -673,7 +702,7 @@ growth and progress of his blessed truth;
 for of the increase of the government, and of the peace of the kingdom of Christ,
 there shall be no end.
 
-'`And now, friends, I have cleared my conscience of what lay upon me for some time,
+And now, friends, I have cleared my conscience of what lay upon me for some time,
 to write by way of remembrance, and as the exhortation of my life unto you,
 I remain travailing in spirit for the welfare of Zion:
 and although the outward man decays, yet in the inward man I am comforted,
@@ -694,9 +723,13 @@ Amen,
 From your friend and brother,
 in the communion and fellowship of the gospel of peace and purity,
 
-STEPHEN CRISP.
+[.signed-section-signature]
+Stephen Crisp.
 
+[.signed-section-context-close]
 London, the 15th of the 7th month, 1690.
+
+--
 
 Passing now by other matters of the year, we step to the next, being that of 1691,
 about the beginning of which G. Fox departed this life,
@@ -755,7 +788,10 @@ though powerful, appeared a decent gravity, mixed with an awful reverence, to ad
 His qualities are at large set forth by Thomas Ellwood, an eminent author,
 who having much conversed with him, gave the following character of him.
 
-'`He was indeed a heavenly-minded man, zealous for the name of the Lord,
+[.embedded-content-document.testimony]
+--
+
+He was indeed a heavenly-minded man, zealous for the name of the Lord,
 and preferred the honor of God before all things.
 He was valiant for the truth, bold in asserting it, patient in suffering for it,
 unwearied in laboring in it, steady in his testimony to it, immoveable as a rock.
@@ -778,6 +814,8 @@ full of brotherly love, full of fatherly care;
 for indeed the care of the churches of Christ was daily upon him,
 the prosperity and peace whereof he studiously sought.
 
+--
+
 Yet more is said of him to his praise, both by the said Thomas Ellwood and others,
 but I will not detain my reader any longer therewith.
 His wife, about six months before his death, came to him at London,
@@ -789,6 +827,9 @@ and left sealed up with this superscription, '`Not to be opened before the time.
 What this signified, seemed to be a riddle, but he being now deceased,
 it was judged to be the time to open this letter, which was directed to his friends,
 and was as follows:
+
+[.embedded-content-document.epistle]
+--
 
 For the yearly and second-day`'s-meeting in London and to
 all the children of God in all places in the world.
@@ -874,17 +915,23 @@ Christ saith, in me you have peace.
 And he is from above, and not of this world; but in the world below, in the spirit of it,
 there is trouble: therefore keep in Christ, and walk in him, Amen.
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
 P+++.+++ S. Jerusalem was the mother of all true Christians before the apostacy; and since,
 the outward Christians are broken into many sects, and they have gotten many mothers;
 but all they that are come out of the apostacy by the power and spirit of Christ,
 Jerusalem that is above, is their mother, and none below her;
 who doth nourish all her spiritual children.
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Read at the Yearly Meeting in London, 1691.
+
+--
 
 This year I find that William Goodridge, of Banwell, in Somersetshire,
 was released from prison, where he had been confined about thirteen years.
@@ -1034,7 +1081,11 @@ and agreeable with the Holy Scriptures.
 This they did by the following representation, which in the year 1693,
 came forth in print at London, as follows, with this title.
 
-=== The Christian Doctrine, and Society of the People called Quakers, cleared, etc.
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
+The Christian Doctrine, and Society of the People called Quakers, cleared, etc.
 
 Whereas, divers accounts have been lately published in print,
 of some late division and disputes between some persons
@@ -1397,6 +1448,7 @@ we have great reason to credit, and not to question,
 and have been always ready to embrace,
 with respect to Christ and his apostles own testimony and prophecies.
 
+[.numbered]
 1+++.+++ For the doctrine of the resurrection;
 
 If in this life only we have hope in Christ, we are of all men the most miserable, 1 Cor. 15:19.
@@ -1432,6 +1484,7 @@ Howbeit, we esteem it very unnecessary to dispute or question how the dead are r
 or with what body they come:
 but rather submit that to the wisdom and pleasure of the Almighty God.
 
+[.numbered]
 2+++.+++ For the doctrine of eternal judgment;
 
 God hath committed all judgment unto his Son Jesus Christ;
@@ -1482,8 +1535,9 @@ presumptuous and rebellious criminals, as bound under chains of darkness,
 as were the fallen angels, unto the judgment of the great day,
 Jude 6. Matt. 25:30. It is not for us to determine
 or dispute the manner how they shall be so reserved;
-but leave it to God; he knows how.`'
+but leave it to God; he knows how.
 
+[.centered]
 === A Postscript relating to the doctrine of the Resurrection and eternal Judgment.
 
 At the last trump of God, and the voice of the archangel,
@@ -1510,9 +1564,14 @@ and shut up the records or books thereof in their own consciences,
 they shall be at last opened, and every one judged of these things recorded therein,
 according to their works, Rev. 20:12-15.
 
-Signed in behalf of our Christian profession and people aforesaid, George Whitehead,
+Signed in behalf of our Christian profession and people aforesaid,
+
+[.signed-section-signature]
+George Whitehead,
 Charles Marshall, Ambrose Rigge, John Bowater, William Fallowfield, John Vaughton,
 James Parke, William Bingley.
+
+--
 
 This paper generally gave satisfaction, and was well received also in Holland,
 where having translated it into Dutch, I got it published in print.
@@ -1522,26 +1581,35 @@ endeavored also to render them odious with the government,
 the following confession of faith, signed by one and thirty persons,
 of which G. Whitehead was one, was in December presented to the parliament:
 
-=== Be it known to all that we sincerely believe and confess:
+[.embedded-content-document.address]
+--
 
+Be it known to all that we sincerely believe and confess:
+
+[.numbered]
 I+++.+++ That Jesus of Nazareth, who was born of the Virgin Mary, is the true Messiah,
 the very Christ, the Son of the living God, to whom all the prophets gave witness:
 and that we do highly value his death, sufferings, works, offices,
 and merits for the redemption of mankind, together with his laws, doctrine,
 and ministry.
 
+[.numbered]
 II. That this very Christ of God,
 who is the Lamb of God that takes away the sins of the world, was slain, was dead,
 and is alive, and lives forever in his divine, eternal glory, dominion,
 and power with the Father.
 
+[.numbered]
 III.
 That the holy Scriptures of the Old and New Testament, are of divine authority,
 as being given by the inspiration of God.
 
+[.numbered]
 IV. And that magistracy or civil government, is God`'s ordinance,
 the good ends thereof being for the punishment of evil-doers,
 and praise of them that do well.
+
+--
 
 By this and the like writings,
 the eyes of many that were at the helm began to be more opened;
@@ -1563,6 +1631,9 @@ for want of their solemn declaration being taken instead of an oath;
 and that not in their own cases only, but in evidence wherein others were concerned.
 This petition concluded thus:
 
+[.embedded-content-document.legal]
+--
+
 We therefore earnestly and humbly request,
 that you will favorably please to give leave to bring in a bill to admit,
 that our solemn answer, affirmation or denial, may be accepted instead of an oath,
@@ -1573,21 +1644,34 @@ that every such person shall undergo the like pains and penalties,
 as are provided against perjured persons.
 And your petitioners shall, as in duty bound, pray, etc.
 
+[.signed-section-signature]
 William Mead, William Bingley, George Whitehead, Samuel Waldenfield, William Crouch,
 John Staploe, Walter Rental, William Macker, Thomas Hart, Joseph Wright, jr.
 Michael Russet, Theodore Ecclestone.
 
+--
+
 The petition being read in the House of Commons, they came to the following resolution:
+
+[.embedded-content-document.legal]
+--
 
 A petition of the people called Quakers was read.
 Resolved, that the consideration thereof be referred to a committee;
-and that they report their opinions therein to the house.`'
+and that they report their opinions therein to the house.
+
+--
 
 A committee being ordered accordingly, sat thereupon,
 and gave their judgment as followeth:
 
-'`Upon the whole it is the opinion of this committee,
-that the Quakers ought to be relieved according to the prayer of their petition.`'
+[.embedded-content-document.legal]
+--
+
+Upon the whole it is the opinion of this committee,
+that the Quakers ought to be relieved according to the prayer of their petition.
+
+--
 
 But nothing was obtained that session;
 for their enemies were yet so powerful in parliament,
@@ -1600,7 +1684,11 @@ a representation of their case of not swearing,
 being signed in their behalf by Theodore Ecclestone,
 was delivered to the members of parliament, and was as followeth:
 
-=== A brief representation of the Quakers`' case of not swearing; and why they might have been, and yet may be relieved therein by Parliament.
+[.embedded-content-document.legal]
+--
+
+A brief representation of the Quakers`' case of not swearing;
+and why they might have been, and yet may be relieved therein by Parliament.
 
 It is a certain truth, that among Christians, and Protestants especially,
 there are divers particular things about religion,
@@ -1685,14 +1773,18 @@ Seeing their relief is to them so needful, so harmless to all,
 and so useful to the government and their neighbors;
 let us a little consider the common objections; which may be summed up in short thus:
 
-First objection, How shall we then be at a certainty?
+[.numbered]
+_First objection,_ How shall we then be at a certainty?
 
-Secondly, Why should the laws be altered for them?
+[.numbered]
+_Secondly,_ Why should the laws be altered for them?
 For,
 
-Thirdly, It would be to rase old foundations
+[.numbered]
+_Thirdly,_ It would be to rase old foundations
 
-Fourthly, And let them into the government.
+[.numbered]
+_Fourthly,_ And let them into the government.
 
 Which it is hoped will not be difficult to answer one by one,
 and that to reasonable satisfaction.
@@ -1814,11 +1906,16 @@ for which ease they are sincerely thankful; so be pleased to add to that kindnes
 their relief in the matter of oaths, between them and other subjects,
 as well as between the government and them.
 
+[.signed-section-closing]
 Signed in behalf of the said people,
 
-THEODORE ECCLESTONE.
+[.signed-section-signature]
+Theodore Ecclestone.
 
+[.signed-section-context-close]
 London, Dec. 22, 1694.
+
+--
 
 Though after the delivering of the said representation,
 the parliament this year came not to a full resolution for their relief,
