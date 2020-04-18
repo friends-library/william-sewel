@@ -458,7 +458,7 @@ A good while after this, the magistrates gave out the following warrant:
 [.signed-section-context-open]
 City of Bristol.
 
-[.letter-heading]
+[.salutation]
 To all the constables within this city, and to every one of them.
 
 Forasmuch as information has been given us, that John Camm, and John Audland,
@@ -490,7 +490,7 @@ the magistrates caused another to be formed in these words:
 [.signed-section-context-open]
 City of Bristol.
 
-[.letter-heading]
+[.salutation]
 To the constables of the peace of the ward of +++________+++ and to every of them.
 
 Forasmuch as information has been given us upon oath,
@@ -519,6 +519,8 @@ Signed,
 John Gunning, Mayor.
 William Cann, Gabriel Sherman, Joseph Jackson, Henry Gibbs, John Lock, George Hellier,
 Richard Vickirs, Gabriel Sherman.
+
+--
 
 Hereunto these magistrates affixed their seals;
 and that alderman Sherman might be sure his name was down, he wrote it twice.
