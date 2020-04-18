@@ -59,7 +59,7 @@ which are inserted in this history: it may be hardly to be found elsewhere.
 At the first sight perhaps some will be ready to
 think that I might have superseded this labor,
 since the learned world has long ago seen a book written by Gerard Croese,
-with the title of _Historia Quakeriana._
+with the title of [.book-title]#Historia Quakeriana#.
 But be it known to the reader,
 that though the author got the chief contents thereof from me,
 yet that relation which he gives of the rise and progress of the Quakers,
@@ -166,7 +166,7 @@ and that death or any corporeal punishment was annexed to it.
 It is true, there have been such among the Quakers,
 who were exceedingly bold in representing to their enemies their evil behavior and deportment;
 but this has been a peculiar talent of pious men,
-of whom examples are extant in the _Book Of Martyrs,_ i. e.
+of whom examples are extant in the [.book-title]#Book Of Martyrs#, i. e.
 that some of them in very plain terms told their persecutors of their wickedness.
 Very remarkable in that respect is the speech of John Molleus, who about the year 1653,
 being prisoner at Rome,
@@ -314,10 +314,10 @@ yet gave a good account and favorable testimony concerning them,
 as may be seen in Richard Claridge`'s answer to a book of Edward Cockson, page 266,
 and seq.
 And at Amsterdam in Holland, many years ago, a learned man published a book called,
-_Lucerna Super Candelabrum,_
+_Lucerna super Candelabrum,_
 wherein he very eminently defended the doctrine of the inward light;
 and this book was published in Dutch, and afterwards also into English,
-with the title of _The Light Upon the Candlestick:_ and since the name of William Ames,
+with the title of _The Light upon the Candlestick:_ and since the name of William Ames,
 a zealous preacher among the Quakers, was placed upon the title,
 many have believed him to be the author of that book,
 because his doctrine of the divine and inward light was so effectually asserted therein.

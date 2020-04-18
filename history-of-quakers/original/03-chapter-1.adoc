@@ -2308,7 +2308,7 @@ also felt herself moved publicly to preach the way of salvation to others,
 being the first woman preacher, by what I am informed,
 among those that began now generally to be called by the name of Quakers.
 Yet I have found in a Dutch book, printed at Dordt, in the year 1647, and called,
-_History of the Troubles in England,_ concerning the various Sects risen there,
+[.book-title]#History of the Troubles in England#, concerning the various Sects risen there,
 that among other persuasions at London,
 there were also women that did preach in large meetings,
 and were heard by many with great satisfaction;
