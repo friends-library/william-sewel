@@ -2,15 +2,29 @@
 
 === 1654
 
-A general Convincement --Increase of Ministers -- First Quakers in London--F. Howgill
-and the Protector--First meeting settled in London--Persecution of Quakers in Bristol
---The Protector and Liberty of conscience--Cruelties practised at Bristol--R. Hubber
-thorn convinced--G. Whitehead convinced--Barbarous usage of Elizabeth Heavens and Elizabeth
-Fletcher at Oxford--Remarkable account of Barbara Blaugdone--M. Halhead and J. Lancaster
-in Ireland and Scotland --G. Fox in Yorkshire and Lincolnshire -- G. Fox disputes with
-Priest Stevens --G. Fox sent prisoner to London --His intercourse with the Protector
--- Public transactions --J. Crook convinced --Account of W. Caton -- Luke Howard convinced--Account
-of S. Fisher.
+[.chapter-synopsis]
+* A general Convincement
+* Increase of Ministers
+* First Quakers in London
+* F. Howgill and the Protector
+* First meeting settled in London
+* Persecution of Quakers in Bristol
+* The Protector and Liberty of conscience
+* Cruelties practised at Bristol
+* R. Hubberthorn convinced
+* G. Whitehead convinced
+* Barbarous usage of Elizabeth Heavens and Elizabeth Fletcher at Oxford
+* Remarkable account of Barbara Blaugdone
+* M. Halhead and J. Lancaster in Ireland and Scotland
+* G. Fox in Yorkshire and Lincolnshire
+* G. Fox disputes with Priest Stevens
+* G. Fox sent prisoner to London
+* His conversation with the Protector
+* Public transactions
+* J. Crook convinced
+* Account of W. Caton
+* Luke Howard convinced
+* Account of S. Fisher
 
 Oliver Cromwell in the beginning of the year 1654,
 seeing himself invested with the supreme authority of the nation, required,
@@ -71,7 +85,7 @@ had said, that somewhat before that time,
 there had been in the said house meetings of some few persons, of whom she was one;
 and also Anne Downer, afterwards married to George Whitehead; that one Isabella Buttery,
 with another woman, having spread in London some books, and among these one of G. Fox`'s,
-called, '`The way to the Kingdom,`' had met with this small company,
+called, [.book-title]#The Way to the Kingdom#, had met with this small company,
 of which were but two or three men, one of which was Amos Stoddard,
 formerly a military officer, mentioned already;
 and that the said Isabella sometimes spoke a few words in this small meeting.
@@ -146,6 +160,10 @@ And after having spoke to him,
 he thought it convenient to express himself further in writing;
 as he did in the following letter:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 I was moved of the Lord to come to thee, to declare the word of the Lord,
@@ -202,7 +220,10 @@ and thou shalt know that I am the Lord.
 Moved of the Lord to declare and write this, by a servant of the Truth for Jesus`'s sake,
 and a lover of thy soul, called,
 
+[.signed-section-signature]
 Francis Howgill
+
+--
 
 The last of the First Month, about the ninth hour, waiting in James`' Park, at London.
 
@@ -352,6 +373,8 @@ yet this was not at all agreeable with the Protector`'s
 speech he made on the 12th of the month called September,
 to the parliament, in the painted chamber, where he spoke these words:
 
+[quote]
+____
 Is not liberty of conscience in religion a fundamental?
 so long as there is liberty for the supreme magistrate,
 to exercise his conscience in erecting what form of church
@@ -373,6 +396,7 @@ if it had made such steps,
 or been as sharp and rigid as it threatened when it was first set up.
 This I say is a fundamental: it ought to be so.
 It is for us and the generations to come.
+____
 
 Cromwell spoke more in confirmation hereof; and indeed he would have been a brave man,
 if really he had performed what he asserted with binding arguments.
@@ -427,8 +451,13 @@ and the Lord never sent them.`'
 
 A good while after this, the magistrates gave out the following warrant:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 City of Bristol.
 
+[.salutation]
 To all the constables within this city, and to every one of them.
 
 Forasmuch as information hath been given us, that John Camm, and John Audland,
@@ -437,11 +466,16 @@ come into this city again, to the disturbance of the public peace:
 these are therefore to will and require you forthwith to apprehend them,
 and bring them before us to be examined, according to law.
 Given this 22d of January, 1654.
+
+[.signed-section-closing]
 Signed,
 
+[.signed-section-signature]
 William Cann, Richard Vickirs, Dept.
 Mayor.
 Joseph Jackson, Henry Gibbs, Gabriel Sherman, John Lock.
+
+--
 
 Camm and Audland had departed the town before this time, having never been commanded,
 (as the warrant saith,) to depart the city, either by the magistrates themselves,
@@ -450,8 +484,13 @@ though F. Howgill and E. Burrough had been required to do so.
 So this warrant proving ineffectual,
 the magistrates caused another to be formed in these words:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 City of Bristol.
 
+[.salutation]
 To the constables of the peace of the ward of +++________+++ and to every of them.
 
 Forasmuch as information hath been given us upon oath,
@@ -471,12 +510,17 @@ your ward for the aforesaid strangers,
 or any of them, and all other suspected persons,
 and to apprehend and bring them before us, or some of us,
 to be examined and dealt with according to law: hereof fail you not.
-Given the 25th of Jan. 1654. Signed,
+Given the 25th of Jan. 1654.
 
+[.signed-section-closing]
+Signed,
+
+[.signed-section-signature]
 John Gunning, Mayor.
 William Cann, Gabriel Sherman, Joseph Jackson, Henry Gibbs, John Lock, George Hellier,
-Richard Vickirs.
-Gabriel Sherman,
+Richard Vickirs, Gabriel Sherman.
+
+--
 
 Hereunto these magistrates affixed their seals;
 and that alderman Sherman might be sure his name was down, he wrote it twice.
@@ -1454,7 +1498,7 @@ he openly defended the doctrine of the reviled Quakers.
 This so vexed Hammond, that falling into a greater rage, he said,
 '`Our brother Fisher is also bewitched.`'
 But Fisher rendered not reviling for reviling, but continued with patience in the faith.
-This was he who afterwards writ a book, called Rusticus ad Academicos,
+This was he who afterwards writ a book, called [.book-title]#Rusticus ad Academicos#,_
 wherein he often encountered the priests with their own weapons;
 for he was very dexterous at that, and so well versed in the ancient poets,
 that he now and then with their words, gave home blows to his adversaries,
