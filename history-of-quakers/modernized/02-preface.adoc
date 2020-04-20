@@ -342,10 +342,10 @@ for that it was originally written in Latin seems to me very probable.
 But however this be, it appears plainly, that the author would not publicly be known;
 for the title seemed designedly composed so that the readers
 should believe W. Ames to be the author of it,
-namely:_ The Light on the Candlestick,_
+namely: [.book-title]#The Light on the Candlestick,
 serving for illustration of the principal matters in the book called,
-_The Mysteries of the Kingdom of God, Etc._ against Galenus Abrahamson and his Assenters,
-treated of, and written by W. Ames.
+The Mysteries of the Kingdom of God, Etc. against Galenus Abrahamson and his Assenters,
+treated of, and written by W. Ames.#
 And this name stood in capital letters underneath,
 in such a manner as the name of an author is usually placed upon a title;
 though the publisher meant no more but that W. Ames was the author of the book called,
