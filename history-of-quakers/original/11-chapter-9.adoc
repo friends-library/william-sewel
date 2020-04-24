@@ -1765,6 +1765,7 @@ Given forth by me, who am known to men by the name of
 [.signed-section-signature]
 Marmaduke Stevenson.
 
+[.signed-section-context-close]
 But having a new name given me, which the world knows not of, written in the Book of Life.
 
 [.signed-section-context-close]

@@ -418,11 +418,8 @@ and in England it being resolved upon to call him back, and to restore him,
 he gave forth the following declaration at Breda;
 thereby to persuade those that were yet backward to acknowledge him.
 
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
-
-[.salutation]
-Charles, R.
 
 Charles, by the grace of God, king of England, Scotland, France, and Ireland,
 defender of the faith, etc.
@@ -498,6 +495,9 @@ and for the full satisfaction of all arrears due to the officers,
 and soldiers of the army, tinder the command of general Monk;
 and that they shall be received into our service,
 upon as good pay and conditions as they now enjoy.
+
+[.signed-section-signature]
+Charles R.
 
 [.signed-section-context-close]
 Given under our sign manual and privy signet at our court at Breda,
@@ -1222,6 +1222,7 @@ Dated at Whitehall, the 24th of October, 1660.
 [.signed-section-signature]
 Edward Nicholas.
 
+[.signed-section-context-close]
 For Sir Thomas Mallet, knight, one of the justices of the King`'s Bench.
 
 --
@@ -1246,6 +1247,7 @@ Given under my hand the 25th day of October, in the year of our Lord God, 1600.
 [.signed-section-signature]
 Thomas Mallet.
 
+[.signed-section-context-close]
 To Sir John Lenthal, knight, marshal of the King`'s Bench, or his deputy.
 
 --

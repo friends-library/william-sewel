@@ -1763,6 +1763,7 @@ Given forth by me, who am known to men by the name of
 [.signed-section-signature]
 Marmaduke Stevenson.
 
+[.signed-section-context-close]
 But having a new name given me, which the world knows not of, written in the Book of Life.
 
 [.signed-section-context-close]
@@ -1867,7 +1868,7 @@ Even so be it, says
 Mary Dyer.
 
 [.signed-section-context-close]
-A copy of this was given to the genera]
+A copy of this was given to the general
 court after Mary Dyer had received sentence of death, about the 8th or 9th month, 1659.
 
 --

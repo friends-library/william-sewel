@@ -418,11 +418,8 @@ and in England it being resolved upon to call him back, and to restore him,
 he gave forth the following declaration at Breda;
 thereby to persuade those that were yet backward to acknowledge him.
 
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
-
-[.salutation]
-Charles, R.
 
 Charles, by the grace of God, king of England, Scotland, France, and Ireland,
 defender of the faith, etc.
@@ -498,6 +495,9 @@ and for the full satisfaction of all arrears due to the officers,
 and soldiers of the army, tinder the command of general Monk;
 and that they shall be received into our service,
 upon as good pay and conditions as they now enjoy.
+
+[.signed-section-signature]
+Charles, R.
 
 [.signed-section-context-close]
 Given under our sign manual and privy signet at our court at Breda,
@@ -611,6 +611,8 @@ for their care in this business.
 [.signed-section-signature]
 William Jessop, Clerk of the Common House of Parliament.
 
+--
+
 By this it appeared that the magistrates of Harwich had special friends in the parliament.
 R+++.+++ Grassingham being at liberty, was gone to London; and when this order came to Harwich,
 G+++.+++ Fox was delivered to the sheriff of Essex and his men: these went with him to London,
@@ -654,6 +656,8 @@ We are friends to righteousness and truth, and to all that are found therein.
 
 [.signed-section-signature]
 Robert Grassingham, George Fox.
+
+--
 
 But the speaker did not deliver the paper,
 under pretense that it was not directed with the ordinary title,
