@@ -1,14 +1,23 @@
 == Chapter XII.
 
-=== 1662--1664
+=== 1662--1664.
 
-Daniel Baker at Malta and Gibraltar--Persecutions in Leicester-Friends outlawed
-for re fusing to swear--Sufferings of A. Rigge and T. Luxford--Act to prevent
-dangers by Quakers--E. Burrough`'s Apology for the Quakers--Continuation of persecution
-in New England--Josiah Southwick--Three women sentenced to be whipped through
-eleven towns -- Ann Coleman --Cruel usage of Elizabeth Hooton and Joan Broksup-Cruelties
-exercised upon Edward Wharton--Impious expressions of New England persecutors--Deaths
-of New England persecutors--Effect of shedding innocent blood at Boston.
+[.chapter-synopsis]
+* Daniel Baker at Malta and Gibraltar
+* Persecutions in Leicester
+* Friends outlawed for refusing to swear
+* Sufferings of A. Rigg and T. Luxford
+* Act to prevent dangers by Quakers
+* E. Burrough`'s Apology for the Quakers
+* Continuation of persecution in New England
+* Josiah Southwick
+* Three women sentenced to be whipped through eleven towns
+* Ann Coleman
+* Cruel usage of Elizabeth Hooton and Joan Broksup
+* Cruelties exercised upon Edward Wharton
+* Impious expressions of New England persecutors
+* Deaths of New England persecutors
+* Effect of shedding innocent blood at Boston
 
 Before I return to transactions in England,
 I shall relate a singular case of Daniel Baker, who being come to Smyrna,
@@ -85,6 +94,9 @@ Being no shore, he delivered a paper, written in the Spanish tongue,
 to the governor and inhabitants of Gibraltar, with some Latin books.
 That to the governor, etc. was as followeth:
 
+[.embedded-content-document.paper]
+--
+
 Behold, behold, the great day of God is come, and of his wrath,
 and of the wrath of his Lamb.
 The hour of his judgment is come.
@@ -98,6 +110,8 @@ and that ye receive not of her plagues.`" These are the words of the power of Ch
 that is contrary to the false church.
 Behold, behold, plagues, plagues, plagues are coming upon the church of Rome,
 and upon her heads in all parts of the world.
+
+--
 
 Daniel being now come again on ship-board, the next day the Lord gave them a rear wind,
 and all the fleet set sail; and after some time he arrived safe in England.
@@ -365,9 +379,9 @@ being also become one of the society of those called Quakers,
 and refusing to pay him tithes, felt likewise the effects of his fury;
 for he caused him also to be cast into jail, where he kept him six years:
 and the prisoners being then released by the sheriff, he was excommunicated by Letchford,
-and afterwards at his suit, by virtue of the statute De Excommunicato capiendo,
+and afterwards at his suit, by virtue of the statute _De excommunicato capiendo,_
 shut up again in prison, from which he was set at liberty by an act of parliament.
-(De excommunicato capiendo was an ancient writ ordering the imprisonment
+(_De excommunicato capiendo_ was an ancient writ ordering the imprisonment
 of an excommunicated person until he or she submitted to the church)
 
 Not long after, Letchford got a warrant to sue also some others of the Quakers,
@@ -406,9 +420,13 @@ and to the terror of the king`'s subjects,
 and an act was made against those who refused to take an oath,
 as appeared by the title of it, viz:
 
-An act for preventing mischiefs and dangers that
-may arise by certain persons called Quakers,
-and others refusing to take lawful oaths.
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
+An Act for Preventing Mischiefs and Dangers That
+May Arise by Certain Persons Called Quakers,
+and Others Refusing to Take Lawful Oaths.
 
 Whereas of late times, certain persons under the name of Quakers,
 and other names of separation, have taken up,
@@ -514,9 +532,11 @@ that all and singular lords of the parliament,
 for every third offense committed against the tenor of this act,
 shall be tried by their peers, and not otherwise.
 
+--
+
 This act caused E. Burrough to write a small book, called,
-The Case of the People called Quakers, stated,
-to show the falsehood of the accusations charged upon them.
+[.book-title]#The Case of the People Called Quakers, Stated,
+to Show the Falsehood of the Accusations Charged Upon Them.#
 First he showed in this treatise,
 that suppose the Quakers were heretics and erroneous people, which was never yet proved;
 yet we found no examples in.
@@ -524,6 +544,9 @@ Scripture that such should be imprisoned, or afflicted with corporal punishments
 Having treated of this matter at large,
 he laid down the state of their way of meeting and worship,
 appealing to others on this account, with these words:
+
+[.embedded-content-document.treatise]
+--
 
 What judgment do our neighbors give in this case?
 They say, concerning our meetings,
@@ -551,6 +574,9 @@ nor the peace of the land disturbed, (on our part,) by our meetings,
 which are in God`'s fear, and to the glory of his name,
 which all sober men know are according to the law of God, and gospel,
 and primitive Christian example.
+
+[.small-break]
+'''
 
 We are accused as heinous offenders, and imprisoned,
 because it is supposed we do not submit to obey the known laws of the land,
@@ -625,6 +651,9 @@ and this is our case at this day: we cannot obey,
 and disobey their commandments, rather than break the law of God,
 and sin against our own consciences, whatsoever we suffer because hereof;
 and the examples of saints and Scriptures justify us in this behalf.
+
+[.small-break]
+'''
 
 And let our enemies cease to cry out,
 '`Rebellious and disobedient to laws and government;`' for we are
@@ -792,6 +821,8 @@ we must say it is not only because there is a law against us, but it is also, or
 because there is enmity, and wrath, and wickedness in the hearts of men against us,
 which is the main cause of our sufferings at this day.
 
+--
+
 Thus was E. Burrough always laborious,
 and like a faithful and diligent minister of Christ,
 he was so totally devoted to the service of God and the church,
@@ -847,8 +878,11 @@ they have been ill treated on that account, and the thieves set at liberty,
 lest they should turn Quakers.
 
 At Dover, in New England, Anne Coleman, Mary Tomkins, and Alice Ambrose,
-were sentenced to very cruel whipping, only for being eome there:
+were sentenced to very cruel whipping, only for being come there:
 the warrant was as followeth:
+
+[.embedded-content-document.legal]
+--
 
 To the constables of Dover, Hampton, Salisbury, Newbury, Rowley, Ipswich, Wenham, Linn,
 Boston, Roxbury, Dedham,
@@ -862,9 +896,16 @@ in each town; and so to convey them from constable to constable,
 till they are out of this jurisdiction, as you will answer it at your peril;
 and this shall be your warrant.
 
-Per me: RICHARD WALDRON.
+[.signed-section-closing]
+Per me:
 
+[.signed-section-signature]
+Richard Waldron.
+
+[.signed-section-context-close]
 At Dover, dated December 22, 1662.
+
+--
 
 Cruel indeed was this order;
 because to whip these three tender women through eleven towns,
@@ -1128,6 +1169,10 @@ though they had nothing to charge him with,
 but that he was come from Salem to Boston to visit his sick friend;
 and for this pretended crime the following warrant was framed:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To the constables of Boston, Charlestown, Maiden, and Lynn.
 
 You are required to take into your custody respectively, Edward Wharton,
@@ -1137,9 +1182,13 @@ with thirty stripes on his naked body.
 And from constable to constable you are required to convey him until he come to Salem,
 the place where he saith he dwells: and in so doing this shall be your warrant.
 
-JOHN ENDICOT.
+[.signed-section-signature]
+John Endicot.
 
+[.signed-section-context-close]
 Dated at Boston, the 20th of June, 1664.
+
+--
 
 Pursuant to this warrant, Edward, (who therein was called a vagabond,
 for no other reason but that he was gone from his
@@ -1166,6 +1215,9 @@ or carry any thing from them, upon the penally of five pounds for the first time
 and ten pounds for the second.
 In this letter John Smith said:
 
+[.embedded-content-document.letter]
+--
+
 O my spirit is grieved for thee,
 because that the love I did once see in thee is departed from thee,
 and there remains in thee a spirit of cruelty, of hard-heartedness to thy poor neighbors,
@@ -1179,6 +1231,8 @@ I have heard thee say that all the armies on earth
 cannot subdue one lust in man or woman.
 And now thou pronounces sentence of death upon some,
 because they cannot submit to your wills, nor worship as ye do.
+
+--
 
 But I return to Edward Wharton,
 who after his whipping was not led the direct way to Salem, but by Charlestown,
