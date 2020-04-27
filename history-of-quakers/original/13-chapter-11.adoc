@@ -457,6 +457,7 @@ Your Friend,
 [.signed-section-signature]
 Thomas Wilkie.
 
+[.signed-section-context-close]
 To Mr. George Lad, master of the "`America`" of Dartmouth, now at Barbados.
 
 --
@@ -2622,50 +2623,62 @@ All praise to him that hath not put
 Nor cast me out of mind.
 Nor yet his mercy from me shut.
 As I could ever find.
+
 Infinite glory, laud, and praise.
 Be given to his name.
 Who hath made known in these our days.
 His strength and noble fame.
+
 Oh none is like unto the Lamb!
 Whose beauty shines bright,
 O glorify his holy name.
 His majesty and might.
+
 My soul praise thou the only God,
 A fountain pure and clear.
 Whose crystal streams spread all abroad.
 And cleans far and near.
+
 The well-springs of eternity,
 Which are so pure and sweet,
 And do arise continually,
 My bridegroom for to meet.
+
 My sweet and dear beloved one,
 Whose voice is more to me
 Than all the glory of the earth,
 Or treasures I can see.
+
 He is the glory of my life.
 My joy and my delight.
 Within the bosom of his love
 He closed me day and night.
+
 He doth preserve me clean and pure
 Within his pavilion,
 Where I with him should be secure,
 And saved from all wrong.
+
 My soul praise thou the Lord, I say.
 Praise him with joy and peace;
 My spirit and mind both night and day.
 Praise him and never cease.
+
 O magnify his majesty.
 His fame and his renown,
 Whose dwelling is in Zion high.
 The glory of his crown.
+
 O praises, praises to our God,
 Sing praises to our King;
 O teach the people all abroad,
 His praises for to sing.
+
 A Zion song of glory bright,
 That doth shine out so clear;
 O manifest it in the sight
 Of nations far and near;
+
 That God may have his glory due.
 His honor and his fame.
 And all his saints may sing anew
@@ -3071,6 +3084,7 @@ in the bed undefiled,
 [.signed-section-signature]
 C+++.+++ E.
 
+[.postscript]
 My dearly beloved yokemate in the work of our God, doth dearly salute you.
 Salute us dearly to our precious friends in all places.
 I do believe we shall see your faces again with joy.
@@ -3191,33 +3205,38 @@ that we do desire their prayers, for we have need of them.
 [.offset]
 This letter they concluded with the following Poem:
 
-[.embedded-content-document.letter]
---
-
 [verse]
 ____
-How strong and powerful is our King To all that do believe in him!
-He doth preserve them from the snare, And teeth of those that would them tear.
+How strong and powerful is our King
+To all that do believe in him!
+He doth preserve them from the snare,
+And teeth of those that would them tear.
 
-We that are sufferers for the seed, Our hearts are wounded,
-and do bleed To see the oppression, cruelty.
+We that are sufferers for the seed,
+Our hearts are wounded,and do bleed
+To see the oppression, cruelty.
 Of men that do thy Truth deny.
 
 In prisons strong, and dungeons deep,
-To God alone we cry and weep:Our sorrows none can learn
-nor read,But those that in our path do tread.
+To God alone we cry and weep:
+Our sorrows none can learn nor read,
+But those that in our path do tread.
 
-But he whose beauty shines bright,Who turns darkness into light, Makes cedars bow,
-and oaks to bend To him that`'s sent to the same end.
+But he whose beauty shines bright,
+Who turns darkness into light,
+Makes cedars bow, and oaks to bend
+To him that`'s sent to the same end.
 
-He is a fountain pure and clear, His crystal streams run far and near,
-To cleanse all those that come to him For to be healed of their sin.
+He is a fountain pure and clear,
+His crystal streams run far and near,
+To cleanse all those that come to him
+For to be healed of their sin.
 
-All them that patiently abide, And never swerve nor go aside.
-The Lord will free them out of all Bondage, captivity, and thrall.
+All them that patiently abide,
+And never swerve nor go aside.
+The Lord will free them out of all
+Bondage, captivity, and thrall.
 ____
-
---
 
 They composed several others, which fell into the hands of their enemies,
 and copies of them were given to the inquisitor.

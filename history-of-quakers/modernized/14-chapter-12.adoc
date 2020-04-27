@@ -883,6 +883,7 @@ the warrant was as follows:
 [.embedded-content-document.legal]
 --
 
+[.letter-heading]
 To the constables of Dover, Hampton, Salisbury, Newbury, Rowley, Ipswich, Wenham, Linn,
 Boston, Roxbury, Dedham,
 and until these vagabond Quakers are carried out of this jurisdiction.
