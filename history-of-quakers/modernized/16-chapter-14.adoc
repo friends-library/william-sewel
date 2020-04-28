@@ -2,15 +2,26 @@
 
 === 1662-1664.
 
-Sickness and death of E. Burrough--Testimony of F. Howgill concerning E. Burrough Sickness
-and death of Wm. Ames--Letter of G. Fox on the death of E. Burrough-- Geo.
-Fox answers the question,
-'`Who made the devil?`"--Fanatic hunting--Awful death of Colonel Robinson-Geo.
-Fox and Colonel Kirby--Arrest of G. Fox--Long exami nation--Cruel persecution at Colchester--Giles
-Barnardiston--Proceedings against Friends at Worcester--Narrative of the change of Thos.
-Lurting from a fighting Sailor to a peaceful Quaker--Turkish Pirates--Quaker
-Slaves at Algiers--The Author`'s Mother visits England--Account of Stephen
-Crisp--Muggleton and Reeves--Case of Oliver Atherton.
+[.chapter-synopsis]
+* Sickness and death of E. Burrough
+* Testimony of F. Howgill concerning E. Burrough Sickness and death of Wm. Ames
+* Letter of G. Fox on the death of E. Burrough
+* Geo. Fox answers the question, '`Who made the devil?`"
+* Fanatic hunting
+* Awful death of Colonel Robinson
+* Geo. Fox and Colonel Kirby
+* Arrest of G. Fox
+* Long examination
+* Cruel persecution at Colchester
+* Giles Barnardiston
+* Proceedings against Friends at Worcester
+* Narrative of the change of Thos. Lurting from a fighting Sailor to a peaceful Quaker
+* Turkish Pirates
+* Quaker Slaves at Algiers
+* The Author`'s Mother visits England
+* Account of Stephen Crisp
+* Muggleton and Reeves
+* Case of Oliver Atherton
 
 Now I come also to the glorious exit of E. Burrough, that valiant hero,
 of whom mention has often been made in this history.
@@ -99,9 +110,12 @@ for they seemed to imagine that the progress of that doctrine,
 which he so powerfully and successfully had preached,
 by his decease would have been stopped or retarded?
 but they made a wrong reckoning.
-Francis Howgill then gave forth a kind of epicedium
+Francis Howgill then gave forth a kind of _epicedium_
 (i.e. lamentation) which though in prose,
 yet was not void of poetical expressions, and was as follows.
+
+[.embedded-content-document.testimony]
+--
 
 Shall days, or months, or years, wear out your name, as though you had no being?
 Oh no!
@@ -212,7 +226,9 @@ which are subject to mutation and change; and your life shall enter into others,
 to testify unto the same Truth, which is from everlasting to everlasting;
 for God has raised, and will raise up children unto Abraham,
 of them that have been as dead stones; his power is Almighty,
-great in his people in the midst of their enemies.`'
+great in his people in the midst of their enemies.
+
+--
 
 With these sublime expressions F. Howgill lamented his endeared friend E. Borrough.
 
@@ -269,6 +285,9 @@ and from there to Cambridgeshire, where he heard of E. Burrough`'s decease, and,
 being sensible how great a grief this loss would be to his friends,
 wrote the following lines to them,
 
+[.embedded-content-document.letter]
+--
+
 Friends, be still and quiet in your own conditions, and settled in the seed of God,
 that does not change; that in that you may feel dear E. B. among you, in the seed,
 in which, and by which, he begot you to God, with whom he is;
@@ -276,7 +295,10 @@ and that in the seed you may all see and feel him,
 in which is the unity with him in the life;
 and to enjoy him in the life that does not change, which is invisible.
 
+[.signed-section-signature]
 G+++.+++ Fox.
+
+--
 
 G+++.+++ Fox afterwards traveling through several places, came again to London,
 where having visited his friends in their meetings, which were numerous,
@@ -591,7 +613,10 @@ Afterwards he understood, the justices said,
 that they had private instructions from colonel Kirby to prosecute him,
 notwithstanding his fair carriage, and seeming kindness to him before.
 
-Leaving G. Fox in prison, I am to say that die act already mentioned,
+[.small-break]
+'''
+
+Leaving G. Fox in prison, I am to say that the act already mentioned,
 whereby a penalty was laid on all such who should say, it was unlawful to take an oath,
 was that which extended to banishment, being made not long before,
 and expressly leveled against the Quakers, as plainly appeared by the title.
