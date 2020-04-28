@@ -849,7 +849,8 @@ _Chief Judge:_ When did you take the oath of allegiance?
 [.discourse-part]
 _J+++.+++ Crook:_ I desire to be heard.
 
-Chief Judge: Answer to the question, and you shall be heard.
+[.discourse-part]
+_Chief Judge:_ Answer to the question, and you shall be heard.
 
 [.discourse-part]
 _J+++.+++ Crook:_ I have been about six weeks in prison, and am I now called to accuse myself?
@@ -1116,6 +1117,7 @@ and thus they did several times, like men in confusion and disorder.
 The same day, in the afternoon, silence being made, John Crook, was called to the bar,
 before the judges and justices aforesaid: the indictment being read, the judge said,
 
+[.discourse-part]
 Mr. Crook, You have heard your indictment, what say you?
 Are you guilty or not guilty?
 
@@ -1833,6 +1835,7 @@ And I do make this recognition and acknowledgment heartily, willingly, and truly
 upon the true faith of a Christian.
 So help me God.
 
+[.signed-section-signature]
 WILD.
 
 --
