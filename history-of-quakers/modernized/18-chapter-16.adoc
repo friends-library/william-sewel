@@ -36,7 +36,8 @@ and caused to be delivered to the king and the members of parliament, being as f
 [.embedded-content-document.address]
 --
 
-To the King and both Houses of Parliament, this says the Lord.
+[.letter-heading]
+To the King and both Houses of Parliament, thus says the Lord.
 
 Meddle not with my people, because of their conscience to me,
 and banish them not out of the nation because of their conscience; for if you do,
