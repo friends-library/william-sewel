@@ -114,7 +114,7 @@ Francis Howgill then gave forth a kind of _epicedium_
 (i.e. lamentation) which though in prose,
 yet was not void of poetical expressions, and was as follows.
 
-[.embedded-content-document.letter]
+[.embedded-content-document.testimony]
 --
 
 Shall days, or months, or years, wear out thy name, as though thou hadst no being?
@@ -613,6 +613,9 @@ and for my obedience to his command.`'
 Afterwards he understood, the justices said,
 that they had private instructions from colonel Kirby to prosecute him,
 notwithstanding his fair carriage, and seeming kindness to him before.
+
+[.small-break]
+'''
 
 Leaving G. Fox in prison, I am to say that the act already mentioned,
 whereby a penalty was laid on all such who should say, it was unlawful to take an oath,
