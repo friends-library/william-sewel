@@ -2,12 +2,25 @@
 
 === 1668-1670.
 
-Convincement of W. Penn --What brings Salvation--G. Fox and Esquire Marsh --The Penitent
-Infanticide -- Dying expressions of T. Loe --Dispute between the Baptists and Friends--"`Sandy
-Foundation Shaken`"--Circumstances attending the death of J. Coale-- Death of F. Howgill--Excellent
-counsel for young maidens--G. Fox in Ireland--Solomon Eccles--Story of G. Fox having
-turned Presbyterian -- Marriage of G. Fox - Margaret Fox in prison--Second Conventicle
-Act--Informers--Illness of G. Fox.
+[.chapter-synopsis]
+* Convincement of W. Penn
+* What brings Salvation
+* G+++.+++ Fox and Esquire Marsh
+* The Penitent Infanticide
+* Dying expressions of T. Loe
+* Dispute between the Baptists and Friends
+* "`Sandy Foundation Shaken`"
+* Circumstances attending the death of J. Coale
+* Death of F. Howgill
+* Excellent counsel for young maidens
+* G+++.+++ Fox in Ireland
+* Solomon Eccles
+* Story of G. Fox having turned Presbyterian
+* Marriage of G. Fox
+* Margaret Fox in prison
+* Second Conventicle Act
+* Informers
+* Illness of G. Fox
 
 In the beginning of the year 1668, William Penn, son of admiral sir William Penn,
 began to show himself openly an adherer to,
@@ -224,7 +237,7 @@ did so affect the judge, that tears trickling down his face, he sorrowfully said
 such a case as this I never met with before; perhaps you, who are but young,
 and speak so piously, as being struck to the heart with repentance,
 might yet do much good in the world: but now you force me,
-that ex officio I must pronounce sentence of death against you,
+that __ex officio__ I must pronounce sentence of death against you,
 since you will admit of no excuse.`'
 Standing to what she had said, the judge pronounced sentence of death.
 And when afterward she came to the place of execution,
@@ -307,6 +320,8 @@ subsisting in three distinct and separate persons`'?`' Whitehead
 and those with him denying this as an unscriptural doctrine,
 Vincent framed this syllogism.
 
+[quote]
+____
 There are Three that bear record in heaven, the Father, the Word, and the Holy Ghost:
 and these three are one.
 
@@ -316,7 +331,8 @@ or three somethings else besides subsistences.
 But they are not three manifestations, three operations, three substances,
 nor three any things else besides subsistences.
 
-Ergo, '`Three subsistences.
+Ergo, Three subsistences.
+____
 
 G+++.+++ Whitehead rejected these terms, as not to be found in Scripture,
 not deducible from the 1 John 5:7, the place Vincent instanced.
@@ -371,7 +387,7 @@ for it gave occasion to some of his hearers to inquire into the doctrines of the
 and thus some came to be convinced of the truth thereof.
 
 Now since the aforesaid dispute made a great noise at London,
-William Penn published a book with this title, The Sandy Foundation Shaken,
+William Penn published a book with this title, [.book-title]#The Sandy Foundation Shaken,#
 in which he explained the points controverted,
 and defended his positions with good reason and the Holy Scriptures.
 But yet this book, which he himself spread, caused such a stir,
@@ -427,6 +443,9 @@ more uneasy, with the help of his friends he rose again, and sat on the side of 
 and his friends sitting about him, he felt himself so lively and powerfully raised,
 that he spoke to them after this manner:
 
+[.embedded-content-document.testimony]
+--
+
 Well, friends, be faithful to God, and have a single eye to his glory;
 and seek nothing for self, or your own glory; and if any thing of that arise,
 judge it down by the power of the Lord God, that so you may be clear in his sight,
@@ -434,7 +453,10 @@ and answer his witness in all people; then will you have the reward of life.
 For my part, I have walked in faithfulness with the Lord;
 and I have thus far finished my testimony, and have peace with the Lord:
 his majesty is with me, and his crown of life is upon me.
-So mind my love to all friends.`'
+So mind my love to all friends.
+
+--
+
 Then he ceased speaking; and a little time after he said to Stephen Crisp, '`Dear heart,
 keep low in the holy seed of God, and that will be your crown forever.`'
 After a short pause, he said, '`a minister of Christ, must walk as he walked.
@@ -549,6 +571,9 @@ wherefore he named this child Abigail, signifying, the father`'s joy.
 In this testament he gave her instructions for the future conduct of her life,
 the beginning whereof is thus:
 
+[.embedded-content-document.letter]
+--
+
 Daughter Abigail, this is for you to observe and keep,
 and take heed unto all the days of your life,
 for the regulating your life and conduct in this world, that your life may be happy,
@@ -605,7 +630,6 @@ therefore take heed unto this spirit of truth, and it will enlighten and enliven
 and will open your understanding, and give you to know what God is,
 and to do that which is good and acceptable in his sight; this spirit never errs,
 but leads out of all error into all truth.
-
 Be sober-minded in your youth, and wait on the Lord within, hearken unto him.
 God is light immortal, life immortal, truth immortal, an everlasting eternal Spirit:
 he speaks spiritually and invisibly within the hearts and consciences of men and women:
@@ -692,11 +716,16 @@ and do them, so will you be happy in this life, and in the life to come:
 these things I give you in charge to observe, as my mind and will,
 and counsel unalterable unto you, as witness hereof I have set my hand,
 
+[.signed-section-closing]
 Your dear father,
 
-FRANCIS HOWGILL.
+[.signed-section-signature]
+Francis Howgill.
 
+[.signed-section-context-close]
 The 26th of the 5th Month, 1666.
+
+--
 
 In the beginning of this year the members of this society,
 held a general Yearly-meeting at London, which since that time,
@@ -937,7 +966,10 @@ to set her at liberty,
 which letter G. Fox accordingly hastened his daughters with into the country.
 
 The parliament now sitting, made a law, entitled.
-An Act to prevent and suppress seditious conventicles, which is as follows:
+_An Act to Prevent and Suppress Seditious Conventicles,_ which is as follows:
+
+[.embedded-content-document.legal]
+--
 
 For providing farther and more speedy remedies against the
 growing and dangerous practices of seditious sectaries,
@@ -979,6 +1011,7 @@ which record and conviction shall be certified by the said justice, justices,
 or chief magistrate, at the next quarter-sessions of the peace,
 for the county or place where the offense was committed.
 
+[.numbered]
 II. And be it further enacted by the authority aforesaid,
 that if such offender so convicted, as aforesaid,
 shall at any time again commit the like offense or offenses, contrary to this act,
@@ -1023,6 +1056,7 @@ justices or chief magistrate respectively shall appoint,
 having regard to their diligence and industry in the discovery,
 dispersing and punishing of the said conventicles.
 
+[.numbered]
 III.
 And be it further enacted by the authority aforesaid,
 that every person who shall take upon him to preach or teach in any such meeting,
@@ -1046,6 +1080,7 @@ then such offender so convicted of such like offense or offenses,
 shall for every such offense, incur the penalty of forty pounds,
 to be levied and disposed, as aforesaid.
 
+[.numbered]
 IV. And be it further enacted by the authority aforesaid,
 that every person who shall wittingly and willingly allow any such conventicle, meeting,
 or unlawful assembly aforesaid, to be held in his or her house, outhouse, barn, yard,
@@ -1057,11 +1092,13 @@ upon the goods and chattels of such persons who shall be convicted in manner afo
 of being present at the same conventicle; and the money so levied,
 to be disposed of in manner aforesaid.
 
+[.numbered]
 V+++.+++ Provided always, and be it enacted by the authority aforesaid,
 that no person shall by any clause of this act be
 liable to pay above ten pounds for any one meeting,
 in regard of the poverty of any other person or persons.
 
+[.numbered]
 VI. Provided also, and be it further enacted, that in all cases of this act,
 where the penalty or sum charged upon any offender exceeds the sum often shillings,
 and such offender shall find himself aggrieved,
@@ -1085,6 +1122,7 @@ costs against such offender for his unjust appeal:
 with any cause or causes of appeal upon this act,
 but they shall be finally determined in the quarter-sessions only.
 
+[.numbered]
 VII.
 Provided always, and be it further enacted, that upon the delivery of such appeal,
 as aforesaid,
@@ -1096,11 +1134,13 @@ and required to certify the same to the next quarter-sessions:
 (3) and in case no such recognizance be entered into,
 the said appeal to be null and void.
 
+[.numbered]
 VIII.
 Provided always,
 that every such appeal shall be left with the person or persons so convicting,
 as aforesaid, at the time of the making thereof
 
+[.numbered]
 IX. And be it further enacted by the authority aforesaid, that the justice,
 justices of the peace, and chief magistrate respectively, or the respective constables,
 head-boroughs, and tithingmen, by warrant from the said justice, justices,
@@ -1131,6 +1171,7 @@ and take into their custody such and so many of the said
 persons so unlawfully assembled as they shall think fit,
 to the intent that they may be proceeded against according to this act.
 
+[.numbered]
 X+++.+++ Provided always, that no dwelling-house of any peer of this realm,
 where he or his wife shall then be resident, shall be searched by virtue of this act,
 but by immediate warrant from his majesty, under his sign manual,
@@ -1138,6 +1179,7 @@ or in the presence of the lieutenant, or one deputy-lieutenant,
 or two justices of the peace, whereof one to be of the quorum,
 of the same county or riding.
 
+[.numbered]
 XI. And be it further enacted by the authority aforesaid, that if any constable,
 head-borough, tithingman, churchwarden or overseer of the poor, who shall know,
 or be credibly informed of any such meetings or conventicles held within his precincts,
@@ -1158,6 +1200,7 @@ the one moiety to the use of the informer, to be recovered by action, suit, bill
 or plaint, in any of his majesty`'s courts at Westminster, wherein no essoin, protection,
 or wager of law shall lie.
 
+[.numbered]
 XII.
 And be it further enacted by the authority aforesaid,
 that if any person be at any time sued for putting in execution
@@ -1169,6 +1212,7 @@ or a verdict pass for the defendant, or if the plaintiff discontinue his action,
 or if upon demurrer judgment be given for the defendant,
 every such defendant shall have his full treble costs.
 
+[.numbered]
 XIII.
 And be it further enacted by the authority aforesaid, that this act,
 and all clauses therein contained,
@@ -1191,6 +1235,7 @@ upon the goods and chattels of such person or persons,
 as fully as the said other justice of peace might have done,
 in case he or they had been inhabitants in the place where the offense was committed.
 
+[.numbered]
 XIV.
 Provided also,
 that no person shall be punished for any offense against this act unless such
@@ -1198,6 +1243,7 @@ offender be prosecuted for the same within three months after the offense commit
 (2) And that no person who shall be punished for any offense by virtue of this act,
 shall be punished for the same offense by virtue of any other act or law whatsoever.
 
+[.numbered]
 XV. Provided, and be it further enacted by the authority aforesaid,
 that every alderman of London for the time being, within the city of London,
 and the liberties thereof, shall have,
@@ -1211,6 +1257,7 @@ and shall be subject to the same penalties and punishments,
 for not doing that which by this act is directed to be done
 by any justice of peace in any county of England.
 
+[.numbered]
 XVI.
 Provided, and be it enacted by the authority aforesaid, that if the person offending,
 and convicted as aforesaid, be a femme-covert, cohabiting with her husband,
@@ -1218,12 +1265,14 @@ the penalties of five shillings, and ten shillings, so as aforesaid incurred,
 shall be levied by warrant, as aforesaid,
 upon the goods and chattels of the husband of such femme-covert.
 
+[.numbered]
 XVII.
 Provided also,
 that no peer of this realm shall be attached or imprisoned
 by virtue or force of this act;
 any thing, matter, or clause, therein to the contrary notwithstanding.
 
+[.numbered]
 XVIII.
 Provided also, that neither this act, nor any thing therein contained,
 shall extend to invalidate or make void his majesty`'s supremacy in ecclesiastical affairs:
@@ -1233,6 +1282,8 @@ exercise and enjoy all powers and authority in ecclesiastical affairs,
 as fully and as amply as himself or any of his predecessors
 have or might have done the same:
 any thing in this act notwithstanding.
+
+--
 
 By this very law many an honest family was impoverished;
 for the Quakers did not leave off meeting together publicly,
@@ -1269,7 +1320,7 @@ in the complaint.
 
 At London there once appeared before the lord mayor, sitting at a court of aldermen,
 an impudent informer having such a quantity of information for fines as would have wronged
-the parties to the value of 1500l. but the mayor abominating such a practice,
+the parties to the value of 1500£. but the mayor abominating such a practice,
 adjourned the court, and went away.
 But this hardy informer was not content to let the matter fall thus,
 but appeared before the court from time to time,
@@ -1350,6 +1401,8 @@ why will not you be content to partake both of Christ`'s promise to two or three
 and the king`'s indulgence to four?`'
 To which G. Fox answered in his own words as follows:
 
+[quote]
+____
 That Christ`'s promise was not to discourage many from meeting together in his name;
 but to encourage the few, that the fewest might not forbear to meet,
 because of their fewness.
@@ -1385,6 +1438,7 @@ because four might speak out their minds more freely one to another,
 than four hundred could: therefore we being innocent,
 and not the people this act concerns, we keep our meetings as we used to do; and said,
 he believed that he knew in his conscience we were innocent.
+____
 
 After this and more discourse, the lord mayor, whose name was Samuel Starling,
 let them go, seeing the informer was gone before, and now nobody accused them.
