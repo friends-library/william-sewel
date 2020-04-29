@@ -320,19 +320,15 @@ subsisting in three distinct and separate persons`'?`' Whitehead
 and those with him denying this as an unscriptural doctrine,
 Vincent framed this syllogism.
 
-[quote]
-____
-There are Three that bear record in heaven, the Father, the Word, and the Holy Ghost:
-and these three are one.
+[.syllogism]
 
-These are either three manifestations, three operations, three substances,
-or three somethings else besides subsistences.
+* There are Three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 
-But they are not three manifestations, three operations, three substances,
-nor three any things else besides subsistences.
+* These are either three manifestations, three operations, three substances, or three somethings else besides subsistences.
+
+* But they are not three manifestations, three operations, three substances,nor three any things else besides subsistences.
 
 Ergo, Three subsistences.
-____
 
 G+++.+++ Whitehead rejected these terms, as not to be found in Scripture,
 not deducible from the 1 John 5:7, the place Vincent instanced.

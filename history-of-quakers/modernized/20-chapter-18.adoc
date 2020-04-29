@@ -205,7 +205,6 @@ told him this well-known Latin verse.
 [quote]
 ____
 __Turpe est doctori cum culpa redarguit ipsum.__^
-footnote:[Shame to that teacher who is guilty of the fault with which he taxes others.]^
 footnote:[Shame to that teacher who is guilty of the fault with which he taxes others.]
 ____
 
@@ -878,7 +877,7 @@ with several of his friends that accompanied him.
 
 Now while I leave him on ship-board, I cannot forbear to mention,
 that this year at London came forth a witty pamphlet with this title,
-[.book-title]#An Easy Way to Get Money Cum Privilegio, Without Fear or Cumber,#
+[.book-title]#An Easy Way to Get Money cum Privilegio, without Fear or Cumber,#
 printed for the society of informers.
 This book contained a satirical rebuke to the informers, and began thus:
 '`To all you that can work, and will not;

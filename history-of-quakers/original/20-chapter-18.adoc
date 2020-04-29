@@ -206,7 +206,6 @@ told him this well-known Latin verse.
 [quote]
 ____
 __Turpa est doctori cum culpa redarguit ipsum.__^
-footnote:[Shame to that teacher who is guilty of the fault with which he taxes others.]^
 footnote:[Shame to that teacher who is guilty of the fault with which he taxes others.]
 ____
 
@@ -366,7 +365,7 @@ in manner and form aforesaid, or not guilty?`'
 To which he answered as before,
 '`William Penn is guilty of speaking in Gracechurch-street.`'
 The lord mayor then asking, '`to an unlawful assembly?`'
-Edward Bushel answered, '`No, my lorfd,
+Edward Bushel answered, '`No, my lord,
 we give no other verdict than what we gave last night; we have no other verdict to give.`'
 '`You are,`' returned the lord mayor, '`a factious fellow: I will take a course with you.`'
 '`I have,`' said Bushel, '`done according to my conscience.`'
@@ -880,7 +879,7 @@ with several of his friends that accompanied him.
 
 Now whilst I leave him on ship-board, I cannot forbear to mention,
 that this year at London came forth a witty pamphlet with this title,
-[.book-title]#An Easy Way to Get Money Cum Privilegio, Without Fear or Cumber,#
+[.book-title]#An Easy Way to Get Money cum Privilegio, without Fear or Cumber,#
 printed for the society of informers.
 This book contained a satirical rebuke to the informers, and began thus:
 '`To all you that can work, and will not;
