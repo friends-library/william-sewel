@@ -1,20 +1,35 @@
 == Chapter XX.
 
-=== 1677--1684
+=== 1677--1684.
 
-Friends travelling in Holland and Germany --Princess Elizabeth
-of the Palatinate --Correspondence between Princess Elizabeth,
-and W. Penn and R. Barclay -- Anna Maria Schurman and the Labadites --
-Letter of W. Penn to the Council and Senate of Embden --Rough usage from
-the Count of Bruch--Dispute of G. Fox and W. Penn with Galenus Abraham--Further
-correspondence between the Princess Elizabeth and W. Penn-Continued persecution
-under the Conventicle Act--Epistle of comfort from G. Fox--Barclay`'s Apology,
-and the Ambassadors at Nimeguen--Death of Isaac Penington--Queries to the Pope--G. Whitehead
-arrested as a Jesuit--Trial at Ware--Account of Friends`' sufferings presented to Parliament--Grant
-of Pennsylvania--Admiral Penn -- Persecution at Bristol -- Meetings kept up by Children
---Cases of exceeding Cruelty --Seven hundred Quakers in prison --Letter of consolation
-from W. Dewsbury --Wilkinson and Story -- Separation--Address to the King--Gabriel Shad
-the Informer--Death of King Charles.
+[.chapter-synopsis]
+* Friends travelling in Holland and Germany
+* Princess Elizabeth of the Palatinate
+* Correspondence between Princess Elizabeth, and W. Penn and R. Barclay
+* Anna Maria Schurman and the Labadites
+* Letter of W. Penn to the Council and Senate of Embden
+* Rough usage from the Count of Bruch
+* Dispute of G. Fox and W. Penn with Galenus Abraham
+* Further correspondence between the Princess Elizabeth and W. Penn
+* Continued persecution under the Conventicle Act
+* Epistle of comfort from G. Fox
+* Barclay`'s Apology, and the Ambassadors at Nimeguen
+* Death of Isaac Penington
+* Queries to the Pop
+* G. Whitehead arrested as a Jesuit--Trial at Ware
+* Account of Friends`' sufferings presented to Parliament
+* Grant of Pennsylvania
+* Admiral Penn
+* Persecution at Bristol
+* Meetings kept up by Children
+* Cases of exceeding Cruelty
+* Seven hundred Quakers in prison
+* Letter of consolation from W. Dewsbury
+* Wilkinson and Story
+* Separation
+* Address to the King
+* Gabriel Shad the Informer
+* Death of King Charles
 
 The year 1677 was scarce begun, when G. Fox, though the roads were yet covered with snow,
 travelled again.
@@ -36,6 +51,10 @@ mother of George, king of Great Britain,
 W+++.+++ Penn had also written two letters to her from England,
 which she answered by this following:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Hereford, May 2, 1667.
 
 This, friend, will tell you that both your letters were very acceptable,
@@ -50,24 +69,40 @@ nor omit to do any thing that was judged conducing to his liberty,
 though it should expose me to the derision of the world.
 But this a mere moral man can reach at; the true inward graces are yet wanting in.
 
+[.signed-section-closing]
 Your affectionate friend,
 
-ELIZABETH.
+[.signed-section-signature]
+Elizabeth.
+
+--
 
 G+++.+++ Fox also from Amsterdam wrote a letter to this virtuous princess,
 wherein he commended her modest and retired life,
 and exhorted her to piety and godliness: to which she answered with this letter:
 
-Dear Friend, '`I cannot but have a tender love to those that love the Lord Jesus Christ,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Friend,
+
+I cannot but have a tender love to those that love the Lord Jesus Christ,
 and to whom it is given not only to believe in him, but also to suffer for him:
 therefore your letter, and your friends`' visit, have been both very welcome to me.
 I shall follow their and your counsel, as far as God will afford me light and unction;
 remaining still
 
+[.signed-section-closing]
 Your loving friend,
 
-ELIZABETH.
+[.signed-section-signature]
+Elizabeth.
+
+[.signed-section-context-close]
 Herford, the 30th of August, 1677.
+
+--
 
 This correspondence gave occasion to William Penn and Robert Barclay,
 to pass towards Herford, a town on the frontiers of Paderborn,
@@ -147,8 +182,13 @@ etc. to Amsterdam, where at Cologne he received a letter from the princess Eliza
 in answer to that he had written to her from the Palatinate:
 the said letter was as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 September, 1677.
 
+[.salutation]
 Dear Friend,
 
 I have received your greetings, good wishes, and exhortations, with much joy,
@@ -165,7 +205,7 @@ to withstand the badness of the weather, and in the reception you had in Cassel,
 Frankfort, and Chrisheim.
 Nothing surprised me there but the good old Dury,
 in whom I did not expect so much ingenuousness, having lately wrote a book, entitled,
-Le veritable Chretien that doth speak in another way.
+[.book-title]#Le Veritable Chretien# that doth speak in another way.
 I wish to know what reception you have had at Fredericksburg,
 and if this find you at Cleves,
 I wish you might take an occasion to see the two pastors of Mulheim,
@@ -174,9 +214,13 @@ as also the countess there.
 It would be of much use for my family to have them disabused;
 yet God`'s will be done in that, and all things else concerning
 
+[.signed-section-closing]
 Your loving friend in the Lord Jesus,
 
-ELIZABETH.
+[.signed-section-signature]
+Elizabeth.
+
+--
 
 Whilst William Penn made this journey into Germany,
 George Fox was gone to Hamburg and Frederickstadt, to visit his friends there;
@@ -263,6 +307,10 @@ for persecution continued there yet a long while.
 A copy of W. Penn`'s letter, being translated into English, runs thus,
 and deserves the serious consideration of all magistrates.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the Council and Senate of the City of Embden.
 
 The King of kings, and Lord of lords, who is God of all the families of the earth,
@@ -455,8 +503,13 @@ may show you mercy in the day of his righteous judgments.
 Amen.
 Your friend with the greatest integrity in the universal principle of love and truth,
 
-W+++.+++ PENN.
+[.signed-section-signature]
+W+++.+++ Penn.
+
+[.signed-section-context-close]
 London, December 14, 1674.
+
+--
 
 After W. Penn had stayed some time at Embden, he took a turn again to Herford,
 where he was received very kindly by the princess Elizabeth, and the countess of Homes;
@@ -468,7 +521,7 @@ to speak to the princess and the countess apart,
 with respect to their particular conditions; which made a deep impression on their minds,
 especially the countess`'s. Being much pressed by the princess to stay and sup with her,
 he yielded: and the countess from a serious sense of her compliance with the world,
-told him, '`Il faut que je rompe,`' il faut que je rompe,`' i. e. '`I must break off,
+told him, _'`Il faut que je rompe, il faut que je rompe,`'_ i. e. '`I must break off,
 I must break off.`'
 And at another time with a weighty countenance she cried out,
 '`O the cumber and entanglements of this vain world; they hinder all good.`'
@@ -598,9 +651,14 @@ passing from thence to London,
 W+++.+++ Penn there received the following letter from the princess Elizabeth,
 in answer to his:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Herford, Oct.
 29, 1677.
 
+[.salutation]
 Dear Friend,
 
 Your tender care of my eternal well-being doth oblige me much,
@@ -620,22 +678,32 @@ Do not think I go from what I spoke to you the last evening;
 I only stay to do it in a way that is answerable before God and man:
 I can say no more now, but recommend to your prayers,
 
+[.signed-section-closing]
 Your true friend,
 
-ELIZABETH.
+[.signed-section-signature]
+Elizabeth.
 
+[.postscript]
 P+++.+++ S. I almost forget to tell you, that my sister writes me word,
 she had been glad you had taken your journey by Osenburgh, to return to Amsterdam.
 There is also a Drossard of Limbourg near this place,
 (to whom I gave an exampler of R. B.`'s apology,)
 very desirous to speak with some of his friends.
 
+--
+
 Yet another letter W. Penn received from the said princess,
 in answer to one he wrote from the Briel, at his passage towards England,
 which was as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the princess Elizabeth, Salvation in the Cross, Amen.
 
+[.salutation]
 Dear and truly respected friend,
 
 My soul most earnestly desires thy temporal and eternal felicity,
@@ -685,19 +753,31 @@ in which I write so plainly to thee.
 Farewell, my dear friend, and the Lord be with thee.
 I am more than I can say,
 
+[.signed-section-closing]
 Thy great lover, and Respectful friend,
 
-W+++.+++ PENN.
+[.signed-section-signature]
+W+++.+++ Penn.
 
+[.postscript]
 I refer thee to the enclosed for passages.
 We visited Gichtel and Hooftman, and they us:
 they were at one or two of the meetings at Amsterdam.
 Vale in sternum.
 
+--
+
+[.offset]
 To this letter the princess returned the following answer.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 This 17 November, 1677.
-'`Dear Friend,
+
+[.salutation]
+Dear Friend,
 I have received a letter from you that seem to have
 been written at your passage into England,
 which I wish may be prosperous: without date,
@@ -709,9 +789,13 @@ My house and my heart shall be always open to those that love him.
 Gichtel has been well satisfied with the conferences between you.
 As for my business, it will go as the Lord pleases, and I remain in him
 
+[.signed-section-closing]
 Your affectionate friend,
 
-ELIZABETH.
+[.signed-section-signature]
+Elizabeth.
+
+--
 
 G+++.+++ Fox now being come to London, received there letters from New England,
 with an account of the cruel proceedings of the magistrates against his friends there:
@@ -792,10 +876,14 @@ because several of the members of that august assembly seemed to favor them;
 but the parliament was suddenly prorogued, whereby a stop was put to their endeavors.
 
 G+++.+++ F. then traveling through many places,
-came home to Swarth-more in the latter part of the year;
+came home to Swarthmore in the latter part of the year;
 and since many of his friends at this time were under great persecution, and in prison,
 he wrote the following epistle to them:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 My dear Friends,
 
 Who are sufferers for the Lord Jesus`' sake, and for the testimony of the truth,
@@ -819,9 +907,13 @@ And therefore keep the word of patience, and exercise that gift;
 and the Lord strengthen you in your sufferings, in his holy Spirit of faith.
 Amen.
 
-GEORGE FOX.
+[.signed-section-signature]
+George Fox.
 
-Swarthmore, tho 5th of the 12th month, 1678.
+[.signed-section-context-close]
+Swarthmore, the 5th of the 12th month, 1678.
+
+--
 
 Persecution was now very hot in many places.
 At Bawnasse, in Westmoreland,
@@ -922,12 +1014,17 @@ I was desired by him to translate into Latin, and to send them to Rome to the po
 This I did at his desire, but never received or heard of any answer to them.
 
 These queries in Latin, with what the author W. S. wrote to the pope on that occasion,
-are to be seen in the Appendix to the Dutch history, which being translated into English,
+are to be seen in the Appendix to the [.book-title]#Dutch History,# which being translated into English,
 the reader may take as follows.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Innocent XII.
 Pope of Rome, S.
 
+[.salutation]
 Great Prelate,
 
 Thou wilt perhaps at first sight admire that the writing enclosed should be sent to thee;
@@ -947,15 +1044,28 @@ but in deed also,
 
 I write this at the request of certain of my friends called Quakers.
 
+[.signed-section-signature]
 W+++.+++ SEWEL
 
+[.signed-section-context-close]
 Amsterdam, the 23d day of the month called April, 1679.
 
+--
+
+[.small-break]
+'''
+
+[.embedded-content-document.treatise]
+--
+
+[.letter-heading]
 Some questions presented to the Papists, and the pope of Rome,
 as the supreme head of their church, and commended to their consideration by George Fox.
 
+[.salutation]
 Friends,
 
+[.numbered]
 1+++.+++ How comes it to pass,
 that the pope and cardinals grant not to the Protestants living in Spain, Italy,
 and at Rome, that liberty of meeting together for the right performing of divine worship,
@@ -983,6 +1093,7 @@ born after the Spirit.`" Gal. 4:29. Have not the papists therefore
 openly showed in themselves the fleshly birth,
 which is contrary to reason, law, and gospel.
 
+[.numbered]
 2+++.+++ Where did Christ or his apostles ever command men to bow themselves to images,
 and to worship them, and keep holy days?
 Where did they command holy days to be appointed in remembrance of themselves,
@@ -995,6 +1106,7 @@ Where, I say, did Christ or his apostles give command to whip, hang, or burn men
 to speak as gently as may be, at least to imprison any because they dissented from them,
 and could not adhere to their religion?
 
+[.numbered]
 3+++.+++ Where ever did Christ or his apostles in the primitive
 churches command that candles should be lighted at noon-day?
 Well, show us where it is written, whether it be in the gospels, or epistles.
@@ -1003,6 +1115,7 @@ Is she not fallen from spiritual weapons to carnal;
 hath she not revolted from that purity and virginity,
 wherein she witnessed in time past Christ to be the head of the churches?
 
+[.numbered]
 4+++.+++ Did the churches of ancient time make choice of a private man,
 and account him for head of the universal church?
 Where ever did the primitive church command infants to be sprinkled with water?
@@ -1015,6 +1128,7 @@ and wherewith he is well pleased?
 Are ye not degenerated from the light, truth, grace, power and spirit,
 wherein the apostles were?
 
+[.numbered]
 5+++.+++ Have ye not degenerated from the ancient church,
 because ye suffer not the people to read the holy Scripture in their mother-tongue?
 For doth not the apostles say, "`And when this epistle is read amongst you,
@@ -1038,7 +1152,8 @@ Ought not therefore all Christians likewise to have the New Testament,
 that makes mention of Christ and his apostles, in their mother-tongue?
 But if not, why do ye not show us where Christ or his apostles have forbidden it?
 
-But what do ye say of the sacrament of the altar, as it is called?
+[.numbered]
+6+++.+++ But what do ye say of the sacrament of the altar, as it is called?
 Why have ye slain many, and burnt others alive in England, France, the Low Countries,
 and other places, because they could not approve or receive it?
 Ye assert it as a thing certain, that the bread and wine,
@@ -1089,6 +1204,7 @@ Or is not rather that mortal and corruptible Christ, which ye yourselves have ma
 and for whose sake ye have slain multitudes of the people of God,
 because they could not believe or comply with you?
 
+[.numbered]
 7+++.+++ Further, where did Christ or his apostles ever speak to the saints of purgatory,
 wherein men should be purged from their sins after death.
 Show us where it is written in the New Testament.
@@ -1143,8 +1259,18 @@ which the apostles and primitive Christians used, saying,
 "`The weapons of our warfare are not carnal, but mighty through God,`"
 that is, spiritual, 2 Cor. 10:4.
 
-G+++.+++ FOX
+[.signed-section-signature]
+G+++.+++ Fox
 
+--
+
+[.small-break]
+'''
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Innocent XI. Pope of Rome, S.
 
 Behold, great prelate, a few questions written for the sake of thee, and thy adherents,
@@ -1162,9 +1288,13 @@ Farewell.
 
 This I have written in the name of some of my friends called Quakers.
 
-WILLIAM SEWEL.
+[.signed-section-signature]
+William Sewel.
 
+[.signed-section-context-close]
 Amsterdam, the 24th of the month called July, 1679.
+
+--
 
 This year there was a great commotion in England about a
 plot carried on by the Papists against the life of the king,
@@ -1185,8 +1315,8 @@ whether they would take the oath of allegiance; and they answering,
 that they could take no oath for conscience-sake, he said,
 if they would neither pay the fines, nor take the oath, he would commit them to jail.
 They having showed that they were no vagrants, but men of competent estates,
-that had settled habitations, as was well known, Bacon said, De non apparentibus,
-et non existentibus eadem est ratio: i.e. Of things not appearing,
+that had settled habitations, as was well known, Bacon said, _De non apparentibus,
+et non existentibus eadem est ratio:_ i.e. Of things not appearing,
 and things not in being, there is the same reason: just as if he had said,
 your estates that are at London, where G. Whitehead lived, and Ware, where T. Burr dwelt,
 appear not at Norwich, and therefore they are not in being.
@@ -1283,6 +1413,9 @@ Now since some ill-natured Episcopalians were very
 forward to place the Quakers amongst the plotters,
 G+++.+++ Fox gave forth the following declaration:
 
+[.embedded-content-document.address]
+--
+
 It is our principle and testimony,
 to deny and renounce all plots and plotters against the king, or any of his subjects;
 for we have the Spirit of Christ, by which we have the mind of Christ,
@@ -1300,17 +1433,25 @@ and that ye will not put upon us to do those things,
 which we have suffered so much and so long already for not doing?
 for if you do, ye will make our sufferings and bonds stronger, instead of relieving us.
 
-GEORGE FOX.
+[.signed-section-signature]
+George Fox.
+
+--
 
 Not long after he also wrote a paper to all rulers and magistrates in England, Scotland,
 and Ireland, to dissuade them from persecution for religion.
 His labor seemed not altogether ineffectual with the parliament,
 for about the beginning of the year 1681, the house of commons resolved.
 
+[.embedded-content-document.legal]
+--
+
 That it is the opinion of the house,
 that persecution of Protestant dissenters upon the penal laws,
 is at this time grievous to the subjects; a weakening of the Protestant interest,
 an encouragement to popery, and dangerous to the peace of this kingdom.
+
+--
 
 But though the house of commons came to this resolution, yet it did not stop persecution;
 for as long as the laws, (by virtue whereof they persecuted,) were not repealed,
@@ -1339,7 +1480,7 @@ returned to the Hague.
 
 It was also in this year that the king gave a country
 or great tract of land in America to William Penn,
-with a patent under the great seal, to him and his in perpetuum,
+with a patent under the great seal, to him and his _in perpetuum,_
 since the king owed him still a considerable sum for the
 services of his father the admiral sir William Penn.
 This tract of land on the river Delaware,
@@ -1498,7 +1639,7 @@ The mayor also signified to the sheriff,
 that he would have all convictions made above board, and not in ale-houses and taverns;
 and that he would have the distrained goods brought into a public warehouse,
 and not in a by-lane.
-But though the mayor ex officio might have commanded the sheriff,
+But though the mayor _ex officio_ might have commanded the sheriff,
 yet this officer was so countenanced, that he did not care for whatever the mayor said;
 nay, so exorbitant was he, that his adherents began to threaten the mayor,
 he should not be a parliament-man; insomuch that he was forced to comply in some degree.
@@ -1715,6 +1856,10 @@ William Dewsbury, who was now grown ancient in his imprisonment at Warwick,
 had wrote an epistle of consolation to his suffering friends,
 which was thought fit to be reprinted, and is as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Brethren and Sisters,
 
 Hear the word of the Lord.
@@ -1798,7 +1943,7 @@ and of the righteous seed which the Lord hath blessed;
 and not any weapon formed against you shall prosper, but come to nought,
 which will be hastened to your comforts,
 and certainly performed according to what is here declared, to your eternal joy;
-and you shall assuredly know the mouth of the Lord hath spoken it.
+and you shall assuredly know the mouth of the Lord hath spoken it.`'
 
 The word of the Lord, before expressed, came to me in the prison-house at Warwick,
 the 13th day of the First-month, 1664,
@@ -1807,7 +1952,10 @@ and suffering people of the Almighty God,
 in whom I remain your brother and companion in tribulation
 and kingdom of patience in the Lord Jesus Christ.
 
-WILLIAM DEWSBURY.
+[.signed-section-signature]
+William Dewsbury.
+
+--
 
 Whilst persecution was on foot in England,
 there was some division among those called Quakers, which had its rise some years before.
@@ -1928,11 +2076,15 @@ and the lord Russel, who was fain to stoop to the axe.
 Now since persecution continued with some color of justice,
 those called Quakers drew up the following address to the king:
 
-=== TO THE KING.
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
+TO THE KING.
 
 The humble Address of the people commonly called Quakers.
 
-O KING,
+O King,
 
 The King of kings, and Lord of the whole earth,
 incline thy heart to that which is just and merciful in his sight,
@@ -2003,6 +2155,8 @@ where the innocent and oppressed in thy land, that fear God, and, in conversatio
 truly honor the king; and suffer not the ruin of such as are quiet in the land,
 the widow and the fatherless for their peaceable consciences,
 to lie at the door of a prince professing the tender and compassionate religion of Christ.
+
+--
 
 This address was presented to the king at Windsor, on the 8th of the month called August,
 in this year, by George Whitehead, Alexander Parker, Gilbert Latey, and Francis Camfield,
