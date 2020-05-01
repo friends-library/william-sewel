@@ -2,14 +2,23 @@
 
 === 1689-1694.
 
-Revolution in England--Parliament confirms liberty of conscience--Friends`' declaration
-of fidelity--Friends in Barbados relieved--Death of R. Barclay--Epistle of S. Crisp
-to all the churches of Christ--Sickness and death of G. Fox--Character of G. Fox--Epistle
-of G. Fox to all the children of God everywhere--Apostacy
-of G. Keith--G. Keith`'s misrepresentations
-of the principles of Friends--Declaration of the Christian doctrine of the Quakers--Francis
-Bugg--Petition to Parliament for an Affirmation instead of an Oath-- State of the case
-by T. Ecclestone--Death of Queen Mary.
+[.chapter-synopsis]
+* Revolution in England
+* Parliament confirms liberty of conscience
+* Friends`' declaration of fidelity
+* Friends in Barbados relieved
+* Death of R. Barclay
+* Epistle of S. Crisp to all the churches of Christ
+* Sickness and death of G. Fox
+* Character of G. Fox
+* Epistle of G. Fox to all the children of God everywhere
+* Apostacy of G. Keith
+* G. Keith`'s misrepresentations of the principles of Friends
+* Declaration of the Christian doctrine of the Quakers
+* Francis Bugg
+* Petition to Parliament for an Affirmation instead of an Oath
+* State of the case by T. Ecclestone
+* Death of Queen Mary
 
 I proceed now to the year 1689, in the beginning of which the peers of the realm,
 etc. offered the administration of the government to the prince of Orange,
@@ -78,7 +87,10 @@ yet to comply with the people called Quakers,
 who for conscience-sake scrupled to take any oath,
 this act enjoined that they should subscribe the following declaration:
 
-I A. B. do sincerely promise and solemnly declare, before God and the world,
+[.embedded-content-document.legal]
+--
+
+I, _A. B._ do sincerely promise and solemnly declare, before God and the world,
 that I will be true and faithful to king William and queen Mary;
 and I do solemnly profess and declare, that I do from my heart abhor,
 detest and renounce, as impious and heretical, that damnable doctrine and position,
@@ -88,13 +100,20 @@ And I declare that no foreign prince, person, prelate, state, or potentate, has,
 or ought to have any power, jurisdiction, superiority, preeminence, or authority,
 ecclesiastical or spiritual, within this realm.
 
+--
+
 Besides this they were obliged to subscribe also another,
 with respect to their orthodoxy, and for excluding Socinianism.
 
-I A. B. profess faith in God the Father, and in Jesus Christ his eternal Son,
+[.embedded-content-document.legal]
+--
+
+I, _A. B._ profess faith in God the Father, and in Jesus Christ his eternal Son,
 the true God, and in the holy Spirit, one God, blessed forevermore:
 and do acknowledge the holy Scriptures of the Old
 and New Testament to be given by divine inspiration.
+
+--
 
 And lest any Roman Catholic might make use of this declaration,
 there were required sufficient Protestant witnesses that the declarer was a tanf dissenter.
@@ -138,6 +157,10 @@ They now that were thus oppressed, sent over a petition to the king,
 wherein they set forth how they were molested, and prayed for relief;
 which had such effect, that the king issued forth the following order:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 At the Council at Whitehall, Dec.
 12, 1689.
 
@@ -156,7 +179,10 @@ who is to give the petitioners such relief in relation to the militia,
 as to him shall seem just and reasonable to answer their particular circumstances,
 and to make report thereof to his majesty.
 
-RICHARD COLLINGE.
+[.signed-section-signature]
+Richard Collinge.
+
+--
 
 This year deceased Alexander Parker, sometimes mentioned in this history,
 being a man not only of a godly life and conduct,
@@ -184,6 +210,9 @@ advice to all the churches of Christ throughout the world,
 in which he exhorted them more particularly to charity;
 and since therein several remarkable duties are held forth and recommended,
 I cannot well omit to insert a copy of it here, which is as follows:
+
+[.embedded-content-document.epistle]
+--
 
 Dearly beloved friends and brethren,
 gathered out of the world by the eternal arm and power of the mighty God,
@@ -689,9 +718,13 @@ Amen,
 From your friend and brother,
 in the communion and fellowship of the gospel of peace and purity,
 
-STEPHEN CRISP.
+[.signed-section-signature]
+Stephen Crisp.
 
+[.signed-section-context-close]
 London, the 15th of the 7th month, 1690.
+
+--
 
 Passing now by other matters of the year, we step to the next, being that of 1691,
 about the beginning of which G. Fox departed this life,
@@ -750,6 +783,9 @@ though powerful, appeared a decent gravity, mixed with an awful reverence, to ad
 His qualities are at large set forth by Thomas Ellwood, an eminent author,
 who having much conversed with him, gave the following character of him.
 
+[.embedded-content-document.testimony]
+--
+
 He was indeed a heavenly-minded man, zealous for the name of the Lord,
 and preferred the honor of God before all things.
 He was valiant for the truth, bold in asserting it, patient in suffering for it,
@@ -773,6 +809,8 @@ full of brotherly love, full of fatherly care;
 for indeed the care of the churches of Christ was daily upon him,
 the prosperity and peace whereof he studiously sought.
 
+--
+
 Yet more is said of him to his praise, both by the said Thomas Ellwood and others,
 but I will not detain my reader any longer therewith.
 His wife, about six months before his death, came to him at London,
@@ -785,11 +823,14 @@ What this signified, seemed to be a riddle, but he being now deceased,
 it was judged to be the time to open this letter, which was directed to his friends,
 and was as follows:
 
+[.embedded-content-document.epistle]
+--
+
 For the yearly and second-day`'s-meeting in London and to
 all the children of God in all places in the world.
 By and from G. Fox.
 
-'`This for all the children of God everywhere, that are led by his spirit,
+This for all the children of God everywhere, that are led by his spirit,
 and do walk in his light, in which they have life, and unity,
 and fellowship with the Father and the Son, and one with another.
 
@@ -869,17 +910,23 @@ Christ says, in me you have peace.
 And he is from above, and not of this world; but in the world below, in the spirit of it,
 there is trouble: therefore keep in Christ, and walk in him, Amen.
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+[.postscript]
 P+++.+++ S. Jerusalem was the mother of all true Christians before the apostacy; and since,
 the outward Christians are broken into many sects, and they have gotten many mothers;
 but all they that are come out of the apostacy by the power and spirit of Christ,
 Jerusalem that is above, is their mother, and none below her;
 who does nourish all her spiritual children.
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+[.signed-section-context-close]
 Read at the Yearly Meeting in London, 1691.
+
+--
 
 This year I find that William Goodridge, of Banwell, in Somersetshire,
 was released from prison, where he had been confined about thirteen years.
@@ -1029,7 +1076,11 @@ and agreeable with the Holy Scriptures.
 This they did by the following representation, which in the year 1693,
 came forth in print at London, as follows, with this title.
 
-=== The Christian Doctrine, and Society of the People called Quakers, cleared, etc.
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
+The Christian Doctrine, and Society of the People called Quakers, cleared, etc.
 
 Whereas, divers accounts have been lately published in print,
 of some late division and disputes between some persons
@@ -1392,6 +1443,7 @@ we have great reason to credit, and not to question,
 and have been always ready to embrace,
 with respect to Christ and his apostles own testimony and prophecies.
 
+[.numbered]
 1+++.+++ For the doctrine of the resurrection;
 
 If in this life only we have hope in Christ, we are of all men the most miserable, 1 Cor. 15:19.
@@ -1427,6 +1479,7 @@ Howbeit, we esteem it very unnecessary to dispute or question how the dead are r
 or with what body they come:
 but rather submit that to the wisdom and pleasure of the Almighty God.
 
+[.numbered]
 2+++.+++ For the doctrine of eternal judgment;
 
 God hath committed all judgment unto his Son Jesus Christ;
@@ -1478,8 +1531,9 @@ presumptuous and rebellious criminals, as bound under chains of darkness,
 as were the fallen angels, unto the judgment of the great day,
 Jude 6. Matt. 25:30. It is not for us to determine
 or dispute the manner how they shall be so reserved;
-but leave it to God; he knows how.`'
+but leave it to God; he knows how.
 
+[.centered]
 === A Postscript relating to the doctrine of the Resurrection and eternal Judgment.
 
 At the last trump of God, and the voice of the archangel,
@@ -1506,9 +1560,14 @@ and shut up the records or books thereof in their own consciences,
 they shall be at last opened, and every one judged of these things recorded therein,
 according to their works, Rev. 20:12-15.
 
-Signed in behalf of our Christian profession and people aforesaid, George Whitehead,
+Signed in behalf of our Christian profession and people aforesaid,
+
+[.signed-section-signature]
+George Whitehead,
 Charles Marshall, Ambrose Rigge, John Bowater, William Fallowfield, John Vaughton,
 James Parke, William Bingley.
+
+--
 
 This paper generally gave satisfaction, and was well received also in Holland,
 where having translated it into Dutch, I got it published in print.
@@ -1518,26 +1577,35 @@ endeavored also to render them odious with the government,
 the following confession of faith, signed by one and thirty persons,
 of which G. Whitehead was one, was in December presented to the parliament:
 
+[.embedded-content-document.address]
+--
+
 Be it known to all that we sincerely believe and confess:
 
+[.numbered]
 I+++.+++ That Jesus of Nazareth, who was born of the Virgin Mary, is the true Messiah,
 the very Christ, the Son of the living God, to whom all the prophets gave witness:
 and that we do highly value his death, sufferings, works, offices,
 and merits for the redemption of mankind, together with his laws, doctrine,
 and ministry.
 
+[.numbered]
 II. That this very Christ of God,
 who is the Lamb of God that takes away the sins of the world, was slain, was dead,
 and is alive, and lives forever in his divine, eternal glory, dominion,
 and power with the Father.
 
+[.numbered]
 III.
 That the holy Scriptures of the Old and New Testament, are of divine authority,
 as being given by the inspiration of God.
 
+[.numbered]
 IV. And that magistracy or civil government, is God`'s ordinance,
 the good ends thereof being for the punishment of evil-doers,
-and praise of them that do well.`'
+and praise of them that do well.
+
+--
 
 By this and the like writings,
 the eyes of many that were at the helm began to be more opened;
@@ -1559,6 +1627,9 @@ for lack of their solemn declaration being taken instead of an oath;
 and that not in their own cases only, but in evidence wherein others were concerned.
 This petition concluded thus:
 
+[.embedded-content-document.legal]
+--
+
 We therefore earnestly and humbly request,
 that you will favorably please to give leave to bring in a bill to admit,
 that our solemn answer, affirmation or denial, may be accepted instead of an oath,
@@ -1569,20 +1640,33 @@ that every such person shall undergo the like pains and penalties,
 as are provided against perjured persons.
 And your petitioners shall, as in duty bound, pray, etc.
 
+[.signed-section-signature]
 William Mead, William Bingley, George Whitehead, Samuel Waldenfield, William Crouch,
 John Staploe, Walter Rental, William Macker, Thomas Hart, Joseph Wright, jr.
 Michael Russet, Theodore Ecclestone.
 
+--
+
 The petition being read in the House of Commons, they came to the following resolution:
+
+[.embedded-content-document.legal]
+--
 
 A petition of the people called Quakers was read.
 Resolved, that the consideration thereof be referred to a committee;
 and that they report their opinions therein to the house.
 
+--
+
 A committee being ordered accordingly, sat thereupon, and gave their judgment as follows:
+
+[.embedded-content-document.legal]
+--
 
 Upon the whole it is the opinion of this committee,
 that the Quakers ought to be relieved according to the prayer of their petition.
+
+--
 
 But nothing was obtained that session;
 for their enemies were yet so powerful in parliament,
@@ -1594,6 +1678,9 @@ Wherefore on the 22nd of December, in the year 1694,
 a representation of their case of not swearing,
 being signed in their behalf by Theodore Ecclestone,
 was delivered to the members of parliament, and was as follows:
+
+[.embedded-content-document.legal]
+--
 
 A brief representation of the Quakers`' case of not swearing;
 and why they might have been, and yet may be relieved therein by Parliament.
@@ -1681,14 +1768,18 @@ Seeing their relief is to them so needful, so harmless to all,
 and so useful to the government and their neighbors;
 let us a little consider the common objections; which may be summed up in short thus:
 
-First objection, How shall we then be at a certainty?
+[.numbered]
+_First objection,_ How shall we then be at a certainty?
 
-Secondly, Why should the laws be altered for them?
+[.numbered]
+_Secondly,_ Why should the laws be altered for them?
 For,
 
-Thirdly, It would be to rase old foundations
+[.numbered]
+_Thirdly,_ It would be to rase old foundations
 
-Fourthly, And let them into the government.
+[.numbered]
+_Fourthly,_ And let them into the government.
 
 Which it is hoped will not be difficult to answer one by one,
 and that to reasonable satisfaction.
@@ -1810,11 +1901,16 @@ for which ease they are sincerely thankful; so be pleased to add to that kindnes
 their relief in the matter of oaths, between them and other subjects,
 as well as between the government and them.
 
+[.signed-section-closing]
 Signed in behalf of the said people,
 
-THEODORE ECCLESTONE.
+[.signed-section-signature]
+Theodore Ecclestone.
 
+[.signed-section-context-close]
 London, Dec. 22, 1694.
+
+--
 
 Though after the delivering of the said representation,
 the parliament this year came not to a full resolution for their relief,
