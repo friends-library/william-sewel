@@ -16,7 +16,8 @@
 * Barclay`'s Apology, and the Ambassadors at Nimeguen
 * Death of Isaac Penington
 * Queries to the Pop
-* G. Whitehead arrested as a Jesuit--Trial at Ware
+* G. Whitehead arrested as a Jesuit
+* Trial at Ware
 * Account of Friends`' sufferings presented to Parliament
 * Grant of Pennsylvania
 * Admiral Penn
@@ -763,7 +764,7 @@ W+++.+++ Penn.
 I refer thee to the enclosed for passages.
 We visited Gichtel and Hooftman, and they us:
 they were at one or two of the meetings at Amsterdam.
-Vale in sternum.
+_Vale in sternum._
 
 --
 
@@ -1052,10 +1053,7 @@ Amsterdam, the 23d day of the month called April, 1679.
 
 --
 
-[.small-break]
-'''
-
-[.embedded-content-document.treatise]
+[.embedded-content-document.address]
 --
 
 [.letter-heading]
@@ -1263,9 +1261,6 @@ that is, spiritual, 2 Cor. 10:4.
 G+++.+++ Fox
 
 --
-
-[.small-break]
-'''
 
 [.embedded-content-document.letter]
 --

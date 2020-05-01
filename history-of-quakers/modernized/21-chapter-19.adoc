@@ -1087,9 +1087,7 @@ From which you reason that:
 
 [.syllogism]
 * Matter of fact cannot be known but by the relation of another, or by perception of the outward senses; because there are naturally in our souls no ideas of contingent truths, such as are concerning necessary truths: namely, that God is; and that the whole is greater than the part.--And since it may without absurdity be said,that
-
 * God cannot make a contingent truth to become a necessary truth; neither can God reveal contingent truths or matters of fact, but as contingent truths are revealed: but matters of fact are not revealed but by the outward senses. From which you conclude that
-
 * Men are not even obliged to believe God producing any revelation in the soul concerning matter of fact, whether of a thing done, or to be done, unless there be added some miracles obvious to the outward senses, by which the soul may be ascertained, that that revelation comes from God.
 
 All this you endeavor also to prove from the Scripture, Rom. 10 where the apostle says,
@@ -1703,11 +1701,11 @@ Rotterdam, the 28th of March, 1678.
 
 --
 
-[.blurb]
-=== A brief and distinct Solution of the Argument which the Ambassador aforesaid uses against Robert Barclay`'s Thesis, whereby he attempts to evince that not the inward revelation of the Holy Spirit, but the outward by the Scripture, is the principal rule, and foundation of our faith: at least to us Europeans, who have the Scriptures.
-
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== A brief and distinct Solution of the Argument which the Ambassador aforesaid uses against Robert Barclay`'s Thesis, whereby he attempts to evince that not the inward revelation of the Holy Spirit, but the outward by the Scripture, is the principal rule, and foundation of our faith: at least to us Europeans, who have the Scriptures.
 
 As to his argument, as it was transmitted to us,
 if he considers the strength and substance of it, thus it stands:
