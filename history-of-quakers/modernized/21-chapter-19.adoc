@@ -2,14 +2,26 @@
 
 === 1674-1676.
 
-Dispute with the Baptists--Jeremy Ives--An unfaithful Friend--Dispute at Barbican between
-J+++.+++ Ives and the Quakers--Persecution continued--Cruelties practised in Leicestershire,
-Norfolk and Somersetshire--Sad end of Persecutors--Death of W. Bayly-- Penitence
-of M. Hide--Death of Priest Lampitt--Barbarous usage of E. Cooper-- Insolence
-of Informers--Outrages at Hereford--Successful appeal of J. Layton--Death of
-two hundred Quakers in prison since the Restoration--Law in Barbados to prevent
-Negroes from going to Friends`' Meetings--R. Barclay and Adrian Paets--Correspondence
---Exposition of some of the doctrines of Friends.
+[.chapter-synopsis]
+* Dispute with the Baptists
+* Jeremy Ives
+* An unfaithful Friend
+* Dispute at Barbican between J+++.+++ Ives and the Quakers
+* Persecution continued
+* Cruelties practised in Leicestershire, Norfolk and Somersetshire
+* Sad end of Persecutors
+* Death of W. Bayly
+* Penitence of M. Hide
+* Death of Priest Lampitt
+* Barbarous usage of E. Cooper
+* Insolence of Informers
+* Outrages at Hereford
+* Successful appeal of J. Layton
+* Death of two hundred Quakers in prison since the Restoration
+* Law in Barbados to prevent Negroes from going to Friends`' Meetings
+* R. Barclay and Adrian Paets
+* Correspondence
+* Exposition of some of the doctrines of Friends
 
 The year was now come to an end.
 But before I go over to the next, I am to mention that the Baptists in England,
@@ -53,6 +65,10 @@ but he went about to disguise the matter, and said,
 and wrote a book to prove that some oaths were lawful, though not all.`'
 Neither did he deny the fore-mentioned letter, for it was extant, and written as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Brother Pitman and Brother Shewel,
 
 I am at this time surprised with a holy passion;
@@ -101,13 +117,20 @@ Oh! for the Lord`'s sake, do something that may roll away this reproach;
 which that you may, is the prayers of your brother,
 who could be contented to write himself,
 
+[.signed-section-closing]
 Your companion in tribulation,
 
-JEREMY IVESJan.
-14, 1660.
+[.signed-section-signature]
+Jeremy Ives
 
+[.signed-section-context-close]
+Jan. 14, 1660.
+
+[.postscript]
 Brother Ward, my fellow-prisoner, desires to present his love to you,
 and so do some others.
+
+--
 
 Thus zealously Jeremy Ives wrote to his fellow-teachers, who for human fear,
 and to avoid sufferings, had, against their profession,
@@ -131,6 +154,10 @@ to be released from imprisonment, had taken the oath that was demanded of him.
 But of what a bitter relish this became to him,
 and what terror and horror he was seized with, the following letter will show:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Friends,
 
 I desire to lay before you this my condition in this my fall,
@@ -162,9 +189,13 @@ than to break our peace with God.
 
 Pray for me; for my bonds are greater than yours.
 
-EDWARD CHILTON.
+[.signed-section-signature]
+Edward Chilton.
 
+[.signed-section-context-close]
 Windsor, the 22nd of the 11th month, 1660.
+
+--
 
 It is remarkable, that this Chilton in the conclusion of his letter says,
 that his bonds were greater than those of his friends, who neither feared a premunire,
@@ -845,6 +876,9 @@ in the island of Barbados, in the West Indies,
 a law was made to prevent negroes coming into the meetings of the Quakers,
 which was of this tenor:
 
+[.embedded-content-document.legal]
+--
+
 Whereas of late, many negroes have been allowed to remain at the meetings of the Quakers,
 as hearers of their doctrine, and taught in their principles,
 whereby the safety of the island may be much hazarded: be it enacted,
@@ -858,7 +892,7 @@ shall bring their actions upon this statute, within three months,
 against the owner of the negro, or negroes:
 wherein the defendant having ten days summons, shall appear, plead,
 and come to trial at the first court after summons,
-or judgment to be given by nihil dicit, (in English:
+or judgment to be given by _nihil dicit,_ (in English:
 "`he says nothing`") and execution immediately to issue.
 And if such negro, or negroes,
 do not belong to any of the persons present at the same meeting,
@@ -888,7 +922,10 @@ Read, and passed the council the 21st of April, 1676,
 and consented to by his excellency +++[+++the governor]
 the same day.
 
-EDWARD STEED, Deputy-secretary.
+[.signed-section-signature]
+Edward Steed, Deputy-secretary.
+
+--
 
 Although in the beginning of this statute,
 the instructing of the negroes in the doctrine of the Quakers,
@@ -919,7 +956,7 @@ which he promised he would.
 But he continuing deficient in the case,
 Furly at last published the said letter in print,
 but without mentioning the name of him to whom it was written, only his character,
-Cuidam legato.^
+__Cuidam legato.__^
 footnote:[To a certain ambassador.]
 
 In this letter was set down first the objection of the Herr Pacts, namely,
@@ -1002,6 +1039,10 @@ that he readily yielded that he had been mistaken in his notion of the Quakers;
 for he found they could make a reasonable plea for the foundation of their religion.
 And thereupon R, Barclay translated the said letter into English as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Friend,
 
 Albeit I judge I did fully answer to all your arguments in that conference we had,
@@ -1030,7 +1071,7 @@ that at last the truth may appear where it is.
 
 And that the whole matter may the more clearly be understood,
 it will be fit in the first place, to propose your argument,
-whereby you opposesed the immediate revelation of God in the saints:
+whereby you opposed the immediate revelation of God in the saints:
 from there concluding you have fully overturned the
 foundation of the people called Quakers.
 Which argument of yours is;
@@ -1044,22 +1085,10 @@ you considers the substance of the Christian religion as a contingent truth;
 which contingent truth is matter of fact.
 From which you reason that:
 
-Matter of fact cannot be known but by the relation of another,
-or by perception of the outward senses;
-because there are naturally in our souls no ideas of contingent truths,
-such as are concerning necessary truths: namely, that God is;
-and that the whole is greater than the part.--And since it may without absurdity be said,
-that God cannot make a contingent truth to become a necessary truth;
-neither can God reveal contingent truths or matters of fact,
-but as contingent truths are revealed:
-but matters of fact are not revealed but by the outward senses.
-From which you concludes that
-
-Men are not even obliged to believe God producing
-any revelation in the soul concerning matter of fact,
-whether of a thing done, or to be done,
-unless there be added some miracles obvious to the outward senses,
-by which the soul may be ascertained, that that revelation comes from God.
+[.syllogism]
+* Matter of fact cannot be known but by the relation of another, or by perception of the outward senses; because there are naturally in our souls no ideas of contingent truths, such as are concerning necessary truths: namely, that God is; and that the whole is greater than the part.--And since it may without absurdity be said,that
+* God cannot make a contingent truth to become a necessary truth; neither can God reveal contingent truths or matters of fact, but as contingent truths are revealed: but matters of fact are not revealed but by the outward senses. From which you conclude that
+* Men are not even obliged to believe God producing any revelation in the soul concerning matter of fact, whether of a thing done, or to be done, unless there be added some miracles obvious to the outward senses, by which the soul may be ascertained, that that revelation comes from God.
 
 All this you endeavor also to prove from the Scripture, Rom. 10 where the apostle says,
 "`Faith comes by hearing:`" and because the apostle speaks
@@ -1077,7 +1106,8 @@ unless there be something proposed to the outward senses.
 Before I proceed to a direct answer to this argument,
 some things are necessary to be premised:
 
-First then; That it is falsely supposed,
+[.numbered]
+_First_ then; That it is falsely supposed,
 that the essence of the Christian religion consists
 in the historical faith and knowledge of the birth,
 death, life, resurrection, and ascension of Jesus Christ.
@@ -1088,7 +1118,8 @@ which goes to the completing of the Christian religion;
 as the hands or feet of a man are integral parts of a man,
 without which nevertheless a man may exist, but not an entire and complete man.
 
-Secondly, If by immediate revelation be understood such a revelation of God,
+[.numbered]
+_Secondly,_ If by immediate revelation be understood such a revelation of God,
 as begets in our souls a historical faith and knowledge
 of the birth of Christ in the flesh,
 without the means of the holy Scripture, we do not contend for such a revelation,
@@ -1111,7 +1142,8 @@ and by its influence moves the mind to assent unto
 the historical truth of Christ`'s birth,
 life, etc. in the reading or hearing the Scripture, or meditating therein.
 
-Thirdly, Nevertheless we do firmly assert, that God can most easily, clearly,
+[.numbered]
+_Thirdly,_ Nevertheless we do firmly assert, that God can most easily, clearly,
 and certainly, manifest to our minds the historical truths of Christ`'s birth,
 etc. when it so pleased him, even without the Scripture, or any other outward means.
 And because this argument seems to be formed against the possibility of such a revelation,
@@ -1121,7 +1153,8 @@ and being to be born of a virgin, and afterwards to suffer death,
 did know these truths of fact by the inward inspiration of God, without outward means:
 for which see 1 Pet. 1:10-11. Now that which has been may be.
 
-Fourthly, This argument does at most conclude,
+[.numbered]
+_Fourthly,_ This argument does at most conclude,
 that we cannot know naturally any truth of fact,
 but by the relation of another without us, or by the perception of the outward senses;
 because there are naturally in our minds no ideas concerning contingent truths,
@@ -1132,16 +1165,17 @@ but that hinders not, but we may know a contingent truth by a supernatural knowl
 God supplying the place of an outward relator; who is so true, that he may,
 and ought to be believed, since God is the fountain of truth.
 
-Fifthly,
+[.numbered]
+_Fifthly,_
 When God does make known unto men any matter of fact
 by divine immediate revelation or inspiration,
 God speaking as to the ear of the heart of the inward man,
 or as by his finger writing therein,
 two things are to be considered in such an immediate revelation.
 
-To Materiale, The matter of fact, or thing revealed, which is contingent.
+To _Materiale,_ The matter of fact, or thing revealed, which is contingent.
 
-To Formale, The form or mode, how the revelation is made: which form is an inward,
+To _Formale,_ The form or mode, how the revelation is made: which form is an inward,
 divine, and supernatural revelation, which is the voice or speech of God,
 inwardly speaking to the ear of the inward man or mind of man,
 or a divine writing supernaturally imprinted therein.
@@ -1159,7 +1193,8 @@ or property proceeding from its nature; and has its proper idea,
 by which it is distinguishable from every other thing,
 if so be its idea be stirred up in us, and clearly proposed to us.
 
-Sixthly: Now as some beings are natural, some supernatural, so some ideas are natural,
+[.numbered]
+_Sixthly:_ Now as some beings are natural, some supernatural, so some ideas are natural,
 some supernatural: and as when any natural idea is excited in us, we clearly know it;
 so also when a supernatural idea is raised, we clearly know that, whereof it is the idea.
 But the voice of God speaking to the mind of man, is a supernatural being,
@@ -1172,7 +1207,8 @@ as says the psalmist, who had often experience of it;
 and we also in our measures are witnesses thereof,
 for the voice of God is known to be his by its divine virtue.
 
-Seventhly: The senses are either outward or inward:
+[.numbered]
+_Seventhly:_ The senses are either outward or inward:
 and the inward senses are either natural or supernatural;
 we have an example of the inward natural sense in being angered or pacified,
 in love and hatred; or when we perceive and discern any natural truth,
@@ -1493,7 +1529,7 @@ which is clearly perceived in the soul,
 it is a manifest token that it is not a divine revelation,
 but either a false imagination, or the wicked suggestion of some evil spirit.
 
-But to proceed: if-we will hear the Scripture,
+But to proceed: if we will hear the Scripture,
 (as all Christians ought,) it testifies to us,
 that God has declared his mind and will even concerning contingent truths to come,
 in the prophets; as that of the first to the Hebrews does evidently declare: "`God,
@@ -1642,24 +1678,34 @@ this is that saving word of grace which I commend you unto;
 and that God may give you a heart inclinable to believe and obey the truth,
 is the desire of your faithful friend,
 
-R+++.+++ BARCLAY.
+[.signed-section-signature]
+R+++.+++ Barclay.
 
+[.signed-section-context-close]
 From the prison of Aberdeen, in Scotland,
 where I am confined for the sake of the testimony of Jesus.
-November 24,1676.
+
+[.signed-section-context-close]
+November 24, 1676.
 
 This letter, a year ago,
 at the desire of my friend R. B. I delivered into the hands of the afore-named ambassador,
 desiring his answer in writing, which he then promised; but not having as yet done,
 it was seen fit to be published.
 
-B.F. Rotterdam, the 28th of March, 1678.
+[.signed-section-signature]
+B+++.+++F.
 
-A brief and distinct Solution of the Argument which the
-Ambassador aforesaid uses against Robert Barclay`'s Thesis,
-whereby he attempts to evince that not the inward revelation of the Holy Spirit,
-but the outward by the Scripture, is the principal rule, and foundation of our faith:
-at least to us Europeans, who have the Scriptures.
+[.signed-section-context-close]
+Rotterdam, the 28th of March, 1678.
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== A brief and distinct Solution of the Argument which the Ambassador aforesaid uses against Robert Barclay`'s Thesis, whereby he attempts to evince that not the inward revelation of the Holy Spirit, but the outward by the Scripture, is the principal rule, and foundation of our faith: at least to us Europeans, who have the Scriptures.
 
 As to his argument, as it was transmitted to us,
 if he considers the strength and substance of it, thus it stands:
@@ -1703,6 +1749,7 @@ whereby the historical knowledge and faith of Christ came to any people.
 For the clearer understanding the solution of this argument,
 some things worthy observation are to be considered:
 
+[.numbered]
 1+++.+++ First then observe, that the force of this argument at most intends to prove this:
 That the Scripture is the principal rule and foundation of historical faith and knowledge;
 but we with good reason distinguish between historical and saving knowledge,
@@ -1729,6 +1776,7 @@ It was this kind of knowledge and faith which wicked Balaam had,
 who saw and knew many historical futurities, and believed them,
 but had not saving faith.
 
+[.numbered]
 2+++.+++ Observe, secondly.
 That the knowledge and faith necessary to salvation, are to be understood two ways,
 either by a necessity antecedent, or in way of priority, or by a necessity consequent,
@@ -1760,6 +1808,7 @@ certainly this revelation were necessary to be believed to that man`'s salvation
 by a necessity consequent, because that faith is an act of obedience;
 and to obey God is necessary to salvation.
 
+[.numbered]
 3+++.+++ Observe in the third place,
 that among those things that are necessary to be
 believed to salvation by a necessity consequent,
@@ -1816,7 +1865,7 @@ to the producing of which the letter of the Scripture does very frequently,
 (as to many of its acts, if not all,) not concur or cooperate,
 either as a material object, or as a necessary condition,
 which it is commonly called in the schools.
-Causa sine qua non, or a cause or condition without which a thing cannot be done,
+_Causa sine qua non,_ or a cause or condition without which a thing cannot be done,
 though it does not influence the effect.
 
 Now for a direct solution of the argument aforesaid, we answer,
@@ -1875,13 +1924,17 @@ if he has omitted any thing in this transmission, or we may seem not to have und
 or touched the strength of the argument, let it be remitted to us; and we,
 through divine assistance, shall answer it at large.
 
-GEORGE KEITH, and ROBERT BARCLAY.
+[.signed-section-signature]
+George Keith, and Robert Barclay.
+
+--
 
 This solution was delivered to the said ambassador,
 not long before the epistle cited page 537, and at page 17,
-in the Appendix to Sewel`'s Dutch History.
+in the Appendix to Sewel`'s [.book-title]#Dutch History.#
 
-A brief Unknotting of an Argument proposed by another person.
+[.blurb]
+=== A brief Unknotting of an Argument proposed by another person.
 
 Moreover as to what relates to another person`'s argument
 against that part of R. B`'s second Thesis,
@@ -1930,4 +1983,4 @@ That is to say, not by the outward eye, nor by the eye of natural reason,
 but by the eye of faith.
 
 The curious may see the original Latin, from which the preceding are translated,
-in the Appendix to William Sewel`'s Dutch History of the Quakers.
+in the Appendix to William Sewel`'s [.book-title]#Dutch History of the Quakers.#
