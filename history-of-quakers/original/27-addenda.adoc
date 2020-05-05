@@ -1,15 +1,10 @@
 == ADDENDA
 
-=== The Author towards the conclusion of this history, having given some account of the principles of the people called Quakers, thought fit, in the Dutch Appendix, among other things, to add the following treatise in Latin, concerning the Light, written about the year 1662.
-
-And since in this English translation the subject matters contained
-in the said Appendix are inserted in the body of the history,
-in those places to which they properly belong, and no reference being made to this,
-but as mentioned in the preface, it is thought fit to subjoin it here,
-with the following words of the Author prefixed to the same.
+[.blurb]
+=== The Author towards the conclusion of this history, having given some account of the principles of the people called Quakers, thought fit, in the Dutch Appendix, among other things, to add the following treatise in Latin, concerning the Light, written about the year 1662. And since in this English translation the subject matters contained in the said Appendix are inserted in the body of the history, in those places to which they properly belong, and no reference being made to this, but as mentioned in the preface, it is thought fit to subjoin it here, with the following words of the Author prefixed to the same.
 
 In the preface to this history, mention is made of a certain book,
-entitled '`The Light upon the Candlestick,`' published in the name, as many supposed,
+entitled [.book-title]#The Light upon the Candlestick,# published in the name, as many supposed,
 of William Ames, yet no ways written by him, though it contains his doctrine,
 but by a certain learned man, unwilling to be known publicly, and as it seems to me,
 written originally in Latin; which, though printed, being but in few hands,
@@ -19,7 +14,11 @@ And the original in Latin, soon after the first publication,
 being translated into English by B. F. was printed in the year 1663,
 from which translation take it as follows, viz.
 
-=== THE LIGHT UPON THE CANDLESTICK
+[.embedded-content-document]
+--
+
+[.letter-heading]
+THE LIGHT UPON THE CANDLESTICK
 
 Things are not for words, but words for things; if therefore we understand things aright,
 and as they ought, by words,
@@ -435,3 +434,5 @@ and so much the further, as he comes more to admire the creature,
 and stand in contemplation thereof, to mistake himself by it.
 This thou must then shun, and the contrary mind, viz. Mind the light that is in thee,
 by it to work, unmovably and faithfully to persevere.
+
+--
