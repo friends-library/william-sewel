@@ -296,6 +296,11 @@ we do humbly hope that the king`'s tenderness will appear and extend,
 with his power to express the same; recommending to his princely clemency,
 the case of our present suffering friends hereunto annexed.
 
+--
+
+[.embedded-content-document.address]
+--
+
 [.letter-heading]
 TO THE KING.
 
@@ -459,7 +464,7 @@ In the meanwhile the king published the following proclamation:
 [.embedded-content-document.legal]
 --
 
-[.letter-heading]
+[.signed-section-context-open]
 James R.
 
 Whereas our most entirely beloved brother, the late king, deceased,
@@ -506,7 +511,7 @@ and all other ordinaries and persons executing ecclesiastical jurisdiction.
 By his majesty`'s command,
 
 [.signed-section-signature]
-Sunderalnd.
+Sunderland.
 
 --
 
@@ -543,7 +548,7 @@ And for so doing this shall be your warrant.
 Dated the 23rd of December, 1685.
 
 [.signed-section-signature]
-The. Jenner, Recorder.
+Tho. Jenner, Recorder.
 
 [.postscript]
 Let notice be given to me before he be discharged.
@@ -1703,6 +1708,7 @@ obtained the following order from him:
 [.letter-heading]
 To our trusty and well-beloved our Attorney-General.
 
+[.signed-section-context-open]
 James R.
 
 Trusty and well-beloved, we greet you well:
