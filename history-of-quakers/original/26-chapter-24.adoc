@@ -725,7 +725,7 @@ that Julius the centurion courteously intreated Paul,
 and gave him liberty to go unto the friends, (for so the Greek hath it,)^
 // lint-disable invalid-characters
 footnote:[Ηρὸς τοὺς φίλους and ἐι φ`'λοι, which is not his friends, or our friends,
-as it is rendered, but the friends.]
+as it is rendered, but _the_ friends.]
 to refresh himself, and 3 Epist.
 John 14. we read, '`The friends salute thee; and greet the friends by name.`'
 Now this name of Friends is so common among the Quakers in England,
