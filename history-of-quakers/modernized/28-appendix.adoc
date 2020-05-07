@@ -7,9 +7,11 @@ and the plainness of its expressions.
 It is the more like the man,
 and carries the greater evidence of the honesty and integrity of the relater:
 
-The account of the sufferings of Richard Seller,
-of Keinsey a fisherman who was pressed in Scarborough-Piers,
-in the time of the two last engagements between the Dutch and English, in the year 1665.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== The account of the sufferings of Richard Seller, of Keinsey a fisherman who was pressed in Scarborough-Piers, in the time of the two last engagements between the Dutch and English, in the year 1665.
 
 I was pressed in Scarborough-Piers, and refusing to go on board the ketch,
 they beat me very sore on the sand, and I refusing to go on board,
@@ -504,6 +506,8 @@ But I refused, and told them, I had of my own, that I hoped would serve me home.
 And the lieutenant was troubled because I would take nothing;
 he would have given me twenty shillings, but I would not take it.`'
 
+--
+
 Thus ends the remarkable narrative of the sufferings of this faithful sailor,
 who rather than violate his conscience by being instrumental
 to destroy other men`'s lives,
@@ -526,10 +530,11 @@ at length became his friends and favorers.
 [.asterism]
 '''
 
-A narrative of the Sufferings of John Philly and William Moore,
-in the Inquisition of Hungary, from the first month 1662, to the seventh month 1663.
-Taken from a letter written by William Moore to William Caton, dated Amsterdam,
-11th month, 1663.
+[.blurb]
+=== A narrative of the Sufferings of John Philly and William Moore, in the Inquisition of Hungary, from the first month 1662, to the seventh month 1663. Taken from a letter written by William Moore to William Caton, dated Amsterdam, 11th month, 1663.
+
+[.embedded-content-document.letter]
+--
 
 On the 29th of the first month, 1662, John Philly and William Moore,
 being refreshed with the overflowings of the love of God through you,
@@ -601,8 +606,7 @@ asked for countrymen, but finding none, I asked leave of the guard,
 and walked out into the field, where a trooper sat sentinel,
 discoursed a little with him, and passed on farther, where some were ploughing.
 And as I returned back, there did meet me a soldier of captain Fusch`'s company,
-with two other, and having a book in my hand, called, '`A paper sent forth into the world,
-to show the grounds and reasons why we denied the priests of the world.`'
+with two other, and having a book in my hand, called, [.book-title]#A Paper Sent Forth into the World, to Show the Grounds and Reasons Why We Denied the Priests of the World.#
 He looked on the title, and began voluntarily to tell me,
 that '`Such a place was in Turkey, and if a man went there,
 he might have good days there,`' etc.
@@ -729,10 +733,10 @@ he was slow in taking off that where the gold was, and the marshal thinking it t
 and thinking there had been no more, bid him put them on again.
 And upon a certain time he gave it me in half a little white loaf,
 when we stood with the soldiers waiting to be called.
-And they seeing the book called '`The way to the kingdom,`' that it was printed at Amsterdam,
+And they seeing the book called [.book-title]#The Way to the Kingdom,# that it was printed at Amsterdam,
 asked me, '`What books I brought from there to Paltz, and how many?`'
 And one morning having sent for one of the priests.
-He got that written book of George Fox`'s of the Apostasy of Christendom,
+He got that written book of George Fox`'s of the [.book-title]#Apostasy of Christendom,#
 who looking on it, began to be hot and wrathful, saying,
 '`How are we (meaning the Catholics) apostatized, and how can that be proved?`'
 I said, '`Friend, it becomes not a spiritual man to be so furious, but gentle, meek,
@@ -1047,7 +1051,7 @@ and might have a little straw or hay to lie upon, for we were worse used than th
 '`Yes,`' said he, '`we prefer them before you.`'
 And about that time they offered us a drink in an urging manner,
 which it was supposed was made to poison us; and John refusing to take it,
-one of the priests said, '`Suspectum est nos.`'
+one of the priests said, _Suspectum est nos._
 One of the priests asked me, If I had a wife?
 I said, '`I never knew woman-kind.`'
 He said, '`The heretics had not that grace of chastity, neither had I any grace from God.`'
@@ -1165,7 +1169,7 @@ and shed pretty much of my blood, and I thought he had quite struck out one of m
 and he pulled me down in the snow, and did sorely abuse me,
 and bound my arms with thongs, as also my feet, and bound me so in the sled,
 that I hung also by the arms and feet with my face in the hay,
-neither knew i to the contrary,
+neither knew I to the contrary,
 but that they would have murdered me in that wood which was close by; but O, thought I,
 that I might but live one quarter of an hour,
 that peradventure some might pass by and see me,
@@ -1336,11 +1340,16 @@ Several more passages might be set down, and what we suffered together,
 and since we parted, but this for the present may suffice till another opportunity.
 Farewell.
 
+[.signed-section-closing]
 Your dear friend in the love and light of God,
 
-WILLIAM MOORE.
+[.signed-section-signature]
+William Moore.
 
+[.signed-section-context-close]
 Amsterdam, the 11th month, 1663.
+
+--
 
 The narrative contained in the preceding letter,
 exhibits many instances of that protecting Providence of God,
@@ -1369,4 +1378,5 @@ the only preserver of those that put their trust in him,
 whom he delivers out of the hand of the wicked,
 and out of the hand of the unrighteous and cruel man. Ps. 71:4.
 
+[.the-end]
 The End
