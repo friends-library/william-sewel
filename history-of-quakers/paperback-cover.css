@@ -1,0 +1,27 @@
+#__id__ .spine-vol, 
+#__id__ .front-vol {
+  display: none;
+}
+
+#__id__.faux-vol .front-vol {
+  display: block;
+  margin-top: 0.25em;
+  font-size: 70%;
+}
+
+#__id__.faux-vol .spine-vol {
+  display: inline;
+}
+
+#__id__.faux-vol--1 .if-vol-2 {
+  display: none;
+}
+
+#__id__.faux-vol h1.title {
+  margin-top: 0.5em;
+}
+
+#__id__ .blurb {
+  font-size: 2.65%;
+}
+
