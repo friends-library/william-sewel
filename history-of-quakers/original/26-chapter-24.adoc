@@ -916,7 +916,7 @@ as they did by the following address:
 --
 
 [.letter-heading]
-To ANNE, Queen of Great Britain, etc.
+To Anne, Queen of Great Britain, etc.
 
 The grateful and humble Address of the People commonly called Quakers,
 from their Yearly Meeting in London, this 28th day of the third month, called May, 1708.
@@ -1522,7 +1522,7 @@ the Quakers did not omit also to present an address; being as follows:
 --
 
 [.letter-heading]
-To ANNE, Queen of Great Britian, etc.
+To Anne, Queen of Great Britian, etc.
 
 [.signed-section-context-open]
 The humble Address of her Protestant dissenting subjects, called Quakers,
@@ -1663,7 +1663,7 @@ being as follows:
 --
 
 [.letter-heading]
-To GEORGE, King of Great Britain, etc.
+To George, King of Great Britain, etc.
 
 The humble address of the people commonly called Quakers.
 

@@ -265,7 +265,8 @@ where by law an oath is required, shall, instead of the usual form,
 be permitted to make his or her solemn affirmation or declaration,
 in these words following:
 
-I, _A. B._ do declare in the presence of Almighty God,
+[.numbered]
+I+++.+++ _A. B._ do declare in the presence of Almighty God,
 the witness of the truth of what I say.
 
 [.numbered]
@@ -554,7 +555,8 @@ But a great part of his auditory consisted of an ignorant crew,
 and one or other of them was continually heard to cry out.
 It is sufficient.
 
-Now to prove that G. Whitehead had denied Christ to be man,# etc. these words,
+Now to prove that G. Whitehead had denied Christ to be man,
+Keith cited from the forementioned book called [.book-title]#The Divinity of Christ,# etc., these words,
 '`If the body and soul of the Son of God were both created,
 does not this render him a fourth person?`'
 Here Keith stopped, and broke of with an etc. without adding the following words;
@@ -715,8 +717,8 @@ they drew up the following declaration, and published it in print:
 [.embedded-content-document.address]
 --
 
-The ancient testimony and principle of the people called Quakers renewed,
-with respect to the king and government, and touching the present association:
+[.blurb]
+=== The ancient testimony and principle of the people called Quakers renewed, with respect to the king and government, and touching the present association:
 
 We, the said people, do solemnly and sincerely declare,
 that it has been our judgment and principle from the first day we were called to profess
@@ -842,9 +844,9 @@ so that it fell first into my hands, was an evidence:
 
 [quote]
 ____
-_Prospicimus modo quod durabunt Fcedera longo
+_Prospicimus modo quod durabunt Fcedera longo_
 
-Tempore, nee nobis pax cito diffugiet:_
+_Tempore, nee nobis pax cito diffugiet:_
 ____
 
 Which may be turned into English thus,
@@ -854,9 +856,9 @@ But if one reads this distich, backward, it runs thus:
 
 [quote]
 ____
-_Diffugiet cito pax nobis, nee tempore longo
+_Diffugiet cito pax nobis, nee tempore longo_
 
-Fcedera durabunt, quod modo prospieimus:_
+_Fcedera durabunt, quod modo prospieimus:_
 ____
 
 And it makes out a quite contrary sense, namely: '`Peace will soon fly from us,
@@ -875,7 +877,7 @@ which they presented to the king, and was as follows:
 --
 
 [.letter-heading]
-To King WILLIAM III.
+To King William III.
 over England, etc.
 
 The grateful acknowledgment of the people commonly called Quakers, humbly presented:
@@ -929,8 +931,8 @@ drew up the following remarks, which they delivered to the members of parliament
 [.embedded-content-document.address]
 --
 
-Some considerations humbly offered by the people called Quakers,
-relating to the bill for restraining the licentiousness of the press.
+[.blurb]
+=== Some considerations humbly offered by the people called Quakers, relating to the bill for restraining the licentiousness of the press.
 
 This bill is, they conceive, of the like nature with the expired act,
 13 and 14 Car. 11. ch. 33,
@@ -1199,8 +1201,8 @@ made a collection of his sentiments concerning a national church, and its clergy
 and what account he gave of their rites and ceremonies,
 from books and papers he had published many years before;
 to which the author gave this title,
-'`Mr. George Keith`'s Account of a National Church and Clergy,
-humbly presented to the bishop of London.`'
+[.book-title]#Mr. George Keith`'s Account of a National Church and Clergy,
+Humbly Presented to the Bishop of London.#
 To this were added some queries he once wrote concerning
 what is called the sacrament of the Lord`'s supper.
 This account was now published in print, and presented to the bishop of London,
@@ -1233,7 +1235,7 @@ by George Whitehead, William Mead, and Francis Camfield.
 --
 
 [.letter-heading]
-To King WILLIAM III.
+To King William III.
 over England, etc.
 
 An Address from the people commonly called Quakers humbly presented:
