@@ -18,7 +18,7 @@ from which translation take it as follows, viz.
 --
 
 [.letter-heading]
-THE LIGHT UPON THE CANDLESTICK
+The Light upon the Candlestick
 
 Things are not for words, but words for things; if therefore we understand things aright,
 and as they ought, by words,

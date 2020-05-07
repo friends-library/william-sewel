@@ -7,6 +7,9 @@ and the plainness of its expressions.
 It is the more like the man,
 and carries the greater evidence of the honesty and integrity of the relater, viz.
 
+[.embedded-content-document.testimony]
+--
+
 [.blurb]
 === The account of the sufferings of Richard Seller, of Keinsey a fisherman who was pressed in Scarborough-Piers, in the time of the two last engagements between the Dutch and English, in the year 1665.
 
@@ -501,6 +504,8 @@ Also they proffered me my pay, before I came off on board, and said,
 But I refused, and told them, I had of my own, that I hoped would serve me home.
 And the lieutenant was troubled because I would take nothing;
 he would have given me twenty shillings, but I would not take it.`'
+
+--
 
 Thus ends the remarkable narrative of the sufferings of this faithful sailor,
 who rather than violate his conscience by being instrumental
