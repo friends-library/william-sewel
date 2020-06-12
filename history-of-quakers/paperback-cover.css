@@ -1,4 +1,8 @@
-#__id__ .spine-vol, 
+#__id__ h1.title {
+  font-size: 13.16%;
+}
+
+#__id__ .spine-vol,
 #__id__ .front-vol {
   display: none;
 }
@@ -24,4 +28,3 @@
 #__id__ .blurb {
   font-size: 2.65%;
 }
-
