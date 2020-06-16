@@ -1065,6 +1065,9 @@ and commended to their consideration by George Fox.
 [.salutation]
 Friends,
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ How comes it to pass,
 that the Pope and cardinals grant not to the Protestants living in Spain, Italy,
@@ -1204,6 +1207,7 @@ Or is not rather that mortal and corruptible Christ, which you yourselves have m
 and for whose sake you have slain multitudes of the people of God,
 because they could not believe or comply with you?
 
+[.numbered]
 7+++.+++ Further, where did Christ or his apostles ever speak to the saints of purgatory,
 wherein men should be purged from their sins after death.
 Show us where it is written in the New Testament.
@@ -1212,6 +1216,8 @@ to tell the people a fable of a certain purgatory to purge them from sins after 
 Is it not likewise a denying of Christ`'s baptism with the holy Spirit,
 and of spiritual circumcision, and faith in Christ, which purges in this life,
 and gives the victory?
+
+====
 
 Did not Christ answer some that desired fire might come down from
 heaven and consume those that would not receive him;

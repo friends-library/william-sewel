@@ -1581,6 +1581,9 @@ the following reasons against it:
 [.embedded-content-document]
 --
 
+[.numbered-group]
+====
+
 [.numbered]
 I+++.+++ The church of England has frequently declared, by several of her members,
 in a clerical, as well as civil capacity,
@@ -1593,8 +1596,7 @@ that the queen has declared from the throne,
 that she will maintain the toleration inviolable.
 
 [.numbered]
-III.
-The Protestant subjects of this kingdom, who are parents of children,
+III. The Protestant subjects of this kingdom, who are parents of children,
 are supposed to have preserved to them, by the fundamental laws of this kingdom,
 the natural right of the care and direction of the education of their own children;
 which natural right this bill seems calculated to take away and destroy.
@@ -1617,14 +1619,14 @@ VI. It may be a means to oblige the carrying out
 of large sums of money for foreign education.
 
 [.numbered]
-VII.
-It may probably do much hurt to charitable foundations.
+VII. It may probably do much hurt to charitable foundations.
 
 [.numbered]
-VIII.
-It seems not to be agreeable to that great law of Christ, Matt. 7:12,
+VIII. It seems not to be agreeable to that great law of Christ, Matt. 7:12,
 "`Therefore all things whatsoever you would that men should do to you,
 do you even so to them; for this is the law and the prophets.`"
+
+====
 
 --
 

@@ -1443,6 +1443,9 @@ we have great reason to credit, and not to question,
 and have been always ready to embrace,
 with respect to Christ and his apostles own testimony and prophecies.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ For the doctrine of the resurrection;
 
@@ -1533,6 +1536,8 @@ Jude 6. Matt. 25:30. It is not for us to determine
 or dispute the manner how they shall be so reserved;
 but leave it to God; he knows how.
 
+====
+
 [.centered]
 === A Postscript relating to the doctrine of the Resurrection and eternal Judgment.
 
@@ -1582,6 +1587,9 @@ of which G. Whitehead was one, was in December presented to the parliament:
 
 Be it known to all that we sincerely believe and confess:
 
+[.numbered-group]
+====
+
 [.numbered]
 I+++.+++ That Jesus of Nazareth, who was born of the Virgin Mary, is the true Messiah,
 the very Christ, the Son of the living God, to whom all the prophets gave witness:
@@ -1596,14 +1604,15 @@ and is alive, and lives forever in his divine, eternal glory, dominion,
 and power with the Father.
 
 [.numbered]
-III.
-That the holy Scriptures of the Old and New Testament, are of divine authority,
+III. That the holy Scriptures of the Old and New Testament, are of divine authority,
 as being given by the inspiration of God.
 
 [.numbered]
 IV. And that magistracy or civil government, is God`'s ordinance,
 the good ends thereof being for the punishment of evil-doers,
 and praise of them that do well.
+
+====
 
 --
 
@@ -1768,6 +1777,9 @@ Seeing their relief is to them so needful, so harmless to all,
 and so useful to the government and their neighbors;
 let us a little consider the common objections; which may be summed up in short thus:
 
+[.numbered-group]
+====
+
 [.numbered]
 _First objection,_ How shall we then be at a certainty?
 
@@ -1780,6 +1792,8 @@ _Thirdly,_ It would be to rase old foundations
 
 [.numbered]
 _Fourthly,_ And let them into the government.
+
+====
 
 Which it is hoped will not be difficult to answer one by one,
 and that to reasonable satisfaction.

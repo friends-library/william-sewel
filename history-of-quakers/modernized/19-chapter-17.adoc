@@ -957,11 +957,17 @@ Whereupon the king gave command to sir John Otway, to write to the sheriff of La
 to set her at liberty,
 which letter G. Fox accordingly hastened his daughters with into the country.
 
+[.small-break]
+'''
+
 The parliament now sitting, made a law, entitled.
 _An Act to Prevent and Suppress Seditious Conventicles,_ which is as follows:
 
 [.embedded-content-document.legal]
 --
+
+[.numbered-group]
+====
 
 For providing farther and more speedy remedies against the
 growing and dangerous practices of seditious sectaries,
@@ -1049,8 +1055,7 @@ having regard to their diligence and industry in the discovery,
 dispersing and punishing of the said conventicles.
 
 [.numbered]
-III.
-And be it further enacted by the authority aforesaid,
+III. And be it further enacted by the authority aforesaid,
 that every person who shall take upon him to preach or teach in any such meeting,
 assembly or conventicle, and shall thereof be convicted, as aforesaid,
 shall forfeit for every such first offense the sum of twenty pounds,
@@ -1115,8 +1120,7 @@ with any cause or causes of appeal upon this act,
 but they shall be finally determined in the quarter-sessions only.
 
 [.numbered]
-VII.
-Provided always, and be it further enacted, that upon the delivery of such appeal,
+VII. Provided always, and be it further enacted, that upon the delivery of such appeal,
 as aforesaid,
 the person or persons appellant shall enter before the person or persons convicting,
 into recognizance, to prosecute the said appeal with effect:
@@ -1127,8 +1131,7 @@ and required to certify the same to the next quarter-sessions:
 the said appeal to be null and void.
 
 [.numbered]
-VIII.
-Provided always,
+VIII. Provided always,
 that every such appeal shall be left with the person or persons so convicting,
 as aforesaid, at the time of the making thereof
 
@@ -1193,8 +1196,7 @@ or plaint, in any of his majesty`'s courts at Westminster, wherein no essoin, pr
 or wager of law shall lie.
 
 [.numbered]
-XII.
-And be it further enacted by the authority aforesaid,
+XII. And be it further enacted by the authority aforesaid,
 that if any person be at any time sued for putting in execution
 any of the powers contained in this act,
 otherwise than upon appeal allowed by this act,
@@ -1205,8 +1207,7 @@ or if upon demurrer judgment be given for the defendant,
 every such defendant shall have his full treble costs.
 
 [.numbered]
-XIII.
-And be it further enacted by the authority aforesaid, that this act,
+XIII. And be it further enacted by the authority aforesaid, that this act,
 and all clauses therein contained,
 shall be construed most largely and beneficially for the suppressing of conventicles,
 and for the justification and encouragement of all
@@ -1228,8 +1229,7 @@ as fully as the said other justice of peace might have done,
 in case he or they had been inhabitants in the place where the offense was committed.
 
 [.numbered]
-XIV.
-Provided also,
+XIV. Provided also,
 that no person shall be punished for any offense against this act unless such
 offender be prosecuted for the same within three months after the offense committed.
 (2) And that no person who shall be punished for any offense by virtue of this act,
@@ -1250,23 +1250,20 @@ for not doing that which by this act is directed to be done
 by any justice of peace in any county of England.
 
 [.numbered]
-XVI.
-Provided, and be it enacted by the authority aforesaid, that if the person offending,
+XVI. Provided, and be it enacted by the authority aforesaid, that if the person offending,
 and convicted as aforesaid, be a femme-covert, cohabiting with her husband,
 the penalties of five shillings, and ten shillings, so as aforesaid incurred,
 shall be levied by warrant, as aforesaid,
 upon the goods and chattels of the husband of such femme-covert.
 
 [.numbered]
-XVII.
-Provided also,
+XVII. Provided also,
 that no peer of this realm shall be attached or imprisoned
 by virtue or force of this act;
 any thing, matter, or clause, therein to the contrary notwithstanding.
 
 [.numbered]
-XVIII.
-Provided also, that neither this act, nor any thing therein contained,
+XVIII. Provided also, that neither this act, nor any thing therein contained,
 shall extend to invalidate or make void his majesty`'s supremacy in ecclesiastical affairs:
 (2) but that his majesty, and his heirs and successors, may from time to time,
 and at all times hereafter,
@@ -1274,6 +1271,8 @@ exercise and enjoy all powers and authority in ecclesiastical affairs,
 as fully and as amply as himself or any of his predecessors
 have or might have done the same:
 any thing in this act notwithstanding.
+
+====
 
 --
 

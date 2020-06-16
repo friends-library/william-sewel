@@ -660,6 +660,9 @@ Now that you may more clearly see the temper of my spirit,
 and how my heart stands to this thing, I shall a little open unto you,
 my faith and hope about it, in these ensuing particulars:
 
+[.numbered-group]
+====
+
 [.numbered]
 _First,_ I am assured in my heart and soul, that this despised people, called Quakers,
 is of the Lord`'s begetting in his own life and nature.
@@ -709,6 +712,8 @@ and then does it please him to deal with the enemies of his truth and people,
 when they are lifted up above the fear of him,
 and are ready to say in their hearts concerning them, they are now in our hands,
 who can deliver them?
+
+====
 
 Well, were it not in love to you, and in pity,
 in relation to what will certainly befall you, if you go on in this course,

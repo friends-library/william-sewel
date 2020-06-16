@@ -1100,6 +1100,9 @@ unless there be somewhat proposed to the outward senses.
 Before I proceed to a direct answer to this argument,
 some things are necessary to be premised:
 
+[.numbered-group]
+====
+
 [.numbered]
 _First_ then; That it is falsely supposed,
 that the essence of the Christian religion consists
@@ -1227,6 +1230,8 @@ but because of the revelation proposing it, which is the voice of God.
 For when the voice of God is heard in the soul,
 the soul doth as certainly conclude the truth of that voice, as the truth of God`'s being,
 from whom it proceeds.
+
+====
 
 These things being thus premised, I now proceed to a direct answer.
 For what is said, that God cannot make a contingent truth to become a necessary truth,
@@ -1741,6 +1746,9 @@ whereby the historical knowledge and faith of Christ came to any people.
 For the clearer understanding the solution of this argument,
 some things worthy observation are to be considered:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ First then observe, that the force of this argument at most intends to prove this,
 viz. That the Scripture is the principal rule and
@@ -1843,6 +1851,8 @@ through his sensible and perceptible motions and
 operations objectively representing themselves,
 move and incline us to assent unto, and believe the Scriptures,
 and the historical truths declared of in the Scriptures.
+
+====
 
 These things considered, we affirm,
 that though the Scriptures are ordinarily and commonly a certain medium or mean,
