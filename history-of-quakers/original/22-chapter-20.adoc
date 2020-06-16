@@ -1063,6 +1063,9 @@ as the supreme head of their church, and commended to their consideration by Geo
 [.salutation]
 Friends,
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ How comes it to pass,
 that the pope and cardinals grant not to the Protestants living in Spain, Italy,
@@ -1211,6 +1214,8 @@ to tell the people a fable of a certain purgatory to purge them from sins after 
 Is it not likewise a denying of Christ`'s baptism with the holy Spirit,
 and of spiritual circumcision, and faith in Christ, which purgeth in this life,
 and giveth the victory?
+
+====
 
 Did not Christ answer some that desired fire might come down from
 heaven and consume those that would not receive him;

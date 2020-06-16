@@ -1111,6 +1111,9 @@ which was as follows:
 [.embedded-content-document.legal]
 --
 
+[.numbered-group]
+====
+
 [.numbered]
 I+++.+++ Whereas an act made in the five and thirtieth year of
 the reign of our late sovereign lady queen Elizabeth,
@@ -1127,8 +1130,7 @@ and other disloyal persons, who under pretense of tender consciences,
 do at their meetings contrive insurrections, as late experience has showed;
 
 [.numbered]
-III.
-Be it enacted by the king`'s most excellent majesty,
+III. Be it enacted by the king`'s most excellent majesty,
 by and with the advice and consent of the lords spiritual and temporal,
 and commons in this present parliament assembled, and by the authority of the same,
 that if any person of the age of sixteen years or upwards, being a subject of this realm,
@@ -1261,8 +1263,7 @@ and which shall not have been by any of the ways afore-mentioned paid, secured,
 or reimbursed unto them, as aforesaid.
 
 [.numbered]
-VII.
-Provided always, and be it further enacted,
+VII. Provided always, and be it further enacted,
 that in case the offender so indicted and convicted for the said third offense,
 shall pay into the hands of the register or clerk
 of the court or sessions where he shall be convicted,
@@ -1271,8 +1272,7 @@ that then the said offender shall be discharged from imprisonment and transporta
 and the judgment for the same.
 
 [.numbered]
-VIII.
-And be it further enacted, that the like imprisonment, indictment,
+VIII. And be it further enacted, that the like imprisonment, indictment,
 arraignment and proceedings shall be against every such offender,
 as often as he shall again offend after such third offense;
 nevertheless is dischargeable and discharged,
@@ -1363,8 +1363,7 @@ and be proceeded against in all points,
 in such manner as any other offender against this act ought to be proceeded against.
 
 [.numbered]
-XII.
-Provided also, and be it enacted by the authority aforesaid,
+XII. Provided also, and be it enacted by the authority aforesaid,
 that if any keeper of any jail or house of correction,
 shall allow any person committed to his custody for any offense against this act,
 to go at large, contrary to the warrant of his commitment according to this act,
@@ -1378,16 +1377,14 @@ for the first and second offenses against this act are to be levied,
 raised, and disposed.
 
 [.numbered]
-XIII.
-Provided always, that no person shall be punished for any offense against this act,
+XIII. Provided always, that no person shall be punished for any offense against this act,
 unless such offender be prosecuted for the same within
 three months after the offense committed:
 (2) and that no person who shall be punished for any offense by virtue of this act,
 shall be punished for the same offense by virtue of any other act or law whatsoever.
 
 [.numbered]
-XIV.
-Provided also, and be it enacted,
+XIV. Provided also, and be it enacted,
 that judgment of transportation shall not be given against any femme covert,
 unless her husband be at the same time under the like judgment,
 and not discharged by the payment of money as aforesaid; but that instead thereof,
@@ -1408,8 +1405,7 @@ or other place, where they shall be informed any such conventicle as aforesaid,
 is or shall be held.
 
 [.numbered]
-XVI.
-Provided, that no dwelling-house of any peer of this realm,
+XVI. Provided, that no dwelling-house of any peer of this realm,
 while he or his wife shall be there resident, shall be searched by virtue of this act,
 but by immediate warrant from his majesty under his sign manual,
 or in the presence of the lieutenant, or one of the deputy lieutenants,
@@ -1424,8 +1420,7 @@ in presence of one justice of the peace, alderman, deputy alderman,
 or any one commissioner for the lieutenancy for the city of London.
 
 [.numbered]
-XVII.
-Provided also, and be it enacted by the authority aforesaid,
+XVII. Provided also, and be it enacted by the authority aforesaid,
 that no person shall by virtue of this act be committed to the house of correction,
 that shall satisfy the said justices of the peace, or chief magistrate respectively,
 that he or she, (and in case of a femme covert,
@@ -1434,8 +1429,7 @@ to the value of five pounds per annum, or personal estate to the value of fifty 
 any thing in this act to the contrary notwithstanding.
 
 [.numbered]
-XVIII.
-And in regard a certain sect called Quakers, and other sectaries,
+XVIII. And in regard a certain sect called Quakers, and other sectaries,
 are found not only to offend in the matters provided against by this act,
 but also obstruct the proceedings of justice by their obstinate refusal
 to take oaths lawfully tendered unto them in the ordinary course of law;
@@ -1464,8 +1458,7 @@ shall for every such offense incur the judgment and punishment of transportation
 in such manner as is appointed by this act for other offenses.
 
 [.numbered]
-XIX.
-Provided always, that if any the person or persons aforesaid shall come into such court,
+XIX. Provided always, that if any the person or persons aforesaid shall come into such court,
 and take his or their oath in these words:
 
 I do swear that I do not hold the taking of an oath to be unlawful,
@@ -1482,8 +1475,7 @@ to be returned into such court,
 any thing herein to the contrary notwithstanding.
 
 [.numbered]
-XXI.
-Provided always, that every person convicted as aforesaid in any courts aforesaid,
+XXI. Provided always, that every person convicted as aforesaid in any courts aforesaid,
 (other than his majesty`'s court of king`'s bench, or before the justices of court,
 or general jail-delivery,) shall by warrant containing a certificate
 of such conviction under the hand and seal of the respective judge
@@ -1499,8 +1491,7 @@ in such manner as judgment of transportation by this act is to be executed:
 but in case such person shall take the said oath, then he shall thereupon be discharged.
 
 [.numbered]
-XXII.
-Provided always, and be it enacted by the authority aforesaid,
+XXII. Provided always, and be it enacted by the authority aforesaid,
 that if any peer of this realm shall offend against this act,
 he shall pay ten pounds for the first offense, and twenty pounds for the second offense,
 to be levied upon his goods and chattels by warrant from any two justices of the peace,
@@ -1510,13 +1501,14 @@ and every further offense against the tenor of this act, shall be tried by his p
 and not otherwise.
 
 [.numbered]
-XXIII.
-Provided also, and be it further enacted by the authority aforesaid,
+XXIII. Provided also, and be it further enacted by the authority aforesaid,
 that this act shall continue in force for three years
 after the end of this present session of parliament;
 and from there forward to the end of the next session
 of parliament after the said three years,
 and no longer.
+
+====
 
 --
 

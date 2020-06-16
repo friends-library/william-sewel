@@ -1292,6 +1292,9 @@ but told him afterwards, that was not the business he came about,
 but that he was sent from his brethren, the friars, at Jerusalem,
 to propound to him some questions.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Whether he would promise, when he came to Jerusalem,
 that he would visit the holy places as other pilgrims did?
@@ -1307,6 +1310,8 @@ that he would visit the holy places as other pilgrims did?
 
 [.numbered]
 5+++.+++ And when he came to Jerusalem, not speak any thing about religion.
+
+====
 
 Not being willing to enter into a promise, he was by the Irish friar,
 (with a guard of horse and footmen, he brought with him,) carried back to Jaffa,

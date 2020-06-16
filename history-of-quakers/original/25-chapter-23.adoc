@@ -265,6 +265,9 @@ where by law an oath is required, shall, instead of the usual form,
 be permitted to make his or her solemn affirmation or declaration,
 in these words following, viz.
 
+[.numbered-group]
+====
+
 [.numbered]
 I+++.+++ _A. B._ do declare in the presence of Almighty God,
 the witness of the truth of what I say.
@@ -277,8 +280,7 @@ where by law an oath is required, within this kingdom of England, dominion of Wa
 or town of Berwick-upon-Tweed, as if such Quaker had taken an oath in the usual form.
 
 [.numbered]
-III.
-And be it further enacted by the authority aforesaid, that if any Quaker,
+III. And be it further enacted by the authority aforesaid, that if any Quaker,
 making such solemn affirmation or declaration, shall be lawfully convicted, willfully,
 falsely, and corruptly, to have affirmed or declared any matter or thing,
 which if the same had been in the usual form,
@@ -346,9 +348,10 @@ or serve on any juries, or bear any office or place of profit in the government;
 any thing in this act contained to the contrary in any wise notwithstanding.
 
 [.numbered]
-VII.
-Provided, that this act shall continue in force for the space of seven years,
+VII. Provided, that this act shall continue in force for the space of seven years,
 and from thence to the end of the next session of parliament, and no longer.
+
+====
 
 --
 
@@ -403,6 +406,9 @@ challenged divers of us to defend ourselves against such
 charges as he has to exhibit against us at Turner`'s hall:
 these are to certify all whom it may concern,
 that the reasons why we decline any such meeting are as follow:
+
+[.numbered-group]
+====
 
 [.numbered]
 _First._
@@ -470,6 +476,8 @@ that a place of repentance he may find; and through a true contrition,
 the remission of his great sin of envy, and evilly intreating the Lord`'s people, and way,
 which we profess, and which he the said G. Keith, hath long and lately both professed,
 and zealously vindicated as such.
+
+====
 
 --
 
