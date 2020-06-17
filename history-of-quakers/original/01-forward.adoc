@@ -27,7 +27,7 @@ Jason R. Henderson
 [.signed-section-context-close]
 June, 2016
 
-[old.style]
+[.old-style]
 === Short Glossary of Terms:
 
 Papist:: Roman Catholic
