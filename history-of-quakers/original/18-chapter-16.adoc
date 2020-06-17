@@ -1615,7 +1615,7 @@ About this time, or it may be in the next month, Stephen Crisp published an epis
 containing an exhortation to his friends,
 and also a prediction concerning succeeding times, which is as follows:
 
-[.embedded-content-document.espistle]
+[.embedded-content-document.epistle]
 --
 
 Friends, I am the more drawn forth at this time to visit you with an epistle,

@@ -965,7 +965,7 @@ ____
 [.offset]
 To which G. Whitehead replied,
 
-[qutoe]
+[quote]
 ____
 We thankfully acknowledge,
 that God by his power and special providence,
@@ -1704,7 +1704,7 @@ a successor endowed with piety and virtue.
 
 To this address the king was pleased to give this gracious answer:
 
-[qutoe]
+[quote]
 ____
 I am well satisfied with the marks of duty you express in your address,
 and you may be assured of my protection.
