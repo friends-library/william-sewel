@@ -125,8 +125,12 @@ Jeremy Ives
 Jan. 14, 1660.
 
 [.postscript]
+====
+
 Brother Ward, my fellow-prisoner, desires to present his love to you,
 and so do some others.
+
+====
 
 --
 
