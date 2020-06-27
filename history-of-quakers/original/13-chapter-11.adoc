@@ -3085,9 +3085,13 @@ in the bed undefiled,
 C+++.+++ E.
 
 [.postscript]
+====
+
 My dearly beloved yokemate in the work of our God, doth dearly salute you.
 Salute us dearly to our precious friends in all places.
 I do believe we shall see your faces again with joy.
+
+====
 
 [.signed-section-context-close]
 This was written in the Inquisition at Malta, in the 11th month, in the year 1661.
