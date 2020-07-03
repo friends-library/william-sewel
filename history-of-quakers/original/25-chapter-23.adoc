@@ -527,7 +527,7 @@ and he went on thus:
 A strange thing indeed,
 since it was very well known that G. Whitehead had
 published a book of above twenty sheets,
-under this title, [.book-title]#The Divinity of Christ, and Unity of the Three That Bear Record in Heaven, with the Blessed End and Effect of Christ`'s Appearance, Coming in the Flesh, Sufferings, and Sacrifice for Sinners, Confessed and Vindicated by His Followers Called Quakers.`'
+under this title, [.book-title]#The Divinity of Christ, and Unity of the Three That Bear Record in Heaven, with the Blessed End and Effect of Christ`'s Appearance, Coming in the Flesh, Sufferings, and Sacrifice for Sinners, Confessed and Vindicated by His Followers Called Quakers.#
 This book G. Keith could not pretend ignorance of,
 for he picked somewhat out of it in his narrative: but to maintain his charge,
 he appealed to a book of G. Whitehead`'s, called, [.book-title]#The Light and Life of Christ Within.#
