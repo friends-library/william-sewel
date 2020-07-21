@@ -746,7 +746,7 @@ they do not assume it any further than for distinction-sake from others;
 but the name whereby they call one another is that of friends.
 And herein they have the example of primitive Christians,
 as may be seen Acts 27:3. where it is said,
-that Julius the centurion courteously intreated Paul,
+that Julius the centurion courteously entreated Paul,
 and gave him liberty to go unto the friends, (for so the Greek hath it,)^
 // lint-disable invalid-characters
 footnote:[Ηρὸς τοὺς φίλους and ἐι φ`'λοι, which is not his friends, or our friends,
