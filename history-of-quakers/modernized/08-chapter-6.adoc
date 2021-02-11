@@ -105,6 +105,7 @@ and with a guard of horse sent to prison with this court order.
 [.embedded-content-document.legal]
 --
 
+[.blurb]
 Peter Ceely, one of the justices of the peace of this county,
 to the keeper of his highness`'s jail at Launceston,
 or his lawful deputy in that behalf greeting.
@@ -798,15 +799,13 @@ openly in their preaching, and thus to disturb the meetings:^
 footnote:[These women`'s practice we may suppose to be somewhat
 like that which gave occasion to the apostle Paul to say,
 "`Let your women keep silence in the churches,
-for it is not permitted unto them to speak.`" 1 Cor. 19:34.
+for it is not permitted unto them to speak.`" 1 Cor. 14:34.
 This prohibition of speaking, must be voluntary discourse,
 by way of reasoning or disputing, and not when they had an immediate impulse,
 or concern to prophesy; for the apostle in the same epistle,
-has defined prophesy to be speaking unto "`Men to edification, exhortation,
-and comfort.`"
-chap.
-xiv. 3. And has also chap.
-xi. made express mention of women`'s praying and prophesying, together with the men.]
+has defined prophesy to be speaking unto
+"`Men to edification, exhortation, and comfort.`" chap. 14:3. And has also chap. 9.
+made express mention of women`'s praying and prophesying, together with the men.]
 whereupon they, who were truly excellent preachers, did not fail,
 according to their duty to reprove this indiscretion.
 But these women were so disgusted, that Martha, and another woman,
@@ -899,8 +898,9 @@ that it was wondered at by many, what the cause might be,
 that this foolish business should hold so many wise men so long at work.
 On the 17th, after a long debate, they came to this resolution,
 
-[quote]
-____
+[.embedded-content-document.legal]
+--
+
 That James Nayler be set on the pillory, with his head in the pillory,
 in the Palace-yard, Westminster, during the space of two hours, on Thursday next,
 and be whipped by the hangman through the streets, from Westminster to the Old Exchange,
@@ -917,7 +917,8 @@ and there restrained from the society of all people,
 and there to labor hard till he shall be released by parliament;
 and during that time he be debarred the use of pen, ink, and paper,
 and shall have no relief but what he earns by his daily labor.
-____
+
+--
 
 They were long before they could agree on the sentence;
 for suppose there was blasphemy committed,
@@ -1699,9 +1700,14 @@ When he had finished that letter, and set his name, he wrote as follows:
 I beseech you, (all that can,) to receive it, even as you would be received of the Lord;
 and for the rest, the Lord give me patience to suffer, till he make up the breach.
 
+--
+
 While he was in Bridewell, he wrote to the parliament,
 who had punished him as a blasphemer,
 to let them know what his true opinion concerning Jesus Christ was.
+
+[.embedded-content-document.letter]
+--
 
 Christ Jesus, (the Immanuel,
 of whose sufferings the Scriptures declare,) him alone I confess before men;
