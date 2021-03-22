@@ -352,8 +352,8 @@ and his eternal happiness in that which is to come.
 ++++
 <table class="tableblock frame-all grid-all stretch table-tail-align-right">
   <colgroup>
-    <col style="width: 70%;"></col>
-    <col style="width: 30%;"></col>
+    <col style="width: 70%;"/>
+    <col style="width: 30%;"/>
   </colgroup>
   <tbody>
     <tr>
