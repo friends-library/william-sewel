@@ -969,6 +969,7 @@ _An Act to Prevent and Suppress Seditious Conventicles,_ which is as follows:
 [.numbered-group]
 ====
 
+[.numbered]
 For providing farther and more speedy remedies against the
 growing and dangerous practices of seditious sectaries,
 and other disloyal persons, who under pretense of tender consciences,
