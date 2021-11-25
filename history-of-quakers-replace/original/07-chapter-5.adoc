@@ -1,18 +1,27 @@
 == Chapter V
 
+[.section-date]
 1654-1656.
 
-W+++.+++ Caton and J. Stubbs travelling together,
-are cruelly whipped--They go to Zealand and Holland--Return,
-and go into Scotland--Labors and cruel suffering of J. Parnel--His death--E.
-Burrough and F. Howgill in Ireland--W. Ames convinced--E. Burrough and F. Howgill
-banished from Ireland--Barbara Blaugdone in Ireland--Extraordinary circumstances
-attending her visit in Ireland--M. Halhead goes to London--His letter to his
-wife--Imprisonment of M. Halhead and T. Salthouse--Imprisonment of G. White head,
-R+++.+++ Clayton,
-and J. Harwood--Remarkable conversation between W. Dewsbury
-and Judge Atkins--G. Fox`'s fear respecting J. Nayler--Remarkable
-account of J. Lilburn--Plot of the Royalists against Cromwell
+[.chapter-synopsis]
+* W+++.+++ Caton and J. Stubbs travelling together, are cruelly whipped
+* They go to Zealand and Holland
+* Return, and go into Scotland
+* Labors and cruel suffering of J. Parnel
+* His death
+* E. Burrough and F. Howgill in Ireland
+* W. Ames convinced
+* E. Burrough and F. Howgill banished from Ireland
+* Barbara Blaugdone in Ireland
+* Extraordinary circumstances attending her visit in Ireland
+* M. Halhead goes to London
+* His letter to his wife
+* Imprisonment of M. Halhead and T. Salthouse
+* Imprisonment of G. White head, R+++.+++ Clayton, and J. Harwood
+* Remarkable conversation between W. Dewsbury and Judge Atkins
+* G. Fox`'s fear respecting J. Nayler
+* Remarkable account of J. Lilburn
+* Plot of the Royalists against Cromwell
 
 I return to W. Caton and J. Stubbs.
 They went from Lydd to Ashford, Tenterden, Cranbrook, and Staplehurst,
@@ -560,6 +569,10 @@ where he suffered much persecution, and was imprisoned.
 He writ about that time a letter to his wife,
 which I think worth the while to insert here, and was as followeth.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Anne Halhead,
 
 My dear heart, my dear love in the bowels of love, in the Lord Jesus Christ,
@@ -609,14 +622,24 @@ up to God eternal, blessed forevermore:
 and he that acts contrary to this light in his own conscience, it is his condemnation.
 Now, dear friends, while you have time prize it.
 
+[.signed-section-closing]
 Thy husband, and a lover of thy soul,
 
+[.signed-section-signature]
 Miles Halhead.
 
+[.signed-section-context-close]
 Wilshire, the 7th of the Third month, 1655.
 
+--
+
+[.offset]
 This year also he writ the following epistle to his fellow-believers.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dearly beloved friends and brethren,
 
 In the North of England, even to the South, the land of our nativity,
@@ -657,10 +680,14 @@ and no good thing will the Lord God withhold from you;
 the mouth of the Lord God of Hosts hath spoken it,
 whose promises are yea and amen to his own seed forevermore.
 
+[.signed-section-signature]
 Miles Halhead.
 
+[.signed-section-context-close]
 Given forth the 14th of the Sixth Month, 1655, when I was a prisoner at the prison-house,
 in the city of Exeter, in Devonshire, for the testimony of Jesus, and the word of God.
+
+--
 
 A chief cause why he was imprisoned there, was, that Thomas Salthouse,
 with whom he travelled, (having heard that one George Brooks,
@@ -726,10 +753,15 @@ the court threatened to send into the North to seize on their estates.
 So they were returned to prison; and what follows,
 was entered as the record of their proceedings.
 
-"`July 10, 1655.
+[.embedded-content-document.legal]
+--
+
+July 10, 1655.
 Thomas Salthouse, and Miles Halhead, for provoking words against G. Brooks, clerk,
 who refused to be tried by the country, fined 5£ a piece,
-committed to Bridewell till payment, and finding sureties for their good behaviour.`"
+committed to Bridewell till payment, and finding sureties for their good behaviour.
+
+--
 
 What is said here of refusing to be tried by the country, was a notorious untruth:
 and as to finding sureties, that seemed of little moment;
@@ -739,6 +771,10 @@ had the boldness to assert, that they refused to give security,
 as will appear by the warrant by which he sent them to the common jail in Exeter,
 whereof the following is a true copy.
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Devon,
 
 John Page, merchant, mayor of the borough of Plymouth, in the county aforesaid,
@@ -766,12 +802,18 @@ until by due course of law they shall be thence delivered: hereof fail not at yo
 Given under my hand, and seal of Plymouth aforesaid, the 28th day of May,
 in the year of our Lord God, 1655.
 
-John Page, Mayor.
+[.signed-section-signature]
+John Page, _Mayor._
+
+--
 
 By this may be seen under what frivolous pretences those called Quakers were imprisoned,
 viz. because of an ordinance made against duels,
 etc. and as for their having refused to give security, how untrue this was,
 as well as other accusations, may appear from the following certificate.
+
+[.embedded-content-document]
+--
 
 We whose names are hereunto subscribed, do testify,
 that the several particulars in an answer made by our friends, are true, to wit.
@@ -787,8 +829,11 @@ the day before their sending to prison,
 but that the town-clerk made it void the next day,
 pretending it could not be according to law.
 
-Ralph Fogg,Arthur Cotton,Robert Cary,Richard Smith,Anthony Todde,John Harris,
-Jr. Thomas Faulkener,Nicholas Cole,John Martindale,Richard Lepincote,John Harris, sen.
+[.signed-section-signature]
+Ralph Fogg, Arthur Cotton, Robert Cary, Richard Smith, Anthony Todde, John Harris,
+Jr. Thomas Faulkener, Nicholas Cole, John Martindale, Richard Lepincote, John Harris, sen.
+
+--
 
 Now to what a height of confidence the aforesaid mayor, Page, was come, in saying,
 that Thomas Salthouse and Miles Halhead had refused to give bail, nay,
@@ -796,8 +841,13 @@ that this was the cause of their confinement,
 may also appear from the following letter he writ to general Desborough,
 to excuse his proceedings against him.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Plymouth, June 1, 1655.
 
+[.salutation]
 Right Honourable,
 
 Captain Hatsell hath communicated to me what you wrote him in reference to those two men,
@@ -843,7 +893,12 @@ as those that desire to do nothing unbecoming Christians,
 and persons that desire the welfare and peace of this commonwealth and government,
 and shall ever labour to appear
 
-Your honour`'s very humble servant,(For myself and my brethren,)John Page, Mayor.
+Your honour`'s very humble servant, (for myself and my brethren,)
+
+[.signed-section-signature]
+John Page, _Mayor._
+
+--
 
 That General Desborough was but little satisfied with this letter, seems not improbable,
 because, inquiring into the matter, he let others have a copy of it,
@@ -889,6 +944,9 @@ but also once in the ship Nightingale,
 ignominiously exposed with a quarter can about his neck,
 as appears by the following testimonies.
 
+[.embedded-content-document.testimony]
+--
+
 I having been formerly desired to relate upon what account it was that Mr. George Brooks,
 chaplain of the frigate under my command, was put on shore.
 First, because he was a busy body, and disturbed the whole ship`'s company.
@@ -901,18 +959,33 @@ Therefore, knowing him to be a deboist fellow, and not fit for that employment,
 I put him on shore, and I dare own it, whoever shall call me to question.
 Witness my hand,
 
+[.signed-section-signature]
 Robert Vessay.
+
+--
+
+[.embedded-content-document.testimony]
+--
 
 Mr. Brooks being formerly with me in the Nightingale, I found him to be very idle,
 and continually drunk, which once made me to put a quarter can about his neck;
 whereunto I subscribe,
 
-John Jeffery,Captain of the Nantwich.
+[.signed-section-signature]
+John Jeffery, _Captain of the Nantwich._
+
+--
+
+[.embedded-content-document.testimony]
+--
 
 The person above-mentioned I have seen drunk on shore,
 in testimony whereof I have set my hand,
 
-Richard Potter,Captain of the Constant Warwick frigate.
+[.signed-section-signature]
+Richard Potter, _Captain of the Constant Warwick frigate._
+
+--
 
 From such evidences as these it appears,
 that it was not without reason that he and the like
@@ -924,7 +997,10 @@ coming on the 30th of the month called July, to Bures, in Suffolk,
 were imprisoned on this occasion.
 R+++.+++ Clayton had set up a paper on the steeple-house door, containing these queries.
 
-"`Whether setting up such ministers as seek for their gain from their quarters,
+[.embedded-content-document.paper]
+--
+
+Whether setting up such ministers as seek for their gain from their quarters,
 such as the prophet disapproves; Isaiah 56:11.
 such as the prophet Jeremiah disapproves;
 Jer. 5. and of whom mention is made also,
@@ -942,7 +1018,9 @@ and persecutors, David`'s conditions to sing?
 And if such were set up that took tithes,
 though the apostle said that the priesthood was changed, and the law also,
 Heb. 7. Whether by the setting up of such,
-they did not set up such as did not labour in the Lord`'s vineyard.`"
+they did not set up such as did not labour in the Lord`'s vineyard.
+
+--
 
 This paper being set up, people came to read it.
 G+++.+++ Whitehead being there, and laying hold of this opportunity,
@@ -1243,6 +1321,10 @@ as prevailed upon Lilburn to receive the Truth;
 as he himself signified in a letter he writ to his wife;
 who having visited him in prison, afterwards writ to him this following exhortation.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear,
 
 Retain a sober patient spirit within thee,
@@ -1251,9 +1333,16 @@ than all thy keen metal hath been.
 I hope God is doing a work upon thee and me too,
 as shall make us study ourselves more than we have done.
 
+--
+
+[.offset]
 These words were so acceptable to Lilburn, that repeating them in his letter to her,
 he answered thus, after many other passages.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 O, my dear love!
 
 I am deeply already entered into my part of it:
@@ -1283,12 +1372,19 @@ the bishops.--And now submissively and heartily I can say,
 the will of my heavenly Father be done in me, by me, and for me;
 in whose will I leave thee and thine, with all thy and my friends, and rest
 
-Thine in the strength of renewedness of true love,John Lilburn.
+[.signed-section-closing]
+Thine in the strength of renewedness of true love,
 
+[.signed-section-signature]
+John Lilburn.
+
+[.signed-section-context-close]
 From Dover Castle,
 the place of the present enjoyed delightful dispensation of the eternal,
 everlasting love of God unto my soul.
 The 4th of the Tenth Month, 1655.
+
+--
 
 Whilst Lilburn was prisoner here, Cromwell, as it seemed, would have released him,
 if he would have signed a declaration that he would never draw a sword against his government.
@@ -1301,6 +1397,9 @@ But however, continuing in faithfulness,
 to persevere in respect of that knowledge he had already attained to, he became,
 in process of time, such an asserter of the true Christian life, that in a paper,
 which at his desire was given out in print, he expressed himself thus:
+
+[.embedded-content-document.paper]
+--
 
 I have now the faithful and true witness in my own soul, that the Lord himself is become,
 within me, the teacher of my soul,
@@ -1337,14 +1436,18 @@ which I exceedingly long and earnestly desire to have in print,
 and for which I know that I can cheerfully and assuredly lay down my life,
 if I be called to witness the truth of it, I subscribe my name,
 
+[.signed-section-signature]
 John Lilburn.
 
+[.signed-section-context-close]
 From my innocent and every way causeless captivity in Dover Castle,
 the place of my soul`'s delightful and contentful abode,
 where I have really and substantially found that
 which my soul many years hath sought diligently after,
 and with unsatisfied longingness thirsted to enjoy: this present First-day of the week,
 being the 4th of the Third Month, 1655.
+
+--
 
 It sufficiently appears by this,
 that Lilburn did not think that this declaration would procure his liberty;
