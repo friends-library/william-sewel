@@ -1,17 +1,27 @@
 == Chapter XV
 
+[.section-date]
 1664.
 
-Trial of G. Fox at Lancaster Assizes--Arbitrary course of the Judges--Recommitment
-to prison--Cruelties practised on G. Fox in prison--G. Fox writes to the Emperor,
-Kings of France and Spain,
-and to the Pope--Trial of F. Howgill at Appleby--Account of J.
-Camm--Account of J. Audland--Second trial of F. Howgill,
-and his sentence--"`Act to prevent and suppress Seditious Conventicles`"--Trial of Quakers
-at Hartford for attending meeting--Sentence of banishment--Trial of Quakers at Heck`'s
-Hall under the Conven ticle Act--Determination to destroy the Quakers by severity of
-punishment--Faithfulness under suffering--Large numbers taken from meetings,
-tried, and sentenced--Exhortations to Constancy--Warning to the King and Parliament
+[.chapter-synopsis]
+* Trial of G. Fox at Lancaster Assizes
+* Arbitrary course of the Judges
+* Recommitment to prison
+* Cruelties practised on G. Fox in prison
+* G. Fox writes to the Emperor, Kings of France and Spain, and to the Pope
+* Trial of F. Howgill at Appleby
+* Account of J. Camm
+* Account of J. Audland
+* Second trial of F. Howgill, and his sentence
+* "`Act to prevent and suppress Seditious Conventicles`"
+* Trial of Quakers at Hartford for attending meeting
+* Sentence of banishment
+* Trial of Quakers at Heck`'s Hall under the Conven ticle Act
+* Determination to destroy the Quakers by severity of punishment
+* Faithfulness under suffering
+* Large numbers taken from meetings, tried, and sentence
+* Exhortations to Constancy
+* Warning to the King and Parliament
 
 In the foregoing year we left G. Fox in Lancaster prison, where at the sessions,
 the oath of allegiance being tendered to, and refused by him,
@@ -86,7 +96,7 @@ he saw an extraordinary great light, and looking up, he beheld an angel of the L
 with a glittering sword stretched southward, which shone so bright,
 as if the court had been all on fire.
 Of which I have for proof what he mentions of it in his journal,
-and also another small book he gave out with the title of A Warning to England.
+and also another small book he gave out with the title of [.book-title]#A Warning to England.#
 Not long after a war broke out between England and Holland,
 and some time after the pestilence appeared at London,
 (which lies southwardly from Lancaster,) and after
@@ -281,7 +291,7 @@ the parliament is sworn, I am sworn, the justices are sworn,
 and the law is preserved by oaths.`"
 On which G. Fox told him, they had had sufficient experience of men`'s swearing,
 and had seen how the justices and jury swore wrong the other day: and continued he,
-"`If thou hast read in the Book of Martyrs, how many of them did refuse to swear,
+"`If thou hast read in the [.book-title]#Book of Martyrs,# how many of them did refuse to swear,
 both within the time of the ten persecutions, and in bishop Bonner`'s day,
 thou mayest see that to deny swearing in obedience to Christ`'s command,
 is no new thing.`"
@@ -316,6 +326,9 @@ He reproved the king of Spain more especially, because of the inquisition,
 and the burning of people: and he did not spare the pope,
 as being the spring of these evils, saying,
 
+[.embedded-content-document.paper]
+--
+
 Innocent blood hath long cried for vengeance to the Lord:
 the earth almost swims with innocent blood; and the cry of it is heard.
 Your frozen profession, and your cold winter images being set up in your streets,
@@ -341,6 +354,8 @@ tremble ye jesuits, tremble ye priors, tremble ye monks and friars, of what rank
 for the army of the Lord God is coming over you, by whom ye shall be taken,
 and dashed to pieces.
 
+--
+
 These are but small sparkles of that flame which G. Fox blew against the pope,
 intermixing his writings with many demonstrations,
 that the Romish church was the whore of Babylon,
@@ -349,10 +364,15 @@ and had bathed herself in the blood of the saints,
 having furiously attacked them with sword and fire.
 This he concluded with these words:
 
+[.embedded-content-document.paper]
+--
+
 The plagues of God will be thy portion, O pope, who hath deceived the nations:
 and all ye jesuits and cardinals, howl, for your misery is coming,
 the mighty day of the Lord God upon you all; the Lord God,
 who will be worshipped in spirit and in truth, and with none of your inventions.
+
+--
 
 Thus G. Fox wrote in that day to the pope and his counsellors;
 and no wonder that he paid dear for this sharp language
@@ -401,7 +421,8 @@ in the meantime you must enter into recognizance for your good behaviour.`"
 To which F. H. answered, I desire liberty to speak, which he had without interruption,
 and said as followeth:
 
-F+++.+++ H. Judge Twisden, thou very well knowest upon how slender an account, or none,
+[.discourse-part]
+_F+++.+++ H._ Judge Twisden, thou very well knowest upon how slender an account, or none,
 I was brought before thee the last assizes,
 where thou wert pleased to tender me the oath of allegiance,
 though I believe both thou and the rest of the court,
@@ -415,86 +436,106 @@ the Lord hath redeemed me and many more out of such things,
 and seeing I am engaged to appear at the next assizes,
 I desire no further thing may be required of me.
 
-Judge.
+[.discourse-part]
+_Judge._
 You must enter into bond this dangerous time, and therefore consider of it,
 and tell me now, or before the assizes end.
 
+[.offset]
 The second day of the assizes he was called again.
 
-F+++.+++ H. Seeing thou art pleased to let me answer to the indictment,
+[.discourse-part]
+_F+++.+++ H._ Seeing thou art pleased to let me answer to the indictment,
 which I am willing to do, I have been of good behaviour, and shall so continue;
 but it seems a hard thing to me, and full of severity,
 that seeing I am obliged to appear to answer an indictment of so high a nature,
 (if prosecuted against me,) which tends to the loss of my liberty for life,
 and my estate forever, I hope the court will not envy my liberty for five months.
 
-Judge Turner said, We do not desire your imprisonment, if you will be of good behaviour.
+[.discourse-part]
+_Judge Turner._ We do not desire your imprisonment, if you will be of good behaviour.
 
-F+++.+++ H. pressed that they would not put him upon giving bond to be of good behaviour,
+[.discourse-part]
+_F+++.+++ H._ pressed that they would not put him upon giving bond to be of good behaviour,
 knowing himself to be bound by the truth, that he could not misbehave himself.
 
 One Daniel Flemming, another persecuting justice,
 had framed another indictment against him for meeting, and stood up,
 (fearing the snare of giving bond would not hold,) and said as followeth:
 
-D+++.+++ Flemming.
+[.discourse-part]
+_D+++.+++ Flemming._
 My lord, he is a great speaker, it may be the Quakers cannot want him.
 
-Judge.
+[.discourse-part]
+_Judge._
 Let him be what he will, if he will enter into bond.
 
-F+++.+++ H. said he had nothing to accuse himself of,
+[.discourse-part]
+_F+++.+++ H._ said he had nothing to accuse himself of,
 for his conscience bore him witness that he loved peace, and sought it with all men.
 
+[.discourse-part]
 Judges both spake.
 What do you tell of conscience?
 We meddle not with it; but you contemn the laws, and keep up great meetings,
 and go not to church.
 
-F+++.+++ H. We are fallen in a sad age; if meeting together peaceably, without arms, or force,
+[.discourse-part]
+_F+++.+++ H._ We are fallen in a sad age; if meeting together peaceably, without arms, or force,
 or intention of hurt to any man, only to worship God in Spirit,
 and exhort one another to righteousness, and to pray together in the Holy Ghost,
 as the primitive Christians of old,
 that this should be reckoned breach of peace and misbehaviour.
 
-Judge Twisden.
+[.discourse-part]
+_Judge Twisden._
 Do you compare these times with them?
 They were heathens that persecuted, but we are Christian magistrates.
 
-F+++.+++ H. It is a doctrine always held by us, and a received principle which we believe,
+[.discourse-part]
+_F+++.+++ H._ It is a doctrine always held by us, and a received principle which we believe,
 that Christ`'s kingdom could not be set up with carnal weapons;
 nor the gospel propagated by force of arms, nor the church of God built with violence;
 but the Prince of Peace was manifested amongst us, and we could learn war no more,
 but could love enemies, and forgive them that did evil to us.
 
+[.discourse-part]
 Philip Musgrave stood up, and said, "`My Lord, we have been remiss towards this people,
 and have striven with them, and put them in prison again and again, and fined them,
 and as soon as they are out they meet again.`"
 
+[.discourse-part]
 Then stood up John Lowther, called a justice, and said, "`My Lord, they grow insolent,
 notwithstanding all laws, and the execution of them, yet they grow upon us,
 and their meetings are dangerous.`"
 
+[.discourse-part]
 Philip Musgrave stood up, and produced a paper, (and justice Flemming, so called,
 seconded him,) in great capital letters, and gave it the judge; he told the judge,
 that it happened some Quakers were sent to prison, and one of them died at Lancaster,
 and they carried his corpse through the country, and set that paper upon his coffin,
 "`This is the body of such an one, who was persecuted by Daniel Flemming till death.`"
 
-Judge.
+[.discourse-part]
+_Judge._
 We have spent much time with you; I will discourse no more.
 
-F+++.+++ H. I acknowledge your moderation towards me, allowing me liberty to speak;
+[.discourse-part]
+_F+++.+++ H._ I acknowledge your moderation towards me, allowing me liberty to speak;
 I shall not trouble you much longer;
 I shall be willing to appear to answer to the indictment at the assizes,
 and in the meantime to live peaceably and quietly, as I have done, if that will satisfy.
 
-Judge.
+[.discourse-part]
+_Judge._
 You must enter into bond to come at no more meetings.
 
-F+++.+++ H. I cannot do that; if I should, I were treacherous to God and my own conscience,
+[.discourse-part]
+_F+++.+++ H._ I cannot do that; if I should, I were treacherous to God and my own conscience,
 and the people and you would but judge me a hypocrite.
 
+[.offset]
 They were loth to commit him, yet at last they did.
 
 This was in the latter part of the month called March,
@@ -575,6 +616,10 @@ that she believed few ever enjoyed a greater blessing in a husband so kind and a
 And how heartily and tenderly she loved him,
 may be seen by the following letter she wrote to him.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Husband,
 
 Thou art dearer to me than ever; my love flows out to thee,
@@ -616,7 +661,10 @@ O my own heart, my own life! in that which now stands, act and obey,
 that thou mayest stand upon thy alone guard; so, dear heart, let thy prayers be for me,
 that I may be kept pure out of all temptations, singly to dwell in the life: so farewell.
 
+[.signed-section-signature]
 Anne Audland.
+
+--
 
 By this letter it appears,
 that there was an endeared mutual love between this virtuous couple.
@@ -738,14 +786,17 @@ judge Turner said to him,
 "`Here is an indictment against you for refusing to take the oath of allegiance;
 so you must plead to it, either guilty or not guilty.`"
 
-F+++.+++ H. with a heart girded up with strength and courage, said, "`Judge Turner,
+[.discourse-part]
+_F+++.+++ H._ with a heart girded up with strength and courage, said, "`Judge Turner,
 may I have liberty to speak, and make my defence,
 for I have none to plead my cause but the Lord?`"
 
-Judge.
+[.discourse-part]
+_Judge._
 You may.
 
-F+++.+++ H. I will lay the true state of my case before thee,
+[.discourse-part]
+_F+++.+++ H._ I will lay the true state of my case before thee,
 and of the proceedings against me from the first, seeing judge Twisden is not here,
 who had knowledge of all the proceedings hitherto.
 I am a countryman, born and brought up in this country;
@@ -777,7 +828,8 @@ and also shall in those words testify the same in open court, if required;
 and seeing it is the very substance the law doth require I desire it may be accepted,
 and I cleared from my imprisonment.
 
-Judge.
+[.discourse-part]
+_Judge._
 I am come to execute the law, and the law requires an oath, and I cannot alter it;
 do you think the law must be changed for you, or only for a few; if this be suffered,
 the administration of justice is hindered, no action can be tried,
@@ -786,17 +838,20 @@ and your principles are altogether inconsistent with the law and government;
 I pray you show me which way we shall proceed, show me some reason,
 and give me some ground.
 
-F+++.+++ H. I shall: in the mouth of two or three witnesses every truth is confirmed;
+[.discourse-part]
+_F+++.+++ H._ I shall: in the mouth of two or three witnesses every truth is confirmed;
 and we never denied to give,
 and still are ready to give evidence for the king wherein we are concerned,
 and in any other matter for the ending of strife between man and man in truth and righteousness,
 and this answers the substance of the law.
 
-Judge.
+[.discourse-part]
+_Judge._
 Is this a good answer, think you?
 whether to be given with or without oath: the law requires an oath.
 
-F+++.+++ H. Still evidence is and may be given in truth, according to the substance of the law,
+[.discourse-part]
+_F+++.+++ H._ Still evidence is and may be given in truth, according to the substance of the law,
 so that no detriment cometh unto any party,
 seeing that true testimony may be borne without an oath;
 and I did not speak of changing the law: yet seeing we never refused giving testimony,
@@ -808,61 +863,76 @@ in tenderness of conscience, for fear of breaking the command of Christ,
 the Saviour of the world, which if we do,
 there is none of you able to plead our cause for us with him.
 
-Judge.
+[.discourse-part]
+_Judge._
 But why do not you go to church, but meet in houses and private conventicles,
 which the law forbids.
 
-F+++.+++ H. We meet together only for the worship of the true God in Spirit and Truth,
+[.discourse-part]
+_F+++.+++ H._ We meet together only for the worship of the true God in Spirit and Truth,
 having the primitive Christians for our example, and to no other end,
 but that we may be edified, and God glorified;
 and when two or three are met together in the name of Christ,
 and he in the midst of them, there is a church.
 
-Judge.
+[.discourse-part]
+_Judge._
 That is true: but how long is it since you have been at church?
 Or will you go to the church the law doth allow of?
 Give me some reasons why you do not go.
 
-F+++.+++ H. I have many to give thee, if thou hast patience to hear me: first,
+[.discourse-part]
+_F+++.+++ H._ I have many to give thee, if thou hast patience to hear me: first,
 God dwells not in temples made with men`'s hands.
 Secondly, the parish house hath been a temple for idols, to wit,
 for the mass and the rood; and I dare have no fellowship with idols,
 nor worship in idols`' temples; for what have we to do with idols,
 their temples and worship?
 
-Judge.
+[.discourse-part]
+_Judge._
 Were there not houses called the houses of God, and temples?
 
-F+++.+++ H. Yes, under the law; but the Christians, who believed in Christ,
+[.discourse-part]
+_F+++.+++ H._ Yes, under the law; but the Christians, who believed in Christ,
 separated from these,
 (and the temple was made and left desolate,) and from the Gentiles`' temples too,
 and met together in houses, and broke bread from house to house;
 and the church was not confined then to one particular place, neither is it now;
 many more things I have to say: the judge interrupted.
 
-Judge.
+[.discourse-part]
+_Judge._
 Will you answer to your indictment?
 
-F+++.+++ H. I know not what it is, I never heard it, though I have often desired a copy.
+[.discourse-part]
+_F+++.+++ H._ I know not what it is, I never heard it, though I have often desired a copy.
 
-Judge.
+[.discourse-part]
+_Judge._
 Clerk, read it.
 
+[.offset]
 So he read it: how that F. H. had willfully, obstinately,
 and contemptuously denied to swear when the oath was tendered.
 
-F+++.+++ H. I deny it.
+[.discourse-part]
+_F+++.+++ H._ I deny it.
 
-Judge.
+[.discourse-part]
+_Judge._
 What do you deny?
 
-F+++.+++ H. The indictment.
+[.discourse-part]
+_F+++.+++ H._ The indictment.
 
-Judge.
+[.discourse-part]
+_Judge._
 Did you not deny to swear?
 And the indictment convicts you that you did not swear.
 
-F+++.+++ H. I gave unto the court the substance of the oath, as you all know.
+[.discourse-part]
+_F+++.+++ H._ I gave unto the court the substance of the oath, as you all know.
 Secondly, I told you I did not deny it out of obstinacy or willfulness,
 neither in contempt of the king`'s law or government;
 for my will would rather choose my liberty, than bonds;
@@ -874,10 +944,14 @@ and do you judge I would lose my liberty willfully, and suffer the spoiling of m
 and the ruining of my wife and children in obstinacy and willfulness?
 Surely nay.
 
-Judge.
+[.discourse-part]
+_Judge._
 Jury, you see he denies the oath, and he will not plead to the indictment,
 only excepts against it because of the form of words, but you see he will not swear,
 and yet he says he denies the indictment, and you see upon what ground.
+
+[.small-break]
+'''
 
 And then they called the jailer to witness and swear
 that at the last assizes F. H. did refuse,
@@ -890,7 +964,8 @@ Francis was brought to the bar to receive his sentence.
 Judge stood up and said, "`Come, the indictment is proved against you,
 what have you to say why sentence shall not be given?`"
 
-F+++.+++ H. I have many things to say, if you will hear them.
+[.discourse-part]
+_F+++.+++ H._ I have many things to say, if you will hear them.
 First, as I have said, I denied not out of obstinacy or willfulness,
 but was willing to testify the truth in this matter of obedience,
 or any other matter wherein I was concerned.
@@ -908,41 +983,51 @@ so that it is no new doctrine.
 To which the court seemed to give a little ear, and said nothing,
 but talked one to another, and Francis stood silent, and then the judge said,
 
-Judge.
+[.discourse-part]
+_Judge._
 Sure you mistake.
 
-F+++.+++ H. I have not the books here.
+[.discourse-part]
+_F+++.+++ H._ I have not the books here.
 
-Judge.
+[.discourse-part]
+_Judge._
 Will you say upon your honest word they denied all swearing?
 
-F+++.+++ H. What I have said is true.
+[.discourse-part]
+_F+++.+++ H._ What I have said is true.
 
-Judge.
+[.discourse-part]
+_Judge._
 Why do you not come to church, and hear service, and be subject to the law,
 and to every ordinance of man for the Lord`'s sake?
 
-F+++.+++ H. We are subject, and for that cause we do pay taxes, tribute, and custom,
+[.discourse-part]
+_F+++.+++ H._ We are subject, and for that cause we do pay taxes, tribute, and custom,
 // lint-disable invalid-characters "æ"
 and give unto Cæsar the things that are his, and unto God the things that are his,
 to wit, worship, honour, and obedience; and if thou mean the parish assembly,
 I tell thee faithfully, I am persuaded, and upon good ground,
 their teachers are not the ministers of Christ, neither their worship the worship of God.
 
-Judge.
+[.discourse-part]
+_Judge._
 Why; it may be for some small things in the service, you reject it all.
 
-F+++.+++ H. First, it is manifest they are time-servers,
+[.discourse-part]
+_F+++.+++ H._ First, it is manifest they are time-servers,
 one while preaching up that for divine service to people,
 that another while they cry down, as popish, superstitious and idolatrous;
 and that which they have preached up twenty years together,
 made shipwreck of all in a day; and now again call it divine,
 and would have all compelled to that themselves once made void.
 
-Judge.
+[.discourse-part]
+_Judge._
 Why; never since the king came in?
 
-F+++.+++ H. Yes, the same men that preached it down once, now cry it up;
+[.discourse-part]
+_F+++.+++ H._ Yes, the same men that preached it down once, now cry it up;
 for they are so unstable and wavering,
 that we cannot believe they are the ministers of Christ.
 Secondly, they teach for hire, and live by forced maintenance,
@@ -955,33 +1040,44 @@ you are not subject to authority and the laws, and nothing but confiscations,
 imprisonment and banishment is threatened, and this is their greatest plea;
 I could mention more particulars; then the judge interrupted.
 
-Judge.
+[.discourse-part]
+_Judge._
 Well, I see you will not swear, nor conform, nor be subject,
 and you think we deal severely with you, but if you will be subject, we should not need.
 
-F+++.+++ H. I do so judge indeed,
+[.discourse-part]
+_F+++.+++ H._ I do so judge indeed,
 that you deal severely with us for obedience to the commands of Christ;
 I pray thee canst thou show me how any of those people, for whom the act was made,
 have been proceeded against by this statute, though I envy no man`'s liberty.
 
-Judge.
+[.discourse-part]
+_Judge._
 Oh yes, I can instance you many up and down the country that are premunired,
 I have done it myself, pronounced sentence against divers.
 
-F+++.+++ H. What, against Papists?
+[.discourse-part]
+_F+++.+++ H._ What, against Papists?
 
-Judge.
+[.discourse-part]
+_Judge._
 No.
 
-F+++.+++ H. What, against the Quakers?
+[.discourse-part]
+_F+++.+++ H._ What, against the Quakers?
 So I have heard indeed; though then that statute was made against Papists,
 thou lettest them alone, and executest it against the Quakers.
 
-Judge.
+[.discourse-part]
+_Judge._
 Well, you will meet in great numbers, and do increase,
 but there is a new statute will make you fewer.
 
-F+++.+++ H. Well, if we must suffer, it is for Christ`'s sake, and for well doing.
+[.discourse-part]
+_F+++.+++ H._ Well, if we must suffer, it is for Christ`'s sake, and for well doing.
+
+[.small-break]
+'''
 
 Francis then being silent, the judge pronounced the sentence, but spake so low,
 that the prisoner, though near to him, could scarce hear it.
@@ -990,19 +1086,29 @@ The sentence was, You are put out of the king`'s protection, and the benefit of 
 your lands are confiscated to the king during your life;
 and your goods and chattels forever, and you to be prisoner during your life.
 
-F+++.+++ H. A hard sentence for my obedience to the commands of Christ;
+[.discourse-part]
+_F+++.+++ H._ A hard sentence for my obedience to the commands of Christ;
 the Lord forgive you all.
+
+[.small-break]
+'''
 
 So he turned from the bar; but the judge speaking, he turned again,
 and many more words passed to the same purpose, as before: at last,
 the judge rose up and said.
 
-Judge.
+[.discourse-part]
+_Judge._
 Well, if you will yet be subject to the laws, the king will show you mercy.
 
-F+++.+++ H. The Lord hath showed mercy unto me, and I have done nothing against the king,
+[.discourse-part]
+_F+++.+++ H._ The Lord hath showed mercy unto me, and I have done nothing against the king,
 nor government, nor any man, and blessed be the Lord, and therein stands my peace;
 for it is for Christ`'s sake I suffer, and not for evil doing.
+
+[.small-break]
+'''
+
 And so the court broke up.
 The people were generally moderate, and many were sorry to see what was done against him;
 but Francis signified how contented and glad he was,
@@ -1023,6 +1129,9 @@ And though the act made two years before did extend to banishment,
 yet that punishment was renewed, and expressed more at large in this,
 which was as followeth:
 
+[.embedded-content-document.legal]
+--
+
 Whereas an act made in the five and thirtieth year
 of the reign of our late sovereign lady queen Elizabeth,
 intitled an act to retain the queen`'s majesty`'s subjects in their due obedience,
@@ -1031,11 +1140,16 @@ whether the said act be still in force; although it be very clear and evident,
 and it is hereby declared, that the said act is still in force,
 and ought to be put in due execution:
 
+[.numbered-group]
+====
+
+[.numbered]
 II. For providing therefore of further and more speedy remedies
 against the growing and dangerous practices of seditious sectaries,
 and other disloyal persons, who under pretence of tender consciences,
 do at their meetings contrive insurrections, as late experience hath showed;
 
+[.numbered]
 III.
 Be it enacted by the king`'s most excellent majesty,
 by and with the advice and consent of the lords spiritual and temporal,
@@ -1075,6 +1189,7 @@ for his or her said offence;
 which money shall be paid to the church wardens for the relief
 of the poor of the parish where such offender did last inhabit.
 
+[.numbered]
 IV. And be it further enacted by the authority aforesaid,
 that if such offender so convicted, as aforesaid,
 shall at any time again commit the like offence contrary to this act,
@@ -1088,6 +1203,7 @@ such sum of money, not exceeding ten pounds, as the said justices or chief magis
 as aforesaid,) shall fine the said offender at, for his or her said second offence,
 the said fine to be disposed in manner aforesaid.
 
+[.numbered]
 V+++.+++ And be it further enacted by the authority aforesaid,
 that if any such offender so convicted of a second
 offence contrary to this act in manner aforesaid,
@@ -1145,6 +1261,7 @@ or some other on the behalf of such offender so to be transported,
 shall give the sheriff such security as he shall approve of,
 for the paying all the said charges unto him.
 
+[.numbered]
 VI. And be it further enacted by the authority aforesaid,
 that in default of defraying such charges by the parties to be transported,
 or some other in their behalf; or in default of security given to the sheriff,
@@ -1165,6 +1282,7 @@ from whence they received their respective warrants,
 and which shall not have been by any of the ways aforementioned paid, secured,
 or reimbursed unto them, as aforesaid.
 
+[.numbered]
 VII.
 Provided always, and be it further enacted,
 that in case the offender so indicted and convicted for the said third offence,
@@ -1174,6 +1292,7 @@ of the court or sessions where he shall be convicted,
 that then the said offender shall be discharged from imprisonment and transportation,
 and the judgment for the same.
 
+[.numbered]
 VIII.
 And be it further enacted, that the like imprisonment, indictment,
 arraignment and proceedings shall be against every such offender,
@@ -1208,6 +1327,7 @@ or if the plaintiff discontinue his action, or if upon demurrer,
 judgment be given for the defendant,
 every such defendant shall have his or their treble costs.
 
+[.numbered]
 IX. And be it further enacted,
 that if any person against whom judgment of transportation
 shall be given in manner aforesaid,
@@ -1227,6 +1347,7 @@ but that the heir of every such offender by force of this act,
 shall and may after the death of such offender, have and enjoy the lands,
 tenements and hereditaments of such offenders, as if this act had not been made.
 
+[.numbered]
 X+++.+++ And for better preventing of the mischiefs which
 may grow by such seditious and tumultuous meetings,
 under pretence of religious worship,
@@ -1253,6 +1374,7 @@ as they shall judge to be the leaders and seducers of the rest,
 and such others as they shall think fit to be proceeded
 against according to law for such their offences.
 
+[.numbered]
 XI. And be it further enacted by the authority aforesaid,
 that every person who shall wittingly and willingly suffer any such conventicle,
 unlawful assembly, or meeting aforesaid, to be held in his or her house, outhouse,
@@ -1262,6 +1384,7 @@ any other offender against this act ought to incur,
 and be proceeded against in all points,
 in such manner as any other offender against this act ought to be proceeded against.
 
+[.numbered]
 XII.
 Provided also, and be it enacted by the authority aforesaid,
 that if any keeper of any jail or house of correction,
@@ -1276,6 +1399,7 @@ and disposed by such persons and in such manner as the penalties
 for the first and second offences against this act are to be levied,
 raised, and disposed.
 
+[.numbered]
 XIII.
 Provided always, that no person shall be punished for any offence against this act,
 unless such offender be prosecuted for the same within
@@ -1283,6 +1407,7 @@ three months after the offence committed:
 (2) and that no person who shall be punished for any offence by virtue of this act,
 shall be punished for the same offence by virtue of any other act or law whatsoever.
 
+[.numbered]
 XIV.
 Provided also, and be it enacted,
 that judgment of transportation shall not be given against any femme covert,
@@ -1295,6 +1420,7 @@ to redeem her from imprisonment, as shall be imposed by the said court,
 the said sum to be disposed by such persons, and in such manner,
 as the penalties for the first and second offence against this act are to be disposed.
 
+[.numbered]
 XV. Provided also, and be it enacted by the authority aforesaid,
 that the justices of the peace,
 and the chief magistrate respectively empowered as aforesaid to put this act in execution,
@@ -1303,6 +1429,7 @@ for the better execution of this act, after refusal or denial, enter into any ho
 or other place, where they shall be informed any such conventicle as aforesaid,
 is or shall be held.
 
+[.numbered]
 XVI.
 Provided, that no dwelling-house of any peer of this realm,
 whilst he or his wife shall be there resident, shall be searched by virtue of this act,
@@ -1318,6 +1445,7 @@ where it shall be lawful for any such other dwelling-house to be entered into as
 in presence of one justice of the peace, alderman, deputy alderman,
 or any one commissioner for the lieutenancy for the city of London.
 
+[.numbered]
 XVII.
 Provided also, and be it enacted by the authority aforesaid,
 that no person shall by virtue of this act be committed to the house of correction,
@@ -1327,6 +1455,7 @@ that her husband,) hath an estate of freehold, or copyhold,
 to the value of five pounds per annum, or personal estate to the value of fifty pounds;
 any thing in this act to the contrary notwithstanding.
 
+[.numbered]
 XVIII.
 And in regard a certain sect called Quakers, and other sectaries,
 are found not only to offend in the matters provided against by this act,
@@ -1356,13 +1485,18 @@ which record or entry shall be, and is hereby made a conviction of such offence;
 shall for every such offence incur the judgment and punishment of transportation
 in such manner as is appointed by this act for other offences.
 
+[.numbered]
 XIX.
 Provided always, that if any the person or persons aforesaid shall come into such court,
 and take his or their oath in these words:
 
+[quote]
+____
 I do swear that I do not hold the taking of an oath to be unlawful,
 nor refuse to take an oath on that account.
+____
 
+[.numbered]
 XX. Which oath the respective court or courts aforesaid,
 are hereby authorized and required forthwith to tender, administer,
 and register before the entry of the conviction aforesaid,
@@ -1372,6 +1506,7 @@ to be returned into such court,
 (3) such oath so made shall acquit him or them from such punishment;
 any thing herein to the contrary notwithstanding.
 
+[.numbered]
 XXI.
 Provided always, that every person convicted as aforesaid in any courts aforesaid,
 (other than his majesty`'s court of king`'s bench, or before the justices of assize,
@@ -1388,6 +1523,7 @@ then such justice or justices shall cause judgment of transportation to be execu
 in such manner as judgment of transportation by this act is to be executed:
 but in case such person shall take the said oath, then he shall thereupon be discharged.
 
+[.numbered]
 XXII.
 Provided always, and be it enacted by the authority aforesaid,
 that if any peer of this realm shall offend against this act,
@@ -1398,6 +1534,7 @@ or chief magistrate of the place or division where such peer shall dwell:
 and every further offence against the tenour of this act, shall be tried by his peers,
 and not otherwise.
 
+[.numbered]
 XXIII.
 Provided also, and be it further enacted by the authority aforesaid,
 that this act shall continue in force for three years
@@ -1405,6 +1542,10 @@ after the end of this present session of parliament;
 and from thence forward to the end of the next session
 of parliament after the said three years,
 and no longer.
+
+====
+
+--
 
 A learned man at London, of what persuasion I know not,
 published a little book in relation to this act,
@@ -1487,7 +1628,7 @@ The indictment having been delivered to the grand jury,
 they could not agree in their verdict;
 for there were some amongst them whose consciences would
 not give them leave to be accessary to this work of persecution;
-and therefore they brought in their verdict ignoramus.
+and therefore they brought in their verdict _ignoramus._
 Now, though such a verdict as this ought not to be rejected,
 yet judge Bridgman standing up, and seeming to be angry,
 spoke to the jury after this manner: "`My masters, what do you mean to do?
@@ -1729,7 +1870,7 @@ accepted at length.
 But how hard a case this was to some,
 appeared by the mournful confession of one of the jury,
 who to ease his conscience published in print a small book,
-with the title of The Wounded Heart, or The Juryman`'s Offences,
+with the title of [.book-title]#The Wounded Heart,# or [.book-title]#The Juryman`'s Offences,#
 etc. in which he openly disapproved the fact, to which he had been induced by human fear.
 The pains had been so great to persuade the jury to bring
 in a verdict according to the mind of the court,
@@ -1786,7 +1927,7 @@ She answered, "`The will of the Lord be done, I am innocent.`"
 Yet this could not avail her,
 though judge Hide had said a little before concerning the prisoners,
 "`If they are innocent, then they are not guilty.`"
-But she was set by as mute, or pro confesso,
+But she was set by as mute, or _pro confesso,_
 as to the fact charged against her in the indictment.
 Others who complained of the unreasonableness of the proceedings,
 were hectored as impudent:
@@ -1895,8 +2036,13 @@ who gave forth a very serious exhortation and warning
 against the persecution to the king and parliament,
 etc. beginning thus:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 For the King and Parliament, etc.
 
+[.salutation]
 Friends,
 
 The God of heaven hath put it into my heart to write a few words unto you,
@@ -2273,6 +2419,10 @@ as the Lord hath spoken.
 By his servant, who is a lover of the welfare of all your souls,
 and I am thus far clear of all your blood,
 
+[.signed-section-signature]
 William Bayly.
 
+[.signed-section-context-close]
 Written in the Tenth month, 1664, at Hartford.
+
+--

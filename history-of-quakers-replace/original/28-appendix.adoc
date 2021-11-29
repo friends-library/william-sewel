@@ -7,20 +7,22 @@ and the plainness of its expressions.
 It is the more like the man,
 and carries the greater evidence of the honesty and integrity of the relater, viz.
 
-An account of the sufferings of Richard Seller, of Keinsey, a fisherman,
-who was pressed in Scarborough-Piers,
-in the time of the two last engagements between the Dutch and English, in the year 1665.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== An account of the sufferings of Richard Seller, of Keinsey, a fisherman, who was pressed in Scarborough-Piers, in the time of the two last engagements between the Dutch and English, in the year 1665.
 
 I was pressed in Scarborough-Piers, and refusing to go on board the ketch,
 they beat me very sore on the sand, and I refusing to go on board,
 they hoised me in with a tackle,
-on board of the ketch that pressed for the ship called the Royal Prince,
+on board of the ketch that pressed for the ship called the _Royal Prince,_
 and they bunched me with their feet, that I fell into a tub, and was so maimed,
 that they were forced to swaddle me up with clothes:
 from thence we sailed into Bridlington bay,
 where Thomas Swales and Mary Stranger hearing of me,
 sent me victuals on board of the ketch; then we sailed to the Buoy and Nore,
-where they hauled me in at a gunport, on board of the ship called the Royal Prince.
+where they hauled me in at a gunport, on board of the ship called the _Royal Prince._
 The 1st day of the third month they commanded me to go to work at the capstane;
 I refused, and told them, that "`As I was not free to do the king`'s work,
 I would not live at his charge for victuals;`" then the boatswain`'s mate beat me sore,
@@ -56,6 +58,7 @@ you and the company see that the Quaker hauleth the king`'s ropes,`" and with th
 commanded them to "`let fly the ropes loose,`" where I fell upon the deck.
 "`Now,`" said the jester, "`Noble captain, the wager is won,
 he hauled the ropes to the deck, and you can haul them no farther, nor any man else.`"
+
 Then the captain called the boatswain`'s mate, and bid him take the Quakerly dog away,
 and put him to the capstane, and make him work, and beat him, and spare him not.
 So the boatswain`'s mate had me down to the geer-capstane,
@@ -81,7 +84,7 @@ either Quaker, or any other man that doth refuse for conscience sake to act for 
 if I do, I wish I may lose my right hand.`"
 
 Then on the third-day came the admiral, sir Edward Spragg, on board of his own ship,
-called the Royal Prince, and hearing of a man that was pressed on board,
+called the _Royal Prince,_ and hearing of a man that was pressed on board,
 that was called a Quaker; also hearing that the boatswain`'s mate had beaten me much,
 and had given me over, and had denied to beat me any more,
 he was therefore called to come before the admiral, to answer for himself,
@@ -123,7 +126,7 @@ and they might as well beat the main-mast,`" Then said the commander,
 Then the boatswain was called, and commanded to call the ship`'s company together,
 and make ready the irons: the commander, sir Edward Spragg, said,
 "`You gentlemen sailors and soldiers, whosoever serves here under me for the king,
-on board of his majesty`'s ship called the Royal Prince, the admiral of the blue,
+on board of his majesty`'s ship called the _Royal Prince,_ the admiral of the blue,
 you are to take notice, that there is a man on board called a Quaker,
 he is to be laid in irons during the king`'s pleasure and mine, for refusing to fight,
 and eat the king`'s victuals, therefore I charge you all and every man,
@@ -131,6 +134,7 @@ that none of you give or sell him any victuals, meat, drink, or water, for if yo
 you shall have the same punishment that he hath.`"
 So this being called three times over, he commanded the boatswain to take me away,
 and put me in irons.
+
 So I being kept in irons six days and nights, and falling sick of a fever,
 I grew very weak, insomuch that when I was set out to ease myself,
 (which was but once in twenty-four hours) I could neither stand nor go:
@@ -233,6 +237,7 @@ I can never die in a better condition, for the Lord hath satisfied me,
 that he hath forgiven me all things in this world, and I am glad through his mercy,
 that he hath made me willing to suffer for his name`'s sake; and not only so,
 but I am heartily glad, and do really rejoice, and with a seal in my heart to the same.`"
+
 Then there came a man and laid his hand upon my shoulder, and said,
 "`Where are all thy accusers?`"
 Then my eyes were opened, and I looked about me, and they were all gone; and one said,
@@ -388,6 +393,7 @@ and told him whereabouts the sand laid: so he desired me to go to the compass,
 and he asked me, if I knew the compass?
 I told him, very well; so I showed him upon what point of the compass the said land laid,
 and he took a book out of his pocket, and found the sand, and the name of it.
+
 Some days after we were engaged on that very point with the Hollanders,
 and as soon as we were engaged, the cloud appeared to me, and came and darkened the ship.
 Then I stepped into the main shrouds, and I saw the thick water,
@@ -403,12 +409,12 @@ that Sir Edward may hear;`" (for the outcry was very
 great amongst the officers and seamen,
 because the ship was so near aground, and the enemies upon them) so they cried,
 "`A quarter less five.`"
-The commander cried, "`We shall have our Royal Prince on ground, take up your charge,
+The commander cried, "`We shall have our _Royal Prince_ on ground, take up your charge,
 pilot.`"
 Then he cried hard, "`Starboard your helm,
 and see how our ship will veer;`" so she did bear round up.
 The men at the lead cried, "`Five fathom, and a better depth.`"
-Then the commander cried, "`God preserve the Royal Prince.`"
+Then the commander cried, "`God preserve the _Royal Prince._`"
 Then the pilot cried, "`Be of good cheer, commander.`"
 They cried, six fathom, then nine fathom, then fifteen fathom, then sixteen fathom.
 The Hollanders, then shouted, and cried, "`Sir Edward runs.`"
@@ -496,6 +502,8 @@ But I refused, and told them, I had of my own, that I hoped would serve me home.
 And the lieutenant was troubled because I would take nothing;
 he would have given me twenty shillings, but I would not take it.
 
+--
+
 Thus ends the remarkable narrative of the sufferings of this faithful sailor,
 who rather than violate his conscience by being instrumental
 to destroy other men`'s lives,
@@ -514,10 +522,11 @@ and by the exercise of an undaunted Christian courage and constancy,
 triumphed over the malice of his adversaries, who conscious of his innocence,
 at length became his friends and favourers.
 
-A narrative of the Sufferings of John Philly and William Moore,
-in the Inquisition of Hungary, from the first month 1662, to the seventh month 1663.
-Taken from a letter written by William Moore to William Caton, dated Amsterdam,
-11th month, 1663.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== A narrative of the sufferings of John Philly and William Moore, in the Inquisition of Hungary, from the first month 1662, to the seventh month 1663. Taken from a letter written by William Moore to William Caton, dated Amsterdam, 11th month, 1663.
 
 On the 29th of the first month, 1662, John Philly and William Moore,
 being refreshed with the overflowings of the love of God through thee,
@@ -591,8 +600,8 @@ asked for countrymen, but finding none, I asked leave of the guard,
 and walked out into the field, where a trooper sat sentinel,
 discoursed a little with him, and passed on farther, where some were ploughing.
 And as I returned back, there did meet me a soldier of captain Fusch`'s company,
-with two other, and having a book in my hand, called, A Paper Sent Forth into the World,
-to Show the Grounds and Reasons Why we Denied the Priests of the World.
+with two other, and having a book in my hand, called, [.book-title]#A Paper Sent Forth into the World,
+to Show the Grounds and Reasons Why we Denied the Priests of the World.#
 He looked on the title, and began voluntarily to tell me,
 that "`Such a place was in Turkey, and if a man went thither,
 he might have good days there,`" etc.
@@ -617,6 +626,7 @@ and the marshal was to put iron shackles with a chain upon my foot and hand;
 and there was a talk as if I should be stuck upon a wooden spit,
 as some had been who had but gone to the next village without their order;
 but I turned my mind inward, and was pretty well resigned up to the Lord.
+
 So they having sent over to the chief officer to inform him,
 there were two soldiers sent with their burning matches to fetch me,
 and I little expecting less than present death, had told some soldiers,
@@ -719,10 +729,10 @@ he was slow in taking off that where the gold was, and the marshal thinking it t
 and thinking there had been no more, bid him put them on again.
 And upon a certain time he gave it me in half a little white loaf,
 when we stood with the soldiers waiting to be called.
-And they seeing the book called The Way to the Kingdom, that it was printed at Amsterdam,
+And they seeing the book called [.book-title]#The Way to the Kingdom,# that it was printed at Amsterdam,
 asked me, "`What books I brought from thence to Paltz, and how many?`"
 And one morning having sent for one of the priests.
-He got that written book of George Fox`'s of The Apostacy of Christendom,
+He got that written book of George Fox`'s of [.book-title]#The Apostacy of Christendom,#
 who looking on it, began to be hot and wrathful, saying,
 "`How are we (meaning the papists) apostatized, and how can that be proved?`"
 I said, "`Friend, it becometh not a spiritual man to be so furious, but gentle, meek,
@@ -773,8 +783,8 @@ being shorter tied above that wrist; then he was bid put it in joint again.
 So he slacked, and they asked me, having three things especially to ask.
 1st. Why did I ask the student, if one should come to them, and say,
 He intended to buy somewhat of them, if they would then kill him?
-2d. Why we had desired to be set over the water at the town, and who was the author?
-3d. Why I had written up some of the names of the garrisons, and other places,
+2nd. Why we had desired to be set over the water at the town, and who was the author?
+3rd. Why I had written up some of the names of the garrisons, and other places,
 notwithstanding I had them in the maps?
 
 And though he mentioned but three questions at the first,
@@ -1041,7 +1051,7 @@ and might have a little straw or hay to lie upon, for we were worse used than th
 "`Yea,`" said he, "`we prefer them before you.`"
 And about that time they proffered us a drink in an urging manner,
 which it was supposed was made to poison us; and John refusing to take it,
-one of the priests said, "`Suspectum est nos.`"
+one of the priests said, _"`Suspectum est nos.`"_
 One of the priests asked me, If I had a wife?
 I said, "`I never knew woman-kind.`"
 He said, "`The heretics had not that grace of chastity,
@@ -1174,6 +1184,7 @@ but then did the soldier beat me sore again,
 the other having charged him not to suffer me to say any thing.
 Then where we came at night, the irons were put on my feet, and a long big chain,
 tied on high about a beam, was put about my neck all night.
+
 Next morning we came to a village, when I would gladly have spoken with one,
 but they caused me to lie down until we were passed both village and castle,
 and so we travelled towards a place in the wilderness, as I was informed,
@@ -1333,9 +1344,13 @@ Farewell.
 
 Thy dear friend in the love and light of God,
 
+[.signed-section-signature]
 William Moore.
 
+[.signed-section-context-close]
 Amsterdam, the 11th month, 1663.
+
+--
 
 The narrative contained in the preceding letter,
 exhibits many instances of that protecting Providence of God,
