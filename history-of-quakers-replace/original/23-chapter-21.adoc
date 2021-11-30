@@ -1231,8 +1231,8 @@ where the court then was, and where W. Penn,
 one of those that had been chosen to present the address,
 made the following speech to the king:
 
-[quote]
-____
+[.embedded-content-document.address]
+--
 
 [.salutation]
 May it please the King,
@@ -1266,7 +1266,8 @@ and principality of Wales,
 our assembly from all those parts met at London about our church affairs,
 has appointed us to wait upon the king with our humble thanks, and me to deliver them:
 which I do by this address, with all the affection and respect of a dutiful subject.
-____
+
+--
 
 After W. Penn had thus delivered himself, he presented the address to the king,
 which that prince kindly receiving, gave it him again to read; which W. Penn did,
