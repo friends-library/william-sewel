@@ -1720,8 +1720,9 @@ and they were introduced by one of the prince`'s gentlemen into a chamber,
 where the prince met them; and then G. Whitehead spoke to him,
 the substance of which was as followeth:
 
-[quote]
-____
+[.embedded-content-document.letter]
+--
+
 We take it as a favour that we are thus admitted to see the prince of Wales,
 and truly we are very glad to see thee; having delivered our address to the king,
 thy royal father, and being desirous to give thyself a visit in true love,
@@ -1739,9 +1740,12 @@ and the state of the righteous ruler commended by king David,
 viz. he that ruleth over men must be just, ruling in the fear of God;
 and he shall be as the light of the morning, when the sun riseth,
 even a morning without clouds,
-as the tender grass springing out of the earth by clear shining after rain.`"
+as the tender grass springing out of the earth by clear shining after rain.
+
+--
+
+[.offset]
 This speech was favourably heard by the prince.
-____
 
 It was not long after the king`'s coming over, that Dr. Gilbert Burnet,
 bishop of Salisbury, the renowned author of the [.book-title]#History of the Reformation in England,#
