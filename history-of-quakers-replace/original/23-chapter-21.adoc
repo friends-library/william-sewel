@@ -1380,6 +1380,7 @@ either be allowed to serve the said offices, without taking any oaths,
 or else that they be not fined or otherwise molested upon that account;
 and his majesty would have you give order therein accordingly.
 
+[.signed-section-closing]
 I am, my Lord, your Lordship`'s most humble servant,
 
 [.signed-section-signature]
@@ -1415,6 +1416,7 @@ which were heretofore seized upon the account of religious worship, and are unso
 in whose hands soever they remain, to be forthwith restored to the respective owners,
 without any charge.
 
+[.signed-section-closing]
 I am, gentlemen, your affectionate friend and servant,
 
 [.signed-section-signature]
