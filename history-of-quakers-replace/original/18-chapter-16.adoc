@@ -2096,8 +2096,8 @@ Among the many expressions which signified his good frame of mind,
 and the divine consolation he felt, were also these words,
 that were taken in writing from his mouth:
 
-[quote]
-____
+[.embedded-content-document.testimony]
+--
 
 [.salutation]
 Friends,
@@ -2109,7 +2109,8 @@ But God hath appeared for the owning of our testimony,
 and hath broken in upon me as a flood,
 and I am filled with his love more than I am able to express;
 and God is really appeared for us, etc.
-____
+
+--
 
 This he spoke but a short time before his departure;
 and exhorted his friends to faithfulness and steadfastness,
