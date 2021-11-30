@@ -1,17 +1,31 @@
 == Chapter VIII
 
+[.section-date]
 1657--1659.
 
-G+++.+++ Fox and the man about to set up a College to make Ministers--Bedfordshire Yearly
-Meeting--Dispute between Jesuits and Quakers--Letters to the Protector respecting Friends
-and their Sufferings--The Lady Claypole--G. Fox`'s Address respecting "`Fasts`"--Many
-Friends offer to lie in Prison instead of their Brethren--Dissolution of Parliament
-foretold--E. Burrough`'s letters to the Protector and to his Family--Death of O. Cromwell--R.
-Cromwell proclaimed Protector--Exposition of the sufferings of Friends by E. Burrough--Great
-Persecution--Restoration foreseen--Cromwell`'s
-Funeral--R. Cromwell resigns the Protectorate--Barbarities
-towards Friends in New England--Cruel Laws--W. Brend and W. Leddra at Boston--Inhuman
-Treatment of W. Brend--Quakers compared to Wolves--Cutting off the ears of Quakers
+[.chapter-synopsis]
+* G+++.+++ Fox and the man about to set up a College to make Ministers
+* Bedfordshire Yearly Meeting
+* Dispute between Jesuits and Quakers
+* Letters to the Protector respecting Friends and their Sufferings
+* The Lady Claypole
+* G. Fox`'s Address respecting "`Fasts`"
+* Many Friends offer to lie in Prison instead of their Brethren
+* Dissolution of Parliament foretold
+* E. Burrough`'s letters to the Protector and to his Family
+* Death of O. Cromwell
+* R. Cromwell proclaimed Protector
+* Exposition of the sufferings of Friends by E. Burrough
+* Great Persecution
+* Restoration foreseen
+* Cromwell`'s Funeral
+* R. Cromwell resigns the Protectorate
+* Barbarities towards Friends in New England
+* Cruel Laws
+* W. Brend and W. Leddra at Boston
+* Inhuman Treatment of W. Brend
+* Quakers compared to Wolves
+* Cutting off the ears of Quakers
 
 The year being come to an end, I return again to G. Fox, whom we left at Newcastle.
 Whilst he was there, he, with Anthony Pearson, visited some of the aldermen;
@@ -190,6 +204,7 @@ this may be a means to draw many to your church.
 But if they change, decay, and lose their goodness,
 then ought you to confess and forsake your error, and shed no more blood about it,
 as hath been done, especially in queen Mary`'s days.`"
+
 To this the Jesuit made this reply: "`Take a piece of new cloth,
 and cut it into two pieces, and make two garments of it,
 and put one of them upon king David`'s back, and the other upon a beggar`'s,
@@ -229,6 +244,10 @@ and which, if he did not avoid, would bring shame and ruin upon him and his post
 Which counsel Cromwell seemed to take well, and thanked him for it:
 yet G. Fox wrote also concerning the same thing to him in this manner:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 O Protector,
 
 Who hast tasted of the power of God, which many generations before thee have not so much,
@@ -246,7 +265,10 @@ O Oliver, take heed of undoing thyself, by running into things that will fade,
 the things of this world that will change.
 Be subject and obedient to the Lord God.
 
+[.signed-section-signature]
 George Fox.
+
+--
 
 About this time G. Fox wrote also another letter to O. Cromwell,
 wherein he signified to him, that if he had been faithful, and thundered down deceit,
@@ -259,6 +281,10 @@ The lady Claypole, Cromwell`'s most beloved daughter, being sick,
 and much troubled in mind, so that none that came could minister any comfort to her,
 G+++.+++ Fox visited her with the following letter:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 Be still and cool in thy own mind and spirit from thy own thoughts,
@@ -338,7 +364,10 @@ That ye may feel the power of an endless life, the power of God which is immorta
 which brings the immortal soul up to the immortal God, in whom it doth rejoice.
 So in the name and power of the Lord Jesus Christ, God Almighty strengthen thee.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 The paper being read to the aforesaid lady, it stayed her mind somewhat;
 but she lived not long after, so that O. Cromwell met with almost continual trouble,
@@ -350,10 +379,11 @@ and one also for a collection for the relief of distressed Protestant churches.
 On this occasion, G. Fox to show what kind of fast it was that God requires and accepts,
 wrote the following paper:
 
-To the heads and governors of this nation, who have put forth a declaration,
-for the keeping of a day of solemn fasting and humiliation, for the persecution,
-as you say, of divers people beyond the seas, professing the reformed religion, which,
-ye say, has been transmitted unto them from their ancestors.
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== To the heads and governors of this nation, who have put forth a declaration, for the keeping of a day of solemn fasting and humiliation, for the persecution, as you say, of divers people beyond the seas, professing the reformed religion, which, ye say, has been transmitted unto them from their ancestors.
 
 A profession of the reformed religion may be transmitted to generations,
 and so holden by tradition; and in that, wherein the profession and tradition is holden,
@@ -523,7 +553,10 @@ Knowing therefore the terror of the Lord, we persuade men;
 but we are made manifest unto God, and shall be made manifest in all your consciences,
 which ye shall witness.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 Divers times when a fast was proclaimed, G. Fox wrote on that subject;
 and since commonly some mischief was then contrived against the Quakers,
@@ -543,6 +576,9 @@ pretending to be more religious than others,
 were indeed great persecutors of those that were truly religious,
 G+++.+++ Fox could not let this hypocrisy go unreproved, but wrote the following lines to them:
 
+[.embedded-content-document.letter]
+--
+
 O friends, do not cloak and cover yourselves; there is a God that knoweth your hearts,
 and that will uncover you.
 He seeth your way: "`Woe be to him that covereth, but not with my Spirit,`" saith the Lord.
@@ -560,7 +596,10 @@ Ye have lived in pleasure on the earth, and been wanton;
 ye have nourished your hearts as in a day of slaughter:
 ye have condemned and killed the just, and he doth not resist you.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 It was not G. Fox alone who was grieved with the said hypocrisy,
 but others of his friends also declared zealously against it.
@@ -583,8 +622,13 @@ as being what would draw down God`'s anger against them.
 Several copies of the said letter were delivered to Oliver, and his council:
 and some months after E. Burrough wrote the following letter to him.
 
-To the Protector.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To the Protector
+
+[.salutation]
 Friend,
 
 The salutation of my life wisheth well unto thee in the Lord,
@@ -626,16 +670,25 @@ Hereof I shall be glad to receive an answer, and to join issue in this cause;
 and in the meantime, and always, am a lover of thy soul,
 but a witness against all oppression.
 
+[.signed-section-signature]
 E+++.+++ B.
 
+[.signed-section-context-close]
 This was delivered to his hands at Hampton Court, in the Fourth Month, 1658.
+
+--
 
 I never understood that any thing of moment followed upon this;
 but about two months after he wrote another letter to Cromwell,
 which was delivered to him at Hampton Court, in the sixth month.
 
-To the Protector.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To the Protector
+
+[.salutation]
 Friend,
 
 Know that there is a God that doth whatsoever he will.
@@ -662,9 +715,13 @@ and presence in thee, to quench all that which is contrary,
 and then thou wilt be blessed in this life, and in the life to come;
 but if thou continuest in thy oppression, the Lord will suddenly smite thee.
 
+[.signed-section-closing]
 By a friend unto thee in the Lord,
 
+[.signed-section-signature]
 E+++.+++ B.
+
+--
 
 That the Lord, according to this prediction did suddenly smite Cromwell, time verified;
 for he lived but about a month after the receipt of the said letter.
@@ -700,6 +757,10 @@ but for his speedy recovery.`"
 Whilst the protector was sick,
 E+++.+++ Burrough wrote the following letter to his wife and children, etc.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 Remember, that by the Lord you were raised from a low state,
@@ -799,9 +860,13 @@ Wherefore be obedient to him, and love his ways and judgments,
 that he may make you more happy with a crown immortal, that never fades away.
 And remember once more the Lord hath warned you, by a friend unto you in the Lord.
 
+[.signed-section-signature]
 E+++.+++ Burrough.
 
+[.signed-section-context-close]
 Written the 1st day of September, 1658.
+
+--
 
 Cromwell was snatched away by death at unawares;
 however the day before his decease this letter was delivered to his relations.
@@ -838,6 +903,9 @@ was proclaimed Protector of the Commonwealth; to whom E. Burrough wrote a letter
 superscribed to Richard Cromwell, chosen to be protector and chief magistrate,
 etc. wherein he gave him some account of the most cruel sufferings of his friends;
 and speaking of the rulers, he saith thus:
+
+[.embedded-content-document.letter]
+--
 
 As for magistracy, it was ordained of God to be a dread and terror,
 and limit to evil-doers, and to be a defence and praise to all that do well;
@@ -887,14 +955,16 @@ and have suffered great injustice in these nations, through the abuse of good go
 and degeneration of magistracy from its perfect state and place,
 whereunto it was ordained of God in the beginning, etc.
 
+--
+
 This remonstrance, how powerful and large soever, had not its due effect;
 but persecution continued, without being stopped by him:
 for the churchmen fawned upon him, calling him not only their Joshua,
 but the preachers of Suffolk said in their address to him, "`Though our sun is gone down,
 yet no night ensued.`"
-Sol occubuit, nox nulla secuta est.
+_Sol occubuit, nox nulla secuta est._
 
-About this time was given forth a paper, called, The Church Faith;
+About this time was given forth a paper, called, [.book-title]#The Church Faith;#
 and G. Fox having got a copy of it before it was published, wrote an answer to it;
 and when the book of the church faith appeared, his answer was also in print.
 This so incensed some of the parliament men, that one of them told G. Fox,
@@ -944,6 +1014,9 @@ where they so well defended their cause, that several were set at liberty.
 Sufferings now growing very sharp, G. Fox, to encourage his friends,
 wrote the following lines to them:
 
+[.embedded-content-document.epistle]
+--
+
 My dear friends, everywhere scattered abroad, in prison, or out of prison, fear not,
 because of the reports of sufferings;
 let not the evil spies of the good land make you afraid,
@@ -960,7 +1033,10 @@ or an hill, and to walk through the deep waters, though they be heaps upon heaps
 for the evil spies of the good land may preach up hardness, but Caleb,
 which signifies an heart, and Joshua, a saviour, triumph over all.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 There was at that time great discord among those that were at the helm of government;
 and G. Fox relates, that he did then foresee the king`'s coming in again;
@@ -976,6 +1052,9 @@ How the corpse of Oliver Cromwell was laid in Somerset House to be seen,
 hath been said already; but afterwards an image of him lying there in state,
 was accompanied with trumpeters, who sounded over the said image.
 This vanity so grieved G. Fox, that he wrote the following lines to the authors thereof:
+
+[.embedded-content-document.letter]
+--
 
 Oh friends, what are ye doing!
 And what mean ye to sound before an image!
@@ -993,7 +1072,10 @@ and the swift hand of the Lord is turned against them all.
 The sober people in the nation stand amazed at your doings, and are ashamed,
 as if you would bring in popery.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 Sometime after this, the funeral of O. Cromwell was solemnized with very great pomp,
 not at all agreeable to that condition he was once in;
@@ -1042,7 +1124,11 @@ notwithstanding that he had written to Richard Cromwell, did not cease,
 and that all exhortations and warnings were rejected, E. Burrough in the month December,
 wrote the following lines to Richard and his council:
 
-To the Protector and his Council.
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To the Protector and his Council
 
 The Lord God will shortly make you know that we are his people;
 though we be accounted as sheep for the slaughter,
@@ -1054,7 +1140,10 @@ yet judgments shall awaken you,
 and his heavy hand of indignation shall lie upon your consciences,
 and you will be scattered and distracted to pieces.
 
+[.signed-section-signature]
 E+++.+++ Burrough.
+
+--
 
 How soon this prediction was fulfilled, we shall see in the next year;
 for it was but a few months after the delivering of this letter,
@@ -1340,13 +1429,19 @@ Then they were carried to the prison, and on the 16th of September,
 the Marshal`'s deputy came thither, letting as many come in as he thought meet;
 and when the doors were made fast, the said marshal read the following order:
 
+[.embedded-content-document.legal]
+--
+
 To the marshal-general, or his deputy: you are to take with you the executioner,
 and repair to the house of correction,
 and there see him cut off the right ears of John Copeland, Christopher Holder,
 and John Rous, Quakers; in execution of the sentence of the court of assistants,
 for the breach of the law, intitled Quakers.
 
-Edward Rawson, Secretary.
+[.signed-section-signature]
+Edward Rawson, _Secretary._
+
+--
 
 Then the prisoners were brought into another room, where John Rous said to the marshal,
 "`We have appealed to the chief magistrate of England.`"
@@ -1405,7 +1500,11 @@ and that they had been banished out of the country.
 Now to enter upon this bloody business, the following act was made at a general court,
 held at Boston, the 20th of October, in this year, 1658.
 
-An Act made at a general court, held at Boston, the 20th of October, 1658.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+An Act Made at a General Court, Held at Boston, the 20th of October, 1658
 
 Whereas there is a pernicious sect, (commonly called Quakers,) lately risen,
 who by word and writing have published and maintained many dangerous and horrid tenets,
@@ -1458,6 +1557,8 @@ they shall be sentenced to banishment upon pain of death; and any one magistrate
 upon information given him of any such person, shall cause him to be apprehended,
 and shall commit any such person to prison, according to his discretion,
 until he come to trial, as aforesaid.
+
+--
 
 Here endeth this sanguinary act,
 being more like to the decrees of the Spanish Inquisition,

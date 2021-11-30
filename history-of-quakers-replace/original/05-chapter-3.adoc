@@ -1,15 +1,29 @@
 == Chapter III
 
+[.section-date]
 1652-1654.
 
-Impropriety of calling places of worship Churches--Great cruelty of the people at Walney--G.
-Fox accused of blasphemy--G. Fox cleared in open session--Several persons of note convinced--Number
-of preachers among Friends--G. Fox foretells the dissolution of the long Parliament--Several
-hundreds convinced at one time--G. Fox committed to prison as a blasphemer--J. Parnel--M.
-Halhead--Cruel persecution of M. Halhead--Remarkable occurrence to M. Halhead`'s wife--Effect
-of M. Halhead`'s presence on two priests--R. Widders--Means by which Quakers became
-so numerous--Why they visit Steeple houses--G. Fox travels into the north of England--John
-ap John sent to prove the Quakers--Cromwell declared Protector
+[.chapter-synopsis]
+* Impropriety of calling places of worship Churches
+* Great cruelty of the people at Walney
+* G. Fox accused of blasphemy
+* G. Fox cleared in open session
+* Several persons of note convinced
+* Number of preachers among Friends
+* G. Fox foretells the dissolution of the long Parliament
+* Several hundreds convinced at one time
+* G. Fox committed to prison as a blasphemer
+* J. Parnel
+* M. Halhead
+* Cruel persecution of M. Halhead
+* Remarkable occurrence to M. Halhead`'s wife
+* Effect of M. Halhead`'s presence on two priests
+* R. Widders
+* Means by which Quakers became so numerous
+* Why they visit Steeple houses
+* G. Fox travels into the north of England
+* John ap John sent to prove the Quakers
+* Cromwell declared Protector
 
 In the meanwhile G. Fox returned into Lancashire, and went to Ulverstone,
 where Lampitt before mentioned was priest.
@@ -44,15 +58,16 @@ have endeavoured to keep people in the belief,
 that the ground of these buildings was holy;
 and this save occasion to the people called Quakers, to call those buildings,
 steeple-houses.
+
 Now since a fantastical man I very well knew in Holland,
 conversing there among the people of that persuasion,
-undertook to translate that denomination into Dutch, Gespitste huyzen,
+undertook to translate that denomination into Dutch, _Gespitste huyzen,_
 it gave occasion to some Latin writers in Germany, to complain,
-that the Quakers scornfully called their temples Domus acuminatas.^
+that the Quakers scornfully called their temples __Domus acuminatas.__^
 footnote:[Steeple-house.]
-And though Croese says also in Historia Quakeriana concerning them,
+And though Croese says also in _Historia Quakeriana_ concerning them,
 // lint-disable invalid-characters "æ"
-Templa cuncti Quakeri contumeliosè vocabant æedes pyramidatas,^
+__Templa cuncti Quakeri contumeliosè vocabant æedes pyramidatas,__^
 footnote:[All the Quakers contemptuously called churches, steeple-houses.]
 yet he knew better.
 But this digression has led me off from G. Fox, whom I left at Ulverstone,
@@ -104,21 +119,13 @@ the Quakers should all be put down and gone.
 But they reckoned wrong; for it fared with those people as with trees,
 which grow best when most lopped.
 // lint-disable invalid-characters "æ"
-Duris ut ilex tonsa pipennibus, per damna, per cædes, ab ipso,
-ducit opes animumque ferro.^
+__Duris ut ilex tonsa pipennibus, per damna, per cædes, ab ipso,
+ducit opes animumque ferro.__^
 footnote:[Imitated:
-{footnote-paragraph-split}
-As by the lopping axe,
-the sturdy oak
-{footnote-paragraph-split}
-Improves her shade,
-and thrives beneath the stroke;
-{footnote-paragraph-split}
-Tho`'
-present loss and wounds severe she feel,
-{footnote-paragraph-split}
-She
-draws fresh vigour from th`' invading steel.]
+`    As by the lopping axe, the sturdy oak
+     Improves her shade, and thrives beneath the stroke;
+     Tho`' present loss and wounds severe she feel,
+     She draws fresh vigour from th`' invading steel. `]
 
 G+++.+++ Fox keeping in continual motion, went with James Nayler to Walney Island,
 having first had a meeting at a little town called Cockan,
@@ -294,9 +301,9 @@ Neither could they be charged with resistance or making head against their perse
 for one man did sometimes lead a great many of them to prison,
 who never forsook their religious assemblies, how hot soever persecution was.
 That this was also the practice of the primitive Christians, appears by what Cyprian,
-who died a martyr, wrote to Demetrian, viz. Nemo nostrum, quando apprehenditur,
+who died a martyr, wrote to Demetrian, viz. __Nemo nostrum, quando apprehenditur,
 reluctatur; nec se adversus injustam violentiam vestram,
-quamvis nimius et copiosus sit noster populus, ulciscitur.^
+quamvis nimius et copiosus sit noster populus, ulciscitur.__^
 footnote:[No one of us makes resistance when he is taken up;
 nor takes any revenge on your unrighteous violence,
 although our numbers are greater than yours.]
@@ -339,6 +346,10 @@ G+++.+++ Fox being now come again to Swarthmore,
 wrote several letters to the magistrates and priests who had raised persecutions thereabouts.
 That to justice John Sawrey, was very sharp, and after this manner:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 Thou wast the first beginner of all the persecution in the North.
@@ -365,6 +376,7 @@ and thy heart far from him, and thou in thy hypocrisy!
 How hath the form of thy teaching declared itself to be the mark of the false prophets,
 whose fruit declares itself! for by their fruits they are known.
 How are the wise men turned backward!
+
 View thy ways, and take notice, with whom thou hast taken part.
 That of God in thy conscience will tell thee.
 The ancient of days will reprove thee.
@@ -409,7 +421,10 @@ and thy conceitedness would not carry thee through,
 in whom was found the selfish principle, which hath blinded thy eye.
 Thy back must be bowed down always; for thy table is already become thy snare.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 Sharp indeed was this letter; but G. Fox thought himself moved thereto by the Lord:
 and it is remarkable that this justice Sawrey,
@@ -1129,7 +1144,11 @@ for integrity did then shine out among them above many others:
 to this the true fear of God led them, and to this they were exhorted from time to time.
 G+++.+++ Fox also writ a general epistle to them, which was as followeth:
 
-To you all, Friends everywhere, scattered abroad.
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+To you all, Friends everywhere, scattered abroad,
 
 In the measure of the life of God, wait for wisdom from God, even from him,
 from whence it comes.
@@ -1171,6 +1190,7 @@ to know the things that belong to the kingdom of God.
 And there the light and life of man everyone receives, him who was, before the world was,
 by whom it was made: who is the righteousness of God, and his wisdom: to whom all glory,
 honour, thanks, and praise belongs, who is God blessed forever.
+
 Let no image, nor likeness be made; but in the light wait,
 which will bring condemnation on that part, that would make the images;
 for that prisons the just.
@@ -1190,7 +1210,10 @@ Therefore all ye whose minds are turned to this light,
 that are contrary to the light,) wait upon the Lord Jesus for the crown,
 that is immortal, and that fadeth not away.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 This epistle he sent to be read at the meetings of his friends.
 Not long after, a certain priest of Wrexham in Wales, whose name was Morgan Floyd,

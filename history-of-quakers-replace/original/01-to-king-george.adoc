@@ -1,6 +1,7 @@
 [short="To King George"]
 == To George, King of Great Britain, Ireland, etc. Prince Elector of Brunswick, Lunenburg, etc.
 
+[.salutation]
 Great and Mighty Prince,
 
 As there is a great variety in the inclinations of men in general,
@@ -65,6 +66,8 @@ and when removed hence from an earthly and perishing diadem,
 to grant thee an heavenly and incorruptible crown of glory:
 which is the unfeigned desire of,
 
+[.signed-section-closing]
 Thy affectionate and sincere well-wisher,
 
-William Sewel.
+[.signed-section-signature]
+William Sewel
