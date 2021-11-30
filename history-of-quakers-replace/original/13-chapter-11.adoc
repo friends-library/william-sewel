@@ -1387,15 +1387,17 @@ having endeavoured to obtain his liberty, departed before him towards England.
 When Perrot afterward lived in America, about the beginning of the year 1665,
 John Taylor wrote thus from Jamaica concerning him:
 
-[quote]
-____
+[.embedded-content-document.letter]
+--
+
 One of the judges of this place told me,
 that he never had seen one who so severely exacted
 an oath from people as John Perrot did;
 for he saith, that if they will go to hell, he will dispatch them quickly.
 And another judge that was also present, said,
 that Perrot had altogether renounced his faith, and aimed at nothing but his profit.
-____
+
+--
 
 Such a one was John Perrot, though even some wise men admired him for a time;
 but he became a man of a rough behaviour.
