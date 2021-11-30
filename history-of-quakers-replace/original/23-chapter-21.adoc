@@ -1318,8 +1318,8 @@ His peaceable, loving, and faithful subjects.
 [.offset]
 After William Penn had read the said address, the king spoke as followeth.
 
-[quote]
-____
+[.embedded-content-document.address]
+--
 
 [.salutation]
 Gentlemen,
@@ -1331,7 +1331,8 @@ and that all men ought to have the liberty of their consciences.
 And what I have promised in my declaration, I will continue to perform as long as I live;
 and I hope before I die, to settle it so,
 that after-ages shall have no reason to alter it.
-____
+
+--
 
 Here we see what the king declared to be his intention;
 but perhaps that prince did not consider,
