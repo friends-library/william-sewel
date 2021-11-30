@@ -2012,8 +2012,8 @@ Being come thither, his disease increased, and lying very sick in bed,
 and being visited by some of his friends, he said to them in great weakness of body,
 as followeth:
 
-[quote]
-____
+[.embedded-content-document.address]
+--
 
 [.salutation]
 My Friends,
@@ -2430,7 +2430,8 @@ and bear a faithful and living testimony for him in your day.
 And the Lord will prosper his work in your hand,
 and cause his truth to flourish and spread abroad.
 For it shall have the victory, and no weapon formed against it shall prosper.
-____
+
+--
 
 Thus fervent in spirit was W. Dewsbury in his latter end,
 and he prayed to God very earnestly for all his friends,
