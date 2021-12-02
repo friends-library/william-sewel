@@ -1,6 +1,7 @@
-== Chapter VII.
+== Chapter VII
 
-=== 1656-1657.
+[.section-date]
+1656-1657.
 
 [.chapter-synopsis]
 * "`The Fanatic History`"
@@ -21,8 +22,7 @@
 * Singular incidents of G. Robinson`'s travels to Jerusalem
 
 When king Charles the Second had ascended the throne, one Richard Blome published a book,
-entitled.
-[.book-title]#The Fanatic History#,
+entitled, [.book-title]#The Fanatic History,#
 which was said to be published with the approbation of orthodox divines,
 (so called,) and dedicated by him to the king.
 This book struck chiefly against the Quakers,
@@ -30,12 +30,12 @@ and was stuffed with a multitude of lying stories,
 and the fall of J. Nayler was not concealed in it.
 He being then alive, took up the pen, and answered the falsities contained in it,
 relating to himself: and because R. Blome, in his dedication, said,
-'`That if his majesty put not forth his royal hand of power suddenly, to restrain us,
+"`That if his majesty put not forth his royal hand of power suddenly, to restrain us,
 we are so numerous, and seducing, that we will,
 (in a little time,) diffuse our poison over the better part of his kingdom,
-which none but a regal authority can stifle.`'
+which none but a regal authority can stifle.`"
 
-[.embedded-content-document.paper]
+[.embedded-content-document]
 --
 
 I say then, what is become of your spiritual weapons?
@@ -81,7 +81,7 @@ This doth clearly manifest, that the power of God you have not in you,
 but have lost the kingdom of the Most High, and so are become unreasonable men,
 who would have two weapons against one, and another to do your work for you,
 and yet are unwilling to forego your wages; yea,
-this advantage you have had divers years, but have not prevailed therewith?
+this advantage you have had divers years, but have not prevailed therewith.
 
 And whereas thou sayest thy book is of great consequence;
 and so thou presumest to make king Charles the patron of it:
@@ -108,7 +108,7 @@ rashness and folly, and needs a pardon.
 
 And whereas you now say, that none but a regal authority can stifle; it is true,
 you have tried parliaments and protectors, (as you called them,) and parliaments again;
-and to make them then work for you, your priests used these arguments to them, to wit.
+and to make them then work for you, your priests used these arguments to them, to wit,
 That in the late wars they had exposed lives, liberties, estates, and relations,
 with all other personal advantages, in maintaining the just proceedings of parliaments,
 and from them you then claimed our stifling, as the price of your prayers, purses,
@@ -131,36 +131,37 @@ purses, and blood, as there you plead, then is your faith but new,
 which now you would have defended; but if not true, then how great deceivers,
 and how little to be trusted, or defended, in your cruel designs.
 
-'`The king that faithfully judges the poor, his throne shall be established forever.
-But, if a ruler hearken to lies, all his servants are wicked.`' Prov. 29:12,14.
+"`The king that faithfully judges the poor, his throne shall be established forever.
+But, if a ruler hearken to lies, all his servants are wicked.`" Prov. 29:12,14.
 
 And to thee, who hast set forth this book of mischief, I say with the Scriptures,
 "`Lay not wait, O wicked man, against the dwelling of the righteous,
 spoil not his resting place.
 For a just man falleth seven times, and riseth up again;
-but the wicked shall fall into mischief.`" Prov. 24:15-16. See also Mic. 7:8.
+but the wicked shall fall into mischief.`" Prov. 24:15-16.
+See also Mic. 7:8.
 
 [.signed-section-signature]
 J+++.+++ N.
 
 --
 
-=== In answer to the book.
+[.offset]
+In answer to the book.
 
-[.embedded-content-document.paper]
+[.embedded-content-document]
 --
 
 The day is come that the Scripture is fulfilled, which the Lord spoke by his prophet, Isa. 44:25.
 That he will make the diviners mad;
 and that the prophets shall be ashamed, every one of his vision, Zach.
-xiii.
-4+++.+++ The which doth now evidently appear, and their folly is made manifest unto all,
+8:4+++.+++ The which doth now evidently appear, and their folly is made manifest unto all,
 that will see and behold it,
 according to 2 Tim. 3:9. And is not this manifest madness and folly in them,
-called orthodox and divines, to present unto the king their packet of Hes,
+called orthodox and divines, to present unto the king their packet of lies,
 which have been seven years told over, and so long since disproved and confuted,
-as may be seen in a book called, [.book-title]#Saul`'s Errand to Damascus,
-Etc.# printed in the year 1653, and in several other books since.
+as may be seen in a book called, [.book-title]#Saul`'s Errand to Damascus,#
+etc. printed in the year 1653, and in several other books since.
 It already hath been, and is now manifest unto all men of sober understandings,
 that these men, falsely called orthodox and divines, have had no defence,
 either to vindicate themselves, or disprove the people called Quakers,
@@ -170,9 +171,10 @@ and to the two protectors, and which now to this present king is directed;
 and you presumptuously charge him to be the patron of it,
 requiring him to defend those lies which you falsely call the faith.
 But this we know, according as it is written, Prov. 29:12,19.
-that '`if a ruler hearken to lies, and his servants are wicked;
-but a wise king scattereth the wicked, and bringeth the wheel over them.`" Chap.
-xx. 26.
+that "`if a ruler hearken to lies, and his servants are wicked;
+but a wise king scattereth the wicked, and bringeth the wheel over them.`"
+Chap.
+20:26.
 
 These pretended divines are such as have bowed and
 crouched under every appearance of a power,
@@ -205,15 +207,15 @@ for such shall discern hypocrites, and false-hearted men,
 under every pretence of flattery or dissimulation;
 for the folly of these begins to be manifest unto all men. 2 Tim. 3:9.
 
-Now in answer to the history concerning John Tolverdey, asserted by a company of priests,
-as Brooks, Cocking, Goodwin, Jenkin, Jacomb, Alderry, Tombs, and Poole,
+Now in answer to the history concerning John Toldervey, asserted by a company of priests,
+as Brooks, Cocking, Goodwin, Jenkins, Jacomb, Alderry, Tombs, and Pool,
 who themselves say, that they have but perused a part, as page 99,
 and yet pretend to witness the whole;
 whose witness is disproved and denied by the said John Toldervey,
 both by his own book given forth from him, and by his life and conversation, being now,
 (since his return from his out-going,) a living witness, not against, but for the way,
 doctrine, principle, and practice, which the people called Quakers do live in,
-against those lies published abroad Concerning him.
+against those lies published abroad concerning him.
 
 And as for thy charge thou hast against J. Nayler,
 through the everlasting mercy of my God, I have yet a being amongst the living,
@@ -247,7 +249,7 @@ But, O man, or men, whoever you be,
 whose work it is to gather the failings of God`'s people in the time of temptation,
 or night of their trial, and aggravate them,
 and add thereto the wickedness and mischievous lies of your own hearts,
-as thou hast done in thy book, and then come cut with those,
+as thou hast done in thy book, and then come out with those,
 against God`'s everlasting holy Truth, it to reproach;
 I say you are set on work by an evil spirit,
 and you do but show yourselves to be enemies to God and his children;
@@ -258,7 +260,7 @@ or to feed the man that watches for iniquity, and feeds on mischief; yet know th
 you that are of that brood, God will not cast off his people;
 though he be sometimes provoked to correct them, even before their adversaries,
 (which is a sign to them,) yet is his anger but for a moment,
-and his favor shall return as streams of life;
+and his favour shall return as streams of life;
 then shall the food be taken out of the mouth of the viper,
 and the prey from between the teeth of the devourers;
 and God will feed them with their own vomit,
@@ -271,7 +273,7 @@ neither hath he smitten him as he smote them that smote him,
 nor is he slain according to the slaughter of them that are slain by him,
 but this is all his fruit to purge away his sin.
 
-So he that hath long watched for my faltering, then got advantage against me;
+So he that hath long watched for my faultering, then got advantage against me;
 yet had I then power to bear his utmost envy, through Christ Jesus,
 whom I then confessed before men, who then was my support in all, and under all,
 and who is over all, blessed forever of all who have proved him in the depth.
@@ -307,10 +309,9 @@ which condemns it in every enlightened conscience,
 and there will clear himself to be no author nor actor therein;
 and I know by the Spirit of Jesus, which I have received, and which worketh in me,
 that this is not his work, nor his seed; and in him that loves his enemies, thou art not;
-but the old accuser of the brethren it is that works strongly in thee;
-and in the light which thou reproaches, art thou seen to be the man that makes lies,
-and carries tales to shed blood.`' Ezek. 22:9.
-12.
+but the old accuser of the brethren it is that worketh strongly in thee;
+and in the light which thou reproachest, art thou seen to be the man that makes lies,
+and carries tales to shed blood. Ezek. 22:12-9.
 
 --
 
@@ -322,9 +323,9 @@ to wit,
 that his fall was a consequence of the doctrine that
 men must take heed to the saving grace,
 the inward anointing,
-or the light wherewith every man coming into the world is enlightened from God^
+or the light wherewith every man coming into the world is enlightened from God.^
 footnote:[J. Nayler was a man who had been highly
-favored of God with a good degree of grace,
+favoured of God with a good degree of grace,
 which was sufficient for him, had he kept to its teachings; for while he did so,
 he was exemplary in godliness and great humility, was powerful in word and doctrine,
 and thereby instrumental in the hand of God, for turning many from darkness to light,
@@ -352,13 +353,13 @@ in bringing back into unity with them, a man who had so dangerously fallen,
 as did James Nayler.
 And here let none insult, but take heed lest they also, in the hour of their temptation,
 do fall away.
-Nor let any boastingly say,
-Where is your God? Or blasphemously suppose his
-grace is not sufficient for man in temptation,
+Nor let any boastingly say, Where is your God?
+Or blasphemously suppose his grace is not sufficient for man in temptation,
 because the tempted may go from, and neglect the teaching of it.
 David and Peter,
 as their transgression came by their departing from this infallible guide,
-the Holy Spirit, so their recovery was only by it.--Jos. Wyeth`'s [.book-title]#Anguis Flagel#]
+the Holy Spirit, so their recovery was only by it.__--Jos.
+Wyeth`'s__ [.book-title]#"`Anguis Flagel.`"#]
 
 Yet to proceed further with J. Nayler: he wrote, after his recovery,
 many papers and edifying letters: he also answered two letters, which,
@@ -369,8 +370,8 @@ All the arguments for the persecution of the Quakers to be lawful and necessary,
 he answered at large,
 and showed how little agreement their crime of pursuing persecution
 had with the name wherewith they had called themselves,
-for a distinction from other persuasions, namely.
-Independents, by which they would have it known, that they were independent of all,
+for a distinction from other persuasions, namely, Independents,
+by which they would have it known, that they were independent of all,
 except the Spirit of Jesus Christ, on whom they pretended alone to be dependent: and yet,
 nevertheless, it now appeared manifestly,
 that it was the fleshly arm whereby they supported themselves.
@@ -378,7 +379,8 @@ He wrote also some papers to the parliament, and the rulers,
 to check the vanities that were publicly committed, and to mend their faults;
 to ease the oppressed, and to take care for the maintenance of liberty.
 
-At length he died at Huntingdonshire,^
+At length he died at Huntingdonshire, in the latter end of the year 1660,
+about the 44th year of his age.^
 footnote:[He was a man of great self-denial, and very jealous of himself,
 ever after his fall and recovery.--At last, departing from the city of London,
 about the latter end of the Eighth month, 1660, towards the North,
@@ -398,19 +400,17 @@ but being found in a field by a countryman toward evening, was had,
 or went to a friend`'s house at Holm, not far from King`'s Rippon, where Thomas Parnel,
 a doctor of physic dwelt, who came to visit him;
 and being asked if any friends at London should be sent for to come and see him;
-he said '`Nay,`' expressing his care and love to them.
-Being shifted, he said '`You have refreshed my body,
-the Lord refresh your souls;`' and not long after departed this life,
+he said "`Nay,`" expressing his care and love to them.
+Being shifted, he said "`You have refreshed my body,
+the Lord refresh your souls;`" and not long after departed this life,
 in peace with the Lord, about the Ninth month, 1660, and the 44th year of his age,
 and was buried in Thomas Parnel`'s burying ground
 at King`'s Rippon aforesaid.--J. W.`'s account.]
-in the latter end of the year 1660, about the 44th year of his age.
 About two hours before his death, he spoke,
 in the presence of several witnesses these words:
 
-[.embedded-content-document.testimony]
---
-
+[quote]
+____
 There is a spirit which I feel, that delights to do no evil, nor to revenge any wrong,
 but delights to endure all things, in hope to enjoy its own in the end.
 Its hope is to outlive all wrath and contention,
@@ -430,9 +430,9 @@ It never rejoiceth but through sufferings; for with the world`'s joy it is murde
 I found it alone, being forsaken.
 I have fellowship therein with them who lived in dens, and desolate places of the earth,
 who through death obtained this resurrection, and eternal holy life.^
-footnote:[N. B. There is a passage in the book called, [.book-title]#The complete History of England,
-Vol.
-iii#. page 201, which says that J. Nayler died with no fruits,
+footnote:[N. B. There is a passage in the book called, The Complete History of England,
+vol.
+iii. page 201, which says that J. Nayler died with no fruits,
 nor so much as signs of repentance.
 How the author came by such information, we cannot tell,
 but that it is a manifest mistake we doubt not but
@@ -440,8 +440,7 @@ the impartial reader is by this time abundantly convinced.]
 
 [.signed-section-signature]
 James Nayler.
-
---
+____
 
 This was J. Nayler`'s last testimony, or dying words; and thus he gave proof,
 that though he had erred, yet with great confidence he hoped for a happy resurrection.
@@ -468,7 +467,7 @@ a fine of five pounds being laid on any that should otherwise come at,
 or speak with them, though but at the window.
 Their pens, ink, and paper were taken from them,
 and they not suffered to have any candle-light in the night season; nay, what is more,
-they were stripped naked, under pretense to know whether they were witches,
+they were stripped naked, under pretence to know whether they were witches,
 though in searching, no token was found upon them but of innocence:
 and in this search they were so barbarously misused, that modesty forbids to mention it:
 and that none might have communication with them,
@@ -493,23 +492,23 @@ that at first they had used no punishment against the Quakers.
 
 Scarce a month after the arrival of the aforesaid women at Boston,
 there came also Christopher Holder, Thomas Thirstone, William Brend, John Copeland,
-Mary Prince, Sarah Gibbons, Mary Whitehead, and Dorothy Waugh;
+Mary Prince, Sarah Gibbens, Mary Whitehead, and Dorothy Waugh;
 they were locked up in the same manner as the former, and after about eleven weeks stay,
-sent back; Robert Locke, a master of a ship,
+sent back; Robert Lock, a master of a ship,
 being compelled to carry these eight persons back on his own charge,
 and to land them no where but in England;
 having been imprisoned till he undertook so to do.
 
 The Governor, John Endicot, whose blood-thirstiness will appear in the sequel,
-being now come home, bid them '`Take heed ye break not our ecclesiastical laws,
-for then ye are sure to stretch by a halter.`'
+being now come home, bid them "`Take heed ye break not our ecclesiastical laws,
+for then ye are sure to stretch by a halter.`"
 And when they desired a copy of those laws it was denied them;
-which made some of the people say, '`How shall they know then when they transgress?
+which made some of the people say, "`How shall they know then when they transgress?`"
 But Endicot remained stiff, having said before,
 when at Salem he heard how Ann Austin and Mary Fisher had been dealt with at Boston,
-'`If I had been there, I would have had them well whipped.`'
+"`If I had been there, I would have had them well whipped.`"
 Then a law was made,
-prohibiting all masters of ships from bringing any Quakers-into that jurisdiction,
+prohibiting all masters of ships from bringing any Quakers into that jurisdiction,
 and themselves from coming in, on penalty of the house of correction.
 When this law was published, Nicholas Upshal, already mentioned,
 could not forbear to show the persecutors the unreasonableness of their proceedings:
@@ -518,18 +517,17 @@ and so draw down a judgment upon the land.
 But this was taken so ill, that though he was a member of their church,
 and of good repute, as a man of unblameable conversation,
 yet he was fined in twenty-three pounds, and imprisoned also for not coming to church,
-and next they banished '`him out of their jurisdiction.
-This fine was exacted so severely that Endicot said,
-'`I will not bate him one groat`' And though a weakly old man,
-yet they allowed him but one month`'s space for his removal,
+and next they banished him out of their jurisdiction.
+This fine was exacted so severely that Endicot said, "`I will not bate him one groat.`"
+And though a weakly old man, yet they allowed him but one month`'s space for his removal,
 so that he was forced to depart in the winter.
 
 Coming at length to Rhode Island, he met an Indian prince,
-who having understood how he had been dealt with, behaved himself very-kindly,
+who having understood how he had been dealt with, behaved himself very kindly,
 and told him, if he would live with him, he would make him a warm house.
-And further said, '`What a God have the English,
-who deal so with one another about their Cod!`' For it seems Upshal was
-already looked upon as one that was departing from his church-membership.
+And further said, "`What a God have the English,
+who deal so with one another about their God!`"
+For it seems Upshal was already looked upon as one that was departing from his church-membership.
 But this was but a beginning of the New England persecution, which in time grew so hot,
 that some of the Quakers were put to death on the gallows,
 as will be related in its due time.
@@ -541,9 +539,9 @@ and since some thousands of people were come thither, and many very eager to see
 he stepped upon a great stone that stood there, and having put off his hat,
 stood a pretty while silent, to let people look at him.
 A Baptist was there named Paul Gwyn, who began to find fault with G. Fox`'s hair,
-and at last said to the people, '`Ye wise men of Bristol, I strange at you,
+and at last said to the people, "`Ye wise men of Bristol, I strange at you,
 that ye will stand here, and hear a man speak,
-and affirm that which he cannot make good.`'
+and affirm that which he cannot make good.`"
 Hereupon G. Fox asked the people whether they ever heard him speak before,
 or ever saw him before?
 And he bid them take notice what kind of man this Gwyn was, who so impudently said,
@@ -556,7 +554,7 @@ without being disturbed.
 After this meeting, G. Fox departed from Bristol, and passing through Wiltshire,
 Marlborough, and other places, he returned to London; and when he came near Hyde Park,
 he saw the Protector coming in his coach; whereupon he rode up to the coach side,
-and some of his lifeguard would have put him away; but the protector forbade them.
+and some of his life-guard would have put him away; but the protector forbade them.
 Then riding by his coach side,
 he spoke to him about the sufferings of his friends in the nation,
 and showed him how contrary this persecution was to Christ and his apostles,
@@ -571,8 +569,7 @@ Not long after, G. Fox and Edward Pyot went to Whitehall,
 and there spoke to Cromwell concerning the sufferings of their friends,
 and directed him to the light of Christ,
 who had enlightened every man that cometh into the world.
-To which Cromwell said.
-This was a natural light; but they showed him the contrary,
+To which Cromwell said, This was a natural light; but they showed him the contrary,
 saying that it was divine and spiritual, proceeding from Christ,
 the spiritual and heavenly man.
 Moreover G. Fox bid the protector lay down his crown at the feet of Jesus.
@@ -617,7 +614,7 @@ and the sceptre and sword being presented him, took the oath to rule faithfully.
 Cromwell having called a new parliament, it consisted of two houses,
 viz. a house of commons, and another house as they called it.
 And many excluded members having taken place again in the house of commons,
-it was believed that more than a hundred of the members were enemies to Cromwell;
+it was believed that more than an hundred of the members were enemies to Cromwell;
 and the authority of the upper house began to be called in question by some,
 because it was filled up with many of his creatures, some of them of low rank.
 And this matter was so carried on in the house of commons,
@@ -637,7 +634,7 @@ being moved of him, do hereby in his presence yet once more warn thee,
 that thou fear before him, and diligently hearken to him,
 and seek him with all thy heart,
 that thou mayest know his will and counsel concerning thee, and mayest do it,
-and find favor in his sight, and live.
+and find favour in his sight, and live.
 Now is the day that his hand is stretched forth unto thee,
 to make thee a blessing or to leave thee a curse forever;
 and the days of thy visitation are near an end, when God will no more call unto thee,
@@ -654,7 +651,7 @@ assuredly knowing that it is he that changeth time and things, and that bringeth
 and setteth up whomsoever he will; and how that thou wast raised from a low estate,
 and set over all thine enemies.
 And in that day when thou wast raised up, when the fear of the Lord was before thy face,
-and thy heart was towards him, and thou Avast but little in thine own eyes,
+and thy heart was towards him, and thou wast but little in thine own eyes,
 then was it well with thee, and the Lord blessed thee.
 And it was not once thought concerning thee,
 that the hands of the ungodly would have been strengthened
@@ -679,9 +676,10 @@ from the murderous plots, and crafty policy of evil men, who seek thy evil,
 and would rejoice in thy fall, and in the desolation of thy family and countries:
 how have they, and do they lay snares for thy feet,
 that thou mayst be cut off from amongst men, and die unhappily,
-and be accounted accursed.
+and be accounted accursed?
 And yet to this day he hath preserved thee, and been near to keep thee,
-though thou hast hardly known it; and the Lord`'s end is love to thee in all these things,
+though thou hast hardly known it;
+and the Lord`'s end is love to thee in all these things,
 and yet a little longer to try thee, that thou mayst give him the glory.
 
 O that thy heart were opened to see his hand, that thou mightest live unto him,
@@ -708,7 +706,7 @@ and the high-minded and rebellious contemn the meek of the earth;
 the horn of the ungodly is exalted above the Lord`'s heritage,
 and they that are departed from iniquity, are become a prey to oppressors:
 and the cruel-hearted deal cruelly with the innocent in these nations.
-Many are unjustly, and woefully sufferers, because they cannot swear on this,
+Many are unjustly, and wofully sufferers, because they cannot swear on this,
 or that occasion; though in all cases they speak the truth,
 and do obey Christ`'s commands, even such are trodden upon,
 by unjust fines charged upon them;
@@ -727,7 +725,7 @@ and some in prison have suffered superabundantly
 from the hands of the cruel jailers and their servants,
 by beatings and threatenings, and putting irons on them,
 and not suffering any of their friends to visit them with necessaries;
-and some have died in the prisons, "`whose lives were not dear to them,
+and some have died in the prisons, whose lives were not dear to them,
 whose blood will be reckoned on account against thee one day.
 Some have suffered hard cruelties, because they could not respect persons,
 and bow with hat or knee;
@@ -737,18 +735,18 @@ Consider, friend, and be awakened to true judgment, and let the Lord search thy 
 and lay these things to mind, that thou mayest be an instrument to remove every burden,
 and mayest at last fulfill the will of God.
 O be awakened, be awakened, and seek the Lord`'s glory, and not thine own;
-lest thou perish before the Lord and men: nay, if men would give thee honors,
+lest thou perish before the Lord and men: nay, if men would give thee honours,
 and high titles, and princely thrones, take them not;
-for that which would exalt and honor thee in the world, would betray thee to the world,
+for that which would exalt and honour thee in the world, would betray thee to the world,
 and cast thee down in the sight of the world: and this is God`'s word to thee:
 what! shall the whole nation be perjured men, and thou the cause of it?
 And wilt thou transgress by building again that which thou hast destroyed?
 Give heed unto my words, and understand my speech: be not exalted by man,
 lest man betray thee.
-Deal favorably, and relieve the oppressed; boast not thyself,
+Deal favourably, and relieve the oppressed; boast not thyself,
 though the Lord hath used thee in his hand; but know that when he will, he can cast thee,
 as a rod, out of his hand, into the fire; for in his hand thou art.
-If thou wilt honor him, he will honor thee; otherwise he can, yea,
+If thou wilt honour him, he will honour thee; otherwise he can, yea,
 and will confound thee, and make thee weak as water before him.
 His love through my heart breathes unto thee: he would thy happiness,
 if thou willfully contemn it not, by exalting thyself, and seeking thy own glory,
@@ -757,11 +755,11 @@ This I was moved in bowels of pity to lay before thee, who am thy friend,
 not in flattery, but in an upright heart, who wishes well unto thee in the Lord.
 
 [.signed-section-signature]
-Edward Burrough.
+E+++.+++ Burrough.
 
 --
 
-That which Edward Burrough mentions in the forepart of this letter,
+That which E. Burrough mentions in the forepart of this letter,
 of the grievous burdens and oppressions laid upon the just,
 seems chiefly to regard the tithes which the priests extorted from the Quakers,
 so that many thereby were reduced to poverty;
@@ -772,22 +770,21 @@ that if the Lord would be pleased to deliver him at that time,
 he would take off that great oppression of tithes.
 But this promise he never performed,
 but suffered himself to be swayed by the flatteries of his teachers;
-and therefore it was not without great cause that Edward
-Burrough laid this grievous oppression before him.
+and therefore it was not without great cause that E. Burrough
+laid this grievous oppression before him.
 A copy of the said letter, of which but a part is inserted here, to shun prolixity,
 was given into the hands of Oliver Cromwell, then protector,
 in the Third month of this year.
-In the next month Edward Burrough spoke with him about it,
+In the next month E. Burrough spoke with him about it,
 and Cromwell told him in effect that all persecution and cruelty was against his mind,
 and said that he was not guilty of those persecutions
 acted unjustly upon Burrough`'s friends.
-This made Edward Burrough write again to him, and bid him,
+This made E. Burrough write again to him, and bid him,
 
 [.embedded-content-document.letter]
 --
 
-Consider what the cause is,
-that what thou desirest not to be done, is yet done:
+Consider what the cause is, that what thou desirest not to be done, is yet done:
 is it not that thou mayest please men;
 making it appear thou art more willing to do the false teachers of this nation,
 and wicked men, a pleasure, than to own the people of God, in relieving them,
@@ -797,11 +794,11 @@ in dislike of these cruel and unjust persecutions,
 would bind the hands of many blood-thirsty men.
 Therefore consider: thou canst not be cleared in the sight of the Lord God from them,
 being acted under thee, and in thy name:
-for there seems rather to be a favoring of them in thee,
+for there seems rather to be a favouring of them in thee,
 by forbearance of the actors of cruelty, by which their hands are strengthened,
 than any dislike showed by thee, in bearing thy witness, as thou oughtest to do,
 against them.
-For thou knows of some in this city, and elsewhere, whom we know to be just men,
+For thou knowest of some in this city, and elsewhere, whom we know to be just men,
 who suffer imprisonment, and the loss of their liberties,
 because for conscience-sake they cannot swear; and many others in this nation,
 suffering cruel things upon the like, or same ground: even for well-doing,
@@ -810,7 +807,7 @@ and their unjust sufferings taken off by thee, by a word from thy mouth or pen;
 and this makes that thou canst not be clear in the sight of God in these things,
 because not helped by thee, who hast the power to help it.
 
-And as concerning the light of Christ, at which thou stumbles,
+And as concerning the light of Christ, at which thou stumblest,
 by which every man that cometh into the world is enlightened, in short, this I say:
 this light to thee is given of God, and thou must own it to be thy only teacher,
 to receive by it from the Father, and to be guided by it in all things,
@@ -824,22 +821,22 @@ or suffering to be done,
 cruelty and injustice against them whom the Lord is redeeming out of this world,
 into subjection unto that kingdom; lest thou be such a one, as will not enter thyself,
 nor suffer others to enter, and so destruction come upon thee.
-Wherefore arise as out of sleep, and slumber not in this world`'s glory and honor;
+Wherefore arise as out of sleep, and slumber not in this world`'s glory and honour;
 be not overcome by the pleasures of this world, nor the flattering titles of men;
 wink not at the cruelty and oppression acted by some, who shelter under thee,
 and make thy name a cloak for mischief against the upright.
 
 Consider, I say, consider, and be thou changed in thy mind and heart;
-least thou having forgotten God, and his many deliverances, be shut up,
+lest thou having forgotten God, and his many deliverances, be shut up,
 and numbered for destruction.
 I desire the Lord may give thee a more perfect understanding of his ways and judgments,
 and that the crown immortal thou mayest strive for, by meekness and righteousness,
 through relieving the oppressed, and showing mercy to the poor,
 and removing every burden which lies upon the innocent;
 and this is the desire of him who is thy friend,
-and would not have thee crowned with dishonor,
+and would not have thee crowned with dishonour,
 through suffering the people of God to be oppressed in thy name,
-which will be thy overthrow absolutely, if thou removes it not, by turning,
+which will be thy overthrow absolutely, if thou removest it not, by turning,
 and easing the oppressed.
 
 [.signed-section-signature]
@@ -847,18 +844,18 @@ E+++.+++ Burrough.
 
 --
 
-This letter was delivered to Oliver Cromwell, in the Fourth month,
-and in the month following Edward Burrough wrote again to him,
-that the good name PROTECTOR, by the great oppression, acted in his name,
-was abused and subverted; and that instead of protection by it,
-great injustice was acted under it, and covered with it.
+This letter was delivered to O. Cromwell, in the Fourth month,
+and in the month following E. Burrough wrote again to him, that the good name Protector,
+by the great oppression, acted in his name, was abused and subverted;
+and that instead of protection by it, great injustice was acted under it,
+and covered with it.
 Besides, that several justices of the peace, and other officers, in trust under him,
 when they had owned the people called Quakers, had been cast out of their places;
 though they had not denied to serve him and the commonwealth,
 neither had unfaithfulness to their trust been proved against them.
 
 In September, E. Burrough wrote another letter to Cromwell, wherein he signified to him,
-that he had many enemies, some of which endeavored to destroy him by any means,
+that he had many enemies, some of which endeavoured to destroy him by any means,
 without regarding the danger that might be in the attempt.
 And that he going on in oppressing through tyranny, or suffering it,
 perhaps the Lord might raise up the wicked to be a plague to wickedness,
@@ -867,24 +864,24 @@ That there were others, viz. the Fifth Monarchy men, who,
 though not so bad as the former, yet secretly murmured against him, and envied him,
 not being friends to his government, some of them being cast out and rejected,
 without just cause, as they supposed.
-'`And as to us, how can we, (said he,) mention thee in our prayers to God,
+"`And as to us, how can we, (said he,) mention thee in our prayers to God,
 except it be to be delivered from thee, who are daily unjustly sufferers by thee,
 or because of thee?
 Or how can we be friends to that government,
 under which we daily suffer such hard and cruel things,
-as the loss of our liberty and estates, and are in danger of life also?`'
+as the loss of our liberty and estates, and are in danger of life also?`"
 
 It was about the beginning of this year, that Christopher Birkhead came to Zealand,
-having been before at Rochelle, in France?
-where, having spoken and written against the popish religion,
+having been before at Rochelle, in France, where,
+having spoken and written against the popish religion,
 he was imprisoned and examined by the bishop: and some would have had him burnt,
 but the criminal judge absolved him.
 It was in the latter end of the month called February, when he came to Middleburgh,
 in Zealand; and going to the English congregation there, after the preacher,
-William Spanke, had preached about three quarters of an hour, he said, '`Friends,
+William Spanke, had preached about three quarters of an hour, he said, "`Friends,
 the apostle saith, that we may all prophesy, one by one;
 that two or three prophets may speak, and the others judge;
-and if any thing be revealed to another that sitteth by, let the first hold his peace.`'
+and if any thing be revealed to another that sitteth by, let the first hold his peace.`"
 This speaking caused a great stir in the congregation, and the rather,
 because he stood in the place where the women used to sit:
 so he was apprehended by order of the magistrates,
@@ -892,21 +889,21 @@ and examined in the presence of some of the public preachers.
 When he was asked what his name was?
 He answered, that his name, according to the flesh, was Christopher Birkhead.
 Then it was asked him, whether he had yet another name?
-And his answer was, '`Yes, written in the Lamb`'s book of life.`'
-Being inquired what that name was, he made answer, '`None knows it but he that hath it.`'
-To which was said, '`Why, if you have it, tell it us.`'
-'`No,`' replied he, '`read it, if ye have seen the book of the Lamb opened:
-it is forbidden me to tell it.`'
+And his answer was, "`Yes, written in the Lamb`'s book of life.`"
+Being inquired what that name was, he made answer, "`None knows it but he that hath it.`"
+To which was said, "`Why, if you have it, tell it us.`"
+"`No,`" replied he, "`read it, if ye have seen the book of the Lamb opened:
+it is forbidden me to tell it.`"
 Then the English teacher, Spanke, asked whether he had seen the book of the Lamb opened?
-And he answered, '`Yea.`'
+And he answered, "`Yea.`"
 The next question was, whether he had opened it?
-'`No,`' said Birkhead, '`it was the Lamb that did it.`'
+"`No,`" said Birkhead, "`it was the Lamb that did it.`"
 Then Spanke asked, whether his name in the book of the Lamb was not Jesus.
-'`No,`' quoth Birkhead, '`that is the name of the Lamb.`'
+"`No,`" quoth Birkhead, "`that is the name of the Lamb.`"
 More other questions to ensnare him, Spanke put to him;
 and being examined by the magistrates concerning the place of his abode,
 his calling or trade, etc.
-Spanke was asked, what he had to say against him.
+Spanke was asked, what he had to say against him?
 Who then related what had happened in the congregation.
 Concerning this, several questions were asked of Birkhead,
 but since he understood not Dutch, and the French tongue but imperfectly,
@@ -922,8 +919,8 @@ for Birkhead had accused him a little before,
 that he had added his meaning to the Scriptures.
 And it being strongly asserted, that all men were liars,
 Birkhead took occasion from thence, to ask Spanke whether he was a liar?
-Who, without hesitation, answering, '`Yes,`' Birkhead bluntly told him,
-'`Then thou art of thy father the devil.`'
+Who, without hesitation, answering, "`Yes,`" Birkhead bluntly told him,
+"`Then thou art of thy father the devil.`"
 Now the matter of J. Nayler having caused strange reports of the Quakers everywhere,
 and Birkhead, for want of the language,
 not being able to answer so plainly every objection, his offence, without question,
@@ -957,12 +954,12 @@ it seems they were looked upon as such as did not own magistrates;
 and were compared to the tumultuous crew of Anabaptists, or Fifth Monarchy men,
 at Munster, in the foregoing age:) and so they were kept in custody for some days,
 and then at night were led through the Regulars gate, and so banished out of the town.
-But William Ames judging that he had committed no evil,
-came again the next day into the city, and passed the great market-place, called the dam.
+But W. Ames judging that he had committed no evil, came again the next day into the city,
+and passed the great market-place, called the dam.
 It is reported,
 that some of the magistrates seeing him out of the windows of the town-house,
-walking along the street, said, '`Lo, there`'s the Quaker;
-if we had a mind now to make martyrs, here would be an opportunity for it.`'
+walking along the street, said, "`Lo, there`'s the Quaker;
+if we had a mind now to make martyrs, here would be an opportunity for it.`"
 But it seems not without reason, that it was looked upon to be most safe to wink at this;
 for though strange reports were spread up and down of the Quakers,
 yet there was no proof of their evil carriage here.
@@ -982,7 +979,7 @@ did flock to the Quakers in this country.
 But these whimsical people not being sincere in heart: but more inclined to novelties,
 than to true godliness; perceived in time that they were not regarded by them:
 and they were also contradicted by Ames and others;
-so that at length after many exorbitances, they left the Quakers.
+so that at length after many exorbitancies, they left the Quakers.
 
 In the forepart of this year, William Caton came also to Amsterdam.
 Before he left England, he had had a meeting at the east side of Sussex,
@@ -1006,11 +1003,12 @@ he bade an English seaman that was present, to take her away, which was done acc
 and how haughty she was, and continued, I well remember still.
 W+++.+++ Caton procured also some books to be printed at Amsterdam,
 to prevent evil and malicious reports concerning the Quakers;
-and he went with W. Ames to Zutphen in Gelderland;
+and he went with W. Ames to Zutphen in Guelderland;
 where meeting with nothing but opposition, he returned to Amsterdam,
 and from thence by Leyden and the Hague, to Rotterdam;
 from which place he went to Zealand,
-where he wrote the book called [.book-title]#The Moderate Enquirer Resolved#, both in Latin and English,
+where he wrote the book called [.book-title]#The Moderate Enquirer
+Resolved,# both in Latin and English,
 which was afterwards translated indifferently into Dutch.
 After some stay, Caton returned again to England, and came to London,
 where the society of his friends was in a thriving condition,
@@ -1032,14 +1030,14 @@ he had a great meeting in the steeple-house yard,
 where was a priest, and one Walter Jenkin who had been a justice, and another justice.
 Here he preached so effectually, that many were convinced: and after the meeting,
 he went with Jenkin to the other justice`'s house, who said to him,
-'`You have this day given great satisfaction to the people,
-and answered all the objections that were in their minds.`'
+"`You have this day given great satisfaction to the people,
+and answered all the objections that were in their minds.`"
 At Leominster he had a great meeting, where priest Tombs made some opposition, by saying,
 that the light G. Fox spoke of, was but a natural light;
 but G. Fox asserted the contrary, and said,
 that he had spoken of no other light than John bore witness to,
 viz. "`The word which was in the beginning with God, and which word was God;
-and that was the true light which enlightens every man that cometh into the world.`"
+and that was the true light which enlighteneth every man that cometh into the world.`"
 
 G+++.+++ Fox coming from this place to Tenby, as he rode in the street,
 a justice of peace came out and desired him to alight, and to stay at his house,
@@ -1051,21 +1049,22 @@ The next morning the governor sent one of his officers to the justice`'s house,
 to fetch G. Fox; which grieved the mayor and the justice,
 and so they went up to the Governor, and a while after G. Fox went with the officer,
 and coming in,
-said '`Peace be unto this house;`' and before the Governor could examine him, he asked,
+said "`Peace be unto this house;`" and before the Governor could examine him, he asked,
 why he had cast his friend into prison?
-and the governor answered, '`For standing with his hat on in the church.`'
-'`Why,`' resumed G. Fox,`' had not the priest two caps on his head,
+and the governor answered, "`For standing with his hat on in the church.`"
+"`Why,`" resumed G. Fox, "`had not the priest two caps on his head,
 a black one and a white one?
 And if the brim of the hat, which was but to defend from the weather, had been cut off,
-then my friend would have had but one cap,`' '`These are frivolous things,`' said the governor:
-'`Why then,`' said G. Fox,
-'`dost thou cast my friend into prison for such frivolous things?`'
+then my friend would have had but one cap,`" "`These
+are frivolous things,`" said the governor:
+"`Why then,`" said G. Fox,
+"`dost thou cast my friend into prison for such frivolous things?`"
 Then the governor asked him, whether he owned election and reprobation?
-'`Yes,`' said he, '`and thou art in the reprobation.`'
+"`Yes,`" said he, "`and thou art in the reprobation.`"
 This so incensed the governor, that he told G. Fox, he would send him to prison,
 till he proved it.
-G+++.+++ Fox not at all at a loss, said, '`I will prove that quickly,
-if thou wilt but confess truth:`' and then he asked him, whether wrath, fury, and rage,
+G+++.+++ Fox not at all at a loss, said, "`I will prove that quickly,
+if thou wilt but confess truth:`" and then he asked him, whether wrath, fury, and rage,
 and persecution, were not marks of reprobation?
 For he that was born of the flesh, persecuted him that was born of the spirit;
 and Christ and his apostles never persecuted nor imprisoned any.
@@ -1083,13 +1082,12 @@ who was very glad to see him.
 Next he came to Swarthmore, where he wrote some epistles and other papers.
 After having stayed there some days, he went to some other places in the North,
 and to Scotland.
-Here, traveling from town to town, he met with great opposition from some priests:
+Here, travelling from town to town, he met with great opposition from some priests:
 for in an assembly, they had drawn up several articles, or curses,
 to be read in their steeple-houses, the first of which was,
-'`cursed is he that saith every man hath a light within
-him sufficient to lead him to salvation:
-and let all the people say.
-Amen.`'
+"`cursed is he that saith every man hath a light
+within him sufficient to lead him to salvation:
+and let all the people say, Amen.`"
 An independent pastor preaching one day against the Quakers, and the light,
 and calling the light natural, cursed it, and so fell down as dead in his pulpit;
 the people carrying him out, and pouring strong waters into him,
@@ -1104,7 +1102,7 @@ Whilst G. Fox was in Scotland, his friends there were brought to a great strait;
 being excommunicated by the Presbyterian teachers, charge was given,
 that none should buy or sell, nor eat nor drink with them.
 Hence it came to pass, that some having bought bread, or other victuals,
-of their neighbors, these frightened with the curses of their priests, did run,
+of their neighbours, these frightened with the curses of their priests, did run,
 and fetch it from them again.
 But colonel Ashton, a justice of peace, put a stop to these proceedings,
 and being afterwards convinced of the Truth, had a meeting settled at his house,
@@ -1120,9 +1118,9 @@ that the council had granted forth warrants to apprehend him,
 because he was not gone out of the nation after the seven days were expired,
 that they had ordered him to depart in.
 Some others told him the same, to whom he said,
-'`What do you tell me of their warrants against me?
+"`What do you tell me of their warrants against me?
 If there were a cart load of them I do not heed them;
-for the Lord`'s power is over them all.`'
+for the Lord`'s power is over them all.`"
 From Leith he went to Edinburgh again, and went to the inn where he had lodged before,
 and no man offered to meddle with him.
 Alexander Parker and Robert Widders being also there,
@@ -1164,7 +1162,7 @@ but G. Fox and his friend being in the steeple-house yard,
 most of the people stayed with them; so that the priest having but few hearers,
 made short work, and coming out, stood a while and heard G. Fox, and then went away.
 This was the last meeting he had in Scotland, and he understood afterwards,
-that his labor had not been in vain, but that the number of believers increased.
+that his labour had not been in vain, but that the number of believers increased.
 Now he departed from Dunbar, and came to Berwick in Northumberland,
 and from thence to Newcastle, where we will leave him awhile,
 and return again to New England.
@@ -1223,7 +1221,7 @@ having each some knots at the end; and the stick was sometimes so long,
 that the hangman made use of both his hands to strike the harder.
 
 The next that came were Christopher Holder and John Copeland,
-who had been banished before; and coming to Salem, a town in the same colony.
+who had been banished before; and coming to Salem, a town in the same colony,
 Holder spoke a few words in their meeting, after the priest had done;
 but was hauled back by the hair of his head,
 and a glove and handkerchief thrust into his mouth, and so turned out with his companion;
@@ -1238,7 +1236,7 @@ and so close that none might come to speak with them;
 lying on the boards without bed or straw.
 Thus they were kept nine weeks prisoners, without fire, in the cold winter season.
 And Samuel Shattock, of Salem,
-who endeavored to stop the thrusting of the glove and handkerchief into Holder`'s mouth,
+who endeavoured to stop the thrusting of the glove and handkerchief into Holder`'s mouth,
 lest it should have choked him, was also carried to Boston, and there imprisoned,
 till he had given bond for twenty pounds, to answer it at the next court,
 and not to come at any meeting of the Quakers.
@@ -1274,12 +1272,12 @@ It was in this year, about the latter end of summer,
 that a certain young man named George Robinson, felt a motion to travel to Jerusalem.
 In order thereunto, he embarked in a ship bound for Leghorn, in Italy, where,
 having stayed about two weeks, being daily visited by English and others,
-he went with a French ship towards St. John D`'Acre, formerly called Ptolemais,
+he went with a French ship towards St. John 500`'Acre, formerly called Ptolemais,
 a city in Asia bordering upon the Mediterranean sea, near Palestine, where,
 having lodged about eight days in a French merchant`'s house,
 he embarked in a vessel bound for Jaffa or Joppa.
 What occurred by the way with some Turks, who demanded unreasonable tribute of him,
-I pass by; but a certain Armenian on that occasion having seen his meek behavior, said,
+I pass by; but a certain Armenian on that occasion having seen his meek behaviour, said,
 he was a good Christian, and was very kind to him.
 Being arrived at Jaffa, he went to Ramoth,
 but the Friars at Jerusalem having heard of his coming, gave orders to some to stop him,
@@ -1315,13 +1313,13 @@ that he would visit the holy places as other pilgrims did?
 
 Not being willing to enter into a promise, he was by the Irish friar,
 (with a guard of horse and footmen, he brought with him,) carried back to Jaffa,
-and embarked in a vessel bound for St. John D`'Acre; whither being come,
+and embarked in a vessel bound for St. John 500`'Acre; whither being come,
 a French merchant called Surrubi, took him into his house,
 and lodged him about three weeks.
 This man entertained him very kindly,
-and would say sometimes that it was the Lord`'s doing;
-'`For,`' said he,`' when my own countrymen come to me, they are little to me,
-but thee I can willingly receive.`'
+and would say sometimes that it was the Lord`'s doing; "`For,`" said he,
+"`when my own countrymen come to me, they are little to me,
+but thee I can willingly receive.`"
 After much trouble, Robinson got opportunity, by the help of the said French merchant,
 who was an ancient man, to return by sea to Jaffa;
 from whence he went on his journey a-foot, and by the way met three men,
@@ -1344,7 +1342,7 @@ and said that he had no need to fear what the Christians might do unto him.
 Nevertheless he answered he could not turn unto them for all the world.
 But they continued to strive much with him,
 and would have him hold up one of his fingers, as a sign of owning them;
-and one bid him say, '`Christ is bad;`' but he answered, he knew him to be good,
+and one bid him say, "`Christ is bad;`" but he answered, he knew him to be good,
 and he was his servant.
 Then some growing angry, said if he would not turn to their religion, he would die.
 To which he replying that he would rather die than turn unto them; it was answered,
@@ -1357,8 +1355,8 @@ Whilst he was thus sitting with a retired mind,
 the Turks began to fall out among themselves, and whilst they were at odds,
 a grave ancient Turk, a man of note, came to him,
 and said whether he would turn from his religion or not, he should not die.
-Then he was brought before the priests again, who asked him, '`Will you turn?
-and he answering '`No,`' they recorded in a book, that he was no Roman Catholic,
+Then he was brought before the priests again, who asked him, "`Will you turn?`"
+and he answering "`No,`" they recorded in a book, that he was no Roman Catholic,
 but of another religion; for though he denied to be such a Catholic,
 yet he had owned that he was a Christian.
 
@@ -1376,7 +1374,7 @@ for the bashaw being by some Turks made acquainted
 with the mischievous design of the friars,
 made them not only pay a considerable fine,
 but also commanded them to convey Robinson safely to Jerusalem.
-Whilst he, was at Gaza, he was visited by many Turks, Greeks, and Armenians;
+Whilst he was at Gaza, he was visited by many Turks, Greeks, and Armenians;
 the latter of which having heard he was a Christian,
 and that he chose rather to die than to turn from his religion, became very loving,
 as were the Turks, the Jews also showed themselves moderate towards him.
@@ -1398,31 +1396,31 @@ and he might praise God he was preserved.
 
 The next morning a friar came to him, and asked if he would become an obedient child,
 and go to visit the holy places, according to their custom; he answered,
-'`No.`' Then the friar said, '`Whereas others give great sums of money to see them,
-you shall see them for nothing.`'
-But Robinson replied '`I shall not visit them in your manner,
-for in so doing I should sin against God.`'
+"`No.`" Then the friar said, "`Whereas others give great sums of money to see them,
+you shall see them for nothing.`"
+But Robinson replied "`I shall not visit them in your manner,
+for in so doing I should sin against God.`"
 This did not please the friar,
-yet he said they would honor him as much as ever
-they honored any Englishman that came thither,
+yet he said they would honour him as much as ever
+they honoured any Englishman that came thither,
 if he would conform unto them.
 But Robinson continued immoveable, and said he should not conform;
-and as for their honor, he did not matter it.
+and as for their honour, he did not matter it.
 Then the friar became angry,
 and said they would make him an example to all Englishmen that came thither.
-To which Robinson returned, '`I choose your dishonor rather than your honor.`'
+To which Robinson returned, "`I choose your dishonour rather than your honour.`"
 The friar seeing he could not prevail, went away in anger,
 and within a short time came again; and other friars being present,
 one asked him if he would visit their church, and the holy sepulchre, and Bethlehem,
 with the rest of the holy places, as other pilgrims did?
 But he told them, at present he had no business to visit them;
 and in their manner he should not visit them at all, viz. to worship them.
-Then one said to him, '`How can you be a servant of God,
-and will not go to visit the places where the holy men of God dwelt?
+Then one said to him, "`How can you be a servant of God,
+and will not go to visit the places where the holy men of God dwelt?`"
 To which he returned, that they under pretence of doing service to God,
 in visiting the places where the holy men dwelt, did oppose that way,
 and resist that life, which the holy men of God lived and walked in.
-Then one of the friars said, '`What do you preach unto us for?
+Then one of the friars said, "`What do you preach unto us for?`"
 To which he replied,
 that he would have them turn from those evil practices they lived in,
 else the wrath of the Almighty would be kindled against them.
@@ -1434,8 +1432,8 @@ then they would pay it for him.
 To this he signified, that he could not submit to such unreasonable terms.
 
 Then they brought him before a Turk in authority in that place,
-who asked him divers questions, to which he soberly gave answers; and they discoursing,
-about the worship of the Christians, the Turk asked also,
+who asked him divers questions, to which he soberly gave answers;
+and they discoursing about the worship of the Christians, the Turk asked also,
 what was the ground of his coming to Jerusalem.
 To which he answered,
 that it was by the command of the Lord God of heaven and earth he came thither;
@@ -1448,7 +1446,7 @@ And afterwards he wrote, that having thus cleared his conscience,
 he found great peace with the Lord, and therefore he magnified his glorious name,
 who had gone along with him, and preserved him in many trials.
 For the friars, who intended him mischief,
-were commanded by the Turks to carry him again safe and free of charges, to Ramla.
+were commanded by the Turks to carry him again safe and free of charges, to Ramola.
 Here I leave him, because I do not find how he came home;
 but that he returned thither in safety,
 appears to me from the relation he afterwards published of his travels.

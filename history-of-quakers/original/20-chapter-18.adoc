@@ -1,6 +1,7 @@
-== Chapter XVIII.
+== Chapter XVIII
 
-=== 1670-1674.
+[.section-date]
+1670-1674.
 
 [.chapter-synopsis]
 * Trial of W. Penn and W. Mead
@@ -11,14 +12,14 @@
 * Cruelties in Warwickshire-Horslydown Meeting
 * S. Eccles and the Priest in Cork
 * Prayer of G. Fox
-* G+++.+++ Fox in America
+* G. Fox in America
 * William Prince of Orange
-* G+++.+++ Fox returns to England and is imprisoned
-* M+++.+++ Halhead and General Lambert
+* G. Fox returns to England and is imprisoned
+* M. Halhead and General Lambert
 * Letter from M. Halhead to G. Fox
 * Trial of G. Fox and T. Lower at Worcester
 * Recommitment of G. Fox
-* G+++.+++ Fox before the King`'s Bench
+* G. Fox before the King`'s Bench
 * Remanded to Worcester
 * Premunired
 * Again brought before the King`'s Bench
@@ -29,12 +30,12 @@ as may be seen by the instance of William Penn, and William Mead,
 who were taken from a meeting and imprisoned,
 and tried for the same in the month of September.
 
-The indictment contained, '`That William Penn, and William Mead,
-with divers other persons, to the number of three hundred, at Grace-church-street,
+The indictment contained, "`That William Penn, and William Mead,
+with divers other persons, to the number of three hundred, at Gracechurch-street,
 in London, on the 15th of August, with force and arms,
 had tumultuously assembled together, and that William Penn,
 by agreement between him and William Mead, had preached there in the public street,
-whereby was caused a great concourse and tumult of the people,`' etc.
+whereby was caused a great concourse and tumult of the people,`" etc.
 That there was a public meeting in the street, proceeded from necessity;
 because a guard was placed in the passage to hinder friends from going into their meetinghouse;
 but it was a great untruth that they met with force and arms,
@@ -42,13 +43,13 @@ which were never used by the Quakers.
 This indictment being read before the court, the prisoners were demanded,
 according to custom, whether they were guilty, or not guilty?
 Whereupon W. Penn said,
-'`It is impossible that we should be able to remember the indictment verbatim,
-and therefore we desire a copy of it, as is customary on the like occasions.`'
+"`It is impossible that we should be able to remember the indictment verbatim,
+and therefore we desire a copy of it, as is customary on the like occasions.`"
 The recorder, John Howel said hereupon,
-'`You must first plead to the indictment before you can have a copy of it.`'
+"`You must first plead to the indictment before you can have a copy of it.`"
 Then W. Penn said, that he first desired that no advantage might be taken against him,
 nor he deprived of any benefit, which he might otherwise receive,
-and that the court would promise him a fair hearing, and liberty of making his defense.
+and that the court would promise him a fair hearing, and liberty of making his defence.
 Upon which the court said, that no advantage should be taken against him,
 and that he should have liberty, and should be heard.
 W+++.+++ Penn then said, he pleaded not guilty in manner and form.
@@ -73,93 +74,92 @@ who were assembled in a great number in Gracechurch-street,
 but they could not hear what he said.
 
 The recorder then asked William Mead, whether he was there?
-Who answered, that '`It is a maxim in your own law, _nemo tenetur seipsum accusare,_
+Who answered, that "`It is a maxim in your own law, __nemo tenetur accusare seipsum,__
 which if it be not true Latin, I am sure it is good English.
 That no man is bound to accuse himself;
-why then dost "`thou offer to ensnare me with such a question?`'
-Hereupon the recorder showed himself so displeased, that he said, '`Sir, hold your tongue,
-I did not go about to ensnare you.`'
-Then William Penn said, we confess ourselves to be so far from recanting,
+why then dost thou offer to ensnare me with such a question?`"
+Hereupon the recorder showed himself so displeased, that he said, "`Sir,
+hold your tongue, I did not go about to ensnare you.`"
+Then William Penn said, "`we confess ourselves to be so far from recanting,
 or declining to vindicate the assembling of ourselves, to preach, pray,
 or worship the Eternal, Holy, Just God, that we declare to all the world,
 that we do believe it to be our indispensable duty, to meet incessantly,
 upon so good an account;
 nor shall all the powers upon earth be able to divert us
-from reverencing and adoring our God who made us.`'
+from reverencing and adoring our God who made us.`"
 The sheriff, Richard Brown, said.
-'`You are not here for worshipping of God, but for breaking the law.
-You do your selves a great deal of wrong in going on in that discourse.`'
-Hereupon W. Penn answered, '`I affirm I have broken no law,
+"`You are not here for worshipping of God, but for breaking the law.
+You do yourselves a great deal of wrong in going on in that discourse.`"
+Hereupon W. Penn answered, "`I affirm I have broken no law,
 nor am I guilty of the indictment that is laid to my charge: and to the end, the bench,
 the jury, and myself, with these that hear us,
 may have a more direct understanding of this procedure,
 I desire you would let me know by what law it is you prosecute me,
-and upon what law you ground my indictment?`'
-The recorder answered, '`Upon the common law.`'
-'`Where is,`' asked W. Penn, '`that common law?`'
-You must not think,`' said the recorder,`' that I am able to run up so many years,
-and over so many adjudged cases, which we call common law, to answer your curiosity.`'
-'`This answer,`' replied W. Penn, '`I am sure is very short of my question,
-for if it be common, it should not be so hard to produce.`'
-The recorder replied, '`Sir, will you plead to your indictment?`'
-Shall I,`' answered W. Penn, '`plead to an indictment that hath no foundation in law?
+and upon what law you ground my indictment?`"
+The recorder answered, "`Upon the common law.`"
+"`Where is,`" asked W. Penn, "`that common law?`"
+"`You must not think,`" said the recorder, "`that I am able to run up so many years,
+and over so many adjudged cases, which we call common law, to answer your curiosity.`"
+"`This answer,`" replied W. Penn, "`I am sure is very short of my question,
+for if it be common, it should not be so hard to produce.`"
+The recorder replied, "`Sir, will you plead to your indictment?`"
+"`Shall I,`" answered W. Penn, "`plead to an indictment that hath no foundation in law?
 If it contain that law ye say I have broken, why should you decline to produce that law,
 since it will be impossible for the jury to determine, or agree to bring in the verdict,
 who have not the law produced, by which they should measure the truth of this indictment,
-and the guilt or contrary of my fact.`'
-The recorder being angry, said, '`You are a saucy fellow, speak to the indictment.`'
-W+++.+++ Penn replied, '`I say, it is my place to speak to matter of law;
+and the guilt or contrary of my fact.`"
+The recorder being angry, said, "`You are a saucy fellow, speak to the indictment.`"
+W+++.+++ Penn replied, "`I say, it is my place to speak to matter of law;
 I am arraigned a prisoner, my liberty, which is next to life itself,
-is now concerned,`' etc.
+is now concerned,`" etc.
 
-At this time several upon the bench urged hard upon the prisoner to bear him down.
-W+++.+++ Penn said, '`You are many mouths and ears against me,
+At this time several upon the bench urged hard upon the prisoner to hear him down.
+W+++.+++ Penn said, "`You are many mouths and ears against me,
 and if I must not be allowed to make the best of my cause, it is hard; I say again,
 unless you show me and the people the law you ground your indictment upon,
-I shall take it for granted your proceedings are merely arbitrary.`'
-The recorder then replying, said, '`The question is,
-whether you are guilty of this indictment.`'
-'`The question,`' said W. Penn, '`is not whether I am guilty of this indictment,
+I shall take it for granted your proceedings are merely arbitrary.`"
+The recorder then replying, said, "`The question is,
+whether you are guilty of this indictment.`"
+"`The question,`" said W. Penn, "`is not whether I am guilty of this indictment,
 but whether this indictment be legal: it is too general and imperfect an answer,
 to say it is the common law, unless we know both where, and what it is:
 for where there is no law, there is no transgression; and that law which is not in being,
-is so far from being common, that it is no law at all`' The recorder snapped him hereupon,
-with, '`You are an impertinent fellow, will you teach the court what law is?
-It is __lex non scripta,__^
-footnote:["`The unwritten law.`"--alluding to the '`Common Law of England.`']
-that which many have studied thirty or forty years to know,
-and would you have me tell you in a moment.`'
-'`Certainly,`' replied W. Penn, '`if the common law be so hard to be understood,
+is so far from being common, that it is no law at all.`"
+The recorder snapped him hereupon, with, "`You are an impertinent fellow,
+will you teach the court what law is?
+It is __lex non scripta,__ that which many have studied thirty or forty years to know,
+and would you have me tell you in a moment.`"
+"`Certainly,`" replied W. Penn, "`if the common law be so hard to be understood,
 it is far from being very common; but if the lord Coke in his institutes,
 be of any consideration, he tells us, that common law is common right;
-and that common right is the great charter privileges confirmed,
-9 Hen. 3. 29. 25 Edw. 1. 1. 2 Edw. 3. 8. Coke`'s Institutes, 2. p. 56.`'
-The recorder taking no pleasure in that speech, said,
-'`Sir, you are a troublesome fellow,
-and it is not for the honor of the court to suffer you to go on.`'
-'`I have,`' replied W. Penn, '`asked but one question, and you have not answered me;
-though the rights and privileges of every Englishman be concerned in it.`'
-'`Well,`' said the recorder,
-'`if I should suffer you to ask questions till tomorrow morning,
-you would be never the wiser.`'
-'`That is,`' said W. Penn, '`according as the answers are.`'
-'`But,`' says the recorder, '`we must not stand to hear you talk all night.`'
-Whereupon W. Penn replied,`' I desire no affront to the court,
+and that common right is the great charter privileges confirmed, 9 Hen. 3. 29. 25
+Edw. 1. 1. 2 Edw. 3. 8. Coke`'s Institutes, 2. p. 56.`"
+The recorder taking no pleasure in that speech,
+said, "`Sir, you are a troublesome fellow,
+and it is not for the honour of the court to suffer you to go on.`"
+"`I have,`" replied W. Penn, "`asked but one question, and you have not answered me;
+though the rights and privileges of every Englishman be concerned in it.`"
+"`Well,`" said the recorder,
+"`if I should suffer you to ask questions till tomorrow morning,
+you would be never the wiser.`"
+"`That is,`" said W. Penn, "`according as the answers are.`"
+"`But,`" says the recorder, "`we must not stand to hear you talk all night.`"
+Whereupon W. Penn replied, "`I desire no affront to the court,
 but to be heard in my just plea; and I must plainly tell you,
 that if you deny me the oyer of that law, which you suggest I have broken,
 you do at once deny me an acknowledged right,
 and evidence to the whole world your resolution to sacrifice the privileges of Englishmen,
-to your sinister and arbitrary designs.`'
-This so enraged the recorder, that he called out to the officers, '`Take him away.`'
-And to the lord mayor he said, '`My lord,
+to your sinister and arbitrary designs.`"
+This so enraged the recorder, that he called out to the officers, "`Take him away.`"
+And to the lord mayor he said, "`My lord,
 if you take not some course with this pestilent fellow, to stop his mouth,
-we shall not be able to do any thing to-night.`'
-Then the lord mayor cried; Take him away; take him away; turn him into the bail-dock.`'
+we shall not be able to do any thing to-night.`"
+Then the lord mayor cried, "`Take him away; take him away; turn him into the bail-dock.`"
 
 W+++.+++ Penn seeing how force and violence prevailed, said,
-'`These are but so many vain exclamations; is this justice or true judgment?
-Must I therefore be taken away because I plead for the fundamental laws of England?`'
-Then addressing himself to the jury, he said, '`However,
+"`These are but so many vain exclamations; is this justice or true judgment?
+Must I therefore be taken away because I plead for the fundamental laws of England?`"
+Then addressing himself to the jury, he said, "`However,
 this I leave upon your consciences who are of the jury, and my sole judges,
 that if these ancient fundamental laws which relate to liberty and property,
 and are not limited to particular persuasions in matters of religion,
@@ -169,118 +169,116 @@ Certainly our liberties are openly to be invaded, our wives to be ravished,
 our children enslaved, our families ruined, and our estates led away in triumph,
 by every sturdy beggar and malicious informer, as their trophies,
 by our pretended forfeits for conscience-sake.
-The Lord of heaven and earth will be judge between us in this matter.`'
+The Lord of heaven and earth will be judge between us in this matter.`"
 The hearing of this emphatical speech was so troublesome to the recorder, that he cried,
-'`Be silent there.`'
+"`Be silent there.`"
 At which W. Penn returned,
-'`I am not to be silent in a cause wherein I am so much concerned, and not only myself,
-but many ten thousand families besides.`'
+"`I am not to be silent in a cause wherein I am so much concerned, and not only myself,
+but many ten thousand families besides.`"
 
 He being now hauled into the bail-dock, it was W. Mead`'s turn to plead, who spoke thus,
-'`Ye men of the jury, I now stand here to answer to an indictment against me,
+"`Ye men of the jury, I now stand here to answer to an indictment against me,
 which is a bundle of stuff full of lies and falsehoods: for therein I am accused,
-that I met __vi et armis, illicite et tumultuose.__^
-footnote:[By force and arms; unlawfully and tumultuously.]
+that I met __vi et armis, illicite et tumultuose.__
 Time was when I had freedom to use a carnal weapon, and then I thought I feared no man:
 but now I fear the living God, and dare not make use thereof, nor hurt any man,
 nor do I know I demeaned myself as a tumultuous person.
 I say, I am a peaceable man;
 therefore it was a very proper question that W. Penn demanded in this case,
-an oyer of the law, on which our indictment is grounded.`'
-To this the recorder said, '`I have made an answer to that already.`'
-W+++.+++ Mead then turning his face to the jury, said, '`Ye men of the jury, who are my judges,
-if the recorder will not tell you what makes a riot, a rout, or unlawful assembly.
-Coke, he that once they called the lord Coke, tells us what makes a riot, a rout,
+an oyer of the law, on which our indictment is grounded.`"
+To this the recorder said, "`I have made an answer to that already.`"
+W+++.+++ Mead then turning his face to the jury, said, "`Ye men of the jury, who are my judges,
+if the recorder will not tell you what makes a riot, a rout, or unlawful assembly, Coke,
+he that once they called the lord Coke, tells us what makes a riot, a rout,
 or unlawful assembly.
 A riot is when three or more are met together to beat a man,
 or to enter forcibly into another man`'s land, to cut down his grass, his wood,
-or break down his pales.`'
-The recorder interrupting him, and scornfully pulling off his hat, said, '`I thank you,
-sir, that you will tell me what the law is:`' and Richard Brown,
-that inveterate enemy of the Quakers, said, '`He talks at random,
+or break down his pales.`"
+The recorder interrupting him, and scornfully pulling off his hat, said, "`I thank you,
+sir, that you will tell me what the law is:`" and Richard Brown,
+that inveterate enemy of the Quakers, said, "`He talks at random,
 one while an Independent, another while of some other religion, and now a Quaker,
-and next a Papist.`'
+and next a Papist.`"
 Mead, not being minded openly to affront this alderman,
 told him this well-known Latin verse.
 
-[quote]
+[verse]
 ____
-__Turpa est doctori cum culpa redarguit ipsum.__^
-footnote:[Shame to that teacher who is guilty of the fault with which he taxes others.]
+_Turpa est doctori cum culpa redarguit ipsum,_
 ____
 
 For Brown himself formerly had been an Independent,
 though now he belonged to the church of England, and was of the court party.
 But the lord mayor, who it seems was a great friend of Brown`'s, said to Mead,
-'`You deserve to have your tongue cut out.`'
-'`And,`' added the recorder, '`if you discourse on this manner,
-I shall take occasion against you.`'
-To which Mead returned, '`Thou didst promise me I should have fair liberty to be heard.
+"`You deserve to have your tongue cut out.`"
+"`And,`" added the recorder, "`if you discourse on this manner,
+I shall take occasion against you.`"
+To which Mead returned, "`Thou didst promise me I should have fair liberty to be heard.
 Why may I not have the privilege of an Englishman?
-and you might be ashamed of this dealing.`'
+and you might be ashamed of this dealing.`"
 At this the envious recorder said,
-'`I look upon you to be an enemy to the laws of England,
+"`I look upon you to be an enemy to the laws of England,
 which ought to be observed and kept;
-nor are you worthy of such privileges as others have.`'
+nor are you worthy of such privileges as others have.`"
 Mead well seeing that force and violence prevailed,
 and that his speaking could not avail him, said with a composed mind,
-'`The Lord be judge between me and thee in this matter.`'
+"`The Lord be judge between me and thee in this matter.`"
 
 Upon which he was taken away into the bail-dock,
 and the recorder gave the jury the following charge:
-'`You have heard what the indictment is; it is for preaching to the people,
-and drawing a tumultuous company after them; and Mr, Penn was speaking.
+"`You have heard what the indictment is; it is for preaching to the people,
+and drawing a tumultuous company after them; and Mr. Penn was speaking.
 If they should not be disturbed, you see they will go on;
-there are three or four witnesses that have proved this, that he did preach-there;
+there are three or four witnesses that have proved this, that he did preach there;
 that Mr. Mead did allow of it; after this,
 you have heard by substantial witnesses what is said against them.
 Now we are upon the matter of fact, which you are to keep to, and observe,
-as what hath been fully sworn, at your peril.`'
+as what hath been fully sworn, at your peril.`"
 That the recorder spoke this to the jury in the absence of the prisoners,
 was indeed irregular; wherefore W. Penn, who heard this from afar,
 spoke with a very raised voice, that so he might be heard by those on the bench,
-after this manner, '`I appeal to the jury, who are my judges, and to this great assembly,
+after this manner, "`I appeal to the jury, who are my judges, and to this great assembly,
 whether the proceedings of the court are not most arbitrary, and void of all law,
 in offering to give the jury their charge in the absence of the prisoners.
 I say it is directly opposite to,
 and destructive of the undoubted right of every English prisoner, as Coke in the 2 Inst.
-on the chap, of Magna Charta, speaks.
-'`The recorder being thus unexpectedly lashed for his extra-judicial procedure,
-said with a disdainful smile, '`Why, ye are present; you do hear, do you not?`'
-To which Penn returned, '`No thanks to the court, that commanded me into the bail-dock:
+on the chap.
+of Magna Charta, speaks.`"
+The recorder being thus unexpectedly lashed for his extra-judicial procedure,
+said with a disdainful smile, "`Why, ye are present; you do hear, do you not?`"
+To which Penn returned, "`No thanks to the court, that commanded me into the bail-dock:
 and you of the jury take notice, that I have not been heard,
 neither can you legally depart the court, before I have been fully heard,
 having at least ten or twelve material points to offer,
-in order to invalidate their indictment.`'
+in order to invalidate their indictment.`"
 This plain speaking of W. Penn, so enraged the recorder, that he cried,
-'`Pull that fellow down; pull him down.`'
+"`Pull that fellow down; pull him down.`"
 For Penn it seems, to be heard the better,
 was clambered up a little by the rails of the bail-dock.
-Then W. Mead said, '`Are these according to the rights and privileges of Englishmen,
-that we should not be heard, but turned into the bail-dock for making our defense;
+Then W. Mead said, "`Are these according to the rights and privileges of Englishmen,
+that we should not be heard, but turned into the bail-dock for making our defence;
 and the jury to have their charge given them in our absence?
-I say, these are barbarous and unjust proceedings.`'
-The recorder yet more incensed, cried, '`Take them away into the hole:
+I say, these are barbarous and unjust proceedings.`"
+The recorder yet more incensed, cried, "`Take them away into the hole:
 to hear them talk all night as they would,
-that I think doth not become the honor of the court.`'
+that I think doth not become the honour of the court.`"
 
 The prisoners being kept in a stinking hole, the jury were commanded up,
 to agree upon their verdict; and after an hour and half`'s time, eight came down agreed,
 but four remained above: the court then sent an officer for them,
 and they accordingly came down;
 but the court used many indecent threats to the four that dissented,
-and after much menacing language, and a very imperious behavior against the jury,
-the prisoners being brought to the bar, the foreman was asked, '`How say you;
+and after much menacing language, and a very imperious behaviour against the jury,
+the prisoners being brought to the bar, the foreman was asked, "`How say you;
 is William Penn guilty of the matter whereof he stands indicted in manner and form,
-or not guilty?
-Foreman: '`Guilty of speaking in Gracechurch-street.`'
-The next question was,`' Is that all?`'
-Foreman: '`That is all I have in commission.`'
-This answer so displeased the recorder, that he said, '`You had as good say nothing.`'
-And the lord mayor.
-Starling, said, '`Was it not an unlawful assembly?
-You mean he was speaking to a tumult of people there?`'
-To which the foreman returned, '`My lord, this was all I had in commission.`'
+or not guilty?`"
+Foreman: "`Guilty of speaking in Gracechurch-street.`"
+The next question was, "`Is that all?`"
+Foreman: "`That is all I have in commission.`"
+This answer so displeased the recorder, that he said, "`You had as good say nothing.`"
+And the lord mayor, Starling, said, "`Was it not an unlawful assembly?
+You mean he was speaking to a tumult of people there?`"
+To which the foreman returned, "`My lord, this was all I had in commission.`"
 Some of the jury seemed now to buckle to the questions of the court;
 but others opposed themselves,
 and said they allowed of no such word as an unlawful assembly in their verdict:
@@ -296,36 +294,35 @@ and after half an hour returning, delivered the following verdict in writing.
 We, the jurors hereafter named,
 do find William Penn to be guilty of speaking or preaching to an assembly,
 met together in Gracechurch-street, the 14th of August last, 1670,
-and that Willam Mead is not guilty of the said indictment.
+and that William Mead is not guilty of the said indictment.
 
 [.signed-section-signature]
-Foreman.
-Thomas Veer, Charles Milson, Edward Bushel, Gregory Walklet, John Hammond, John Baily,
-Henry Henly, William Lever, Henry Michel, James Damask, John Brightman, William Plumsted.
+_Foreman,_ Thomas Veer, Edward Bushel, John Hammond, Henry Henly, Henry Michel, John Brightman,
+Charles Milson, Gregory Walklet, John Baily, William Lever, James Damask, William Plumsted.
 
 --
 
 This verdict the mayor and recorder resented at so high a rate,
 that they exceeded the bounds of all moderation and civility; and the recorder said,
-'`Gentlemen, you shall not be dismissed till we have a verdict that the court will accept;
-and you shall be locked up, without meat, drink, fire, and tobacco:
-you shall not think thus to abuse the court; we will have a verdict by the help of God,
-or you shall starve for it.`'
+"`Gentlemen, you shall not be dismissed till we have a verdict,
+that the court will accept; and you shall be locked up, without meat, drink, fire,
+and tobacco: you shall not think thus to abuse the court;
+we will have a verdict by the help of God, or you shall starve for it.`"
 
 Now, though the jury had given in their verdict,
 and signified that they could give no other, yet all was in vain;
-and W. Penn seeing how they were treated against all reason, said, '`My jury,
+and W. Penn seeing how they were treated against all reason, said, "`My jury,
 who are my judges, ought not to be thus menaced; their verdict should be free,
 and not compelled; the bench ought to wait upon them, but not forestal them.
 I do desire that justice may be done me,
 and that the arbitrary resolves of the bench may
-not be made the measure of my jury`'s verdict.`'
+not be made the measure of my jury`'s verdict.`"
 This modest speech so incensed the recorder, that he cried,
-'`Stop that prating fellow`'s mouth, or put him out of the court.`'
-And the lord mayor said to the jury, '`You have heard that he preached,
+"`Stop that prating fellow`'s mouth, or put him out of the court.`"
+And the lord mayor said to the jury, "`You have heard that he preached,
 that he gathered a company of tumultuous people,
-and that they do not only disobey the martial power, but the civil also.`'
-To which W. Penn returned, '`That is a great mistake; we did not make the tumult,
+and that they do not only disobey the martial power, but the civil also.`"
+To which W. Penn returned, "`That is a great mistake; we did not make the tumult,
 but they that interrupted us.
 The jury cannot be so ignorant, as to think,
 that we met there with a design to disturb the civil peace, since, first,
@@ -335,73 +332,76 @@ And, secondly, because it was no new thing,
 nor with the circumstances expressed in the indictment,
 but what was usual and customary with us.
 It is very well known that we are a peaceable people,
-and cannot offer violence to any man.`'
+and cannot offer violence to any man.`"
 
 The court now being resolved to send the prisoners to their jail,
-and the jury to their chamber, Penn spoke as follows:
-'`The agreement of twelve men is a verdict in law, and such a one being given by the jury,
-I require the clerk of the peace to record it, as he will answer it at his peril.
-And if the jury bring in another verdict contradictory
-to this,`'I affirm they are perjured men in law.`'
-And looking upon the jury, said,`'You are Englishmen, mind your privilege;
-give not away your right.`'
-To which E. Bushel, one of them, returned, '`Nor will we ever do it.`'
+and the jury to their chamber, Penn spoke as followeth:
+"`The agreement of twelve men is a verdict in law,
+and such an one being given by the jury, I require the clerk of the peace to record it,
+as he will answer it at his peril.
+And if the jury bring in another verdict contradictory to this,
+I affirm they are perjured men in law.`"
+And looking upon the jury, said, "`You are Englishmen, mind your privilege;
+give not away your right.`"
+To which E. Bushel, one of them, returned, "`Nor will we ever do it.`"
 Another of the jurymen pleaded indisposition of body,
 and therefore desired to be dismissed; but the lord mayor said,
-'`You are as strong as any of them; starve then, and hold your principles.`'
-To which the recorder added, '`Gentlemen, you must be content with your hard fate;
+"`You are as strong as any of them; starve then, and hold your principles.`"
+To which the recorder added, "`Gentlemen, you must be content with your hard fate;
 let your patience overcome it; for the court is resolved to have a verdict,
-and that before you can be dismissed.`'
-And though the jurymen said, '`We are agreed, we are agreed,
-we are agreed,`' yet the court swore several persons, to keep the jury all night,
+and that before you can be dismissed.`"
+And though the jurymen said, "`We are agreed, we are agreed,
+we are agreed,`" yet the court swore several persons, to keep the jury all night,
 without meat, drink, fire, or any other accommodation; nay,
 they had not so much as a chamber-pot, though desired.
 Thus force and violence prevailed.
 The next day, though it was the first of the week, vulgarly called Sunday,
 the court sat again; and the prisoners being brought to the bar, the jury were called in,
 and their foreman was asked,
-'`Is William Penn guilty of the matter whereof he stands indicted,
-in manner and form aforesaid, or not guilty?`'
+"`Is William Penn guilty of the matter whereof he stands indicted,
+in manner and form aforesaid, or not guilty?`"
 To which he answered as before,
-'`William Penn is guilty of speaking in Gracechurch-street.`'
-The lord mayor then asking, '`to an unlawful assembly?`'
-Edward Bushel answered, '`No, my lord,
-we give no other verdict than what we gave last night; we have no other verdict to give.`'
-'`You are,`' returned the lord mayor, '`a factious fellow: I will take a course with you.`'
-'`I have,`' said Bushel, '`done according to my conscience.`'
+"`William Penn is guilty of speaking in Gracechurch-street.`"
+The lord mayor then asking, "`to an unlawful assembly?`"
+Edward Bushel answered, "`No, my lord,
+we give no other verdict than what we gave last night;
+we have no other verdict to give.`"
+"`You are,`" returned the lord mayor, "`a factious fellow:
+I will take a course with you.`"
+"`I have,`" said Bushel, "`done according to my conscience.`"
 This so displeased the mayor, that he said,
-'`That conscience of yours would cut my throat; but I will cut yours so soon as I can.`'
-To which the recorder added, '`He has inspired the jury; he has the spirit of divination;
-methinks I feel him: I will have a positive verdict, or you shall starve for it.`'
+"`That conscience of yours would cut my throat; but I will cut yours so soon as I can.`"
+To which the recorder added, "`He has inspired the jury; he has the spirit of divination;
+methinks I feel him: I will have a positive verdict, or you shall starve for it.`"
 
-Then W. Penn said, '`I desire to ask the recorder one question:
-do you allow of the verdict given of W. Mead?`'
-to which the recorder answered, '`It cannot be a verdict,
+Then W. Penn said, "`I desire to ask the recorder one question:
+do you allow of the verdict given of W. Mead?`"
+to which the recorder answered, "`It cannot be a verdict,
 because you are indicted for a conspiracy; and one being found not guilty,
-and not the other, it cannot be a verdict.`'
-This made Penn say, '`If not guilty be not a verdict,
-then you make of the jury and Magna Charta but a mere nose-of-wax.`'
-'`How!`' asked W. Mead then,`' Is not guilty no verdict?
-'`No,`' said the recorder, '`It is no verdict.`'
-To which Penn replied, '`I affirm that the consent of a jury is a verdict in law;
+and not the other, it cannot be a verdict.`"
+This made Penn say, "`If not guilty be not a verdict,
+then you make of the jury and Magna Charta but a mere nose-of-wax.`"
+"`How!`" asked W. Mead then, "`Is not guilty no verdict?`"
+"`No,`" said the recorder, "`It is no verdict.`"
+To which Penn replied, "`I affirm that the consent of a jury is a verdict in law;
 and if W. Mead be not guilty, it consequently follows, that I am clear,
-since you have indicted us of conspiracy, and I could not possibly conspire alone.`'
+since you have indicted us of conspiracy, and I could not possibly conspire alone.`"
 After this, the court spoke to the jury, and caused them to go up again,
 if possible to extort another verdict from them.
-Then the jury being called, and asked by the clerk, '`What say you?
+Then the jury being called, and asked by the clerk, "`What say you?
 is William Penn guilty of the matter whereof he stands indicted,
-in manner and form aforesaid, or not guilty?`'
-The foreman answered, '`Guilty of speaking in Gracechurch-street.`'
-To which the recorder returned, '`What is this to the purpose?
-I say I will have a verdict.`'
-And speaking to E. Bushel, said, '`You are a factious fellow, I will set a mark upon you;
-and whilst I have any thing to do in the city, I will have an eye upon you.`'
-To this the mayor added, '`Have you no more wit than to be led by such a pitiful fellow?
-I will cut his nose.`'
+in manner and form aforesaid, or not guilty?`"
+The foreman answered, "`Guilty of speaking in Gracechurch-street.`"
+To which the recorder returned, "`What is this to the purpose?
+I say I will have a verdict.`"
+And speaking to E. Bushel, said, "`You are a factious fellow, I will set a mark upon you;
+and whilst I have any thing to do in the city, I will have an eye upon you.`"
+To this the mayor added, "`Have you no more wit than to be led by such a pitiful fellow?
+I will cut his nose.`"
 
-Thus the court endeavored to baffle the jury;
+Thus the court endeavoured to baffle the jury;
 and therefore it was not without very good reason that W. Penn said,
-'`It is intolerable that my jury should be thus menaced:
+"`It is intolerable that my jury should be thus menaced:
 is this according to the fundamental laws?
 are not they my proper judges by the great charter of England?
 what hope is there of ever having justice done, when juries are threatened,
@@ -411,76 +411,76 @@ Did not the lieutenant of the tower render one of them worse than a felon.
 And do you not plainly seek to condemn such for factious fellows,
 who answer not your ends?
 unhappy are those juries, who are threatened to be fined, starved, and ruined,
-if they give not in their verdicts contrary to their consciences.`'
+if they give not in their verdicts contrary to their consciences.`"
 These plain expressions so troubled the recorder, that he said to the lord mayor,
-'`My lord, you must take a course with this fellow.`'
-And then the mayor cried, '`Stop his mouth; jailer, bring fetters,
-and stake him to the ground.`'
-To which W. Penn said`", '`Do your pleasure; I matter not your fetters.`'
+"`My lord, you must take a course with this fellow.`"
+And then the mayor cried, "`Stop his mouth; jailer, bring fetters,
+and stake him to the ground.`"
+To which W. Penn said, "`Do your pleasure; I matter not your fetters.`"
 The recorder then ventured to say,
-'`Till now I never understood the reason of the policy and prudence
+"`Till now I never understood the reason of the policy and prudence
 of the Spaniards in suffering the Inquisition among them.
 And certainly it never will be well with us,
-till something like the Spanish Inquisition be in England.`'
+till something like the Spanish Inquisition be in England.`"
 The jury being required to find another verdict,
 and they saying they could give no other, the recorder grew so angry, that he said,
-'`Gentlemen, we shall not be at this pass always with you;
+"`Gentlemen, we shall not be at this pass always with you;
 you will find the next sessions of parliament there will be a law made,
 that those that will not conform, shall not have the protection of the law.
 Your verdict is nothing, you play upon the court.
 I say, you shall go together, and bring in another verdict, or you shall starve,
-and I will have you carted about the city, as in Edward the third`'s time.`'
+and I will have you carted about the city, as in Edward the third`'s time.`"
 
 The jury refusing to give in another verdict,
 since they had all agreed to that which they had given,
 and showing themselves unwilling to go up again,
 the lord mayor bid the sheriff to make them go.
-The sheriff then coming off his seat, said, '`Come, gentlemen, you must go up;
-you see I am commanded to make you go.`'
+The sheriff then coming off his seat, said, "`Come, gentlemen, you must go up;
+you see I am commanded to make you go.`"
 Upon which the jury went up,
 and several were sworn to keep them without accommodation as aforesaid,
 till they brought in their verdict: and the prisoners were remanded to Newgate,
 where they remaining till next morning were then brought to the court again:
 and being set to the bar, and the jury called, and asked,
-'`Is William Penn guilty of the matter whereof he stands indicted in manner and form,
-etc. or not guilty?`'
-the foreman answered, '`You have there read in writing already our verdict,
-and our hands subscribed,`' Now the clerk who had that paper,
-was by the recorder stopped from reading it; and it was said by the court,
-that paper was no verdict.
-Then the clerk asked, '`How say you?`'
-Is William Penn guilty, etc., or not guilty?`'
-to which the foreman answered, '`Not guilty.`'
-The same question being put concerning W. Mead,
-the foreman answered likewise,`' Not guilty.`'
+"`Is William Penn guilty of the matter whereof he stands indicted in manner and form,
+etc. or not guilty?`"
+the foreman answered, "`You have there read in writing already our verdict,
+and our hands subscribed.`"
+Now the clerk who had that paper, was by the recorder stopped from reading it;
+and it was said by the court, that paper was no verdict.
+Then the clerk asked, "`How say you?
+Is William Penn guilty, etc. or not guilty?`"
+to which the foreman answered, "`Not guilty.`"
+The same question being put concerning W. Mead, the foreman answered likewise,
+"`Not guilty.`"
 The jury then being asked by the clerk, whether they said so all, they answered,
-'`We do so.`'
+"`We do so.`"
 The bench still unsatisfied,
 commanded that every person should distinctly answer to their names,
-and give in their verdict, which they unanimously did, in saying, '`Not guilty.`'
-The recorder, who could not bear this, said, '`I am sorry, gentlemen,
+and give in their verdict, which they unanimously did, in saying, "`Not guilty.`"
+The recorder, who could not hear this, said, "`I am sorry, gentlemen,
 you have followed your own judgments and opinions,
 rather than the good and wholesome advice which was given you.
 God keep my life out of your hands: but for this the court fines you forty marks a man,
-and imprisonment till paid.`'
+and imprisonment till paid.`"
 
-W+++.+++ Penn then stepping up towards the bench, said, '`I demand my liberty,
-being freed by the jury.`'
-'`No,`' said the lord mayor, '`you are in for your fines.`'
-'`Fines!`' returned Penn,`' for what?`'
-For contempt of the court,`' said the lord mayor.
-'`I ask,`' replied Penn, '`if it be according to the fundamental laws of England,
+W+++.+++ Penn then stepping up towards the bench, said, "`I demand my liberty,
+being freed by the jury.`"
+"`No,`" said the lord mayor, "`you are in for your fines.`"
+"`Fines!`" returned Penn, "`for what?`"
+"`For contempt of the court,`" said the lord mayor.
+"`I ask,`" replied Penn, "`if it be according to the fundamental laws of England,
 that any Englishman should be fined or amerced, but by the judgment of his peers or jury?
 since it expressly contradicts the 14th and 29th chapters of the great charter of England,
 which say,
-'`No freeman ought to be amerced but by the oath of good and lawful men of the vicinage.`'
-Instead of answering to this question, the recorder cried, '`take him away, take him away;
-take him out of the court.`'
-On which W. Penn said, '`I can never urge the fundamental laws of England, but you cry,
+'`No freeman ought to be amerced but by the oath of good and lawful
+men of the vicinage.`'`" Instead of answering to this question,
+the recorder cried, "`take him away, take him away; take him out of the court.`"
+On which W. Penn said, "`I can never urge the fundamental laws of England, but you cry,
 take him away, take him away.
 But it is no wonder,
 since the Spanish Inquisition hath so great a place in the recorder`'s heart.
-God Almighty, who is just, will judge you for all these things.`'
+God Almighty, who is just, will judge you for all these things.`"
 W+++.+++ Penn was not suffered to speak any more,
 but he and W. Mead were hauled to the bail-dock, and from thence sent to Newgate,
 and so were their jury.
@@ -493,7 +493,7 @@ but also the absurdity of the indictment, and the illegal proceedings of the cou
 and from the great charter, that they had been dealt with contrary to law.
 The case of the lord chief justice Keeling is also mentioned,
 who having put restraints upon juries, a committee of parliament, the 11th of December,
-1667, came to this resolution, '`That his proceedings were innovations,
+1667, came to this resolution, "`That his proceedings were innovations,
 in the trial of men for their lives and liberties;
 and that he had used an arbitrary and illegal power,
 which was of dangerous consequence to the lives and liberties of the people of England,
@@ -501,8 +501,8 @@ and tended to the introducing an arbitrary government.
 Moreover, that in the place of judicature he had undervalued,
 vilified and condemned Magna Charta.
 And therefore, that he should be brought to trial, in order to condign punishment,
-in such manner as the house shall judge most fit and requisite.
-Two days after, viz._ Die Veneris,_ the 18th of December, it was resolved,
+in such manner as the house shall judge most fit and requisite.`"
+Two days after, viz. _Die veneris,_ the 13th of December, it was resolved,
 that the precedents and practice of fining or imprisoning jurors for verdicts is illegal.
 The book containing the fore-mentioned trial of W. Penn
 and W. Mead was reprinted I think more than once;
@@ -512,10 +512,10 @@ and arbitrary power controlled.
 The title of it was, [.book-title]#The People`'s Ancient and Just Liberties Asserted;#
 and underneath was added this well known verse of Juvenal,
 
-[quote]
+[verse]
 ____
-_Sio volo, sic jubeo; stat pro ratione voluntas._
-(in English: Thus I wish, thus I order, my will stands in place of reason.)
+_Sic volo, sic jubeo; stat pro ratione voluntas._
+(In English: "`Thus I wish, thus I order, my will stands in place of reason.`")
 ____
 
 This matter was more circumstantially treated of in a book in print,
@@ -531,14 +531,13 @@ in order to apprehend him;
 and this warrant was executed by the soldiers of one captain Holford;
 and the next day he was sent to Newgate by a mittimus under
 the hands and seals of the lord mayor Samuel Starling,
-William Peak, Robert Hanson, and several others, under pretense,
+William Peak, Robert Hanson, and several others, under pretence,
 that he stirred up persons to disobedience of the laws,
 and abetted and encouraged such as met in unlawful and seditious conventicles,
 contrary to the late act.
 But his case being brought before the justices of the court of Common Pleas,
-at Westminster, by an _habeas corpus_ (i.e. a writ of unlawful imprisonment), that court,
-after solemn debate, gave their judgment, that Thomas Rudyard was unjustly imprisoned,
-and unjustly detained.
+at Westminster, by an _habeas corpus,_ that court, after solemn debate,
+gave their judgment, that Thomas Rudyard was unjustly imprisoned, and unjustly detained.
 And so he was set at liberty.
 But the lord mayor Samuel Starling fretting at this discharge,
 found out new stratagems to compass his ends upon him.
@@ -547,12 +546,12 @@ hindered due course of law against one Samuel Allingbridge.
 But Rudyard so well defended himself, that he was acquitted;
 which so incensed the lord mayor, that not long after he was again committed to Newgate,
 on a religious account,
-viz. for having been in the meeting at Whitechart-court in Gracechurch-street.
+viz. for having been in the meeting at Whitehart-court in Gracechurch-street.
 The proceedings against him and others on that account were
 no less arbitrary than those against W. Penn and W. Mead,
 already mentioned, and therefore Rudyard exposed his and their trials in print;
 and seeing he understood the law,
-he was the more able to show the unjust-ness of these proceedings,
+he was the more able to show the unjustness of these proceedings,
 and how inconsistent such prosecutions were with the laws of the land.
 
 But to avoid prolixity I shall relate but little of them,
@@ -568,26 +567,26 @@ The recorder returned, that the Papists were better subjects to the king, than t
 and that they were a stubborn and dangerous people, and must either be brought under,
 or there was no safe living by them.
 The prisoners offering to vindicate themselves from these odious and foul aspersions,
-were not suffered to say any thing in their own defense; but instead of hearing them,
+were not suffered to say any thing in their own defence; but instead of hearing them,
 they were by order of the lord mayor and the recorder thrust into the bail-dock,
 and treated almost at the same rate as W. Penn and W. Mead had been before.
 
 But violence prevailed now; and the recorder,
-because of his outrageous behavior against the Quakers,
-was so much in favor of the court of justice,
+because of his outrageous behaviour against the Quakers,
+was so much in favour of the court of justice,
 that alderman Jo. Robinson did not stick to tell them,
-that the recorder deserved a hundred pounds for his service done at the Old Bailey,
+that the recorder deserved an hundred pounds for his service done at the Old Bailey,
 the last sessions.
 And his proposal so took,
-that the court consented to pay him for the said service a hundred pounds,
+that the court consented to pay him for the said service an hundred pounds,
 by the chamberlain of London.
 And since this was so well known to T. Rudyard, that in a book he published,
 he named the date of the said order, viz. the 8th of October, 1670:
 and that other orders had been given for two hundred pounds more to him,
 within eight months last past; he, to reprehend such doings in a satirical way,
 called them,
-'`an excellent way to ease the treasury of being over-burdened
-with orphans`' money,`' by which sinister ends,
+"`an excellent way to ease the treasury of being over-burdened
+with orphans`' money,`" by which sinister ends,
 and dispositions of its cash, the chamber was so deeply in debt,
 that it was almost incredible.
 
@@ -597,7 +596,7 @@ than many others, he composed a treatise of those prosecutions,
 which he called the Second Part of the People`'s Ancient and Just Liberties asserted.
 And true lovers of their country were pleased with it:
 for that party which countenanced popery,
-and therefore endeavored to violate the people`'s rights, strove to get the upper hand.
+and therefore endeavoured to violate the people`'s rights, strove to get the upper hand.
 
 Persecution was now very hot and fierce all over the country,
 because a door was opened for all base and wicked fellows to get booty by informing;
@@ -612,7 +611,7 @@ though the witnesses had not seen it, as was requisite by law.
 And this informing came so much in vogue,
 that some magistrates themselves turned informers.
 
-[quote]
+[verse]
 ____
 __Quid non mortalia pectora cogis Auri sacra fames!__^
 footnote:[What will not the cursed thirst of gold force mankind to perform!]
@@ -631,19 +630,19 @@ In Nottingham it happened in the latter end of this year, that the justice,
 Penniston Whaley, who had fined many of those called Quakers,
 for frequenting their religious meetings,
 encouraged the people at the sessions to persecute the Quakers without any pity,
-saying to them, '`Harden your hearts against them;
+saying to them, "`Harden your hearts against them;
 for the act of the 35th of queen Elizabeth, is not made against the Papists,
 since the church of Rome is a true church, as well as any other church;
-but these Quakers are erroneous and seditious persons.`'
+but these Quakers are erroneous and seditious persons.`"
 By these words one may easily judge to what religion this justice of peace was inclined;
 but such dissemblers feigned to the Protestants,
-that so they might bear honorable offices.
+that so they might hear honourable offices.
 I pass by unmentioned many persons, who by beating, pushing, and trampling,
 were grievously abused in their meetings, to that degree,
 that some not long survived the violence committed on them,
 and felt the painfulness or smart of it till death.
 
-This year about midsummer, Thomas Bud deceased at Ivelchester in Somersetshire,
+This year about midsummer, Thomas Budd deceased at Ivelchester in Somersetshire,
 after having been prisoner about eight years and a half,
 because for conscience-sake he could not swear.
 Some hours before his death, he was heard to say,
@@ -666,16 +665,16 @@ an instance of which was given by Robert Priest of the same place,
 who once said in his sermon, that the king`'s laws,
 though they were contrary to the law of God, yet ought to be obeyed.
 Quite otherwise was the doctrine of the apostle Peter and John,
-when they said to the Jewish council, '`Judge ye whether it be right in the sight of God,
-to hearken unto you more than unto God.`'
+when they said to the Jewish council, "`Judge ye whether it be right in the sight of God,
+to hearken unto you more than unto God.`"
 
 In Northamptonshire, where persecution was also very hot,
 the bishop of Peterborough said publicly in the steeple-house,
 after he had commanded the officers to put in execution
 the last act against seditious meetings,
-'`Against all fanatics it hath done its business, except the Quakers;
+"`Against all fanatics it hath done its business, except the Quakers;
 but when the parliament sits again, a stronger law will be made,
-not only to take away their lands and goods, but also to sell them for bond slaves.`'
+not only to take away their lands and goods, but also to sell them for bond slaves.`"
 Thus the churchmen blew the fire of persecution.
 
 At York also, the spoiling of goods was fiercely driven on by alderman Richardson;
@@ -700,7 +699,7 @@ in which he was very serviceable.
 
 At another time, the justices Peter Soames and Thomas Mead,
 gave a warrant to distrain twenty pounds worth of goods from the said Thomas Green,
-for preaching at a meeting in Upper-Chissel in Essex.
+for preaching at a meeting in Upper Chissel in Essex.
 And the officers going to Thomas Green`'s shop, took all they could get,
 leaving nothing in the shop but a skein of thread, which was fallen on the ground,
 and not observed by them.
@@ -708,7 +707,7 @@ and not observed by them.
 Theophilus Green suffered also great spoil of goods:
 for having preached in a meeting at Kingston-upon-Thames,
 he was put into the stocks for some hours, and fined twenty pounds.
-And having preached the three next first-days of the week at Wandsworth,
+And having preached the three next first-days of the week at Wadsworth,
 was for each fined at the same rate.
 
 The week following, being at Uxbridge, and visiting some poor children of his friends,
@@ -727,15 +726,15 @@ and took away all his goods they found, leaving him neither bed nor stool.
 And after he had been kept prisoner three months,
 he with seven more was brought to the session`'s-house at Hicks`'s Hall,
 and the oaths of allegiance and supremacy were tendered to them.
-To which his plea was, '`As an Englishman, I ought either to be acquitted or condemned,
+To which his plea was, "`As an Englishman, I ought either to be acquitted or condemned,
 for the cause for which I was committed,
 before I should answer to any other matter or cause.
 Besides, I look upon myself to be illegally committed,
-as being fined and committed for the same fact.`'
+as being fined and committed for the same fact.`"
 But they told him, he must answer whether he would swear or no,
 and then he should be heard.
 But continuing to refuse swearing, he was remanded to prison with the rest;
-and afterwards being sent for again, and still un-willing to break Christ`'s command,
+and afterwards being sent for again, and still unwilling to break Christ`'s command,
 not to swear at all,
 the sentence of premunire was read against him and his fellow prisoners,
 and so they continued in jail above two years,
@@ -747,18 +746,18 @@ On the 25th of September several musketeers came into the meetinghouse,
 and hauling those that were met together in the street,
 the troopers came riding amongst them, and beat and abused them violently,
 pushing them with their carbines,
-which the others did with the but-ends of their muskets, to that degree,
+which the others did with the butt-ends of their muskets, to that degree,
 that above twenty persons were wounded and sorely bruised; nay,
 so desperately wicked were these mischievous fellows,
 that a party of horse sought to ride over these harmless people; but the horses,
 more merciful than the riders, and not going forward, they turned them,
 and by curbing and reigning them backward, strove to do what mischief they could.
-On the 2d of October these peaceable people being kept out of their meeting-place,
+On the 2nd of October these peaceable people being kept out of their meeting-place,
 there came a party of foot, and a party of horse,
 and abused them no less violently than the week before;
 insomuch that with beating and knocking they broke several of their muskets and pikes,
 and one carbine, and above thirty persons were so sorely wounded and bruised,
-that their blood was spilled in the streets.
+that their blood was spilt in the streets.
 
 On the 9th of the said month the soldiers, both horse and foot,
 came again to the meeting at the aforesaid place, and one of them having a shovel,
@@ -783,13 +782,13 @@ meeting again to perform their worship to God,
 a great party of horse and foot came, and fell to beating them so violently,
 as if they would have killed all on the spot;
 so that the blood ran down about the ears of many;
-and one of the constables endeavoring to stop the wicked crew from shedding more blood,
+and one of the constables endeavouring to stop the wicked crew from shedding more blood,
 they fell upon him also, and broke his head;
 and when they were rebuked for their cruel dealing, some said,
-'`If you knew what orders we have, you would say we dealt mercifully with you.`'
+"`If you knew what orders we have, you would say we dealt mercifully with you.`"
 And being asked,
-'`How can ye deal thus with a people who make no resistance nor opposition;`' they answered,
-'`We had rather, and it would be better for us, if ye did resist and oppose.`'
+"`How can ye deal thus with a people who make no resistance nor opposition;`" they answered,
+"`We had rather, and it would be better for us, if ye did resist and oppose.`"
 From which it appeared plainly, that this mischief was done to provoke opposition,
 that they might have imbrued their hands in the blood of these sufferers,
 and so have had their lives and goods for a prey.
@@ -807,7 +806,7 @@ This priest,
 (now become a turn-coat for gain,) having finished his sermon and concluded with a prayer,
 Solomon Eccles said, that the prayer of the wicked was an abomination to the Lord.
 And knowing the deceitfulness of the said priest, and his being an apostate, he added,
-'`What shall be done to the man that makes shipwreck of a good conscience?`'
+"`What shall be done to the man that makes shipwreck of a good conscience?`"
 For this he was taken, and by the mayor committed to prison, where being kept ten days,
 he was accused as a vagabond, and without any examination,
 whipped along the streets of Cork, from North-Gate to South-Gate,
@@ -816,7 +815,7 @@ We have seen heretofore instances of his great zeal;
 and though in some respect he might by it have been transported a little too far,
 yet he gave proofs of a sincere heart;
 for having said some years after to one John Story,
-who launched out into great haughtiness and arrogance,
+who launched out into great haughtiness and arrogancy,
 that it was the word of the Lord that he should die that year,
 (which by somebody to set a gloss upon it,
 was interpreted to be meant of the spiritual death,) yet Eccles himself said afterwards,
@@ -841,7 +840,7 @@ and unmercifulness in the land, that mercy and righteousness may flourish.
 
 And, O Lord God! establish and set up verity, and preserve it in the land:
 and bring down in the land all debauchery, and vice, and whoredoms, and fornication;
-and this raping spirit, which causes and leads people to have no esteem of thee,
+and this raping spirit, which causeth and leadeth people to have no esteem of thee,
 O God! nor their souls or bodies, nor of Christianity, modesty, or humanity.
 
 And, O Lord! put it in the magistrates`' hearts, to bring down all this ungodliness,
@@ -852,11 +851,11 @@ where no unclean thing can enter, neither shall come; but such works lead people
 And the Lord in mercy bring down all these things in the nation to stop thy wrath, O God,
 from coming on the land.
 
+[.signed-section-context-close]
+This Prayer was wrote the 17th day, at Night, of the 2nd Month, 1671.
+
 [.signed-section-signature]
 G+++.+++ Fox.
-
-[.signed-section-context-close]
-This Prayer was wrote the 17th day, at Night, of the 2d Month, 1671
 
 --
 
@@ -878,19 +877,30 @@ set sail in the latter part of the summer towards America,
 with several of his friends that accompanied him.
 
 Now whilst I leave him on ship-board, I cannot forbear to mention,
-that this year at London came forth a witty pamphlet with this title,
-[.book-title]#An Easy Way to Get Money cum Privilegio, without Fear or Cumber,#
+that this year at London came forth a witty pamphlet with this title, [.book-title]#An Easy Way to Get Money cum _Privilegio,_ Without Fear or Cumber,#
 printed for the society of informers.
 This book contained a satirical rebuke to the informers, and began thus:
-'`To all you that can work, and will not;
+
+[.embedded-content-document]
+--
+
+To all you that can work, and will not;
 and to all those that through other ways of extravagancy
 have brought yourselves into debt,
 necessity, or other wants,
 (for your speedy supply and future support,) there is an opportunity put into your hands,
-that is both safe, profitable, and honorable.
-It is to be informers.`'
+that is both safe, profitable, and honourable.
+It is to be informers.
 
-Next the author said, '`That it was an easy way,
+--
+
+[.offset]
+Next the author said,
+
+[.embedded-content-document]
+--
+
+That it was an easy way,
 since it was no more than to seek out where there were in any house, barn, stable,
 or backside, five persons besides those of the family; though they spoke never a word.
 If you do but swear it, (thus he continued,) to be a conventicle,
@@ -908,27 +918,36 @@ for the justices are afraid of your power, since you have them under your lee;
 so they will not much question you, lest they be counted fanatics;
 and they know that if they do not please your wills, your power is such,
 that you may recover fifty pounds for your parts, by action, suit, bill or plea,
-in any of his majesty`'s courts at Westminster, wherein no essoin, protection,
+in any of his majesty`'s courts at Westminster, wherein no essoign, protection,
 or wager of law shall lie.
 Can your hearts desire more?
 who will not be informers?
-that must have all clauses construed most largely and beneficially
-to their justification and encouragement!`'
+that must have all clauses construed most largely
+and beneficially to their justification and encouragement!
 
+--
+
+[.offset]
 As to the profitableness, the author said,
-'`Besides the twenty pounds and ten shillings apiece for meeting,
+
+[.embedded-content-document]
+--
+
+Besides the twenty pounds and ten shillings apiece for meeting,
 if you can but tempt any by your questions, or other provocations,
 to speak but a word to answer you, it will serve to make him a preacher,
 and then for the first time there is twenty pounds, and for the second forty pounds.
 It is no matter what is spoke, or to what concern;
-if you swear you did hear such a one speak, it is enough to make him a preacher.
+if you swear you did hear such an one speak, it is enough to make him a preacher.
 And as to the inability, there is no danger that you should fall short of your salary;
-for you can by your power make void that old proverb.
-Where it is not to be had, the king must lose his right.
+for you can by your power make void that old proverb, Where it is not to be had,
+the king must lose his right.
 But your prerogative is such, that if the offender hath it not,
 you can command your servants to levy it on any other
 that is not an offender in that nature,
-provided he be there, otherwise an appeal will be granted.`'
+provided he be there, otherwise an appeal will be granted.
+
+--
 
 At this rate the author treated the matter,
 taking out of the way all difficulties and scruples which any might have objected;
@@ -940,29 +959,29 @@ yet he proposed it safe every way:
 and if any might tell them they were knights of the post; yet however the thing fell out,
 it was never attended with loss, but always with a certain gain;
 since in the prosecution nothing could be objected, but what might be easily quashed,
-and the opposers thus frustrated.
-'`And when to all these infallible profits was added the honorableness of the office,
+and the opposers thus frustrated.--"`And when to all these
+infallible profits was added the honourableness of the office,
 what could one desire more?
-for was it not honorable indeed to command both magistrates and military officers,
+for was it not honourable indeed to command both magistrates and military officers,
 to follow the informers where they will?
 and to obtain this office, one needed not to be at great cost to purchase it,
 nor to break his pate with studying;
-since at the very first conventicle they entered they might commence doctors.`'
+since at the very first conventicle they entered they might commence doctors.`"
 But of what religion or profession these informers should be,
-the author himself seemed not to know: '`They must be no jews,`' said he,
-'`for these were not to covet their neighbors`' ox, nor ass,
-nor any thing that was their neighbors; neither should they be gentiles,
+the author himself seemed not to know: "`They must be no jews,`" said he,
+"`for these were not to covet their neighbours`' ox, nor ass,
+nor any thing that was their neighbours; neither should they be gentiles,
 for they had conscience accusing, and did by nature the things contained in the law,
 having the law writ in their hearts.
 And Christians they could be by no means;
 for they say they forsake the devil and all his works, and all the lusts of the flesh,
 and not to hurt any by word nor deed,
-which is less than by swearing,`' (the common fact of the informers.) To conclude,
-the author said: '`for any into whose hands this may come, if they fear any danger in it,
-they ought not to conceal it, but to bring it before some justice,
-or the chief magistrate of the place, with an account how they came by it,
-and then they are innocent: then if it cannot clear itself,
-let it lie in prison till it perish.`'
+which is less than by swearing,`" +++[+++the common fact of the informers.]
+To conclude, the author said: "`for any into whose hands this may come,
+if they fear any danger in it, they ought not to conceal it,
+but to bring it before some justice, or the chief magistrate of the place,
+with an account how they came by it, and then they are innocent:
+then if it cannot clear itself, let it lie in prison till it perish.`"
 
 Now I return to George Fox, whom we left in the ship going to America.
 During his voyage he suffered much in his body;
@@ -970,7 +989,7 @@ for the many hurts and bruises he had formerly received,
 and the griefs and infirmities he had contracted in England by cold, and hardships,
 and long imprisonments, returned upon him now he came to sea, and caused great pain.
 And after having been seven weeks and some odd days at sea, he,
-with his fellow-travelers, came safe to the island of Barbados.
+with his fellow travellers, came safe to the island of Barbados.
 His occurrences there he hath described at large in his journal.
 Many of the great ones, especially the governor, showed him much kindness.
 And after he had edified his friends there on many occasions,
@@ -993,10 +1012,10 @@ He went also to the town formerly called New Amsterdam,
 which name is now changed into that of New York.
 Here he lodged at the governor`'s house, and had also a meeting there.
 From thence he returned again to Maryland, and came also into Virginia, and Carolina,
-and thus spent above a year traveling to and fro in America.
+and thus spent above a year travelling to and fro in America.
 
 Whilst he was there, England and France were entered into war against Holland.
-Now though I have yet in fresh remembrance those times,
+Now though I have yet in fresh remembrance those sad times,
 and in what a wonderful manner it pleased the Lord to save
 our country from being quite overrun and subdued,
 yet I shall not mention those things, since they are at large set down by other writers.
@@ -1004,15 +1023,15 @@ Yet transiently I will give a touch of the remarkable exaltation of William III.
 prince of Orange, and afterwards king of Great Britain.
 
 I have already said in its due place,
-how it was endeavored to exclude him by the perpetual
-edict from ever being stat-holder or deputy.
+how it was endeavoured to exclude him by the perpetual
+edict from ever being stadtholder or deputy.
 But how strong soever this edict was sworn to, yet heaven brought it to nought,
 and broke the ties of it by the refuse of the nation: for women,
 and many others of the mob, forced the magistrates,
 when the French were come into the province of Utrecht,
 and all seemed to run into confusion, to break their oaths,
 and to restore that young and magnanimous prince
-to the honor and dignity of his renowned ancestors.
+to the honour and dignity of his renowned ancestors.
 The miserable fate of the two brethren, John and Cornelius de Wit,
 who had been chief instruments in making the said perpetual edict,
 and were killed and butchered in a most abominable
@@ -1021,7 +1040,7 @@ was not without good reason disapproved by many grave and serious people.
 It is true, it was a great mistake that they acted so,
 that they seemed to set limits to the Almighty;
 though I do not believe their intent was such,
-but rather that what they did in making void the stat-holdership,
+but rather that what they did in making void the stadtholdership,
 they judged conducive to the benefit of their country.
 After they were murdered,
 the widow of Cornelius de Wit seemed to have a firm
@@ -1048,7 +1067,7 @@ telling him,
 that the penal statutes about ecclesiastical matters
 could not be suspended but by an act of parliament.
 The king, wanting money to continue the war, yielded somewhat to parliament,
-in respect to the popish priests and Jesuits,
+in respect to the popish priests and jesuits,
 consenting that the laws against them should continue in force.
 
 This summer G. Fox returned to England, and arrived at Bristol,
@@ -1059,7 +1078,7 @@ and since at that time there was a fair at Bristol,
 many of his friends came thither from other parts of the country,
 and so were at a great meeting he had there,
 in which he preached concerning the three chief teachers,
-viz. '`That God was the first teacher of man and woman in paradise;
+viz. "`That God was the first teacher of man and woman in paradise;
 and that as long as they kept to God`'s teaching, they kept in the image of God,
 and in righteousness, holiness, and dominion over all that God hath made:
 but when they hearkened to the false teaching of the serpent, who was out of truth,
@@ -1068,11 +1087,11 @@ and so coming under the power of Satan, were turned out of paradise.
 That this serpent was the second teacher, and that man following his teaching,
 came into misery, and into the fall.
 And that Christ Jesus was the third teacher, of whom God said,
-"`This is my beloved Son in whom I am well pleased,
-hear ye him:`" and that this Son himself said,
-"`Learn of me:`" that he was the true gospel teacher, that never fell,
-and therefore was to be heard in all things, since he was the Savior and the Redeemer,
-and having laid down his life, had bought his sheep with his precious blood.
+'`This is my beloved Son in whom I am well pleased,
+hear ye him:`' and that this Son himself said,
+'`Learn of me:`' that he was the true gospel teacher, that never fell,
+and therefore was to be heard in all things, since he was the Saviour and the Redeemer,
+and having laid down his life, had bought his sheep with his precious blood.`"
 Of this he treated at large in the said meeting.
 After some stay at Bristol, he went to Gloucestershire;
 and going from thence to Oxfordshire, he came at length to London,
@@ -1089,7 +1108,7 @@ she seemed not without reason grieved at it.
 And not long after had a meeting at Armscot in Tredington parish,
 after the meeting was ended, he, with Thomas Lower, sitting in the parlour,
 and discoursing with some friends,
-they both were under pretense of having kept great meetings
+they both were under pretence of having kept great meetings
 that might be prejudicial to the public peace,
 taken by Henry Parker, justice, and sent to Worcester jail, on the 17th of December,
 and his wife with her daughter returned into the north;
@@ -1108,16 +1127,16 @@ to write to the said lord Windsor to release Thomas Lower:
 but his love to his father-in-law, G. Fox, was such,
 that he kept the said letter by him unsent; and so they were both continued prisoners.
 
-Now whilst I leave them in prison, I return once more to Miles Hal-head,
+Now whilst I leave them in prison, I return once more to Miles Halhead,
 of whom mention hath been often made already.
 He being at Plymouth in this year, felt himself stirred up to go see John Lambert,
 who having formerly been a general, was now, as hath been said in due place,
 confined to perpetual imprisonment, in a little island not far from Plymouth.
 To this island Halhead passed over, and though he found there a strong guard of soldiers,
-yet he got leave to see Lambert; and being come to him, he said, '`Friend,
-is thy name John Lambert?`'
-To which Lambert answered, '`Yea:`' which made Miles say, '`Then I pray thee, friend,
-hear what the servant of the Lord hath to say to thee:`' and he continued thus: '`Friend,
+yet he got leave to see Lambert; and being come to him, he said, "`Friend,
+is thy name John Lambert?`"
+To which Lambert answered, "`Yea:`" which made Miles say, "`Then I pray thee, friend,
+hear what the servant of the Lord hath to say to thee:`" and he continued thus: "`Friend,
 the Lord God made use of thee and others for the deliverance of his people,
 and when you cried to him, he delivered you in your distresses, as at Dunbar,
 and other places, and gave an opportunity into your hands to do good:
@@ -1127,11 +1146,11 @@ ye soon forgot your promises ye made to the Lord
 in that day and time of your great distress,
 and turned the edge of your sword against the Lord`'s servants and handmaids,
 whom he sent forth to declare his eternal truth; and made laws, and consented to laws,
-and suffered and permitted laws to be made against God`'s people.`'
-To this Lambert said, '`Friend, I would have you know, that some of us never made laws,
+and suffered and permitted laws to be made against God`'s people.`"
+To this Lambert said, "`Friend, I would have you know, that some of us never made laws,
 nor consented to laws to persecute you, or any of your friends;
-for persecution we ever were against.`'
-To which Miles returned, '`It may be so;
+for persecution we ever were against.`"
+To which Miles returned, "`It may be so;
 but the Scripture of truth is fulfilled by the best of you:
 for although thou and some others have not given
 your consent to make laws against the Lord`'s people,
@@ -1162,44 +1181,44 @@ If the Lord had not pleaded our innocency,
 we had not had a being in the land of our nativity, glory to his name forever,
 who hath not suffered or permitted more of the wrath of man, nor laws,
 nor decrees of men, to come against his people, that believe in his name,
-than hath been for his honor, and for his glory,
+than hath been for his honour, and for his glory,
 and for the eternal good of all his sons and daughters, and servants; and the remainder,
-the Lord God of life and love hath restrained to this day: glory, and honor,
+the Lord God of life and love hath restrained to this day: glory, and honour,
 and living eternal praises be given and returned to the Lord God,
-and the Lamb forever!`'
+and the Lamb forever!`"
 
 Thus Halhead ended his speech, and Lambert, who had heard him with good satisfaction,
 desired him to sit down, which Halhead did; and then Lambert called for beer,
-and gave him drink; after which he said to him, '`Friend,
-I do believe thou speaks to me in love, and so I take it,`' And then he asked him,
+and gave him drink; after which he said to him, "`Friend,
+I do believe thou speakest to me in love, and so I take it,`" And then he asked him,
 if he was at Dunbar fight?
-To which Halhead having answered '`No:`' he further asked,
-'`How do you know what great danger we were in at that time?`'
+To which Halhead having answered "`No:`" he further asked,
+"`How do you know what great danger we were in at that time?`"
 Upon which Halhead gave him to understand,
 that he coming that way a little time after the fight,
-and having viewed the town of Dunbar, and the ground about it were the English army lay,
+and having viewed the town of Dunbar, and the ground about it where the English army lay,
 how the sea was on one hand of them, and the hills and mountains on the other,
 and the great Scotch army before and behind them,
 he then took into serious consideration, the great danger the English had been in,
 and thought how greatly the Englishmen were engaged to the Lord for their deliverance,
 to serve him in truth and uprightness of heart all the days of their life.
-'`Truly John,`' said Halhead then to Lambert, '`I never saw thy face before to know thee,
+"`Truly John,`" said Halhead then to Lambert, "`I never saw thy face before to know thee,
 although I have been brought before many of our English
-commanders in the time of Oliver Cromwell.`'
+commanders in the time of Oliver Cromwell.`"
 Lambert then asking, who they were, Halhead named the generals Fleetwood and Desborough,
 major Blackmore, and colonel Fenwick,
 before whom he had been when he was governor of Edinburgh.
 Lambert then said, he knew the most of those men to have been very moderate,
 and that they ever were against persecution.
-To which Miles replied, '`Indeed they were very moderate,
+To which Miles replied, "`Indeed they were very moderate,
 and would not be much seen to persecute, or be severe with the Lord`'s people;
 but truly they permitted others to do it,
 and took little notice of the sufferings of the people of God:
-so that none were found to plead our cause, but the Lord God.`'
-To this Lambert said, '`Although you and your friends suffered persecution,
-and some hardships in that time, your cause therein is never the worse for that.`'
-'`That is very true,`' returned Miles,`' but let me tell thee, in the plainness of my heart,
-that is no thanks to you, but glory to the Lord forever.`'
+so that none were found to plead our cause, but the Lord God.`"
+To this Lambert said, "`Although you and your friends suffered persecution,
+and some hardships in that time, your cause therein is never the worse for that.`"
+"`That is very true,`" returned Miles, "`but let me tell thee,
+in the plainness of my heart, that is no thanks to you, but glory to the Lord forever.`"
 About two hours Miles discoursed with Lambert, and his wife and two daughters,
 and after he had cleared himself, he took leave of them, and so parted in love.
 
@@ -1221,7 +1240,7 @@ The living, eternal God of life and love, that sent thee into the north,
 keep and preserve me,
 by his eternal arm and power and all my dear friends
 and brethren truly sensible of his eternal love,
-which I bear record hath been exceeding great,
+which I hear record hath been exceeding great,
 since the day the Lord made his precious truth known amongst us.
 Therefore, dear George Fox, pray for me, for I am old, and infirm of body,
 and the sight of my eyes grows exceeding weak,
@@ -1248,16 +1267,16 @@ were brought to their trial in the court at Worcester,
 it being the last day of the sessions; and when they came in,
 those on the bench were struck with paleness in their faces,
 and continued awhile speechless, insomuch that a butcher in the hall said,
-'`What! are they afraid?
-Dare not the justices speak to them?
+"`What! are they afraid?
+Dare not the justices speak to them?`"
 At length justice Parker, by whose order G. Fox and T. Lower had been committed,
 made a long speech, much to the same effect as the contents of the mittimus, and added,
 that he thought it a milder course to send them two to jail,
-than to put his neighbors to the loss of two hundred pounds,
+than to put his neighbours to the loss of two hundred pounds,
 which they must have suffered, if he had put the law in execution against conventicles.
 But this was a very poor shift, and silly evasion;
 for there being no meeting when he came, nor any to inform,
-he had no evidence to convict them, or his neighbors by.
+he had no evidence to convict them, or his neighbours by.
 When Parker had ended his speech, the justices spoke to the prisoners,
 and began with Lower, whom they examined why he came into that country.
 And when they had done with him, they asked of G. Fox an account of his travel,
@@ -1265,16 +1284,16 @@ which he gave them, and showed them clearly, that he and his friends,
 of whom so great a noise had been made by justice Parker,
 as if many had come together from several parts, were in a manner all but one family.
 When he had ended speaking, the chairman Simpson said,
-'`Your relation or account is very innocent.`'
+"`Your relation or account is very innocent.`"
 Then he and Parker having whispered awhile together, the said chairman stood up,
-and said, '`You, Mr. Fox, are a famous man, and all this may be true which you have said;
+and said, "`You, Mr. Fox, are a famous man, and all this may be true which you have said;
 but that we may be the better satisfied,
-will you take the oaths of allegiance and supremacy?`'
+will you take the oaths of allegiance and supremacy?`"
 Now, though G. Fox answered to this, that they had said they would not ensnare him,
 and that this was a plain snare,
 since they knew he and his friends would not take any oath; all was in vain,
 and they caused the oath to be read, which being done, he told them,
-'`I never took oath in my life, but I have always been true to the government.
+"`I never took oath in my life, but I have always been true to the government.
 I was cast into the dungeon at Darby, and kept prisoner six months there,
 because I would not take up arms against king Charles, at Worcester fight;
 and for going to meetings, I was carried out of Leicester,
@@ -1289,46 +1308,47 @@ and I have nothing in my heart but love and good will to him and all men,
 and desire his and their prosperity; the Lord knows it,
 before whom I stand an innocent man.
 And as to the oath of supremacy, I deny the pope and his power,
-and abhor it with my heart.`'
-Whilst he was yet speaking, they cried,`'Give him the book,`' viz. the Bible.
-'`The book,`' saith G. Fox,
-'`saith "`Swear not at all:`"`' and he going on to declare his mind further, they cried,
-'`Take him away, jailer:`' who not showing himself very forward, they cried again,
-'`Take him away: we shall have a meeting here; why do you not take him away?
-And one of the bench said, '`That fellow,`' meaning the jailer,`' loves to hear him preach.`'
+and abhor it with my heart.`"
+Whilst he was yet speaking, they cried, "`Give him the book,`" viz. the Bible.
+"`The book,`" saith G. Fox,
+"`saith '`Swear not at all:`'`" and he going on to declare his mind further, they cried,
+"`Take him away, jailer:`" who not showing himself very forward, they cried again,
+"`Take him away: we shall have a meeting here; why do you not take him away?`"
+And one of the bench said, "`That fellow,`" meaning the jailer,
+"`loves to hear him preach.`"
 The jailer then taking him away, as he was turning from them, he said,
-'`The Lord forgive you, who cast me into prison for obeying the doctrine of Christ.`'
+"`The Lord forgive you, who cast me into prison for obeying the doctrine of Christ.`"
 After G. Fox was led away, the justices told T. Lower, he was at liberty;
 for they did not think it safe to deal with him at the same rate as they did with G. Fox,
 because they thought he had some protection at court.
 Lower asked then, why his father-in-law might not be set at liberty, as well as he,
 since they were both taken together, and their case was alike?
-But they telling him they would not hear him, said, '`you may be gone about your business,
-for we have nothing more to say to you, seeing you are discharged.`'
+But they telling him they would not hear him, said,
+"`you may be gone about your business, for we have nothing more to say to you,
+seeing you are discharged.`"
 
 This was all he could get from them; therefore after the court was risen,
 he went to speak with them at their chamber, desiring to know,
 what cause they had to detain his father, seeing they had discharged him;
-and wishing them to consider, whether this was not partiality.
-Upon this Simpson said, '`If you be not content, we will tender you the oath also,
-and send you to your father.`'
-To which Lower replied, '`You may do that, if you think fit; but whether ye send me or no,
-I intend to go, and wait upon my father in prison;
-for that is now my business in this country.`'
-Then justice Parker said to him, '`Do you think, Mr. Lower,
+and wishing them to consider, whether this was not partiality.--Upon this Simpson said,
+"`If you be not content, we will tender you the oath also, and send you to your father.`"
+To which Lower replied, "`You may do that, if you think fit;
+but whether ye send me or no, I intend to go, and wait upon my father in prison;
+for that is now my business in this country.`"
+Then justice Parker said to him, "`Do you think, Mr. Lower,
 that I had no cause to send your father and you to prison,
 when you had such a great meeting,
 insomuch that the parson of the parish complained to me,
 that he had lost the greatest part of his parishioners;
-so that when he comes amongst them, he hath scarce any auditors left.`'
+so that when he comes amongst them, he hath scarce any auditors left.`"
 To this Lower returned,
-'`I have heard that the priest of that parish comes so seldom to visit his flock,
+"`I have heard that the priest of that parish comes so seldom to visit his flock,
 but once, it may be, or twice in a year, to gather up his tithes,
 that it was but charity in my father, to visit such a forlorn and forsaken flock:
 and therefore thou hadst no cause to send my father to prison for visiting them,
 or for teaching, instructing, and directing them to Christ their true teacher,
 who had so little comfort or benefit from their pretended pastor,
-who comes amongst them only to seek for his gain from his quarter.`'
+who comes amongst them only to seek for his gain from his quarter.`"
 Upon this the justice fell a laughing; for Dr. Crowder, the priest spoken of,
 was then in the room, sitting among them; though Lower did not know him,
 and he had the wit to hold his tongue, and not to vindicate himself.
@@ -1341,7 +1361,7 @@ And he told him the same afterwards to his face; which so cooled the priest`'s e
 that he thought it more safe for him to let him alone.
 
 Soon after the sessions were over, an _habeas corpus_ was sent down to Worcester,
-for the sheriff`" to bring up G. Fox to the king`'s bench bar; whereupon his son-in-law,
+for the sheriff to bring up G. Fox to the king`'s bench bar; whereupon his son-in-law,
 Lower, conducted him: for the under sheriff had made Lower his deputy,
 to convey G. Fox to London, who being arrived there,
 appeared before the court of king`'s bench, where he found the judges moderate,
@@ -1364,7 +1384,7 @@ for having committed him unjustly.
 
 A day then being appointed for another hearing,
 and G. Fox appearing again at the king`'s bench,
-and hearing that ii was under deliberation to send him back to Worcester, signified,
+and hearing that it was under deliberation to send him back to Worcester, signified,
 that this was only to ensnare him, by putting the oath to him,
 that so they might premunire him, who never took oath in his life.
 And he further told them, if he broke his yea, or nay,
@@ -1378,13 +1398,13 @@ and since he thus laid open Parker`'s shame, it was not strange,
 that by his friends at court,
 he procured that the king`'s judges complied with his desire
 that G. Fox should be remanded to Worcester jail;
-insomuch that whatever he said, he could not prevent it; only this favor was granted him,
-that he might go his own way, and at his leisure,
+insomuch that whatever he said, he could not prevent it;
+only this favour was granted him, that he might go his own way, and at his leisure,
 provided he would be there without fail, by the assizes,
-which were to begin on the 2d day of the month called April.
+which were to begin on the 2nd day of the month called April.
 
 G+++.+++ Fox then after some stay, went down leisurely, and being come to Worcester,
-he was on the 2d day of the aforesaid month, brought from the jail,
+he was on the 2nd day of the aforesaid month, brought from the jail,
 to an inn near the sessions hall; but not being called that day,
 the jailer came to him at night, and told him he might go home, meaning to the jail:
 whereupon he walked thither, being accompanied by one of his friends.
@@ -1400,8 +1420,8 @@ hearing that he was stopped and imprisoned in his journey,
 so that he was not likely to come and see her, it struck her so,
 that she died soon after; which had been very hard to him.
 Judge Turner, who formerly had been very severe to him, seemed now, as some thought,
-inclined to have him set at liberty, since lie saw they had nothing justly against him;
-but Parker who had committed him, endeavored to incense the judge against him;
+inclined to have him set at liberty, since he saw they had nothing justly against him;
+but Parker who had committed him, endeavoured to incense the judge against him;
 for if he had been released,
 then he himself must have borne the blame of having committed G. Fox unjustly;
 and therefore he told the judge that G. Fox was a ringleader,
@@ -1416,17 +1436,18 @@ which accordingly he had.
 By this he got opportunity to speak with many persons, and sometimes with priests too,
 one of which asked him, whether he was grown up to perfection?
 To which he answered, what he was, he was by the grace of God.
-'`This is,`' replied the priest, '`a modest and civil answer.`'
-'`But,`' continued he in the words of the apostle John, "`If we say that we have no sin,
-we deceive ourselves, and the truth is not in us.`" And asking what he said to that?
+"`This is,`" replied the priest, "`a modest and civil answer.`"
+"`But,`" continued he in the words of the apostle John, "`If we say that we have no sin,
+we deceive ourselves, and the truth is not in us.`"
+And asking what he said to that?
 G+++.+++ Fox returned with the words of the same apostle, "`if we say that we have not sinned,
-we make him a liar, and his word is not in us.`" Moreover he said,
-'`Christ came to destroy sin, and to take away sin.
+we make him a liar, and his word is not in us.`"
+Moreover he said, "`Christ came to destroy sin, and to take away sin.
 There is a time for people to see that they have sinned,
 and there is a time for them to confess their sin, and to forsake it,
-and to know the blood of Christ to cleanse from all sin.`'
+and to know the blood of Christ to cleanse from all sin.`"
 After some more reasoning, the priest said,
-'`We must always be striving;`' to which G. Fox returned,
+"`We must always be striving;`" to which G. Fox returned,
 that it was a sad and comfortless sort of striving,
 to strive with a belief that we should never overcome: and he told him also, that Paul,
 who once cried out because of the body of death, did also thank God,
@@ -1434,18 +1455,18 @@ who gave him the victory;
 and that he said there is no condemnation to them that are in Christ Jesus:
 so that there was a time of crying out for want of victory,
 and a time of praising God for the victory.
-'`But,`' said the priest, '`Job was not perfect.`'
+"`But,`" said the priest, "`Job was not perfect.`"
 To which G. Fox returned, that God hath signified in Scripture,
 that Job was perfect and upright, and that he eschewed evil:
-and that the devil himself was forced to confess, that God had set a hedge about him;
+and that the devil himself was forced to confess, that God had set an hedge about him;
 which was not an outward hedge, but the invisible heavenly power.
-Yet said Job, replied the priest, '`he charged his angels with folly,
-and the heavens are not clean in his sight.`'
-'`That is a mistake,`' said G. Fox, '`for it was not Job said so, but Eliphaz,
-who contended against Job.`'
-'`Well, but,`' said the priest, '`what say you to that Scripture, the justest man that is,
-sins seven times a day?
-'`There is,`' answered G. Fox, '`no such scripture.`'
+Yet said Job, replied the priest, "`he charged his angels with folly,
+and the heavens are not clean in his sight.`"
+"`That is a mistake,`" said G. Fox, "`for it was not Job said so, but Eliphaz,
+who contended against Job.`"
+"`Well, but,`" said the priest, "`what say you to that Scripture,
+the justest man that is, sinneth seven times a day?`"
+"`There is,`" answered G. Fox, "`no such scripture.`"
 So the priest was silent, and this conference broken off,
 of which I have related thus much to show that G. Fox was not such a simple person,
 as some from mere envy have represented him: for he was never at a loss for an answer,
@@ -1463,27 +1484,27 @@ G+++.+++ Fox having obtained liberty to speak for himself, gave a relation of hi
 and showed that he and his friends had in no wise kept a
 meeting that occasioned terror to any of the king`'s subjects;
 and as to the oaths, he showed why he could not take them,
-and what be could declare instead thereof.
+and what he could declare instead thereof.
 But notwithstanding all this, the oaths were read to him again;
 and he persisting in his refusal to take them, the indictment was read also;
-and afterwards the chairman asked him if he was guilty?`'
-G+++.+++ Fox answered,`' No,
-since the indictment was a bundle of lies,`' which he proved in several particulars,
-asking him, if he did not know in his conscience that they were lies.
+and afterwards the chairman asked him "`if he was guilty?`"
+G+++.+++ Fox answered, "`No,
+since the indictment was a bundle of lies,`" which he proved in several particulars,
+asking him, if he did not know in his conscience that they were lies?
 To which he said, it was their form.
 Whereupon G. Fox returned, it was not a true form.
 Then the chairman told the jury what they should do in this case:
 and before they gave in their verdict, G. Fox said to them,
 that it was for Christ`'s sake,
 and in obedience to his and his apostle`'s command that he could not swear:
-'`and therefore,`' said he, '`take heed what ye do;
-for before his judgment seat ye shall all be brought.`'
-The chairman then said, '`This is canting.`'
-'`Why,`' said G. Fox,`' if to confess Christ our Lord and Savior, and to obey his command,
-be called canting by a judge of a court,
+"`and therefore,`" said he, "`take heed what ye do;
+for before his judgment seat ye shall all be brought.`"
+The chairman then said, "`This is canting.`"
+"`Why,`" said G. Fox, "`if to confess Christ our Lord and Saviour,
+and to obey his command, be called canting by a judge of a court,
 it is to little purpose for me to say more among you.
 Yet ye shall see that I am a Christian, and shall show forth Christianity;
-and my innocency shall be manifest.`'
+and my innocency shall be manifest.`"
 By this his speaking, the people generally were affected;
 but the jury however found the bill against him; which G. Fox nevertheless traversed.
 Thus the matter could not be finished now, and therefore he was asked to put in bail,
@@ -1493,7 +1514,7 @@ since there was a snare in it.
 Yet he told the justices, that he would promise to appear,
 if the Lord gave him health and strength, and he were at liberty.
 Some of the justices showed themselves loving,
-and endeavored to stop the rest from indicting him, or putting the oath to him.
+and endeavoured to stop the rest from indicting him, or putting the oath to him.
 But the chairman said he must go according to law.
 Yet liberty was given G. Fox to go at large, till next quarter-sessions.
 
@@ -1501,10 +1522,9 @@ He then went up to London; where the time of the yearly meeting approached;
 but at the instance of some of his friends,
 he appeared again before the judges of the king`'s bench,
 and delivered to them the following declaration,
-setting forth what he was ready to promise instead
-of the oaths of allegiance and supremacy.
+setting forth what he was ready to promise instead of the oaths of allegiance and supremacy.
 
-[.embedded-content-document.address]
+[.embedded-content-document]
 --
 
 This I do in the truth, and in the presence of God declare,
@@ -1538,7 +1558,7 @@ but the proceedings having gone on at Worcester,
 they were unwilling to meddle with the business,
 but referred it to the next quarter-sessions at Worcester.
 
-The Yearly-Meeting at London, at which he was, being over,
+The yearly-meeting at London, at which he was, being over,
 he returned again to Worcester, where the sessions being held in the month called July,
 and he called to the bar, and the indictment read,
 justice Street caused the oaths to be read also, and tendered to him again.
@@ -1554,8 +1574,8 @@ besides those he had already mentioned.
 Whereupon the chairman told him, he was going to show him the danger of a premunire,
 which was the loss of his liberty, and all his goods and chattels,
 and to endure imprisonment during life.
-'`But,`' added he, '`I do not deliver this as the sentence of the court,
-but as an admonition to you.`'
+"`But,`" added he, "`I do not deliver this as the sentence of the court,
+but as an admonition to you.`"
 Then the jailer was bid to take him away;
 and G. Fox afterwards understood concerning this pretended admonition,
 that the chairman had said to the clerk of the peace,
@@ -1570,7 +1590,7 @@ delivered to judge Wild.
 He also wrote a letter to the king,
 wherein he gave an account of the sentiments of those called Quakers concerning swearing;
 and how they abhorred all plottings and contrivances against the king.
-Not long after he fell into such a sickness, that some began to doubt of his recover;
+Not long after he fell into such a sickness, that some began to doubt of his recovery;
 and then one of his friends went to justice Parker,
 by whose order he had been first committed to prison,
 and desired him to give order to the jailer,
@@ -1585,7 +1605,7 @@ Mr. Harris,
 
 I have been much importuned by some friends to George Fox, to write to you.
 I am informed by them, that he is in a very weak condition, and very much indisposed.
-What lawful favor you can do for the benefit of the air, for his health, pray show him.
+What lawful favour you can do for the benefit of the air, for his health, pray show him.
 I suppose the next term they will make application to the king.
 I am,
 
@@ -1593,7 +1613,7 @@ I am,
 Sir, your loving friend,
 
 [.signed-section-signature]
-Henry Parker
+Henry Parker.
 
 [.signed-section-context-close]
 Evesham, the 8th of October, 1674.
@@ -1629,7 +1649,7 @@ procured that an _habeas corpus_ was granted to bring G. Fox to London,
 once more to appear before the king`'s bench.
 The _habeas corpus_ was with the first opportunity sent down by his wife to Worcester;
 but there they would not part with him at first,
-(being now recovered a little of his sickness,) under a pretense that he was premunired,
+(being now recovered a little of his sickness,) under a pretence that he was premunired,
 and was not to go out in that manner.
 Thus it became necessary to send to London again;
 and another order was got and sent down, to bring up G. Fox before the king`'s bench.
@@ -1658,9 +1678,9 @@ he had indeed heard some such reports of G. Fox,
 but he had also heard more good reports of him.
 This saying was serviceable;
 and Hale and the other judges ordered G. Fox to be freed by proclamation.
-Thus he was set at liberty in an honorable way, and his counsellor Corbet,
+Thus he was set at liberty in an honourable way, and his counsellor Corbet,
 who had pleaded for him, got great fame by it; for many other lawyers told him,
 he had brought that to light, which had not been known before.
 And after the trial, one of the judges said to him,
-'`You have obtained a great deal of honor by your
-way of pleading G. Fox`'s cause in court.`'
+"`You have obtained a great deal of honour by your
+way of pleading G. Fox`'s cause in court.`"

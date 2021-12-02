@@ -1,6 +1,7 @@
-== Chapter XXIII.
+== Chapter XXIII
 
-=== 1695-1702.
+[.section-date]
+1695-1702.
 
 [.chapter-synopsis]
 * Sufferings of Friends in Barbados
@@ -37,9 +38,9 @@ of what had been taken from them under the government of the colonels Searle and
 the president Wallum, the lords Francis Willoughby, and William Willoughby,
 the knights Jonathan Atkins and Richard Dutton,
 and the colonels Edwin Stede and James Kendal, all which amounted to 1,423,164 lbs.
-Muscovado sugar, and 2,910£. 16s, in money.
+Muscovado sugar, and 2,910£ 16s. in money.
 To this list was joined an account of the disasters
-which befell several of the persecutors in Barbados.
+which befel several of the persecutors in Barbados.
 In this account I find above thirty marshals, or the deputies, named, who,
 though they had enriched themselves with the spoil
 and havoc of the goods of honest people,
@@ -62,21 +63,20 @@ by reading to them some part of the Holy Scriptures,
 and speaking something to this purpose; a law was made,
 forbidding the Quakers to let their negroes come into their meetings,
 though kept in their own houses,
-on pain of forfeiting every such negro as was found there,
-or ten pounds instead thereof And by one Thomas Cobham,
-an action was brought against Ralph Fretwell,
+on pain of forfeiting every such negro as was found there, or ten pounds instead thereof.
+And by one Thomas Cobham, an action was brought against Ralph Fretwell,
 for eighty negroes of his own at a meeting in his own family.
-But though the justice, John Merrick, did what he could to countenance the said Cobhagi,
+But though the justice, John Merrick, did what he could to countenance the said Cobham,
 yet after several sessions of the court, at which the said justice was an assistant,
-judgment was given in favor of the defendant;
-and it was remarkable that the above said Cobham, though a lusty likely young man,
+judgment was given in favour of the defendant;
+and it was remarkable that the abovesaid Cobham, though a lusty likely young man,
 became dejected, and generally slighted;
 and soon after was taken with a fever and an inflammation in his neck and throat,
-which so increased, that towards his latter end he cried out, '`Fire, fire;
-I am all on fire;`' and to his mother he said, she needed not provide a coffin for him;
-for he should be burnt up before it was made: crying out, '`Neither heaven nor hell,
-but all fire, fire;`' to which he added,
-'`Now the Quakers will say it is a judgment fallen on me.`'
+which so increased, that towards his latter end he cried out, "`Fire, fire;
+I am all on fire;`" and to his mother he said, she needed not provide a coffin for him;
+for he should be burnt up before it was made: crying out, "`Neither heaven nor hell,
+but all fire, fire;`" to which he added,
+"`Now the Quakers will say it is a judgment fallen on me.`"
 After this manner he miserably ended his days.
 And justice Merrick`'s exit was also dismal: for riding to his house,
 after having drank too much, he was thrown from his horse, whereby his brain was so hurt,
@@ -86,7 +86,7 @@ In like manner William Sharp, a judge of the court,
 who had been a great opposer to the Quakers instructing their negroes,
 riding from his house to Bridgetown, fell from his horse, and was so hurt,
 that he was not heard to speak any thing else afterwards,
-but`' O my head;`' and three or four days after his fall, he died.
+but "`O my head;`" and three or four days after his fall, he died.
 
 Sir Timothy Thornhill, major-general,
 had often threatened to take away the Quakers`' lives,
@@ -95,20 +95,20 @@ that I feel myself seized with horror in reading the most detestable
 and direful blasphemies which this monstrous wretch belched out:
 for being at a feast, and drinking so excessively,
 that some of the company refused to drink so hard, he wished, (shall I say it,
-or be silent,) _'`Seipsum esse Deum Omnipotentem,
-quo posset damnare animas eorum qui cum ipso bibere nollent.`'_
+or be silent,) __Seipsum esse Deum Omnipotentem,
+// lint-disable invalid-characters "ò"
+quò posset damnare animas eorum qui cum ipso bibere nollent.__
 At another time, being in company where a woman, by way of discourse,
 spoke of the power and omnipotency of Almighty God, he returned this accursed language,
-worse than that of the devil himself.
-Matt.
-iv. '`God damn ye, go to the top of yonder tree,
+worse than that of the devil himself, Matt. 4. "`God damn ye,
+go to the top of yonder tree,
 and see if God Almighty can save you from breaking
-your neck before you come to the bottom.`'
+your neck before you come to the bottom.`"
 Other devilish language he spoke, I pass by with silence.
 When once a person was brought before him for not appearing in arms, and told him,
-he could not do so for conscience-sake, he returned, '`God damn your conscience;
+he could not do so for conscience-sake, he returned, "`God damn your conscience;
 if I cannot make your conscience bow,
-I will make your stubborn dog`'s back bend,`' and so tied him neck and heels
+I will make your stubborn dog`'s back bend,`" and so tied him neck and heels
 with his own hands so violently that he almost deprived the man of life.
 He also once, when a declaration of war was published in the island, said,
 that the first time any enemy appeared, he would hang up the Quakers,
@@ -147,19 +147,22 @@ and I do declare that all the sins that I have been guilty of besides,
 which are very many, do not trouble or lie so heavy upon my conscience,
 as those my doings to that people;
 and do believe that no man will ever be blessed or prosper,
-that practices such things against that people.
+that practises such things against that people.
 In witness whereof I have hereunto set my hand, this tenth day of May, 1679.
 
 [.signed-section-signature]
 John Batt, Jun.
 
 [.signed-section-signature]
-Witness William Howard, Antrobus.
+William Howard, _Witness_
+
+[.signed-section-context-close]
+Antrobus.
 
 --
 
 Well had others done, if they had taken example by it;
-but it was not in vain that our Savior in the parable of the rich man and Lazarus,
+but it was not in vain that our Saviour in the parable of the rich man and Lazarus,
 made Abraham say to the rich man, "`If they hear not Moses and the prophets,
 neither will they be persuaded though one rose from the dead.`"
 But other persecutors took no caution by this penitent John Batt;
@@ -199,8 +202,8 @@ he, as rejoicing at it, said it should be so yearly, so long as he was magistrat
 But he did not live a year after.
 
 He was of a fierce temper, and very ready to put negroes to death for example, saying,
-'`What is it for Barbados to put twenty or thirty
-negroes to death yearly for example sake?`'
+"`What is it for Barbados to put twenty or thirty
+negroes to death yearly for example sake?`"
 And as he vexed the Quakers many ways,
 so he showed his grudge also by taking the meat they bought and paid for; nay,
 so malicious he was,
@@ -219,7 +222,7 @@ I have finished my course, I have kept the faith:
 henceforth there is laid up for me a crown of righteousness.`"
 And in this sermon it was declared of him,
 that he had attained to the prudence of a judge, the dignity of a colonel,
-and the honor of a counsellor; and that he had served his king and country faithfully,
+and the honour of a counsellor; and that he had served his king and country faithfully,
 and died a saint.
 This last expression seemed to regard some repentance he had showed; but whatever it was,
 we must commit that to God; and in the meanwhile not rely too much on such a repentance:
@@ -240,16 +243,16 @@ he was the principal promoter of it: insomuch that in the beginning of the year 
 it was enacted by the king and parliament,
 that the solemn affirmation and declaration of the people called
 Quakers shall be accepted instead of an oath in the usual form,
-as appears by the act, which was as follows:
+as appears by the act, which was as followeth:
 
 [.embedded-content-document.legal]
 --
 
 [.blurb]
-=== An Act that the solemn Affirmation and Declaration of the people called Quakers, shall be accepted instead of an Oath in the usual form.
+=== An Act that the Solemn Affirmation and Declaration of the People Called Quakers, Shall be Accepted Instead of an Oath in the Usual Form.
 
 Whereas divers dissenters, commonly called Quakers,
-refusing to lake an oath in courts of justice, and other places,
+refusing to take an oath in courts of justice, and other places,
 are frequently imprisoned,
 and their estates sequestered by process of contempt issuing out of such courts,
 to the ruin of themselves and families; for remedy thereof,
@@ -280,14 +283,15 @@ where by law an oath is required, within this kingdom of England, dominion of Wa
 or town of Berwick-upon-Tweed, as if such Quaker had taken an oath in the usual form.
 
 [.numbered]
-III. And be it further enacted by the authority aforesaid, that if any Quaker,
+III.
+And be it further enacted by the authority aforesaid, that if any Quaker,
 making such solemn affirmation or declaration, shall be lawfully convicted, willfully,
 falsely, and corruptly, to have affirmed or declared any matter or thing,
 which if the same had been in the usual form,
 would have amounted to wilful and corrupt perjury,
 every such Quaker so offending shall incur the same penalties and
 forfeitures as by the laws and statutes of this realm are enacted
-against persons convicted of willful and corrupt perjury.
+against persons convicted of wilful and corrupt perjury.
 
 [.numbered]
 IV. And whereas by reason of a pretended scruple of conscience,
@@ -332,7 +336,7 @@ and shall also proceed to give such costs against the appellant,
 to be levied by distress and sale of the goods and chattels of
 the said appellant as to them shall seem just and reasonable:
 and no proceedings or judgment had or to be had by virtue of this
-act shall be removed or superseded by any _writ of certiorari_ or
+act shall be removed or superseded by any writ of _certiorari_ or
 other writ out of his majesty`'s courts at Westminster,
 or any other court whatsoever, unless the title of such tithes shall be in question.
 
@@ -348,7 +352,8 @@ or serve on any juries, or bear any office or place of profit in the government;
 any thing in this act contained to the contrary in any wise notwithstanding.
 
 [.numbered]
-VII. Provided, that this act shall continue in force for the space of seven years,
+VII.
+Provided, that this act shall continue in force for the space of seven years,
 and from thence to the end of the next session of parliament, and no longer.
 
 ====
@@ -370,7 +375,7 @@ so there were among these also many of the vulgar sort,
 who generally are fickle and unsteady, and often inclined to novelties:
 though Keith would as yet in some respect be looked upon as an adherent of the Quakers,
 he also had published some papers,
-wherein he endeavored to make it appear that they held several heterodox sentiments.
+wherein he endeavoured to make it appear that they held several heterodox sentiments.
 
 The books which he had published concerning this
 matter were so fully answered by the Quakers,
@@ -396,14 +401,14 @@ disaffected persons might not have got together,
 and caused a dangerous disturbance.
 And therefore, they declined to appear there,
 and gave the following reasons of their refusal,
-which were read in the appointed meeting, and afterwards published in print;
+which were read in the appointed meeting, and afterwards published in print:
 
-[.embedded-content-document.paper]
+[.embedded-content-document]
 --
 
 Whereas, G. Keith hath, after his wonted irregular and unruly manner,
 challenged divers of us to defend ourselves against such
-charges as he has to exhibit against us at Turner`'s hall:
+charges as he has to exhibit against us at Turner`'s-hall:
 these are to certify all whom it may concern,
 that the reasons why we decline any such meeting are as follow:
 
@@ -413,7 +418,7 @@ that the reasons why we decline any such meeting are as follow:
 [.numbered]
 _First._
 Because the said G. Keith hath given us such frequent
-proofs of his very passionate and abusive behavior,
+proofs of his very passionate and abusive behaviour,
 at the many more select meetings we have had with him, in all manner of sweetness,
 long-suffering and patience, on our side,
 to satisfy and preserve him from these extremes:
@@ -424,7 +429,7 @@ or that the meeting can have any desirable success, for a thorough information.
 _Secondly._
 We decline to meet, because it is not an agreed meeting on both sides,
 which it ought to have been, and where that is not, or cannot be adjusted,
-the press is the next fairway and expedient, which he has begun with,
+the press is the next fair way and expedient, which he has begun with,
 and now seems to decline;
 nor hath he sent us a copy of his charge or indictment against us,
 which also he ought to have done.
@@ -432,7 +437,7 @@ which also he ought to have done.
 [.numbered]
 _Thirdly._
 That he has two of our books which lie hard at his door,
-m vindication of us and our doctrines from his exceptions,
+in vindication of us and our doctrines from his exceptions,
 and which he has not yet answered; so that he is not upon equal terms with us;
 and therefore we think his challenge, appointment, and summons, unfair;
 and that all that are not partial will be of the same mind with us.
@@ -473,9 +478,9 @@ so that we may say they are in ill hands: and if he proceeds as he begins,
 they will be employed to an ill end, which his, poor man! cannot but be,
 unless he change his course; which we heartily pray for,
 that a place of repentance he may find; and through a true contrition,
-the remission of his great sin of envy, and evilly entreating the Lord`'s people, and way,
-which we profess, and which he the said G. Keith, hath long and lately both professed,
-and zealously vindicated as such.
+the remission of his great sin of envy, and evilly entreating the Lord`'s people,
+and way, which we profess, and which he the said G. Keith,
+hath long and lately both professed, and zealously vindicated as such.
 
 ====
 
@@ -484,7 +489,7 @@ and zealously vindicated as such.
 These reasons the Quakers, as hath been said, published in print, to show the world,
 that it was not without a weighty cause, that they did not accept G. Keith`'s summons.
 Now though G. Whitehead, and W. Penn,
-for the abovesaid reasons did not appear in Turner`'s hall,
+for the abovesaid reasons did not appear in Turner`'s-hall,
 yet some of their friends were there as spectators,
 to see what would be the issue of the business.
 G+++.+++ Keith seeing himself thus disappointed in his intention,
@@ -494,13 +499,13 @@ and he was applauded by the frequent shoutings of the mob that was there in grea
 After the reasons of non-appearance were read,
 Keith signified that they were not satisfactory, by calling them slender, weak,
 and frivolous.
-'`What,`' said he, '`may a malefactor make this excuse;
+"`What,`" said he, "`may a malefactor make this excuse;
 You shall not call me before a justice without my consent?
 If a man robs me, I may complain of him as a robber,
 and without his consent call him to account.
 But here is a strange thing:
 if injuring men may not be called to account without their consent,
-it will trespass against the law, and intrenches upon liberty of conscience.`'
+it will trespass against the law, and intrenches upon liberty of conscience.`"
 This reason he published in print, in his narrative of that day`'s work:
 but who would formerly ever have thought, that such a little man as he was,
 would have been so big.
@@ -515,31 +520,34 @@ It is probable that he was supported by some great churchmen,
 otherwise such a bold action might easily have turned to his disadvantage.
 
 My limits do not admit of a circumstantial relation
-of what wag transacted at that time in Turner`'s-hall;
+of what was transacted at that time in Turner`'s-hall;
 yet to show briefly how he treated matters, I will produce one or two instances,
-by which my reader may know,__ ut ex ungue leonem,__^
+by which my reader may know, __ut ex ungue leonem,__^
 footnote:[As of a lion by his claw.]
 and so judge of the rest.
 He said he would charge the Quakers with nothing
 but what he would prove from their own writings,
 and he went on thus:
-'`I offer to prove that G. Whitehead hath denied Christ both to be God and man.`'
+"`I offer to prove that G. Whitehead hath denied Christ both to be God and man.`"
 A strange thing indeed,
 since it was very well known that G. Whitehead had
 published a book of above twenty sheets,
-under this title, [.book-title]#The Divinity of Christ, and Unity of the Three That Bear Record in Heaven, with the Blessed End and Effect of Christ`'s Appearance, Coming in the Flesh, Sufferings, and Sacrifice for Sinners, Confessed and Vindicated by His Followers Called Quakers.#
+under this title, [.book-title]#The Divinity of Christ,
+and Unity of the Three that Bear Record in Heaven,
+with the Blessed End and Effect of Christ`'s Appearance, Coming in the Flesh, Sufferings,
+and Sacrifice for Sinners, Confessed and Vindicated by his Followers called Quakers.#
 This book G. Keith could not pretend ignorance of,
 for he picked somewhat out of it in his narrative: but to maintain his charge,
-he appealed to a book of G. Whitehead`'s, called, [.book-title]#The Light and Life of Christ Within.#
+he appealed to a book of G. Whitehead`'s, called, [.book-title]#The Light and Life of Christ within.#
 This book G. Whitehead had written in answer to W. Burnet, a Baptist preacher,
-who writing of Christ, said.
-As he was God, he was Co-Creator with the Father, and so was before Abraham,
-and had Glory with God before the world was, and in this sense came down from heaven.
-To which G. Whitehead answered, '`What nonsense and unscripture-like language is this,
+who writing of Christ, said, As he was God, he was Co-Creator with the Father,
+and so was before Abraham, and had Glory with God before the world was,
+and in this sense came down from heaven.
+To which G. Whitehead answered, "`What nonsense and unscripture-like language is this,
 to tell of God being Co-Creator with the Father?
 Or that God had glory with God?
 Doth not this imply two gods, and that God had a father?
-Let the reader judge.`'
+Let the reader judge.`"
 Certainly it appears from this plainly, that G. Whitehead did not intend any thing else,
 but to censure the unscriptural expressions of his antagonist, as Co-Creator,
 and implying two gods: for not only the apostle saith, God is One,
@@ -551,61 +559,60 @@ and believe all that is recorded of him in the holy scripture.
 This he strove to prove from a passage taken out of the aforementioned book,
 which in sense agreed with the former; and speaking in another page of the same matter,
 viz. The Baptists calling God the Word, Co-Creator with the Father,
-G+++.+++ Whitehead answers thus to it: '`To tell of the Word God Co-Creator with the Father,
+G+++.+++ Whitehead answers thus to it: "`To tell of the Word God Co-Creator with the Father,
 is all one as to tell of God being Co-Creator with God, if the Father be God;
 and this is to make two gods and two creators:
-for God Co-Creator with the Father plainly implies two.
+for God Co-Creator with the Father plainly implies two.`"
 Was this showing of others their absurd expressions, a denial that Christ was God,
 as Keith would have it?
 Might it not be asked here, whether the acute wit of Keith was now altogether flown away?
 But a great part of his auditory consisted of an ignorant crew,
-and one or other of them was continually heard to cry out.
-It is sufficient.
+and one or other of them was continually heard to cry out, It is sufficient.
 
 Now to prove that G. Whitehead had denied Christ to be man,
-Keith cited from the aforementioned book,
-called [.book-title]#The Divinity of Christ,# etc. these words,
-If the body and soul of the Son of God were both created,
-doth not this render him a fourth person?
-Here Keith stopped, and broke of with an etc. without adding the following words;
-'`For creation was in time, which contradicts the doctrine of three distinct, uncreated,
-co-eternal, co-essential persons in the Deity, seeing that which was created was not so.`'
+Keith cited from the forementioned book, called [.book-title]#The Divinity of Christ#, etc. these words, "`If the body and soul of the Son of God were both created,
+doth not this render him a fourth person?`"
+Here Keith stopped, and broke off with an etc. without adding the following words;
+"`For creation was in time, which contradicts the doctrine of three distinct, uncreated,
+co-eternal, co-essential persons in the Deity,
+seeing that which was created was not so.`"
 This G. Whitehead asked and said, to show his opponent, T. Danson,
 the absurdity of his assertions about the personalities of the Deity.
 But Keith went on, reading from G. Whitehead`'s book thus:
-'`Where doth the Scripture say that his soul was created?
+"`Where doth the Scripture say that his soul was created?
 For was not he the brightness of the Father`'s glory,
-and the express image of his divine substance.
-But supposing the soul of Christ was with the body created in time,`' etc.
-Here Keith broke off again, omitting the following words: '`I ask,
+and the express image of his divine substance?
+But supposing the soul of Christ was with the body created in time,`" etc.
+Here Keith broke off again, omitting the following words: "`I ask,
 if from eternity he was a person distinct from God and his holy Spirit,
 without either soul or body?
 Where doth the Scripture speak of any person without either soul or body?
-Let us have plain Scripture.`'
+Let us have plain Scripture.`"
 
 Now though G. Whitehead had written this to show,
 how we often enter into inextricable straits,
 when we do not keep to the words of the holy Scripture,
 which no where speaks of three persons in the Deity;
 yet Keith perverting the passage abusively, said to his auditory,
-'`Here ye see he will not own that Christ had a created soul.`'
+"`Here ye see he will not own that Christ had a created soul.`"
 At this rate, and after this manner, Keith reasoned, and treated the other passages.
-But how smartly would he have carped at others, if they had cited his
-words thus piecemeal.
+But how smartly would he have carped at others,
+if they had cited his words thus piecemeal.
 
 But now he had a temporal reward in this view, and seeing for that end,
-he began more and more to declare himself in favor of the episcopal church;
+he began more and more to declare himself in favour of the episcopal church;
 somebody of that persuasion,
 who did not further make himself known than by these initial letters,
 W+++.+++ C. made it his business to show the changeableness of Keith`'s opinion and sentiments,
 from his own writings, which he had published in print; and thereby evidently proved,
 that in every respect Keith was turned an apostate,
 though he appeared much offended at the Quakers, because they had called him so.
-'`But,`' said this author, '`if the Presbyterian principles,
+"`But,`" said this author, "`if the Presbyterian principles,
 of which society Keith once was a member, were better than the Quakers,
 then is Mr. Keith an apostate, in revolting from, and deserting the Presbyterians,
 and turning his coat Quaker-fashion.
-But if the Quakers were more in the right than the Presbyterians, then __e contra.__`"
+// lint-disable invalid-characters "è", "á"
+But if the Quakers were more in the right than the Presbyterians, then _è contrá._`"
 
 Now he appeared to fawn on the episcopal clergy,
 and esteemed lawful what formerly he had zealously oppugned.
@@ -617,33 +624,33 @@ they made use of other means as much as possibly they could,
 to render them and their doctrine odious; for which Keith seemed to them no unfit tool;
 for he being both of a witty impetuous temper, was also crafty, subtle, cunning,
 and violent in his expressions.
-And to charge the Quakers with unorthodoxy,
-he himself launched out into a heterodox sentiment.
+And to charge the Quakers with inorthodoxy,
+he himself launched out into an heterodox sentiment.
 For it was believed, that for maintaining this position,
 that the historical knowledge of Christ`'s sufferings, death, resurrection,
 etc. was absolutely necessary for salvation,
 he had no other ground than the twelve pretended transmigrations
 or transitions of man`'s soul from one body into another;
 and because the ignorant souls from hence seemed to get opportunity of being informed,
-before the end of the world, concerning the death and resurrection of our Savior.
+before the end of the world, concerning the death and resurrection of our Saviour.
 Who would have imagined before that this same G. Keith should
-have accused the Quakers of unorthodoxy in point of doctrine,
+have accused the Quakers of inorthodoxy in point of doctrine,
 which he had often so effectually defended; and among the rest,
 in a book against one Cotton Mather,
 wherein upon the charge of their being guilty of many heresies and blasphemies,
 he said after this manner;
-'`Our principles do mostly agree with the fundamental
+"`Our principles do mostly agree with the fundamental
 articles of the Christian Protestant faith.
 According to my best knowledge of the people called Quakers,
 and those owned by them as preachers and publishers of their belief,
-being of an unquestionable esteem among them, and worthy of double honor,
+being of an unquestionable esteem among them, and worthy of double honour,
 as there are many such,
 I know none of them that are guilty of such heresies
 and blasphemies as they are charged with.
 And I think I should know, and do know those called Quakers,
 having been conversant with them in public meetings as well as in private discourses,
 with the most noted and esteemed among them, for about twenty years past,
-and that in many places of the world, both in Europe and America.`'
+and that in many places of the world, both in Europe and America.`"
 Who would ever have thought then,
 that one who had conversed so many years with the Quakers, preached their doctrine,
 and defended it publicly both by writing and by word of mouth,
@@ -652,29 +659,29 @@ as deniers of the most essential points of the Christian faith?
 But to what extravagancies may not temporal gain transport a man,
 the case of Balaam may serve for an evidence.
 
-I have in all this relation of Keith`'s behavior,
+I have in all this relation of Keith`'s behaviour,
 set down nothing but what I believe to be really true;
-neither have I endeavored to aggravate his failures; for I never bore him ill-will,
+neither have I endeavoured to aggravate his failures; for I never bore him ill-will,
 but a good esteem when I believed him to be upright,
 because in that time I perceived in him some good abilities.
 And I yet wish from my very heart, that it may please God, in his unsearchable mercy,
 so to touch his heart, before the door of grace be shut,
 that seeing the greatness of his transgression, he may by true repentance,
 obtain forgiveness from the Lord, of his evil; which I take to be worse,
-because by his craftiness he endeavored to set false
-colors on things that were really good,
-thereby to insinuate himself into favor with the episcopal party.^
+because by his craftiness he endeavoured to set false
+colours on things that were really good,
+thereby to insinuate himself into favour with the episcopal party.^
 footnote:[N. B. This was written some years before I heard G. Keith was deceased.]
 And since some others suborned thereto did no omit also to render the Quakers odious,
-as such that held unorthodox sentiments, these did not neglect to show in print,
+as such that held inorthodox sentiments, these did not neglect to show in print,
 how they were injured and wronged.
 For now the old tale, that there were Popish emissaries among them,
 was revived and divulged anew.
 But it was no hard matter for them to show how ill-grounded this conceit was;
-and therefore they might say,`' We are so well known to our neighbors,
+and therefore they might say, "`We are so well known to our neighbours,
 that if this were true,
 our adversaries would be very active to find out and discover such emissaries,
-since the law against them is still in force.`'
+since the law against them is still in force.`"
 Three episcopal clergymen in Norfolk,
 had also drawn up a paper to the king and parliament,
 to blacken the Quakers from their own writings; but George Whitehead, William Penn,
@@ -695,34 +702,34 @@ Whereas, there has been a horrible and detestable conspiracy,
 formed and carried on by Papists,
 and other wicked and traitorous persons for assassinating his majesty`'s royal person,
 in order to encourage an invasion from France, to subvert our religion, laws,
-and liberties, "`we whose names are hereunto subscribed, do heartily, sincerely,
+and liberties, we whose names are hereunto subscribed, do heartily, sincerely,
 and solemnly promise, testify, and declare, that his present majesty king William,
 is rightful and lawful king of these realms.
 And we do mutually promise and engage to stand by and assist each other,
 to the utmost of our power,
-in the support and defense of his majesty`'s most sacred person and government,
+in the support and defence of his majesty`'s most sacred person and government,
 against the late king James, and all his adherents.
 And in case his majesty come to any violent and untimely death, which God forbid,
 we do hereby further freely and unanimously oblige ourselves to unite, associate,
 and stand by each other, in revenging the same upon his enemies and their adherents,
 and in supporting and defending the succession of the crown,
 according to an act made in the first year of the reign of king William and queen Mary,
-entitled, '`An Act declaring the Rights and Liberties of the Subjects,
-and settling the succession of the Crown.`'
+entitled, "`An Act Declaring the Rights and Liberties of the Subjects,
+and Settling the Succession of the Crown.`"
 
 --
 
 An association was also signed by the lords, and both presented to the king,
 and were followed by all the corporations in England.
-See [.book-title]#Life of king William, Vol.
+See [.book-title]#Life of king William, vol.
 III.# The dissenters also presented declarations to the king,
 that had some resemblance with the other.
-But the Quakers professing non-resistance, and an inoffensive behavior,
+But the Quakers professing non-resistance, and an inoffensive behaviour,
 could in no wise enter into such a league;
 yet to show that they were loyal and faithful to the king,
 they drew up the following declaration, and published it in print:
 
-[.embedded-content-document.address]
+[.embedded-content-document]
 --
 
 [.blurb]
@@ -763,12 +770,12 @@ for which we, and the whole nation, have great cause to be humbly thankful to hi
 and to pray for the continuance of his mercies to them and us.
 
 [.signed-section-context-close]
-From a meeting of the said people in London, the 23d of the first month, called March,
-1669.
+From a meeting of the said people in London, the 23rd of the first month, called March,
+1695-6.
 
 --
 
-In this year Roger Haddock died of a fever, at his house in Penketh, in Lancashire,
+In this year Roger Haydock died of a fever, at his house in Penketh, in Lancashire,
 about the age of fifty-three years.
 He had been in Holland the year before,
 in which time I had more than once opportunity to speak with him privately,
@@ -776,16 +783,20 @@ and thereby discovered such Christian qualities in him, that were indeed excelle
 therefore the news of his decease did much affect me; and because of his ministry,
 in which he was eminent, being more than ordinary full of matter in his preaching,
 his death was much lamented among those churches
-in England where he had labored most in the gospel.
-His wife Eleanor, in her testimony concerning him, said, '`My spirit hath been,
-and is bowed under a deep sense of my great loss and exercise,
+in England where he had laboured most in the gospel.
+His wife Eleanor, in her testimony concerning him, said,
+
+[.embedded-content-document.testimony]
+--
+
+My spirit hath been, and is bowed under a deep sense of my great loss and exercise,
 in the removal of my dear husband,
 whom it hath pleased God in his wisdom to take away from me, who was comfort to my life,
 and joy to my days in this world, being given me of God,
 in great mercy and lovingkindness;
 and so he hath been enjoyed by me in thankfulness of heart,
 to the close of that time God had appointed; and now is taken from the world,
-with all its troubles and exercises, as also from all his labors and travels,
+with all its troubles and exercises, as also from all his labours and travels,
 which were great amongst the churches of Christ,
 which with me have no small loss in his removal.
 But what shall I say: wise and good is the Lord,
@@ -793,17 +804,23 @@ who doth what he will in heaven and in earth, and amongst his churches and his c
 He can break and bind up, wound and heal, kill and make alive again,
 that the living may see his wonders, and magnify his power in all, through all,
 and over all, who is God eternal, blessed forever.
-Amen.`'
+Amen.
+
+--
 
 Then in her testimony she gives an account of his life,
 and how in her young years he had been to her a faithful instructor in godliness,
 and at length became her husband.
 After a description of his life, and his many travels in the ministry of the gospel,
 to edify and build up the churches, she saith also,
-that though his love to her was above all visible,
+that though his love to her was above all visibles,
 as the best of enjoyments he had in this world,
 yet she was not too dear to him to give up to serve the truth of God.
-'`I was made,`' said she '`a blessing to him, more comfortable every day than other:
+
+[.embedded-content-document.testimony]
+--
+
+I was made (said she,) a blessing to him, more comfortable every day than other:
 he would often express it; and truly so was he to me every day, every way,
 and in every respect.
 No tongue nor pen can relate the full of that comfort
@@ -826,21 +843,31 @@ that I may finish my course in this world to the glory of God, as he did,
 and have my part in that mansion of glory with him eternal in the heavens;
 though it may be my lot to stay for a time in this world of troubles,
 yet I have hope in immortality and eternal blessedness,
-when time in this world shall be no more.`'
+when time in this world shall be no more.
+
+--
+
 Thus she wrote: but to shun prolixity, I break off.
 She then giving some account of his life and ministry, mentions,
 that being gone from home, she was not present at his death;
 but that they having taken leave of each other before, had parted in great love,
 with mutual breathings to God, for one another`'s welfare;
-and she concludes with these words: '`Though I saw not his going away,
-yet I have seen in what he went,
+and she concludes with these words:
+
+[.embedded-content-document.testimony]
+--
+
+Though I saw not his going away, yet I have seen in what he went,
 and that it was full of zeal and fervency in the love of God, and life of righteousness.
 So in pure submission to the will of God,
 I conclude this short and true relation of my worthy dear husband,
 whose name and memory is blessed, and will live,
-and be of a sweet savor in the hearts of the righteous through ages.`'
+and be of a sweet savour in the hearts of the righteous through ages.
+
+--
+
 With such a testimony it was,
-that Eleanor transmitted the memorial of her beloved consort to posterity.
+that Eleanor transmitted the memorial of her beloved consort to posterity.1697.
 
 Meeting in this year with no more remarkable occurrences, I pass over to 1697,
 in which a treaty of peace was concluded between England, France, and Holland,
@@ -850,52 +877,48 @@ of which this artificial distich,
 sent over by a clergyman from Ghent in Flanders to Holland,
 so that it fell first into my hands, was an evidence:
 
-[quote]
-____
-_Prospicimus modo quod durabunt Foedera longo_
-_Tempore, nec nobis pax cito diffugiet:_
-____
+// lint-disable invalid-characters "ó", "œ"
+__Prospicimus modó quod durabunt Fœdera longo
+// lint-disable invalid-characters "ô"
+Tempore, nec nobis pax citô diffugiet:__
 
-Which may be turned into English thus,
-'`We foresee now that the confederacy shall last a long time,
-and that peace will not quickly fly away from us.`'
+which may be turned into English thus,
+"`We foresee now that the confederacy shall last a long time,
+and that peace will not quickly fly away from us.`"
 But if one reads this distich, backward, it runs thus:
 
-[quote]
-____
-_Diffugiet cito pax nobis, nee tempore longo_
-_Foedera durabunt, quod modo prospicimus:_
-____
+// lint-disable invalid-characters "ô"
+__Diffugiet citô pax nobis, nec tempore longo
+// lint-disable invalid-characters "ó", "œ"
+Fœdera durabunt, quod modó prospicimus:__
 
-And it makes out a quite contrary sense, viz. '`Peace will soon fly from us,
-and the covenant shall not last long; which we foresee already,`'
+and it makes out a quite contrary sense, viz. "`Peace will soon fly from us,
+and the covenant shall not last long; which we foresee already.`"
 
 This peace being concluded,
 the inhabitants of England vied with one another
 to congratulate their king on that account,
-who was now acknowledged as king of Great Britain, thy the French king Lewis XIV.
+who was now acknowledged as king of Great Britain, by the French king Lewis XIV.
 And since the magistrates of cities, the heads and fellows of the universities,
 and people of all societies and persuasions addressed the king,
 the Quakers were not wanting in this respect, and therefore drew up also an address,
-which they presented to the king, and was as follows:
+which they presented to the king, and was as followeth:
 
 [.embedded-content-document.address]
 --
 
-[.letter-heading]
-To King William III.
-over England, etc.
-
-The grateful acknowledgment of the people commonly called Quakers, humbly presented:
+[.blurb]
+=== To King William III. over England, etc. The grateful acknowledgment of the people commonly called Quakers, humbly presented:
 
 [.salutation]
 May it please the King,
 
-Seeing the most high God, who rules in the kingdoms of men,
-and appoints over them whomsoever he will, hath, by his overruling power and providence,
+Seeing the most high God, who ruleth in the kingdoms of men,
+and appointeth over them whomsoever he will, hath,
+by his overruling power and providence,
 placed thee in dominion and dignity over these realms;
-and by his divine favor hath signally preserved and
-delivered thee from many great and eminent dangers,
+and by his divine favour hath signally preserved
+and delivered thee from many great and eminent dangers,
 and graciously turned the calamity of war into the desired mercy of peace;
 we heartily wish that we and all others concerned may be truly
 sensible and humbly thankful to Almighty God for the same,
@@ -905,10 +928,10 @@ And now, O king, the God of peace having returned thee in safety,
 it is cause of joy to them that fear him,
 to hear thy good and reasonable resolution effectually
 to discourage profaneness and immorality,
-righteousness being that which exalts a nation:
+righteousness being that which exalteth a nation:
 and as the king has been tenderly inclined to give ease and liberty
 of conscience to his subjects of different persuasions,
-(of whose favors we have largely partaken,) so we esteem it our
+(of whose favours we have largely partaken,) so we esteem it our
 duty gratefully to commemorate and acknowledge the same:
 earnestly beseeching Almighty God to assist the king
 to prosecute all these his just and good inclinations,
@@ -922,7 +945,7 @@ London, the 7th of the 11th Month, called January, 1697.
 
 This address being signed, and presented to the king by George Whitehead, Thomas Lower,
 Daniel Quare, John Vaughton, John Edge, and Gilbert Latey,
-was favorably received and accepted by that prince;
+was favourably received and accepted by that prince;
 who gave signal proofs that he bore no ill will to
 any for difference of opinion in religion,
 if they were honest people; of which this may serve for an evidence,
@@ -934,15 +957,15 @@ that a bill was brought into parliament, for restraining the licentiousness of t
 Those called Quakers, perceiving that this might be pernicious,
 drew up the following remarks, which they delivered to the members of parliament:
 
-[.embedded-content-document.address]
+[.embedded-content-document]
 --
 
 [.blurb]
 === Some considerations humbly offered by the people called Quakers, relating to the bill for restraining the licentiousness of the press.
 
-This bill is, they conceive, of the like nature with the expired act,
-13 and 14 Car. 11. ch. 33,
-and many inconveniences did attend the subjects by it whilst in force,
+This bill is, they conceive, of the like nature with the expired act, 13 and 14 Car.
+II. ch.
+33, and many inconveniences did attend the subjects by it whilst in force,
 by which the said people were sufferers.
 
 To prevent the printing and publishing of seditious
@@ -958,7 +981,8 @@ or reject what he shall construe to be either heretical, seditious, or offensive
 History and experience have taught how the obscure term of heresy
 hath been turned and stretched against primitive Christian martyrs,
 and famous reformers:
-nor is it forgotten for what reason the writ De Haeretico Comburendo was abolished.
+// lint-disable invalid-characters "æ"
+nor is it forgotten for what reason the writ _De Hæretico Comburendo_ was abolished.
 
 It is no strange thing to have learned men of the same church interfere
 in their opinions concerning several texts of holy scripture;
@@ -973,7 +997,7 @@ prejudice, or mistake of others,
 without being subjected to the censure of a licenser of a different persuasion.
 
 They therefore humbly hope that nothing may be enacted that will lessen the toleration,
-which they thankfully enjoy under the favor of this, as well as the late government.
+which they thankfully enjoy under the favour of this, as well as the late government.
 
 --
 
@@ -984,7 +1008,7 @@ About this time the writings of Antonia Bourignon were not only translated into 
 but also published in print at London.
 This displeased many of the clergy, and an author was employed to write against them,
 but chiefly against the Quakers.
-He called his book, [.book-title]#The Snake in the Grass#; but his own name he concealed;
+He called his book, [.book-title]#The Snake in the Grass;# but his own name he concealed;
 though it was discovered afterwards that he was a suppressed parson,
 who had refused the oath of allegiance to king William.
 This man, to render the Quakers odious,
@@ -996,28 +1020,27 @@ To this he added relations of several things that happened, as he said, among th
 Whereas, some of these were fictitious, and mere untruths;
 he also raked up things that never had been approved by the Quakers,
 as the case of James Nayler, described here before in its due place;
-notwithstanding the said James Nayler had publicly
-given eminent tokens of true repentance.
+notwithstanding the said James Nayler had publicly given eminent tokens of true repentance.
 
 Among the author`'s untruths, this was one,
 that the Quakers in their schools did not suffer the children to read the holy Scriptures.
 The falseness of which was made to appear very evidently by a certificate
 of the French usher of one of their schools at Wandsworth,
 near London, who himself was no Quaker;
-as also by the testimonies of some of the neighbors that were people of note;
+as also by the testimonies of some of the neighbours that were people of note;
 and declared that the bible was daily read by the scholars in the said school,
 beginning with Genesis, and going on to the end of the Revelations:
 and then from Genesis again.
 The false citations of the aforesaid author, were also clearly set forth:
 for if any would be so malicious,
-it might by his method be insinuated from Ps. 14:1.
-and Ps. 53:1. that in the holy Scriptures was said,
-'`There is no God;`' because these words are indeed found there.
+it might by his method be insinuated from Ps. 14:1. and Ps. 53:1,
+that in the holy Scriptures was said,
+"`There is no God;`" because these words are indeed found there.
 But who would be so desperate as to draw such a conclusion from thence,
 unless he were an atheist, who openly made a mock of what is sacred.
-The answerers of this poisonous book,
-[.book-title]#The Snake in the Grass,# were George Whitehead and Joseph Wyeth;
-this being a work which required more toil and labor than art,
+The answerers of this poisonous book, [.book-title]#The Snake in the Grass,#
+were George Whitehead and Joseph Wyeth;
+this being a work which required more toil and labour than art,
 to review all those manifold citations from many authors,
 and to show the unfairness and disingenuity of [.book-title]#The Snake.#
 Now since many were very ready to take for true the falsities in that book,
@@ -1026,9 +1049,9 @@ who was gone over to the church of England, at the request of John Crook,
 who was still alive, though above eighty years of age, a book of his was reprinted,
 first published in the year 1663, and so five and thirty years before,
 the title of which was, [.book-title]#Truth`'s Principles Concerning the Man Christ, His Suffering,
-Death, Resurrection, Faith in his Blood, the Imputation of his Righteousness, etc.#
+Death, Resurrection, Faith in his Blood, the Imputation of his Righteousness,# etc.
 By this it appeared that the sentiments of the Quakers
-concerning these points w-ere not only orthodox now,
+concerning these points were not only orthodox now,
 but that they had been so in those early days.
 
 Having thus again made mention of John Crook,
@@ -1067,25 +1090,25 @@ viz. "`What fruit had you then in those things whereof you are now ashamed?
 For the end of those things is death.`"
 
 Therefore, dear children, be in love with holiness; make it your companion,
-and those that walk in it; you may find buddings of it from a holy seed in your hearts;
+and those that walk in it; you may find buddings of it from an holy seed in your hearts;
 as you mind the inner man, the light will manifest the stirrings of it after God,
 which I felt from my tender years;
 although I understood them not so plainly till I heard the truth declared.
 
 I advise you to keep a pure conscience, both towards God and man: for if that be defiled,
 hypocrisy and formality will deprive you of all comfortable feeling of God`'s presence;
-and then deadness and dryness "`will be your miserable portion.
+and then deadness and dryness will be your miserable portion.
 
 Be careful how you spend your precious time,
 for an account must be given of every idle word, though but few regard it;
-but foolish jesting and vain talking are said to grieve the spirit of God:
+but foolish jesting and vain talking are said to grieve the spirit of God;
 read Eph. 4:29-30. But improve your time in prayer and religious exercises,
 etc. and be diligent in your lawful callings; for,
-"`The desire of the slothful man kills him.`" Prov. 21:25.
+"`The desire of the slothful man killeth him.`" Prov. 21:25.
 
 Be careful what company you frequent;
 for a man is commonly known by the company he keeps, as much as by any one outward thing:
-and of your behavior in company; for I have found that a wise and sober deportment,
+and of your behaviour in company; for I have found that a wise and sober deportment,
 adds much to a man`'s reputation and credit in the world.
 
 Watch to the light, and its discoveries of good and evil,
@@ -1103,7 +1126,7 @@ in my inward retiring in silence, than from all words I have heard from others,
 though I have often been refreshed by them also.
 
 Love the Holy Scriptures, preferring them to all other books whatsoever;
-and be careful to read them with a holy awe upon your spirits,
+and be careful to read them with an holy awe upon your spirits,
 lest your imaginations put constructions upon them to your hurt;
 but exercise faith in the promise of Christ, who hath said,
 "`My spirit shall take of mine, and show them unto you.`"
@@ -1118,7 +1141,7 @@ after the words are ended.
 Love one another truly, manifesting your love by good counsel,
 and being helpful to each other upon all occasions;
 being good examples to all you converse with, especially to your children,
-and those of your own families; that pride and vanity may not be countenanced by you.
+and those of your own families; that pride and vanity may not be countenanced by you,
 but rather reproved; remembering while they are under your government,
 you must give an account of the discharge of your duty to God towards them.
 
@@ -1160,7 +1183,7 @@ though his pain was sometimes so violent, that he was often heard to say,
 that did he not feel and witness inward power from the Lord,
 he could not subsist under his great pains.
 That of the stone was the greatest, which continued with him to his end;
-and yet he was not heard to utter any unsavory word, or to cry out impatiently;
+and yet he was not heard to utter any unsavoury word, or to cry out impatiently;
 but when the extremity of his fits were over, then he expressed his inward joy and peace,
 and so praised the Lord.
 He had an excellent gift in opening the mysteries of the holy Scriptures,
@@ -1173,20 +1196,22 @@ was of good use to purge away the dross and earthly part in us.
 And under the sorrow and grief he had concerning some of his offspring,
 he would sometimes comfort himself with the words of David,
 "`Although my house be not so with God, yet he hath made with me an everlasting covenant,
-ordered in all things, and sure.`" In his old age he was many times heard to say,
-'`Many of the ancients are gone to their long home, and we are making haste after them:
+ordered in all things, and sure.`"
+In his old age he was many times heard to say,
+"`Many of the ancients are gone to their long home, and we are making haste after them:
 they step away before me, and I, that would go, cannot.
-Well, it will be my turn soon also.`'
+Well, it will be my turn soon also.`"
 And then he seemed to rejoice in the consideration, that the time of his dissolution,
 to be freed from his sore distempers, approached apace.
 Yet in the latter part of his life he often appeared so strong in the spiritual warfare,
 that some judged that in some respect he might have said with Caleb,
 "`As yet I am as strong this day, as I was in the day that Moses sent me;
 as my strength was then, even so is my strength now, for war, both to go out,
-and to come in.`" About three weeks before his death, though he was weak in body,
-yet he said powerfully, and after a prophetical manner, '`Truth must prosper,
-truth shall prosper, but a trying time must first come,
-and afterwards the glory of the Lord shall more and more appear.`'
+and to come in.`"
+About three weeks before his death, though he was weak in body, yet he said powerfully,
+and after a prophetical manner, "`Truth must prosper, truth shall prosper,
+but a trying time must first come,
+and afterwards the glory of the Lord shall more and more appear.`"
 He continued in a sedate and truly Christian frame
 of mind to the last period of his life,
 and departed the 26th of the month called April, in the eighty-second year of his age,
@@ -1195,7 +1220,7 @@ I knew him in England, and he hath also been in Holland,
 so that I do not speak of one that was unknown to me.
 
 George Keith, by vilifying the doctrine of the Quakers,
-was now so much in favor with the episcopal clergy,
+was now so much in favour with the episcopal clergy,
 that he began to serve them as a vicar;
 having been ordained by the bishop of London about the year 1700.
 And since this seemed strange and wonderful to many, somebody,
@@ -1203,8 +1228,7 @@ of what persuasion I do not know,
 made a collection of his sentiments concerning a national church, and its clergy,
 and what account he gave of their rites and ceremonies,
 from books and papers he had published many years before;
-to which the author gave this title,
-[.book-title]#Mr. George Keith`'s Account of a National Church and Clergy,
+to which the author gave this title, [.book-title]#Mr. George Keith`'s Account of a National Church and Clergy,
 Humbly Presented to the Bishop of London.#
 To this were added some queries he once wrote concerning
 what is called the sacrament of the Lord`'s supper.
@@ -1215,7 +1239,7 @@ I make myself a transgressor.`"
 In the next year, viz. 1701, the late king James died in France.
 I mentioned before how that unhappy prince, after having ascended the throne,
 fell suddenly by his hasty conduct, and ardent desire to introduce popery in England,
-and all his endeavors to regain his lost kingdoms proved ineffectual.
+and all his endeavours to regain his lost kingdoms proved ineffectual.
 In September, being at mass, he was seized with a qualm, and the distemper increasing,
 within a day or two he vomited blood, and all remedies made use of were unprofitable.
 If what was written about that time from Paris be true,
@@ -1230,28 +1254,25 @@ and for want of nearer Protestant heirs, then to the house of Hanover,
 the king was congratulated on that account with many addresses from his subjects:
 and therefore those called Quakers thought it also their duty to address him,
 against whose life a horrible plot was discovered,
-with a thankful acknowledgment of his favors.
-This they did as follows, it being presented to the king in December,
-by George Whitehead, William Mead, and Francis Camfield.
+with a thankful acknowledgment of his favours.
+This they did as followeth, it being presented to the king in December,
+by George Whitehead, Wm. Mead, and Francis Camfield.
 
 [.embedded-content-document.address]
 --
 
-[.letter-heading]
-To King William III.
-over England, etc.
-
-An Address from the people commonly called Quakers humbly presented:
+[.blurb]
+=== To King William III. over England, etc. An Address From the People Commonly Called Quakers Humbly Presented:
 
 [.salutation]
 May it please the King,
 
 We, thy dutiful subjects, sincerely express our joy for thy safe return to thy people;
-having great cause to love, honor, and pray for thee,
+having great cause to love, honour, and pray for thee,
 as a prince whom we believe God hath promoted and principled for the good ends of government,
-under whose reign we enjoy great mercies and favors;
+under whose reign we enjoy great mercies and favours;
 and particularly that of liberty to tender consciences in religious worship,
-as a proper expedient to unite thy Protestant subjects in interest and affection,
+as a proper expedient to unite thy Protestant subjects in interest and affection.
 
 For which great mercy we cannot but be humbly thankful to God;
 and renew our grateful acknowledgment to the king,
@@ -1277,11 +1298,11 @@ the 8th month, 1701.
 
 --
 
-This address being read to the king, was favorably received,
+This address being read to the king, was favourably received,
 and he thanked those that presented it.
 George Whitehead and the others saying what they thought material to the case,
-the king returned, '`I have protected you,
-and shall protect you:`' and repairing with the address to his closet,
+the king returned, "`I have protected you,
+and shall protect you:`" and repairing with the address to his closet,
 he read it over again, as was understood afterwards, and spoke in its commendation.
 But he keeping the paper some days by him,
 without giving it to be made public by the Gazetteer, some French news-writers,
@@ -1294,7 +1315,7 @@ but by such who were impudent enough publicly to make a mock of crowned heads,
 which the Quakers never have been guilty of.
 After a few days the king gave the address to be made public;
 and then every body could see how shamefully the
-French news-mongers had exposed their malice.
+French newsmongers had exposed their malice.
 
 This year being come to an end, that of 1702 followed,
 and also the end of king William`'s life.
@@ -1329,7 +1350,7 @@ for the term of seven years,
 granted for their affirmation to be accepted instead of an oath, was near expiring;
 and therefore they solicited the king and parliament that this act might be continued,
 and confirmed by a new one, which was obtained;
-for the king always showed himself willing to favor them as his peaceable subjects;
+for the king always showed himself willing to favour them as his peaceable subjects;
 and in parliament many eminent members were well affected towards them.
 Thereupon this renewed act,
 containing a prolongation of the said grant for the space of eleven years,
@@ -1381,9 +1402,9 @@ yet in general little blood was found in the body; but in the lungs,
 which adhered much to the pleura, was more than in all other parts;
 his heart was firm and strong; but some inflammations, on the left side of the lungs,
 was thought to have been the immediate cause of the king`'s death,
-for he had long been asthmatically.
+for he had long been asthmatical.
 
-He was of a middle statute; his face lean and oblong; his eyes were exceeding good,
+He was of a middle stature; his face lean and oblong; his eyes were exceeding good,
 quick, and piercing; his hands very fine and white; he did not talk much,
 but was solid in thought; of a strong memory, quick of apprehension, of a composed mind,
 and not given to voluptuousness, but grave in his deportment;
@@ -1393,7 +1414,7 @@ Thus he was valiant and undaunted without temerity;
 for where he judged his presence to be necessary, he repaired thither without fear.
 He was a great lover of hunting, that being his most pleasant diversion,
 which made him the more fit to endure the fatigues of war.
-He was easy of access, and gave a favorable hearing to every body,
+He was easy of access, and gave a favourable hearing to every body,
 and those that spoke to him he treated discreetly; and such was his devotion,
 that he often retired privately, when some thought he was about other business.
 Many had conceived hopes that this great prince, in that critical juncture,
@@ -1401,10 +1422,10 @@ would have lived yet somewhat longer: but his work was done;
 and God hath since that time showed very eminently,
 that he is not limited to any instruments; and the queen who succeeded on the throne,
 gave afterwards signal proofs of it to the world.
-His corps was interred the 12th of the month called April, about midnight,
+His corpse was interred the 12th of the month called April, about midnight,
 in the chapel of king Henry the VIIth, in Westminster Abbey.
 
-It was by the favor of this king, a Hollander by birth, that the Quakers, so called,
+It was by the favour of this king, a Hollander by birth, that the Quakers, so called,
 were tolerated a free people;
 so that now they saw fulfilled the truth of what some of
 their deceased friends had prophetically foretold,
@@ -1451,8 +1472,8 @@ prison through the preaching of the gospel.
 But the priests and professors were in such a great rage,
 and made the rude and profane people in such fury,
 that I could hardly walk in the streets, or go in the highways,
-but they were ready ofttimes to do me a mischief But Christ,
-who hath all power in heaven and in the earth,
+but they were ready ofttimes to do me a mischief.
+But Christ, who hath all power in heaven and in the earth,
 did so restrain and limit them with his power, that my life was preserved;
 though many times I was near killed.
 
@@ -1475,7 +1496,7 @@ G+++.+++ F.
 G+++.+++ Fox then,
 having in England been the first of the Quakers that
 preached and proclaimed Christ the light,
-which enlightens every man coming into the world, had in a short time,
+which enlighteneth every man coming into the world, had in a short time,
 as we have seen in this history, notwithstanding all opposition, many adherents,
 whereby several others also began to publish that doctrine.
 And many of these first preachers were like sons of thunder;
@@ -1490,7 +1511,7 @@ and came to see that their covering was too short,
 and that they were not covered with the true wedding garment:
 and many that had been of a rude life,
 came to be so touched to the heart by these zealous preachers,
-that crying out what shall we do to be saved,
+that crying out what shall we do to be saved?
 they were brought to repentance and conversion; and so from wild and rough,
 came to be sedate and sober.
 And as in the beginning many of these first preachers did run on like a mighty stream,
@@ -1529,8 +1550,8 @@ Whatever I read in the Scriptures, as the way of God to my understanding,
 I gave myself to the faithful practice of; being contented to meet with all the reproach,
 opposition, and several kinds of sufferings,
 which it pleased the Lord to measure out to me therein; and I cannot but say,
-that the Lord was good unto me.
-did visit me, did teach me, and help me, did testify his acceptance of me many times,
+that the Lord was good unto me, did visit me, did teach me, and help me,
+did testify his acceptance of me many times,
 to the refreshing and joy of my heart before him.
 
 But my soul was not satisfied with what I met with, nor indeed could be,
@@ -1538,9 +1559,9 @@ there being further quickenings and pressings in my spirit, after a more full, c
 and satisfactory knowledge; even after the sense, sight and enjoyment of God,
 as was testified in the Scriptures to have been felt and enjoyed in the former times;
 for I saw plainly, that there was a stop of the streams,
-and a great falling short of the power, life, and glory,
-which they partook of We had not so the spirit, nor were so in the faith,
-nor did so walk and live in God, as they did.
+and a great falling short of the power, life, and glory, which they partook of.
+We had not so the spirit, nor were so in the faith, nor did so walk and live in God,
+as they did.
 They were come to Mount Zion and the heavenly Jerusalem,
 etc. which we had hardly so much as the literal knowledge or apprehension what they were.
 So that I saw the whole course of religion among us, was, for the most part, but a talk,
@@ -1608,11 +1629,11 @@ and words of truth, from the spirit of truth, reaching to my heart and conscienc
 opening my state as in the presence of the Lord.
 Yea, I did not only feel words and demonstrations from without,
 but I felt the dead quickened, the seed raised, insomuch as my heart,
-in the certainty of light and clearness of true sense, said, '`This is he, this is he,
+in the certainty of light and clearness of true sense, said, "`This is he, this is he,
 there is no other; this is he whom I have waited for and sought after from my childhood,
 who was always near me, and had often begotten life in my heart,
-but I knew him not distinctly, nor how to receive him, or dwell with him.`'
-And then in this sense in the melting and breaking of my spirit,
+but I knew him not distinctly, nor how to receive him, or dwell with him.`"
+And then in this sense in the melting and breakings of my spirit,
 was I given up to the Lord, to become his,
 both in waiting for the further revealings of his seed in me,
 and to serve him in the life and power of his seed.
@@ -1623,22 +1644,22 @@ I met with the very strength of hell.
 The cruel oppressor roared upon me, and made me feel the bitterness of his captivity,
 while he had any power; yea, the Lord was far from my help,
 and from the voice of my roaring.
-I also met with deep subtitles and devices to entangle me in that wisdom,
-which seems able to make wise in the things of God;
+I also met with deep subtilties and devices to entangle me in that wisdom,
+which seemeth able to make wise in the things of God;
 but indeed is foolishness and a snare to the soul, bringing it back into captivity,
 where the enemy`'s gins prevail.
 And what I met with outwardly from my own dear father, from my kindred, from my servants,
 from the people and powers of the world, for no other cause but fearing my God,
 worshipping him as he hath required of me, and bowing to his seed,
 (which is his Son,) who is to be worshipped by men and angels forevermore,
-the Lord my God knows, before whom my heart and way are,
+the Lord my God knoweth, before whom my heart and way are,
 who preserved me in love to them, in the midst of all I suffered from them,
 and doth still so preserve me, blessed be his pure and holy name.
 
 But some may desire to know what I have at last met with: I answer,
-'`I have met with the seed.`'
+"`I have met with the seed.`"
 Understand that word, and thou wilt be satisfied, and inquire no further.
-I have met with my God, I have met with my Savior;
+I have met with my God, I have met with my Saviour;
 and he hath not been present with me without his salvation;
 but I have felt the healing drop upon my soul from under his wings.
 I have met with the true knowledge, the knowledge of life, the living knowledge,
@@ -1655,7 +1676,7 @@ I have met with the true spirit of prayer and supplication,
 wherein the Lord is prevailed with,
 and which draws from him whatever the condition needs,
 the soul always looking up to him in the will,
-and in the tune and way which is acceptable with him.
+and in the time and way which is acceptable with him.
 What shall I say?
 I have met with the true peace, the true righteousness, the true holiness,
 the true rest of the soul, the everlasting habitation, which the redeemed dwell in.
@@ -1673,7 +1694,7 @@ The Lord hath broken the man`'s part in me, and I am a worm and no man before hi
 I have no strength to do any good or service for him; nay,
 I cannot watch over or preserve myself: I feel daily that I keep not alive my own soul,
 but am weaker before men, yea weaker in my spirit, as in myself, than ever I have been.
-But I cannot but utter to the praise of my God, that I feci his arm stretched out for me;
+But I cannot but utter to the praise of my God, that I feel his arm stretched out for me;
 and my weakness, which I feel in myself, is not my loss, but advantage, before him.
 And these things I write, as having no end at all therein of my own,
 but felt it this morning required of me, and so in submission and subjection to my God,
@@ -1683,7 +1704,7 @@ have I given up to do it, leaving the success and service of it with him.
 I+++.+++ Penington.
 
 [.signed-section-context-close]
-Aylesbury, 10th of 3d month, 1667.
+Aylesbury, 15th of 3rd month, 1667.
 
 --
 
@@ -1695,7 +1716,7 @@ yet certain it is, that men of refined wits, above all others,
 have need to continue truly humble, and not to rely thereon,
 since the trusting to acuteness of wit, hath rather drawn off many from the way of truth,
 than led them to it; nay, it hath occasioned the fall of some.
-But that I. Penington endeavored to continue in true humility,
+But that I. Penington endeavoured to continue in true humility,
 appears plainly from the relation above.
 He was a man of a very compassionate temper, and yet valiant in adversities:
 he also suffered not a little on the account of his religion,
@@ -1703,8 +1724,7 @@ but endured many tedious and long imprisonments; which were the more hard to him
 because he being of a weakly constitution, the suffering of cold and hardship,
 did him the more hurt.
 And yet he never fainted, but continued steadfast to the end of his life,
-which was in the latter part of the year 1679,
-when he departed in a pious frame of mind.
+which was in the latter part of the year 1679, when he departed in a pious frame of mind.
 
 By the foregoing relation,
 it appears evidently that he was very earnestly seeking after the true way to salvation,
@@ -1714,14 +1734,14 @@ to him with good and wholesome advice;
 and among these John Crook, whose occurrences make up no small part of this history,
 was none of the least.
 And since there is yet extant a letter of his to him,
-wherein he not only spoke very effectually to the inward state of I Penington;
+wherein he not only spoke very effectually to the inward state of I. Penington;
 but for his instruction and encouragement,
 gave also an account of the great difficulties and temptations he himself had met with,
 I cannot well omit to insert the same here;
 because from the ingenuous and open-hearted letters of familiar friends to one another,
 we generally may discover very plainly their inward state,
 and also their outward qualities.
-This letter was as follows:
+This letter was as followeth:
 
 [.embedded-content-document.letter]
 --
@@ -1733,12 +1753,12 @@ My dear and tender love salutes thee, in that love from whence I had my being,
 from whence sprang all my Father`'s children, who are born from above,
 heirs of an everlasting inheritance.
 Oh! how sweet and pleasant are the pastures which
-my Father causes all his sheep to feed in;
+my Father causeth all his sheep to feed in:
 there is a variety of plenty in his pastures, milk for babes,
 and strong meat for them of riper age, and wine to refresh those that are ready to faint;
 even the wine of the kingdom, that makes glad the heart when it is ready to faint,
 by reason of the infirmities: sure I am, none can be so weary, but he takes care of them;
-nor none so nigh fainting but he puts his arm under their heads;
+nor none so nigh fainting, but he puts his arm under their heads;
 nor none can be so beset with enemies on every side, but he will arise and scatter;
 nor none so heavy laden and big with young, but he takes notice of them,
 and gently leads them, and will not leave them behind unto the merciless wolf;
@@ -1767,12 +1787,13 @@ but some lust or thought or other followed me at the heels,
 and disquieted me night and day, until I came to know him in whom was rest,
 and no occasion of stumbling, in whom the devil hath no part;
 and he became unto me as a hiding-place from the storms, and from the tempests;
-then came my eyes to see my Savior, and my sorrow to fly away,
+then came my eyes to see my Saviour, and my sorrow to fly away,
 and he became made unto me all in all, my wisdom, my righteousness, my sanctification,
 in whom I was and am complete,
 to the praise of the riches of his grace and goodness that endures forever.
+
 Therefore be not discouraged, O thou tossed as with tempests, nor dismayed in thyself,
-because thou sees such mighty hosts of enemies rising up against thee,
+because thou seest such mighty hosts of enemies rising up against thee,
 and besetting thee on every side; for none was so beset, and tried,
 and tempted as the true seed was, who was a man of sorrows, and acquainted with grief:
 but be thou still in thy mind, and let the billows pass over, and wave upon wave,
@@ -1784,12 +1805,11 @@ and not comforted, and tempted and tried for this end,
 that I might know how to speak a word in due season unto
 those who are tempted and afflicted as I once was:
 as it was said unto me in that day when sorrow lay heavy upon me.
-Therefore be not disconsolate,
-neither give heed unto the reasonings and disputing of thy own heart,
-nor the fears that rise therefrom; but.
-be strong in the faith,
-believing in the light which lets thee see them;`' and his
-grace thou wilt know to be sufficient for thee,
+Therefore be not disconsolated,
+neither give heed unto the reasonings and disputings of thy own heart,
+nor the fears that rise therefrom; but be strong in the faith,
+believing in the light which lets thee see them;
+and his grace thou wilt know to be sufficient for thee,
 and his strength to be made perfect in thy weakness;
 and so wilt thou rather glory in thy infirmities, that his power may rest upon thee,
 than in thy earnest desires to be rid of them;
@@ -1823,9 +1843,9 @@ that many thereby were turned to true godliness.
 Some have been reached by the sayings of dying penitents;
 for there have been remarkable instances of young people sprung from honest parents,
 who having walked in the broad way,
-did very earnestly bewail their out-goings on a dying bed, and then declared,
+did very earnestly bewail their outgoings on a dying bed, and then declared,
 that if it pleased God, to raise them up again, they would not, as before,
-be ashamed of the despised way of the Quakers, nor fear any mocking or persecution,
+be ashamed of the despised way of the Quakers, nor fear any mockings or persecution,
 but that they would serve the Lord, in uprightness, and with all their heart.
 These thus repenting with tears for their transgressions,
 have experienced after great agonies, that God wills not the death of sinners,
@@ -1834,81 +1854,81 @@ but that they should repent, and so live in everlasting happiness.
 Of several such like cases, I will only mention one, viz. that of a young maid at London,
 called Susanna Whitrow, whose mother was of the society of the Quakers,
 but not her father.
-On her dying bed she complained exceedingly of her rebellion and vain behavior:
-'`Ah,`' said she to her mother, '`how often hast thou said, the Lord would plead with us:
+On her dying bed she complained exceedingly of her rebellion and vain behaviour:
+"`Ah,`" said she to her mother, "`how often hast thou said, the Lord would plead with us:
 now the day is come.
 Pride and disobedience were my cursed fruits,
 which I brought forth when I was a hearer in the public church.
 How often have I adorned myself as fine in their fashion as I could make me;
 yet they despised my dress, and said, '`How like a tawdry have you dressed yourself;
-you are not at all in the mode.`'
-Then coming home on the Sabbath-day, I went immediately up into my chamber,
-and locking the door, I altered all my laces,
+you are not at all in the mode.`' Then coming home on the Sabbath-day,
+I went immediately up into my chamber, and locking the door, I altered all my laces,
 and so went to their worship in the afternoon, dressed in their mode,
-and then I pleased them.`'
+and then I pleased them.`"
 At another time she said,
-'`O that I might have a little time longer to go into the country,
+"`O that I might have a little time longer to go into the country,
 and walk in the woods to seek the Lord.
 O what matter for fine houses and silk apparel: O remember him that sat on the ground,
 and wore a garment without a seam, our blessed holy Lord,
 who went up to the mountains to pray,
 and withdrew himself into gardens and desolate places.
 I have done nothing for the Lord, but he hath done all for me:
-therefore I desire to live, that I might live a holy and righteous life,
+therefore I desire to live, that I might live an holy and righteous life,
 that my conversation might be in heaven, though my body be here on earth.
 How would I then invite and warn others,
 not to spend their precious time in adorning themselves like Jezebel,
 patching and painting, and curling their hair.
 O the Christian life is quite another thing:
 we must not give ourselves the liberty to think our own thoughts,
-much less to act such abominations.`'
+much less to act such abominations.`"
 Several days she was in a strong wrestling and conflict of spirit,
 and in fervent prayer to God, so that when somebody was for removing her head a little,
-she refusing it, said, '`I would not suffer a thought to wander; if I move,
-I shall be drawn off my watch, and then the temper will prevail.`'
+she refusing it, said, "`I would not suffer a thought to wander; if I move,
+I shall be drawn off my watch, and then the temper will prevail.`"
+
 Continuing in this conflict, she conceived at length hopes of forgiveness;
 and being thus strengthened by mercy, she said to the Lord,
-'`O what can my soul say of thy power: "`when I sought thee, but could not find thee;
+"`O what can my soul say of thy power: when I sought thee, but could not find thee;
 I knocked hard, but none did open: for my sins stood like mountains,
 that I could not come near thee: I would fain have prayed to thee, but could not.
 Thus I lay several days and nights struggling for life, but could find none: and I said,
-"`There is no mercy for me:`" then I said, "`I will never leave thee; if I perish,
-I will perish here; I will never cease crying unto thee.`" And then I heard a voice say,
-"`Jacob wrestled all night before he obtained the blessing.`" Oh then thy word, O Lord,
+'`There is no mercy for me:`' then I said, "`I will never leave thee; if I perish,
+I will perish here; I will never cease crying unto thee.`' And then I heard a voice say,
+'`Jacob wrestled all night before he obtained the blessing.`' Oh then thy word, O Lord,
 was strong to my soul: then my stony heart was broken to pieces,
 and the spirit of prayer and supplication was poured upon me.
-And now I can sing as David did, of mercy, and of judgment: "`Unto thee, O Lord,
+And now I can sing as David did, of mercy, and of judgment: '`Unto thee, O Lord,
 will I sing, with a rent heart,
 and with my mouth in the dust will I sing praises to thee,
-my blessed Savior.`" In this frame she endeavored to continue,
+my blessed Saviour.`'`" In this frame she endeavoured to continue,
 and once she prayed for her father, called Robert Whitrow,
-part of which prayer was as follows:`' O Lord, remember not his offenses,
+part of which prayer was as followeth: "`O Lord, remember not his offences,
 let me bear them; let it be easy to him; make his friends to be enemies to him,
 that thou mayest have mercy upon him.
 His temptations are great; Lord, carry him through; O let him not perish with the world;
 do thou support him over this world.
 Shall a little dirt of this world draw away his mind: O Lord,
-let his mind be set on things above; fix his mind upon thee.`'
+let his mind be set on things above; fix his mind upon thee.`"
 Thus fervently this young maid prayed for her father,
 herself now having attained a full assurance of her salvation,
-so that she once said to the Lord, '`O thou beloved of my soul, what shall I say of thee,
-for thou art too wonderful for me: O praises be unto thee.`'
+so that she once said to the Lord, "`O thou beloved of my soul, what shall I say of thee,
+for thou art too wonderful for me: O praises be unto thee.`"
 And afterward perceiving that her end was approaching, she said to her mother,
-'`I must lay down this body,
-the Lord will not trust me longer in this present wicked world: happy am I: my Savior,
-my soul loves thee dearly; thy love is better than wine: my Savior, my holy One,
+"`I must lay down this body,
+the Lord will not trust me longer in this present wicked world: happy am I: my Saviour,
+my soul loves thee dearly; thy love is better than wine: my Saviour, my holy One,
 how glorious art thou: I have seen thy glory; I am overcome with thy sweet countenance;
 O how lovely art thou!
 My heart is ravished with the sweet smiles of thy glorious countenance.
 O, come away, come away, why dost thou stay?
-I am ready, I am ready.`'
+I am ready, I am ready.`"
 Then she lay some time very still, and so departed this life without sigh or groan:
 which was about the year 1677.
 
 Such like dying persons have been the means sometimes to stir up others to true godliness,
 whereby they came to be joined with the people called Quakers;
 and though these in time came to be very numerous,
-yet at first there were but few laborers in the ministry of the word.
+yet at first there were but few labourers in the ministry of the word.
 But these recommending one another to give diligent heed to the word of God in the heart,
 and to mind that as their teacher, did often meet together and keep assemblies,
 sitting down with such a deep retiredness of mind, being turned inward to God,
@@ -1932,9 +1952,9 @@ but in time became a zealous preacher of it himself, and was valiant in sufferin
 Once being taken up at a meeting in Glastonbury, and brought before bishop Mew, at Wells,
 who called him a rebel, for meeting contrary to the king`'s laws,
 Christopher having formerly been a soldier for the king, said to him,
-'`Dost thou call me rebel: I would have thee to know,
+"`Dost thou call me rebel: I would have thee to know,
 that I have ventured my life for the king in the field,
-when such as thou lay behind hedges.`'
+when such as thou lay behind hedges.`"
 By this he stopped the bishop`'s mouth, who did not expect such an answer,
 and therefore was willing to be rid of him.
 
@@ -1961,7 +1981,7 @@ whereby in spite of his evil will, he came to hear what the preacher spoke,
 which was so piercing, that the trumpeter came to be deeply affected with it,
 and bursting into tears, confessed his crime, and came to be a true penitent:
 a remarkable evidence of the truth of that saying of the apostle, "`So then,
-it is not of him that wills, nor of him that runneth, but of God that shows mercy.`"
+it is not of him that willeth, nor of him that runneth, but of God that showeth mercy.`"
 
 Among these, who contrary to their intent entered into communion with the Quakers,
 so called, may be reckoned also Anthony Pearson, the justice,
@@ -1980,9 +2000,9 @@ some entered into society with the Quakers,
 so called; more instances of which might be produced if needful; since I have known such,
 who being naturally of a boisterous temper,
 yet were so struck with the terror of the Lord,
-that they came to be of such a quiet spirit, and harmless behavior,
+that they came to be of such a quiet spirit, and harmless behaviour,
 that as formerly they could not suffer the least provocation,
-so now they bore all reviling and mocking with an even and undisturbed mind;
+so now they bore all revilings and mockings with an even and undisturbed mind;
 because the fear of God had made such deep impression upon them,
 that they were careful lest by an angry or impetuous
 deportment they should sin against him.
@@ -1999,7 +2019,7 @@ used all their strength to root out the professors of the light,
 but all proved in vain, as appears abundantly from this history;
 although there were hardly any prisons in England,
 where some of these people were not shut up; besides the spoil of goods,
-and cruel whippings that befell some of them.
+and cruel whippings that befel some of them.
 Yet all this they bore with a more than ordinary courage, without making resistance,
 how great soever their number was;
 and notwithstanding many of them had been valiant soldiers,
@@ -2015,6 +2035,7 @@ the better it grows, and yields the stronger scent.
 Being then thus oppressed,
 they found themselves under a necessity of continuing vigilant and watchful; and,
 according to king Solomon`'s advice, to keep their hearts with all diligence.
+This made them love what they judged to be truth, more than their lives,
 and it caused them to be careful,
 lest that should come over them which the church of Ephesus was threatened with,
 because she had left her first love,
@@ -2025,6 +2046,6 @@ when the grieving of their consciences stood in competition with it.
 Having thus passed through many adversities, with an unwearied and lasting patience,
 and being become a great people, known by the name of Quakers, they were at length,
 by the generous clemency of king William III.
-and the favor of the Parliament, declared to be a society,
+and the favour of the Parliament, declared to be a society,
 who should henceforth be tolerated in the kingdom as Protestant dissenters,
 with liberty to perform their religious worship in public without disturbance.

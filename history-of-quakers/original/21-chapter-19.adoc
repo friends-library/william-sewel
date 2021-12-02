@@ -1,6 +1,7 @@
-== Chapter XIX.
+== Chapter XIX
 
-=== 1674--1676
+[.section-date]
+1674-1676.
 
 [.chapter-synopsis]
 * Dispute with the Baptists
@@ -27,7 +28,7 @@ The year was now come to an end.
 But before I go over to the next, I am to mention that the Baptists in England,
 losing from time to time some of their best members,
 wrote therefore very fiercely against the Quakers,
-endeavoring thereby to render them no Christians.
+endeavouring thereby to render them no Christians.
 But those writings were continually answered, and that with so many convincing reasons,
 that the Quakers got more adherents by it.
 The consequence of this was,
@@ -58,12 +59,13 @@ To temporize therefore, and to find out excuses for what he had done,
 he put forth a book in print, wherein he asserted the lawfulness of swearing.
 It was asked of him, whether he was that same Jeremy Ives,
 that once had been of such a tender conscience, that he durst not take an oath,
-and had afterwards publicly defended swearing as lawful]
+and had afterwards publicly defended swearing as lawful?
 And he did not deny the fact, for it was notoriously known:
 but he went about to disguise the matter, and said,
-'`I am that Jeremy who took the oath of allegiance,
-and wrote a book to prove that some oaths were lawful, though not all.`'
-Neither did he deny the fore-mentioned letter, for it was extant, and written as follows:
+"`I am that Jeremy who took the oath of allegiance,
+and wrote a book to prove that some oaths were lawful, though not all.`"
+Neither did he deny the fore-mentioned letter, for it was extant,
+and written as followeth:
 
 [.embedded-content-document.letter]
 --
@@ -82,22 +84,21 @@ Where is your first love?
 How unlike the Christians in former times are you?
 Whose zeal was so hot for God, that their eyes prevented the morning,
 that thereby they might prevent the rage of the adversary, who, as it is now,
-commanded them no more to worship in the name of the Lord.
-I always did conclude,
-that those that would quit the cause of righteousness would quit the ways of holiness,
+commanded them no more to worship in the name of the Lord.--I always did conclude,
+that those that would--quit the cause of righteousness--would quit the ways of holiness,
 as yesterday`'s sad experience hath taught, to the perpetual joy of your adversaries,
 and the saddening the hearts,
 and adding afflictions to the bonds of the prisoners of the Lord.
 I do therefore conjure you, as you will answer the great God another day, to consider,
 that now is the time for you to look to your ministry,
 and to the flock over which the Lord hath made you overseers,
-that you may be able through grace to say, '`You are clear from the blood of all men;
-and observe, that God is now come to prove you,
-to see whether you will keep his commandments or not.
+that you may be able through grace to say,
+"`You are clear from the blood of all men;`" and observe,
+that God is now come to prove you, to see whether you will keep his commandments or not.
 Remember when that apostate`'s case was debated,
 you had no zeal nor indignation against him, but you smothered all with this,
-'`If it were in a matter of faith and worship that he had fallen from,
-you would have been as one man against it.`'
+"`If it were in a matter of faith and worship that he had fallen from,
+you would have been as one man against it.`"
 Well, behold the Lord is come home to you; the matter now is purely for worshipping God;
 now God is proving you to see whether you will obey him or no:
 and did not yesterday`'s work witness, that you were willing to prefer the fear of a man,
@@ -121,8 +122,10 @@ who could be contented to write himself,
 Your companion in tribulation,
 
 [.signed-section-signature]
-Jeremy Ives
-Jan. 14, 1660.
+Jer. Ives.
+
+[.signed-section-context-close]
+Jan.14, 1660.
 
 [.postscript]
 ====
@@ -134,15 +137,16 @@ and so do some others.
 
 --
 
-Thus zealously Jeremy Ives wrote to his fellow-teachers, who for human fear,
-and to avoid sufferings, had, against their profession,
-and the conviction of their consciences, taken the oath.
-But who could have imagined on sight of; such letter,
+Thus zealously Jer.
+Ives wrote to his fellow-teachers, who for human fear, and to avoid sufferings, had,
+against their profession, and the conviction of their consciences, taken the oath.
+But who could have imagined on sight of such letter,
 that he himself within so short a space of time,
 should have done that which he reproved so severely in others.
 Certainly in this case the saying of the prophet Jeremiah seems to be very applicable,
 "`The heart is deceitful above all things, and desperately wicked; who can know it?
-Let therefore him who stands, be cautious lest he fall.`" Happy had this man been,
+Let therefore him who standeth, be cautious lest he fall.`"
+Happy had this man been,
 if he had been so sensible of his transgressions as one Edward Chilton,
 who though by profession a Quaker, yet when it came to a trial,
 either to take the oath of allegiance, or to be premunired, he wavered and fainted;
@@ -175,10 +179,11 @@ So the terrors of the Lord have taken hold on me,
 and I lie under the judgments of the Lord.
 
 And now I feel the truth of the words that were spoken by Christ,
-'`that he that fails in one tittle, is guilty of all;
-and now I feel the truth of that,`' that it is better to forsake wife and children,
-and all that a man hath, even life itself, for Christ and the truth`'s sake,
-than to break one tittle of the law of God written in the heart.`'
+"`that he that faileth in one tittle,
+is guilty of all;`" and now I feel the truth of that,
+"`that it is better to forsake wife and children, and all that a man hath,
+even life itself, for Christ and the truth`'s sake,
+than to break one tittle of the law of God written in the heart.`"
 So I hope that, by mercy and judgment, the Lord will redeem me to himself again.
 The Lord may suffer some to fall,
 that the standing of them that stand faithful may seem to be the more glorious,
@@ -194,7 +199,7 @@ Pray for me; for my bonds are greater than yours.
 Edward Chilton.
 
 [.signed-section-context-close]
-Windsor, the 22d of the 11th month, 1660.
+Windsor, the 22nd of the 11th month, 1660.
 
 --
 
@@ -204,38 +209,40 @@ nor loss of their liberty, when they must pay so dear for it, as the taking of a
 For when any one truly abides in the fear of God, he dares not,
 against the convictions of his conscience, transgress the Divine commandments,
 and seek evasions to avoid the stress thereof: for certainly God will not be mocked.
-Could our Savior have spoken in more plain and express terms than he did, when he said,:
-"`Swear not at all`" And yet what cunning devices have been
-invented by those who boast of the name of Christians,
+Could our Saviour have spoken in more plain and express terms than he did, when he said,
+"`Swear not at all?`"
+And yet what cunning devices have been invented by those who boast of the name of Christians,
 to enervate the force of these express words.
 It is not a proper place here to refute their reasons;
 but yet I cannot think it unsuitable to show briefly how dangerous
 it is to act against the express commandments of sacred writ,
-and '`against the conviction of one`'s conscience, thereby to avoid persecution:
-for not only the apostle James said, "`Whosoever shall offend in i one point,
+and against the conviction of one`'s conscience, thereby to avoid persecution:
+for not only the apostle James saith, "`Whosoever shall offend in one point,
 he is guilty of all;`" but our supreme lawgiver Christ himself saith,
 "`Whosoever shall deny me before men,
 him will I also deny before my Father which is in heaven.
 And whosoever shall be ashamed of me, and of my words,
 of him also shall the Son of Man be ashamed, when he cometh in the glory of his Father,
-with the holy angels.`" And to encourage us to faithfulness he hath also said,
-"`Fear not "`them which kill the body, but are not able to kill the soul;
-but rather fear him which is able to destroy both soul and
-body in hell.`" Which words indeed are so emphatical,
+with the holy angels.`"
+And to encourage us to faithfulness he hath also said,
+"`Fear not them which kill the body, but are not able to kill the soul;
+but rather fear him which is able to destroy both soul and body in hell.`"
+Which words indeed are so emphatical,
 that it ought not to displease any that I repeat them,
 as they have been left on record by the evangelist Luke, viz. thus, "`I say unto you,
 my friends, be not afraid of them that kill the body,
 and after that have no more that they can do.
 But I will forewarn you whom ye shall fear: fear him, which after he hath killed,
-hath power to cast into hell: yea, I say unto you, fear him.`" Can it be otherwise,
+hath power to cast into hell: yea, I say unto you, fear him.`"
+Can it be otherwise,
 but that such words must needs make a powerful impression on a real Christian?
 And the more when we consider,
 that nothing in the world can retrieve or restore a perishing soul,
 as may appear from these of our blessed Lord, "`What is a man profited,
 if he shall gain the whole world, and lose his own soul?
-Or what shall a man give in exchange for his soul?`" A clear proof that the whole world,
-and all that is contained therein, is not able to save one soul,
-or to afford any thing that can redeem it.
+Or what shall a man give in exchange for his soul?`"
+A clear proof that the whole world, and all that is contained therein,
+is not able to save one soul, or to afford any thing that can redeem it.
 If I here thought it requisite,
 a godly zeal at present would make me say more on this subject;
 but not to expatiate too far beyond the limits of this historical tract,
@@ -245,7 +252,7 @@ but return to my relation from whence I thus stepped aside.
 To take up again then the broken thread of my discourse, I once more come to Jeremy Ives,
 who, to avoid persecution, had taken the oath contrary to his understanding;
 and it was Thomas Rudyard, mentioned here before, who objected this to him;
-and he feeling himself pinched by it, endeavored to break the stress thereof by saying,
+and he feeling himself pinched by it, endeavoured to break the stress thereof by saying,
 that the reason why in a letter he had blamed a friend,
 was for his saying he had rather have given fifty
 pounds than have took the oath of allegiance,
@@ -254,92 +261,95 @@ But who sees not what a poor shift this was?
 
 Now to come to the dispute; I already mentioned it was asserted,
 that the Quakers were no Christians; and to maintain this, Thomas Hicks said,
-'`They that deny the Lord`'s Christ, are no Christians:
-but the Quakers deny the Lord`'s Christ,`' etc.
-To which W. Penn said, '`I deny the minor, viz. that the Quakers deny the Lord`'s Christ.`'
-And T. Hicks returned, '`They that deny Christ to be a distinct person without them,
-deny the Lord`'s Christ; but the Quakers deny Christ to be a distinct person without them:
-therefore,`' etc.
-W+++.+++ Penn then desired that T. Hicks would explain
-what he meant by the term person And T. Hicks answered,
-'`I mean the man Christ Jesus.`'
-To which W. Penn replied, '`Then I deny the minor, viz. that we deny the man Christ Jesus.`'
-To which Hicks returned, '`I prove ye deny the man Christ Jesus.
+"`They that deny the Lord`'s Christ, are no Christians:
+but the Quakers deny the Lord`'s Christ,`" etc.
+To which W. Penn said, "`I deny the minor,
+viz. that the Quakers deny the Lord`'s Christ.`"
+And T. Hicks returned, "`They that deny Christ to be a distinct person without them,
+deny the Lord`'s Christ;
+but the Quakers deny Christ to be a distinct person without them: therefore,`" etc.
+W+++.+++ Penn then desired that T. Hicks would explain what he meant by the term person.
+And T. Hicks answered, "`I mean the man Christ Jesus.`"
+To which W. Penn replied, "`Then I deny the minor,
+viz. that we deny the man Christ Jesus.`"
+To which Hicks returned, "`I prove ye deny the man Christ Jesus.
 One of your own writers saith, that Christ was never seen with carnal eyes,
-nor heard with carnal ears,`' etc.
-To this J. Ives added, '`He that denies that Christ was ever seen with carnal eyes,
+nor heard with carnal ears,`" etc.
+To this J. Ives added, "`He that denies that Christ was ever seen with carnal eyes,
 etc. denies the man Christ:
-but the Quakers deny that Christ was ever seen with carnal eyes,`' etc.
-George Keith then said, '`I answer by distinguishing:
-Christ as God was never seen with carnal eyes; but as man he was seen with carnal eyes.`'
-To this J. Ives returned: '`But he was Christ as he was man:
-how then was not Christ seen with carnal eyes?`'
+but the Quakers deny that Christ was ever seen with carnal eyes,`" etc.
+George Keith then said, "`I answer by distinguishing:
+Christ as God was never seen with carnal eyes; but as man he was seen with carnal eyes.`"
+To this J. Ives returned: "`But he was Christ as he was man:
+how then was not Christ seen with carnal eyes?`"
 To this question G. Keith answered thus:
-'`We are to consider that the terms or names Jesus Christ,
+"`We are to consider that the terms or names Jesus Christ,
 are sometimes applied to him as God, and sometimes to him as man; yea,
 sometimes to the very body of Jesus: but the question is,
 whether do those names more properly, immediately, and originally belong to him as God,
 or as he was before he took the manhood upon him; or to the manhood?
 We affirm, those names are given to him most properly and eminently as God;
 and less properly, yet truly, as man; and least properly to his body,
-yea to his dead body.`'
-Then J. Ives asked, '`Where do you read that the carcase was called the Christ?`'
+yea to his dead body.`"
+Then J. Ives asked, "`Where do you read that the carcase was called the Christ?`"
 This irreverent expression so displeased many, that some cried out,
-'`Where didst thou ever read that Christ`'s dead body was called a carcase?`'
-From this disgust W. Penn said, '`I beseech you for the Lord`'s sake,
-that we may treat of these things as becomes Christians.`'
+"`Where didst thou ever read that Christ`'s dead body was called a carcase?`"
+From this disgust W. Penn said, "`I beseech you for the Lord`'s sake,
+that we may treat of these things as becomes Christians.`"
 
 G+++.+++ Keith then resuming the discourse, answered J. Ives`'s question thus:
-'`I prove that the dead body of Jesus was called Christ, from the words of Mary,
-"`Where have ye laid him?`" For she had just before called the body her Lord:
+"`I prove that the dead body of Jesus was called Christ, from the words of Mary,
+'`Where have ye laid him?`' For she had just before called the body her Lord:
 likewise the angel said to her,
-"`See the place where the Lord lay:`" and that he was Jesus Christ before he took flesh,
+'`See the place where the Lord lay:`' and that he was Jesus Christ before he took flesh,
 I prove from the saying of the apostle,
-"`Who created all things by Jesus Christ.`" Then T. Hicks said,
-'`I will prove the Quakers to be no Christians:`' and J. Ives added,
-'`They that say that Christ cannot be seen with carnal eyes,
+'`Who created all things by Jesus Christ.`'`" Then T. Hicks said,
+"`I will prove the Quakers to be no Christians:`" and J. Ives added,
+"`They that say that Christ cannot be seen with carnal eyes,
 and was never visible to wicked men, do deny the Lord`'s Christ;
-for he was seen with carnal eyes, and by wicked men.`'
-To this W. Penn said, '`I distinguish upon the word seen;
+for he was seen with carnal eyes, and by wicked men.`"
+To this W. Penn said, "`I distinguish upon the word seen;
 wicked men might see him in that bodily appearance,
 and yet not see him to be the Christ of God; they saw his manhood,
-but not his Christ-ship: this I will prove from Christ`'s words to Peter,
+but not his Christship: this I will prove from Christ`'s words to Peter,
 when he confessed him to be Christ, the Son of the living God,
-viz. "`Flesh and blood hath not revealed this unto thee,
-but my Father which is in heaven:`" therefore Peter with
+viz. '`Flesh and blood hath not revealed this unto thee,
+but my Father which is in heaven:`' therefore Peter with
 a carnal eye could not have seen the Lord`'s Christ,
 much less wicked men.
 My second proof is from the apostle`'s words,
-"`Whom none of the princes of this world knew; for had they known him,
-they would not have crucified him.`"`' W. Penn enlarging a little more on this subject,
+'`Whom none of the princes of this world knew; for had they known him,
+they would not have crucified him.`'`" W. Penn enlarging a little more on this subject,
 said also, that seeing and knowing in Scriptures are sometimes equivalent.
-And G. Keith added, '`Christ said, "`He that hath seen me,
-hath seen the Father:`" but no wicked man hath seen the Father,
-therefore no wicked man hath seen Christ, as such.`'
+And G. Keith added, "`Christ said, '`He that hath seen me,
+hath seen the Father:`' but no wicked man hath seen the Father,
+therefore no wicked man hath seen Christ, as such.`"
 Ives and his companions scoffed at this distinction: but the Quakers averred,
 that all who saw Jesus as the carpenter`'s son, did not see him as the Christ of God.
-Then Ives asked, '`Is the manhood a part of the Lord`'s Christ?`'
-To which W. Penn returned, '`Is this to prove the charge of our denying the Lord`'s Christ.
-It seems we must be here to be catechized, and ye will not answer us one question,
-yet I shall answer J. Ives his question, if he will promise to answer mine.`'
+Then Ives asked, "`Is the manhood a part of the Lord`'s Christ?`"
+To which W. Penn returned,
+"`Is this to prove the charge of our denying the Lord`'s Christ?
+It seems we must be here to be catechised, and ye will not answer us one question,
+yet I shall answer J. Ives his question, if he will promise to answer mine.`"
 
-Ives then saying that he would answer it, W. Penn returned, '`I here declare,
+Ives then saying that he would answer it, W. Penn returned, "`I here declare,
 that we do faithfully believe that holy manhood to be a member
-of the Christ of God:`' and directing his question to Ives,
-he said, '`Was he the Christ of God before he was manifest in the flesh?`'
-'`He was,`' answered Ives, '`the Son of God.`'
-'`But,`' replied W. Penn, '`Was he the Lord`'s Christ?
+of the Christ of God:`" and directing his question to Ives,
+he said, "`Was he the Christ of God before he was manifest in the flesh?`"
+"`He was,`" answered Ives, "`the Son of God.`"
+"`But,`" replied W. Penn, "`Was he the Lord`'s Christ?
 I will prove him to have been the Lord`'s Christ as well before as after:
 first from the apostle Paul`'s words to the Corinthians,
-"`That rock was Christ:`" next from Jude, where some Greek copies have it thus,
-"`That Jesus brought the people of Israel out of Egypt.`" '`But to this Ives gave no answer,
+'`That rock was Christ:`' next from Jude, where some Greek copies have it thus,
+'`That Jesus brought the people of Israel out of
+Egypt.`'`" But to this Ives gave no answer,
 how often soever he was called upon for it.
 And this was no great wonder,
 since it was well known that there were such among
-the Baptists who favored the Socinian principles.
+the Baptists who favoured the Socinian principles.
 But Ives, that he might not appear altogether mute, came on again with a question,
-viz. '`Do ye believe that Christ in his human nature is in heaven?`'
-This made G. Whitehead say to the auditory, '`Ye have heard the charge against us,
+viz. "`Do ye believe that Christ in his human nature is in heaven?`"
+This made G. Whitehead say to the auditory, "`Ye have heard the charge against us,
 and the distinction that hath been made between seeing, and seeing of Christ,
 as namely between the spiritual saving sight of the Lord`'s Christ,
 and the seeing of his outward man, person, or body.
@@ -347,21 +357,22 @@ In this last sense it could never be intended that it was not visible to the out
 but it was the spiritual rock which all Israel drank of,
 and as he was before Abraham was,
 and as glorified with the Father before the world began;
-and as Christ himself said to Philip, "`He that sees me,
-sees my Father also:`" and only saints, or children of light, could truly say,
-"`We have seen his glory as the only begotten of the Father,
-full of grace and truth.`" In all which considerations, or senses of seeing,
-the Lord`'s Christ was only seen spiritually, and not with carnal eyes.`'
+and as Christ himself said to Philip, '`He that seeth me,
+seeth my Father also:`' and only saints, or children of light, could truly say,
+'`We have seen his glory as the only begotten of the Father,
+full of grace and truth.`' In all which considerations, or senses of seeing,
+the Lord`'s Christ was only seen spiritually, and not with carnal eyes.`"
 This Ives granted, that so it might be left: yet presently after,
 instead of proving the Quakers no Christians, he asked again,
-'`Do ye believe or own that Christ is in heaven with his human nature?`'
-To which W. Penn answered, '`We do believe the man Christ Jesus to be glorified in heaven.`'
+"`Do ye believe or own that Christ is in heaven with his human nature?`"
+To which W. Penn answered,
+"`We do believe the man Christ Jesus to be glorified in heaven.`"
 Which answer Ives refusing to accept, because it was not in the terms of his question,
 Penn asked,
-'`What difference dost thou make between the manhood and human nature of Christ?`'
-'`None,`' returned Ives, '`if you mean candidly.`'
-To which Penn replied, '`I do mean and speak candidly;
-we do believe that holy manhood to be in heavenly glory.`'
+"`What difference dost thou make between the manhood and human nature of Christ?`"
+"`None,`" returned Ives, "`if you mean candidly.`"
+To which Penn replied, "`I do mean and speak candidly;
+we do believe that holy manhood to be in heavenly glory.`"
 
 Now since it began to grow dark, the Baptists desired to leave off,
 and to resume the matter at another time; as was done also:
@@ -369,14 +380,14 @@ but the parties did not agree for all that;
 for though the Baptists continued to assert that the Quakers were no Christians,
 yet these had abundance of reasons to maintain the contrary;
 and this they did so effectually, that those of the other party,
-under a pretense of the meeting-place being overcharged with people,
+under a pretence of the meeting-place being overcharged with people,
 and that the gallery gave way, broke up the meeting, without a final conclusion.
 
-Persecution in this year was not very sharp at London, but for all that,
+Prosecution in this year was not very sharp at London, but for all that,
 active in other places, so that I do not want matter to make a relation of it;
 but to shun prolixity, I will mention but one case.
 
-One Robert Tillet, in Buckingham, sick of a consumption,
+One Robert Tilles, in Buckingham, sick of a consumption,
 and believing his death to be nigh at hand, desired some of his friends to visit him.
 At this invitation some came to his house, yet not above the number of fourteen persons;
 and two informers went and acquainted a justice of the peace thereof,
@@ -397,15 +408,15 @@ but in the meanwhile the Quakers bore the chiefest shock;
 for their religious meetings were styled seditious conventicles.
 
 After G. Fox had been at the yearly-meeting of his friends at London, he left the city,
-and went to Lancaster, and from thence to Swarth-more,
-where having a dwelling-place of his awn, he stayed about two years to rest himself:
+and went to Lancaster, and from thence to Swarthmore,
+where having a dwelling-place of his own, he stayed about two years to rest himself:
 having contracted distempers by hardships and imprisonments,
 which had much weakened his body.
 Being there,
 he understood that four young students at Aberdeen were convinced
 at a dispute held by Robert Barclay and George Keith,
 with some of the scholars of that university.
-And being visited by some of the neighborhood,
+And being visited by some of the neighbourhood,
 among others came also to him colonel Kirby, his old persecutor,
 who now carried himself very lovingly, and bid him welcome into the country.
 Yet notwithstanding this appearance of kindness,
@@ -425,7 +436,7 @@ malicious to disturb the religious meetings of the Quakers,
 who never met in a clandestine manner, but always publicly:
 and on this account fines were extorted from them; to which may be added,
 that oftentimes they were still very ill treated, and most grievously abused,
-as among the rest at Long Claxston in Leicestershire,
+as among the rest at Long Clawston in Leicestershire,
 where some women were dragged by the neck along the street; and among these a widow,
 the skin of whose neck was rubbed off by this rudeness; and an ancient woman,
 above seventy, was violently cast down to the ground.
@@ -434,7 +445,7 @@ besides the many blows given them:
 and some were trodden upon till the blood gushed out of their mouth and nose.
 Yet all this they bore patiently, without making any resistance;
 whereby it happened sometimes that some who had not the gift of preaching,
-reached others by their patient suffering; showing by their meek behavior,
+reached others by their patient suffering; showing by their meek behaviour,
 that their works did agree with their Christian profession:
 and though many were robbed of all they had, even clothes and beds not excepted,
 yet they continued steadfast without fainting;
@@ -494,7 +505,7 @@ and out of the house of the said Samuel Roe, was taken the value of thirty pound
 so that the share of the informer was no less than ten pounds; since according to law,
 his due was a third of the spoil.
 I could here relate several instances of great adversities,
-and sad mischiefs that befell cruel persecutors; but not to expatiate too far,
+and sad mischiefs that befel cruel persecutors; but not to expatiate too far,
 I have silently passed by many remarkable cases.
 
 Yet, in general terms I may say, that many of the persecutors, both justices, informers,
@@ -533,33 +544,33 @@ with what intention Heaven knows; and William III.
 that excellent prince, brought it to perfection as far as it was in his power.
 
 This year deceased at sea William Bayly, coming from the West Indies,
-in the ship called the '`Samuel`', of London, in the latitude of 46 degrees and 36 minutes:
+in the ship called the _Samuel,_ of London, in the latitude of 46 degrees and 36 minutes:
 he had been a teacher among the Baptists, and had read much in the books of Jacob Behmen,
 but could not find thereby true satisfaction to his soul.
 And being afterwards entered into society with the Quakers, so called,
 he became a zealous preacher among them.
 When in this his last voyage he was grown sick, and felt death approaching,
 he bid John Clark, master of the said vessel,
-remember him to his dear wife and little ones, and also, to G. Fox,
+remember him to his dear wife and little ones, and also to G. Fox,
 G+++.+++ Whitehead and others; and being filled with joy, began to sing, saying,
-'`The creating word of the Lord endures forever.`'
+"`The creating word of the Lord endures forever.`"
 He took several that were about him by the hand, and exhorted them to fear the Lord,
-and not to fear death: '`Death,`' said he, '`is nothing in itself;
+and not to fear death: "`Death,`" said he, "`is nothing in itself;
 for the sting of death is sin.
 Tell the Friends at London, that would have been glad to have seen my face,
 I go to my Father and their Father, to my God and their God.
 Remember my love to my dear wife; she will be a sorrowful widow:
-but let her not mourn too much, for it is well with me.`'
+but let her not mourn too much, for it is well with me.`"
 And having spoken something concerning his outward business to the master,
-he said in regard to his wife and children, '`I have left them no portions,
-but my endeavor hath been to make God their father.
+he said in regard to his wife and children, "`I have left them no portions,
+but my endeavour hath been to make God their father.
 Shall I lay down my head upon the waters?
 Well, God is the God of the whole universe; and though my body sink,
-I shall swim a-top of the waters.`'
-Then taking his leave of the company, he said, '`I see not one of you,
-but I wish you all well.`'
+I shall swim atop of the waters.`"
+Then taking his leave of the company, he said, "`I see not one of you,
+but I wish you all well.`"
 And one asking, how it was with him?
-he answered, '`I am perfectly well.`'
+he answered, "`I am perfectly well.`"
 After having spoken many more sensible words,
 about four in the morning he departed quietly, as if he had fallen asleep.
 His wife Mary, the same that had formerly been at Adrianople,
@@ -567,7 +578,7 @@ and spoken with the emperor of the Turks,
 gave an excellent testimony in writing concerning him; and J. Crook,
 in a preface to W. Bayly`'s works, said of him,
 (the truth of which I know by my own experience,)
-'`As he was bold and zealous in his preaching,
+"`As he was bold and zealous in his preaching,
 being willing to improve his time, as if he had known it was not to be long amongst us;
 so was he as valiant in suffering for his testimony, when called thereunto.
 Methinks I see how once I saw him stand at the bar to plead his innocent cause,
@@ -576,21 +587,21 @@ when the threats of his persecutors resembled the showers of stones,
 falling upon that blessed martyr, crying out with a hideous noise, '`take him away,
 jailer,`' etc. and yet all this while he changed not his countenance,
 except by the additional ornaments of some innocent smiles.
-Sometimes by cruel persecutors he hath been thrown down
+Sometimes by cruel persecutors he hath been thrown down,
 and dragged upon the ground by the hair of his head,
-and his mouth and jaws endeavored to be rent and broken asunder,
+and his mouth and jaws endeavoured to be rent and broke asunder,
 so that the ground whereon he lay was smeared with his blood: yet,
 as if this butchering had not been enough to make
 him a fit sacrifice for the shambles of their cruelty,
 a heavy gross bodied persecutor stamped upon his breast with his feet,
-endeavoring to beat the breath out of his body:
+endeavouring to beat the breath out of his body:
 and when this persecutor had done his pleasure, he commanded the jailer to take him away,
 and put him in some nasty hole for his entertainment and cure.
 And had not the God of Israel been his physician there,
-he had been taken from us long before this.`'
+he had been taken from us long before this.`"
 Thus far John Crook.
 
-At the beginning of this year, 1676, died at London, Matthew Hyde,
+At the beginning of this year, 1676, died at London, Matthew Hide,
 who had made it his business, during the space of about twenty years,
 publicly to contradict the Quakers in their meetings,
 and to disturb them in their worship of God, thinking from a blind zeal,
@@ -607,67 +618,67 @@ and that the time would come he should be forced to confess
 to the sufficiency of that light he then opposed,
 and to acknowledge that God was with those called Quakers.
 
-This same Hyde being by sickness brought to the brink of death,
+This same Hide being by sickness brought to the brink of death,
 desired that G. Whitehead, and some of his friends, might be sent for:
 and to one Cotton Oade, who asked him, if he had any thing to say to clear himself,
 concerning his having so often opposed the friends called Quakers,
 in their declarations and prayers, he said, that he was sorry for what he had done: for,
 added he, they are the people of God.
 G+++.+++ Whitehead, then, though it was late in the evening, being come to him,
-with some others, said, '`I am come in love and tenderness to see thee.`'
-To which Hide returned, '`I am glad to see you.`'
-And Whitehead again, '`If thou hast any thing on thy conscience to speak,
-I would have thee to clear thy conscience.`'
-To this Hide replied, '`What I have to say, I speak in the presence of God:
+with some others, said, "`I am come in love and tenderness to see thee.`"
+To which Hide returned, "`I am glad to see you.`"
+And Whitehead again, "`If thou hast any thing on thy conscience to speak,
+I would have thee to clear thy conscience.`"
+To this Hide replied, "`What I have to say, I speak in the presence of God:
 as Paul was a persecutor of the people of the Lord, so have I been a persecutor of you,
-his people, as the world is who persecute the children of God.`'
+his people, as the world is who persecute the children of God.`"
 More he spoke, but being very weak, his words could not well be understood.
-Then G. Whitehead resumed, '`Thy understanding being darkened when darkness was over thee,
+Then G. Whitehead resumed,
+"`Thy understanding being darkened when darkness was over thee,
 thou hast gainsaid the truth and people of the Lord;
 and I knew that that light which thou opposedst, would rise up in judgment against thee.
-I have often with others, labored with thee to bring thee to a right understanding.`'
-To which Hide said, '`This I declare in the presence of God, and of you here,
+I have often with others, laboured with thee to bring thee to a right understanding.`"
+To which Hide said, "`This I declare in the presence of God, and of you here,
 I have done evil in persecuting you who are the children of God, and I am sorry for it:
 the Lord Jesus Christ show mercy unto me, and the Lord increase your number,
-and be with you.`'
-After some pause G. Whitehead said to him, '`I would have thee, if thou art able to speak,
-to ease thy conscience as fully as thou canst.
+and be with you.`"
+After some pause G. Whitehead said to him, "`I would have thee,
+if thou art able to speak, to ease thy conscience as fully as thou canst.
 My soul is affected to hear thee thus confess thy evil,
 as the Lord hath given thee a sense of it.
 In repentance there is mercy and forgiveness; in confessing and forsaking sin,
 there is mercy to be found with the Lord, who in the midst of judgment remembers mercy,
-that he may be feared.`'
+that he may be feared.`"
 Hide being in great anguish, and striving for breath, said, a little after,
-'`I have done evil in opposing you in your prayers; the Lord be merciful unto me;
+"`I have done evil in opposing you in your prayers; the Lord be merciful unto me;
 and as I have been an instrument to turn many from God,
-the Lord raise up many instruments to turn many to him.`'
+the Lord raise up many instruments to turn many to him.`"
 G+++.+++ Whitehead resumed,
-'`I desire thou mayest find mercy and forgiveness at the hand of the Lord.
+"`I desire thou mayest find mercy and forgiveness at the hand of the Lord.
 How is it with thy soul?
-Dost not thou find some ease?`'
-'`I hope I do,`' answered Hide, '`and if the Lord should lengthen my days,
-I should be willing to bear a testimony for you,
-as publicly as I have appeared against you.`'
-His wife then said, '`It is enough; what can be desired more?
-'`If,`' queried Whitehead, '`the Lord should not lengthen out thy days,
-dost thou desire what thou sayest should be signified to others?`'
-'`Yes,`' answered Hide, '`I do, you may;
-I have said as much as I can say,`' After some silence,
-he being much straitened for breath.
-Whitehead said, '`If this company be wearisome unto thee, we may withdraw.`'
-To which he returned,`' you may use your freedom.`'
-G+++.+++ Whitehead then taking leave of him, said, '`I shall leave thee to the Lord,
-desiring he may show mercy and forgiveness unto thee, as I hope he will.`'
-Upon which Hide replied, '`The Lord be with your spirits.`'
+Dost not thou find some ease?`"
+"`I hope I do,`" answered Hide, "`and if the Lord should lengthen my days,
+I should be willing to hear a testimony for you,
+as publicly as I have appeared against you.`"
+His wife then said, "`It is enough; what can be desired more?`"
+"`If,`" queried Whitehead, "`the Lord should not lengthen out thy days,
+dost thou desire what thou sayest should be signified to others?`"
+"`Yes,`" answered Hide, "`I do, you may; I have said as much as I can say.`"
+After some silence, he being much straitened for breath, Whitehead said,
+"`If this company be wearisome unto thee, we may withdraw.`"
+To which he returned, "`you may use your freedom.`"
+G+++.+++ Whitehead then taking leave of him, said, "`I shall leave thee to the Lord,
+desiring he may show mercy and forgiveness unto thee, as I hope he will.`"
+Upon which Hide replied, "`The Lord be with your spirits.`"
 
 All this was spoken to G. Whitehead and his friends, in the presence of Hide`'s wife,
 and some others of his acquaintance, about two hours before his death:
 and thus he gave manifest proofs of a sincere repentance; for Elizabeth his wife,
 having perceived him to be much troubled in his mind, had asked him,
 if he would speak with some of the Quakers?
-and he smiting his hand on his breast, said, '`With all my soul.`'
+and he smiting his hand on his breast, said, "`With all my soul.`"
 After G. Whitehead and his friends were gone, it being the seventh day of the week,
-he desired several times that he might live till morning, and might bear on that day,
+he desired several times that he might live till morning, and might hear on that day,
 viz. the first day of the week, a testimony for the truth,
 he had on that day so often opposed;
 yet he signified that he had found some ease to his spirit.
@@ -677,34 +688,35 @@ And after some more words to this purpose, spoken by him, with good understandin
 he stretched himself out, and died very quietly.
 An evident token of God`'s unspeakable mercy, who wills not the death of a sinner,
 but that he should repent and live;
-and who entirely knowing the real disposition of man`'s heart, forgives sin by mere grace,
-without any merit in man, but for his own sake, as he hath said himself,
-"`I am he that blots out thy transgressions for mine own sake,
-and will not remember thy sins.`" The truth of which saying
-very plainly appeared in the converted thief on the cross,
+and who entirely knowing the real disposition of man`'s heart,
+forgives sin by mere grace, without any merit in man, but for his own sake,
+as he hath said himself,
+"`I am he that blotteth out thy transgressions for mine own sake,
+and will not remember thy sins.`"
+The truth of which saying very plainly appeared in the converted thief on the cross,
 though his impenitent fellow-sufferer hardened his heart against it.
 
-In this year, while G. Fox was at Swarthmore, died William Lam-pitt,
+In this year, while G. Fox was at Swarthmore, died William Lampitt,
 the priest of Ulverstone, who formerly had been a great friend to Margaret,
 now the wife of G. Fox, but grew so envious against the friends she was in society with,
 that he said in the year 1652, he would wage his life upon it,
 that the Quakers would all vanish and come to nought within half a year.
 But on his deathbed he said to one of his hearers, who came to visit him,
-'`I have been a preacher a long time, and thought I had lived well;
-but I did not think it had been so hard a thing to die.`'
+"`I have been a preacher a long time, and thought I had lived well;
+but I did not think it had been so hard a thing to die.`"
 
 At Norwich now great spoil was made upon the Quakers, for their religious assemblies.
 Erasmus Cooper coming once into the house of Anthony Alexander, said to his wife,
 who was big with child, he came to seize all she had.
-'`All,`' said she, '`and that for seven pounds fine, that is hard.`'
+"`All,`" said she, "`and that for seven pounds fine, that is hard.`"
 But he slighting what she said, replied, he would not leave her a bed to lie on.
 And then began to break the doors with a pick-axe;
 he and his companions behaving themselves so desperately,
-that it drew tears from some of the neighbors who beheld it;
-and the warranted spoilers forced Alexander`'s man to help them; which made Alexander say,
-that it was a most unreasonable thing,
+that it drew tears from some of the neighbours who beheld it;
+and the warranted spoilers forced Alexander`'s man to help them;
+which made Alexander say, that it was a most unreasonable thing,
 to require a servant to assist in the taking his master`'s goods: for which the warden,
-Robert Clerk, snarled at him, saying, '`They are our goods.`'
+Robert Clerk, snarled at him, saying, "`They are our goods.`"
 To the house of Samuel Duncon, the aforesaid officers came also,
 and with them the informer, Charles Tennison, and the hangman.
 Here they stayed several days and nights, and kept Samuel`'s wife, who was big with child,
@@ -713,15 +725,15 @@ so much as at the door, nor any to come to her.
 And after they had broken open all the locked doors,
 they took away to the value of about forty-three pounds in goods;
 and so insolent the informers were, that one did not stick to say,
-'`I will make the mayor wait upon me as often as I will, at my pleasure.`'
+"`I will make the mayor wait upon me as often as I will, at my pleasure.`"
 Nay, this wicked crew was become so powerful, that none durst oppose them,
 for fear of falling into disgrace with the court:
 since they were encouraged by such as were in high stations,
 and probably at the instance of the Papists, or popishly affected.
 The constable, William Poole, coming this summer into a meeting at Norwich,
 with an informer, who made him come, and hearing efficacious preaching there,
-cried with tears in his eyes, '`What shall I do!
-I know the power of God is among you:`' and told the informer,
+cried with tears in his eyes, "`What shall I do!
+I know the power of God is among you:`" and told the informer,
 that if there were a curse hung over any people upon the earth,
 it was over the informers.
 And Tennison the informer, who had assisted in taking away Samuel Duncon`'s goods,
@@ -744,7 +756,7 @@ though Day proved, and the officers who kept the friends out of their meeting pl
 declared also, that those words, which were called preaching,
 were no more than an answer to what another had spoken.
 But for all that, Thoroton, to protect, and to gratify the informer, said,
-'`Though but one word were spoken, it is sufficient.`'
+"`Though but one word were spoken, it is sufficient.`"
 A poor woman at South Collingham,
 who was already bereaved of almost all that she possessed,
 and since by her friends provided with a bed and other necessaries,
@@ -758,7 +770,7 @@ who had lost all by spoil, many might have perished.
 
 In the town of Hereford the meetings were also disturbed from time to time,
 chiefly by boys, who threw among those that were met, not only stones, and excrements,
-but burning squibs; and used all manner of insolence and mischief they could think of,
+but burning squibs; and used all manner of insolency and mischief they could think of,
 against these harmless people, either by breaking the glass windows,
 or the forms and seats.
 One of the leaders of this turbulent company, was the son of one Abraham Seward,
@@ -768,40 +780,40 @@ he pretended to be ignorant of his son`'s doings,
 and for all that threatened those that came to him,
 with the execution of the law upon them, if they did not leave off to keep meetings.
 And as it was well known that the chief master of the town-school
-was displeased at the extravagant insolence of some of his scholars,
+was displeased at the extravagant insolency of some of his scholars,
 so it was reported also, that he was forbidden to correct them for it;
 and that the college priests had set them on,
-and said they would bear them out in what they did;
+and said they would hear them out in what they did;
 for some of those brutish boys were choristers.
 Two friends went to the justices, Robert Simons and Thomas Simons,
 to acquaint them with the excessive abuses they met with.
 But the justices not at all regarding their complaint,
-the said Robert endeavored to draw some confession of a meeting from one of them,
+the said Robert endeavoured to draw some confession of a meeting from one of them,
 intending, as he himself said, immediately to have fined him, if he had confessed;
 but he was wary.
-Now since the insolence of the boys was thus encouraged by authority,
+Now since the insolency of the boys was thus encouraged by authority,
 it was no wonder it continued there a whole year.
 At length eight men were taken from the meeting, by the aforesaid mayor, Abraham Seward,
 and carried to the town-hall; and in their passage along, he said,
 they should never meet there more.
 To which a friend, going with him, said,
-'`We are a people gathered by the power of the Lord;
-and therefore the power of man cannot scatter us.`'
+"`We are a people gathered by the power of the Lord;
+and therefore the power of man cannot scatter us.`"
 Being come to the town-hall, the oaths of allegiance and supremacy were tendered to them,
-on which they said, '`We are Christians, therefore cannot break the command of Christ,
+on which they said, "`We are Christians, therefore cannot break the command of Christ,
 which forbids to swear at all; but to render just and lawful allegiance to the king,
-we do not deny, nor refuse.`'
+we do not deny, nor refuse.`"
 And they persisting in their refusal to swear, were committed to prison.
-The next day after, one Walter Rogers, a prebend, walking by the '`meetinghouse,
+The next day after, one Walter Rogers, a prebend, walking by the meetinghouse,
 and observing how it was broken, said to some, that they were very good boys,
 and had done their work better than he thought they had.
 
 At one of the quarter-sessions in Nottingham, one John Sayton appeared, who,
 being fined twenty pounds for suffering a conventicle at his house,
 in the parish of Blyth, came to appeal for justice.
-The witness produced against him, said, '`I was there on that day,
+The witness produced against him, said, "`I was there on that day,
 and there were several people met, but were all silent, and no words spoken amongst them;
-but I did not see John Sayton there.`'
+but I did not see John Sayton there.`"
 And that the said John Sayton was above sixty miles from home the same day,
 for which he was fined twenty pounds,
 was made appear in open court by substantial evidence.
@@ -813,7 +825,7 @@ that he did either wittingly or willingly consent to that meeting,
 if they could make it a conventicle?
 To this the informer`'s counsel objected, that although there was neither preaching,
 praying, nor reading,
-yet it was evident enough that they met under a pretense of religious exercise;
+yet it was evident enough that they met under a pretence of religious exercise;
 and seeing there were more than five, and not of John Sayton`'s family,
 therefore it must needs be a conventicle.
 And as to the second, seeing they cannot prove he was there,
@@ -821,15 +833,15 @@ we must leave it to the consciences of the jury,
 whether he did willingly consent to that meeting or no.
 After the counsel had spoken on both sides, Peniston Whaley, one of the justices,
 who sat in the chair as judge of the court, stood up, and said to the jury,
-'`Although there was no visible exercise that can be proved, yet the Quakers say,
+"`Although there was no visible exercise that can be proved, yet the Quakers say,
 they worship God in spirit and truth;
-and we know their manner is to sit sighing and groaning,`' etc.
-The jury returning, and being asked by the court, '`Do you find it for the king,
-or for the appellant,`' answered, '`For the appellant.`'
+and we know their manner is to sit sighing and groaning,`" etc.
+The jury returning, and being asked by the court, "`Do you find it for the king,
+or for the appellant,`" answered, "`For the appellant.`"
 This so displeased the said justice Whaley, that he bid them go forth again.
 But one of the jurymen saying, they were agreed,
 and they had considered the thing very well, he thereupon fell into such a rage,
-that he said, '`You deserve all to be hanged; for you are as ill as highwaymen.`'
+that he said, "`You deserve all to be hanged; for you are as ill as highwaymen.`"
 Perhaps he himself was either an informer, or a special friend to such,
 and therefore was sorry that the jury deprived him of the booty, or a share of it.
 
@@ -848,7 +860,7 @@ But this threat could not make them afraid;
 for at the next assizes the oaths being tendered them again, they continued in refusing,
 though they solemnly acknowledged allegiance to the king as supreme magistrate;
 and thereupon were remanded to close imprisonment, where Edward Rees, one of them,
-being above sixty years of age, and not able to bear the cold,
+being above sixty years of age, and not able to hear the cold,
 died about the height of the frost, not having been allowed the use of fire.
 
 Sometime before, it happened within the corporation of Pool, in Montgomeryshire,
@@ -865,7 +877,7 @@ This year died in prison John Sage, being about eighty years of age,
 after having been in prison at Ivelchester in Somersetshire, almost ten years,
 for not paying of tithes.
 And it appeared that since the restoration of king Charles,
-above two hundred of the people called Quakers, died in prisons m England,
+above two hundred of the people called Quakers, died in prisons in England,
 where they had been confined because of their religion.
 I could relate abundance of occurrences this year, if I had a mind to extend my work,
 but I study brevity; yet cannot omit to mention, that in this year,
@@ -880,7 +892,7 @@ Whereas of late,
 many negroes have been suffered to remain at the meetings of the Quakers,
 as hearers of their doctrine, and taught in their principles,
 whereby the safety of the island may be much hazarded: be it enacted,
-that if at anytime after publication hereof, any negro, or negroes,
+that if at any time after publication hereof, any negro, or negroes,
 be found with the people called Quakers, at any of their meetings,
 as hearers of their preaching, he or they shall be forfeited,
 one half to such as shall seize, or sue for him or them,
@@ -904,24 +916,25 @@ unless within one month after the publication hereof,
 he first take the oaths of allegiance and supremacy,
 before some justice of peace of the parish where the party lives,
 and have a certificate thereof, or have a special license from the governor,
-on pain of three months imprisonment, and forfeiture of 3001bs, of Muscovado sugar,
-the one moiety to the informer, and the other to the public use of the island,
-to be recovered as aforesaid.
+on pain of three months imprisonment, and forfeiture of 300 lbs.
+of Muscovado sugar, the one moiety to the informer,
+and the other to the public use of the island, to be recovered as aforesaid.
 And no person whatsoever, who is not an inhabitant and resident of this island,
 and hath been so for twelve months together, shall hereafter publicly discourse,
 or preach at the meeting of the Quakers, on pain of six months imprisonment,
 and forfeiture of 1000 lbs.
 Muscovado sugar, the one moiety to such as sue for it,
-the other to the public use of the island, to he recovered as aforesaid:
+the other to the public use of the island, to be recovered as aforesaid:
 provided that all actions upon this statute,
-be brought within six months after the offense.
+be brought within six months after the offence.
 
+[.signed-section-context-close]
 Read, and passed the council the 21st of April, 1676,
 and consented to by his excellency +++[+++the governor]
 the same day.
 
 [.signed-section-signature]
-Edward Steed, Deputy-secretary.
+Edward Steed, _Deputy-secretary._
 
 --
 
@@ -929,26 +942,26 @@ Although in the beginning of this statute,
 the instructing of the negroes in the doctrine of the Quakers,
 is represented as a thing whereby the safety of the island might be much hazarded,
 yet the sequel shows that this was not the matter,
-but that it was endeavored to deprive the Quakers of their due liberty.
+but that it was endeavoured to deprive the Quakers of their due liberty.
 What was the issue hereof I am unacquainted with.
 
-This year Robert Barclay wrote a letter to the Herr Adrian Pacts,
-with whom he had some discourse when the said Herr returned from Spain,
+This year Robert Barclay wrote a letter to the heer Adrian Paets,
+with whom he had some discourse when the said heer returned from Spain,
 where he had been ambassador for the States of the United Provinces.
-This Pacts having a strange opinion of the doctrine of the Quakers,
-had a good while ago wrote a letter to Christian Hartzoeker,^
-footnote:[To be found in the book called [.book-title]#Prastantium ac
-eruditorum virorum Epistole Eccksiastique & Theologica.#
-Amatelodami _apud_ Franciscum Halman.
-1704]
-at Rotterdam, about their doctrine;
+This Paets having a strange opinion of the doctrine of the Quakers,
+had a good while ago wrote a letter^
+footnote:[To be found in the book called
+// lint-disable invalid-characters "æ"
+[.book-title]#Præstantium ac eruditorum virorum Epistolæ Ecclesiastique & Theologicæ.
+Amstelodami apud Franciscum Halman.# 1704.]
+to Christian Hartzoeker, at Rotterdam, about their doctrine;
 and having afterwards discoursed with Barclay concerning
 the inward and immediate revelation of the Spirit of God,
 this induced Barclay to write a letter on the said subject in Latin,
-to the aforementioned Herr, wherein he made a more large reply to his arguments,
+to the aforementioned heer, wherein he made a more large reply to his arguments,
 than he had done by word of mouth.
 This letter being sent over from Scotland to Holland,
-was delivered by Benjamin Furly at Rotterdam, to the said Herr Pacts,
+was delivered by Benjamin Furly at Rotterdam, to the said heer Paets,
 with a desire that he might be pleased to return an answer to it,
 which he promised he would.
 But he continuing deficient in the case,
@@ -957,9 +970,9 @@ but without mentioning the name of him to whom it was written, only his characte
 viz. __Cuidam legato.__^
 footnote:[To a certain ambassador.]
 
-In this letter was set down first the objection of the Herr Pacts, to wit,
+In this letter was set down first the objection of the heer Paets, to wit,
 that since the being and substance of the Christian
-religion consist-s in the knowledge of,
+religion consisted in the knowledge of,
 and faith concerning, the birth, life, death, resurrection,
 and ascension of Christ Jesus,
 he considered the substance of the Christian religion as contingent truth;
@@ -1002,15 +1015,15 @@ he then speaks as to the ear of the heart of the inward man.
 And, that as when any natural idea is excited in us, we clearly know it;
 so also when a supernatural idea is raised, we clearly know that whereof it is the idea.
 He also holds forth, what properly is the inward supernatural sense in man;
-and then he distinguishes between contingent and necessary truths,
+and then he distinguisheth between contingent and necessary truths,
 and shows how a divine revelation may be known to be such,
 saying that natural and spiritual senses are distinguishable by their objects,
-and demonstrating how godly men may know they are in the favor of God,
+and demonstrating how godly men may know they are in the favour of God,
 and how the wicked feel the wrath of God as fire.
 He also relates after what manner the spiritual senses distinguish the good and the evil;
-and he confesses there is in all men, as well the godly as the ungodly,
+and he confesseth there is in all men, as well the godly as the ungodly,
 some sort of idea of God, as of a most perfect being: but he asserts,
-that the supernatural idea of God differs much from the natural;
+that the supernatural idea of God differeth much from the natural;
 and that in all men there is a supernatural idea of God.
 He also shows, wherein the motions of the mind differ from those of the body;
 and that there are ideas as well of supernatural, as of natural things.
@@ -1030,34 +1043,37 @@ that often they are vitiated both by outward casualties and natural infirmities,
 whereunto the godly are no less subject than the wicked.
 
 All this is treated at large by Barclay, as may be seen in the said letter,
-and several years after, when the Herr Paets was at London,
+and several years after, when the heer Paets was at London,
 being one of the commissioners for the Dutch East India company,
 Barclay spoke with him again, and so represented the matter,
 that he readily yielded that he had been mistaken in his notion of the Quakers;
 for he found they could make a reasonable plea for the foundation of their religion.
-And thereupon R, Barclay translated the said letter into English as follows:
+And thereupon R. Barclay translated the said letter into English as follows:
 
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== A brief and distinct solution of the argument which the Ambassador aforesaid useth against Robert Barclay`'s thesis, whereby he attempts to evince, that not the inward revelation of the Holy Spirit, but the outward by the Scripture, is the principal rule, and foundation of our faith: at least to us Europeans, who have the Scriptures.
 
 [.salutation]
 My Friend,
 
 Albeit I judge I did fully answer to all thy arguments in that conference we had,
 concerning the necessity and possibility of inward immediate revelation,
-and of the certainly of true faith from thence proceeding; nevertheless,
+and of the certainty of true faith from thence proceeding; nevertheless,
 because after we had made an end, and were parting,
 thou wouldest needs remit to my further consideration the strength of thy argument,
-as that in which thou supposes the very hinge of the question to lie:
+as that in which thou supposedst the very hinge of the question to lie:
 that I might satisfy thy desire, and that the truth might more appear,
 I did further consider of it, but the more I weighed it, I found it the weaker.
 And therefore that thou thyself mayest make the truer judgment of it,
 I thought meet to send thee my further considerations thereon; (which I had done ere now,
 had not I, both at London and elsewhere,
 been diverted by other necessary occasions,) wherein I doubt not,
-but thou will perceive a full and distinct answer to thy argument.
+but thou wilt perceive a full and distinct answer to thy argument.
 But if thou canst not as yet yield to the truth,
-or thinks mine answer in any part to be defective,
+or thinkest mine answer in any part to be defective,
 so that there yet remains with thee any matter of doubt or scruple;
 I do earnestly desire thee, that as I for thy sake, and out of love to the truth,
 have not been wanting to examine thy argument,
@@ -1076,24 +1092,45 @@ Which argument of thine is;
 
 That since,
 (as thou judgest,) the being and substance of the
-Christian religion consists in the knowledge of,
+Christian religion consisteth in the knowledge of,
 and faith concerning, the birth, life, death, resurrection,
 and ascension of Christ Jesus,
-thou considers the substance of the Christian religion as a contingent truth;
+thou considerest the substance of the Christian religion as a contingent truth;
 which contingent truth is matter of fact.
 Whence thou reasonest, that:
 
-[.syllogism]
-* Matter of fact cannot be known but by the relation of another, or by perception of the outward senses; because there are naturally in our souls no ideas of contingent truths, such as are concerning necessary truths: to wit, that God is; and that the whole is greater than the part.--And since it may without absurdity be said, that
-* God cannot make a contingent truth to become a necessary truth; neither can God reveal contingent truths or matters of fact, but as contingent truths are revealed: but matters of fact are not revealed but by the outward senses. From whence thou concludes that
-* Men are not even obliged to believe God producing any revelation in the soul concerning matter of fact, whether of a thing done, or to be done, unless there be added some miracles obvious to the outward senses, by which the soul may be ascertained, that that revelation cometh from God.
+[quote]
+____
+Matter of fact cannot be known but by the relation of another,
+or by perception of the outward senses;
+because there are naturally in our souls no ideas of contingent truths,
+such as are concerning necessary truths: to wit, that God is;
+and that the whole is greater than the part.
+____
 
-All this thou endeavorest also to prove from the Scripture, Rom. 10.
-where the apostle saith, "`Faith cometh by hearing:`" and because the apostle speaks
+And since it may without absurdity be said,
+that God cannot make a contingent truth to become a necessary truth;
+neither can God reveal contingent truths or matters of fact,
+but as contingent truths are revealed:
+but matters of fact are not revealed but by the outward senses.--From whence thou concludest,
+that:
+
+[quote]
+____
+Men are not even obliged to believe God producing
+any revelation in the soul concerning matter of fact,
+whether of a thing done, or to be done,
+unless there be added some miracles obvious to the outward senses,
+by which the soul may be ascertained, that that revelation cometh from God.
+____
+
+All this thou endeavourest also to prove from the Scripture,
+Rom. 10. where the apostle saith,
+"`Faith cometh by hearing:`" and because the apostle speaketh
 afterwards of those who were sent in the plural number;
-thence thou concludes that to be spoken of outward preaching by the ministry of men:
+thence thou concludest that to be spoken of outward preaching by the ministry of men:
 and since the apostle uses a question, saying,
-"`How shall they believe unless they hear,`" thou gathers
+"`How shall they believe unless they hear,`" thou gatherest
 from the induction and connection of the text,
 that the apostle treats only of outward hearing; thence concluding,
 that without outward hearing, faith cannot be produced: and therefore,
@@ -1108,7 +1145,7 @@ some things are necessary to be premised:
 ====
 
 [.numbered]
-_First_ then; That it is falsely supposed,
+First then; That it is falsely supposed,
 that the essence of the Christian religion consists
 in the historical faith and knowledge of the birth,
 death, life, resurrection, and ascension of Jesus Christ.
@@ -1146,7 +1183,7 @@ life, etc. in the reading or hearing the Scripture, or meditating therein.
 [.numbered]
 _Thirdly,_ Nevertheless we do firmly assert, that God can most easily, clearly,
 and certainly, manifest to our minds the historical truths of Christ`'s birth,
-etc. when it so pleased him, even without the Scripture, or any other outward means.
+etc. when it so pleaseth him, even without the Scripture, or any other outward means.
 And because this argument seems to be formed against the possibility of such a revelation,
 therefore I shall proceed to discuss it: but first thou mayest mind,
 that the prophets who foretold Christ`'s coming in the flesh,
@@ -1156,13 +1193,13 @@ for which see 1 Pet. 1:10-11. Now that which hath been may be.
 
 [.numbered]
 _Fourthly,_ This argument doth at most conclude,
-that we cannot know naturally any truth of fact,
-but by the relation of another without us, or by the perception of the outward senses;
+that we cannot know naturally any truth of fact, but by the relation of another without,
+us, or by the preception of the outward senses;
 because there are naturally in our minds no ideas concerning contingent truths,
 (and every truth of fact is a contingent truth,) as there are of necessary truths.
-This then proves, that we cannot naturally know any contingent truth,
+This then proveth, that we cannot naturally know any contingent truth,
 but by the relation of another, or perception of the outward senses:
-but that hinders not, but we may know a contingent truth by a supernatural knowledge,
+but that hindreth not, but we may know a contingent truth by a supernatural knowledge,
 God supplying the place of an outward relator; who is so true, that he may,
 and ought to be believed, since God is the fountain of truth.
 
@@ -1174,9 +1211,13 @@ God speaking as to the ear of the heart of the inward man,
 or as by his finger writing therein,
 two things are to be considered in such an immediate revelation.
 
-To _Materiale,_ The matter of fact, or thing revealed, which is contingent.
+// lint-disable invalid-characters "ὸ"
+Τὸ:^
+footnote:[_The_ in Greek. Latin lacks a definite article.__--Transcriber.__]
+_Materiale,_ The matter of fact, or thing revealed, which is contingent.
 
-To _Formale,_ The form or mode, how the revelation is made: which form is an inward,
+// lint-disable invalid-characters "ὸ"
+Τὸ: _Formale,_ The form or mode, how the revelation is made: which form is an inward,
 divine, and supernatural revelation, which is the voice or speech of God,
 inwardly speaking to the ear of the inward man or mind of man,
 or a divine writing supernaturally imprinted therein.
@@ -1199,11 +1240,11 @@ _Sixthly:_ Now as some beings are natural, some supernatural, so some ideas are 
 some supernatural: and as when any natural idea is excited in us, we clearly know it;
 so also when a supernatural idea is raised, we clearly know that, whereof it is the idea.
 But the voice of God speaking to the mind of man, is a supernatural being,
-and stirrs up in us a supernatural idea,
+and stirreth up in us a supernatural idea,
 by which we clearly know that inward voice to be the voice of God,
 and not the voice or operation of another, or of any evil spirit, or angel,
 because none of these have a supernatural idea, as the voice of God,
-and his divine operation hath: for it is full of vigor, virtue, and divine glory,
+and his divine operation hath: for it is full of vigour, virtue, and divine glory,
 as saith the psalmist, who had often experience of it;
 and we also in our measures are witnesses thereof,
 for the voice of God is known to be his by its divine virtue.
@@ -1221,7 +1262,7 @@ feels in itself divine motions, influences, and operations,
 which sometimes are as the voice or speech of God,
 sometimes as a most pleasant and glorious illustration
 or visible object to the inward eye,
-sometimes as a most sweet savor or taste, sometimes as a heavenly and divine warmness,
+sometimes as a most sweet savour or taste, sometimes as an heavenly and divine warmness,
 or, so to speak, melting of the soul in the love of God.
 Moreover, this divine and supernatural operation in the mind of man,
 is a true and most glorious miracle;
@@ -1232,8 +1273,8 @@ that there is no need of an outward miracle:
 for this assent is not because of the thing itself,
 but because of the revelation proposing it, which is the voice of God.
 For when the voice of God is heard in the soul,
-the soul doth as certainly conclude the truth of that voice, as the truth of God`'s being,
-from whom it proceeds.
+the soul doth as certainly conclude the truth of that voice,
+as the truth of God`'s being, from whom it proceeds.
 
 ====
 
@@ -1248,8 +1289,8 @@ And this all mankind will say, that this proposition,
 every divine revelation is necessarily true, is as clear and evident,
 as that proposition, that every whole is greater than its part.
 
-But thou wilt say; how knows thou that a divine revelation is a divine revelation?
-I answer, how knows thou that a whole is a whole, and a part is a part?
+But thou wilt say; how knowest thou that a divine revelation is a divine revelation?
+I answer, how knowest thou that a whole is a whole, and a part is a part?
 thou wilt say, by the natural idea excited in me of a whole, and of a part.
 I answer again;
 even so a divine revelation is known to be such by a supernatural
@@ -1257,7 +1298,7 @@ idea of divine revelation stirred up in us,
 and that by a divine motion, or supernatural operation.
 But it is no wonder that men, who have no experience of supernatural ideas,
 or at least do not heed them, do deny them; which is,
-as if a man naturally blind denied light or colors; or a deaf man sounds,
+as if a man naturally blind denied light or colours; or a deaf man sounds,
 because they experience them not.
 Therefore, we cannot dissemble,
 that we feel a fervent zeal even divinely kindled in us against such an absurd opinion,
@@ -1270,22 +1311,22 @@ which the beasts have common with us; yea, it derogates from God`'s power,
 and imputes weakness to him, as if he could not do that,
 which not only both good and evil angels can do, but which the meanest creatures can do,
 and the most insensible.
-As for instance: the heat of the fire, the coldness of the air and water works upon us;
+As for instance: the heat of the fire, the coldness of the air and water worketh upon us;
 yea, if a pin prick us, we feel it, and that by the outward sense;
 because the objects are outward and carnal:
 but since God is a most pure and glorious Spirit,
-when he operates in the innermost parts of our minds by his will;
+when he operateth in the innermost parts of our minds by his will;
 shall not he and his will be clearly felt according to his nature, that is,
 by a spiritual and supernatural sense?
 For as the nature of God is, so is the nature of his will, to wit, purely spiritual,
-and therefore requires a spiritual sense to discern it; which spiritual sense,
+and therefore requireth a spiritual sense to discern it; which spiritual sense,
 when it is raised up in us by a divine operation,
 doth as clearly and certainly know the voice or revelation of the will of God,
 concerning any thing which God is pleased to reveal, however contingent,
 as the outward sense knows and perceives the outward object.
 And it is no less absurd, to require of God, who is a most pure Spirit,
 to manifest his will to men by the outward senses, else not to be credited;
-as to require us to see sounds, and hear lights and colors.
+as to require us to see sounds, and hear lights and colours.
 For as the objects of the outward senses are not to be confounded,
 but every object is to have its proper sense;
 so must we judge of inward and spiritual objects, which have their proper sense,
@@ -1297,11 +1338,12 @@ as ours are?
 Yea, when men die, and appear before the tribunal of God,
 whether unto eternal life or death, how can they know this,
 having laid down their bodies, and therewith their outward senses?
+
 And nevertheless this truth of God is a truth of fact,
 as is the historical truth of Christ`'s birth in the flesh.
 And which is yet more near:
 how do good and holy men even in this life most certainly know,
-that they are in the favor and grace of God?
+that they are in the favour and grace of God?
 no outward revelation doth make this known unto them; but the Spirit,
 as saith the apostle, beareth witness with our spirits, that we are the children of God.
 For the mere testimony of a human conscience,
@@ -1332,53 +1374,53 @@ in wicked men from the sense of this wrath of God,
 which very much vexeth and tormenteth their minds;
 and nevertheless this grief hath no natural idea in us:
 for oftentimes wicked men feel not this sorrow; for God sometimes is, as it were, silent,
-while the wicked sin, as in Psalm 1.
+while the wicked sin, as in Ps. 1.
 
 All which things do most clearly demonstrate,
 that there are in men supernatural ideas of supernatural beings;
 which ideas are nevertheless not perceived by us,
 unless they be stirred up by some supernatural operation of God,
-which raises up in us supernatural and spiritual senses,
+which raiseth up in us supernatural and spiritual senses,
 which by their nature are as distinguishable from the natural senses,
 whether inward or outward,
 as the natural senses are distinguished one from another by their specific difference.
-Of which spiritual senses the Scripture speaks frequently, as Heb. 5 and 14
+Of which spiritual senses the Scripture speaks frequently, as Heb. 5. and xiv.
 where is spoken of the spiritual senses in general,
 by which the spiritual man hath the discerning of good and evil:
 which good is of a spiritual nature,
-and conduces to feed in us a spiritual and divine life; and the evil is of that kind,
+and conduceth to feed in us a spiritual and divine life; and the evil is of that kind,
 by which the spiritual life is in us hurt; to wit, sins, whether carnal or spiritual;
 all which cannot be discerned but by such who have spiritual senses stirred up in them,
 as saith the apostle.
-In other places the Scripture also speaks of these spiritual senses in particular;
-as of the spiritual seeing. Ps. 34:9.
-Of the spiritual hearing, Ps. 85:9. Of spiritual tasting. Ps. 34:8.
-Of spiritual smelling, Song. 1:3, Of spiritual touching, Acts 17:8,
+In other places the Scripture also speaketh of these spiritual senses in particular;
+as of the spiritual seeing, Ps. 34:9. Of the spiritual hearing, Ps. 85:9.
+Of spiritual tasting, Ps. 34:8. Of spiritual smelling, Song. 1:3.
+Of spiritual touching, Acts 17:8,
 and in many other places of Scripture we read of those spiritual senses in particular.
 Yea, it is the promise of the gospel, that the glory of God shall be seen of holy men,
 such as are clean of heart, even in this life: Isaiah 33:17.
 Matt. 5:8. Which were fulfilled in the primitive Christians,
-see John 1:14., 1 John 1:2-4., 2 Cor. 3:18, and chap.
-iv. 6. But what is this vision of God and divine glory,
+see John 1:14. 1 John 1:2-4. 2 Cor. 3:18, and chap.
+4:6. But what is this vision of God and divine glory,
 which the souls of the saints enjoy in this life,
 which is only as the earnest or first-fruits of that
 more abundant glorious vision in the life to come,
-concerning which the Scripture so much declares,
+concerning which the Scripture so much declareth,
 which is the highest happiness of the immortal soul.
 
-For this argument seems to do no less injury to the saints,
+For this argument seemeth to do no less injury to the saints,
 than to rob them of this most glorious treasure both in this life, and that to come.
 For there is in us no natural idea of this divine glory,
 as there is not of God himself which is any ways proportionable unto so great happiness,
-which the Scripture so much declared of,
+which the Scripture so much declareth of,
 by which the godly are rewarded partly in this life,
 and plenarily in that which is to come.
 We confess indeed, there is in all men, as well the godly as ungodly,
 some sort of idea of God, as of a most perfect being;
-and that therefore this proposition, there exists a most perfect being,
+and that therefore this proposition, there existeth a most perfect being,
 doth as clearly appear to human understanding,
 as that the whole is greater than the part: and therefore this proposition,
-that a most perfect being exists, ought to be numbered among the principles,
+that a most perfect being existeth, ought to be numbered among the principles,
 that of themselves are manifest.
 But this idea of God is as manifest to ungodly, as to godly men; yea,
 it is clearly perceived by the devil, as by the most holy angels:
@@ -1388,7 +1430,7 @@ as to the vision of God, which is the chief reward of the saints.
 There is then either no such vision of God, neither in this life, nor in that to come;
 or there is a supernatural idea of God in us,
 by which we are made capable of this vision;
-which supernatural idea of God differs much from that natural idea of God,
+which supernatural idea of God differeth much from that natural idea of God,
 which Cartesius and his followers so much talk of,
 (albeit others long before Cartesius did observe this natural idea of God,
 and spoke of it.) But the happiness of the saints consists
@@ -1399,23 +1441,25 @@ both the devil and most wicked men do as clearly perceive this natural idea of G
 as the most holy men or angels.
 
 If the Scripture then be true, there is in men a supernatural idea of God,
-which altogether differs from this supernatural idea: I say, in all men;
+which altogether differs from this natural idea: I say, in all men;
 because all men are capable of salvation,
 and consequently of enjoying this Divine vision.
-Now this capacity consists herein, that they have such a supernatural idea in themselves:
+Now this capacity consisteth herein,
+that they have such a supernatural idea in themselves:
 for if there were no such idea in them, it were impossible they should so know God.
 For whatsoever is clearly and distinctly known, is known by its proper idea;
 neither can it other-ways be clearly and distinctly known:
 for the ideas of all things are divinely planted in our souls;
 for they are not begotten in us by outward objects, or outward causes,
-as the better philosophy teaches,
+as the better philosophy teacheth,
 but only are by these outward things excited or stirred up.
 And this is true not only in supernatural ideas of God, and things divine,
 and in natural ideas of the natural principles of human understanding,
 and conclusions thence deduced by the strength of human reason:
 but even in the ideas of outward objects, which are perceived by the outward senses;
-as that noble Christian philosopher Boetius hath well observed;
-to which also the Cartesian philosophy agrees.
+// lint-disable invalid-characters "œ"
+as that noble Christian philosopher Bœtius hath well observed;
+to which also the Cartesian philosophy agreeth.
 For when I see any outward object, whether it be a man, or horse, or bird,
 the outward object does not treat in my eye, nor yet in my mind the idea of those things;
 for the outward object does nothing but imprint in our sensible organs a corporeal motion.
@@ -1430,7 +1474,7 @@ are divinely implanted in our minds; which nevertheless do not always appear,
 but sometimes appear, and sometimes are as it were hid in us,
 and sometimes are stirred up in us by causes outward or inward,
 and again do as it were sleep and shun our observation,
-and seem not to be otherwise distinguished by our minds,
+and seem not to be otherways distinguished by our minds,
 but as thoughts and perceptions of the mind from the mind itself; that is,
 as the mode from the subject, or as a bodily motion from the body,
 whereof it is the motion: for as is the relation of a bodily motion to a body,
@@ -1441,11 +1485,11 @@ so also can the mind after this manner be moved by another,
 and that both by outward and inward causes, but chiefly by God himself,
 in whose hand all souls and creatures are.
 But of these things there is enough said at present; and I hope,
-I have not thus far impertinently philosophized.
+I have not thus far impertinently philosophised.
 
 As there are then natural ideas concerning the things of the natural world;
-as for instance, ideas of light and colors, ideas of voice and sound,
-ideas of savoring and smelling, ideas of tasting and feeling, as of heat and cold,
+as for instance, ideas of light and colours, ideas of voice and sound,
+ideas of savouring and smelling, ideas of tasting and feeling, as of heat and cold,
 of grief and joy; it follows also, that there are ideas of supernatural things,
 concerning the divine and supernatural things of the divine and supernatural world;
 as ideas of those things above-mentioned in the spiritual world.
@@ -1453,8 +1497,8 @@ And as the natural ideas are stirred up in us by outward and natural bodies,
 so those divine and supernatural ideas are stirred up in us by a certain principle,
 which is a body in naturals, in relation to the spiritual world,
 and therefore may be called a divine body; not as if it were a part of God,
-who is a most pure spirit; but the organ, or instrument of God, by which he works in us,
-and stirs up in us these ideas of divine things.
+who is a most pure spirit; but the organ, or instrument of God,
+by which he worketh in us, and stirreth up in us these ideas of divine things.
 This is that flesh and blood of Christ, by which the saints are nourished;
 which is a mystery to all unregenerated and mere natural men,
 never to be reached by them, while they remain in that state.
@@ -1471,7 +1515,7 @@ spiritual minded men do behold the glory and beauty of God, in respect whereof,
 and for which, all the glory of this world is despicable to them; yea,
 even as dross and dung.
 And they also hear God inwardly speaking in their souls, words truly divine and heavenly,
-full of virtue and divine life; and the savor and taste of divine things, and do,
+full of virtue and divine life; and the savour and taste of divine things, and do,
 as it were, handle them with the hands of their souls.
 And those heavenly enjoyments do as really differ in their nature from all false similitudes,
 and fictitious appearances of them,
@@ -1489,21 +1533,21 @@ and the true supernatural ideas of those things truly raised up.
 And if there be at any time a mistake,
 the divine illumination is not the cause of that mistake,
 but some evil disposition of the mind;
-as happens in those things relating to natural reason.
+as happeneth in those things relating to natural reason.
 For there are many false appearances of reason, which differ as much from true reason,
 as those false and pretended revelations,
 and diabolical inspirations from such as are truly divine.
 Now, how many men who would be esteemed philosophers,
 are miserably deceived by those false likenesses of reason,
 judging their false reasons to be the true similitudes of things and solid ratiocinations;
-which nevertheless moves no man of sound reason, to reject sound and solid reason,
+which nevertheless moveth no man of sound reason, to reject sound and solid reason,
 as doubtful and uncertain?
 For even sound natural reason is an excellent gift of God, and very useful to mankind,
 when used in its proper place:
 but let none think to comprehend by their natural reason
 things that are of a divine and supernatural kind.
 And as we use to do, when any one is deceived by false appearances of reason,
-we endeavor to reduce them to contemplate the first natural ideas of natural things,
+we endeavour to reduce them to contemplate the first natural ideas of natural things,
 and to meditate therein, which is as a test or touchstone,
 by which all the appearances and likenesses of reason are to be examined;
 if they contradict them, to be rejected;
@@ -1534,9 +1578,9 @@ But to proceed: if we will hear the Scripture,
 (as all Christians ought,) it testifies to us,
 that God hath declared his mind and will even concerning contingent truths to come,
 in the prophets; as that of the first to the Hebrews doth evidently declare: "`God,
-who at sundry times, and in divers manners spoke to our fathers in the prophets.`" Yea,
-let us hear the prophets themselves; Hosea, chap. i. saith plainly,
-"`That the word of the Lord was made in him,`" as it is in the Hebrew.
+who at sundry times, and in divers manners spoke to our fathers in the prophets.`"
+Yea, let us hear the prophets themselves; Hosea, chap.
+1 saith plainly, "`That the word of the Lord was made in him,`" as it is in the Hebrew.
 Habakuk also says, As he was standing on his watch,
 to see what Jehovah would speak in him.
 And it is so manifest that the most heavenly revelations are by inward illustrations,
@@ -1578,41 +1622,46 @@ Of which we have a clear example in Joseph, the husband of the blessed Virgin, w
 when he observed his wife with child, was told in a dream,
 that she had conceived by the Holy Ghost: now I would know,
 to which of Joseph`'s outward senses was this revealed?
-or what miracle had he to induce him to believe which could neither be proved,
-so as to make an infallible application to Mary, by the testimony of the Scripture;
-and which being against the order of nature, did choke his reason.
+or what miracle had he to induce him to believe?
+which could neither be proved, so as to make an infallible application to Mary,
+by the testimony of the Scripture; and which being against the order of nature,
+did choke his reason.
 The Scripture mentions no miracle in this matter;
 and yet no doubt Joseph had highly sinned had he not believed this revelation,
-and notwithstanding, rejected his wife as an adulteress.
+and notwithstanding, rejected his wife as an adultress.
 But if thou sayest, that according to thy hypothesis there must have been a miracle;
 that is only to beg the question: and how false this hypothesis is,
-the apostle shows clearly, 1 Cor. 2:14. the natural or animal man know not,
-receive not, the things of God.
+the apostle shows clearly, 1 Cor. 2:14. the natural or animal man knoweth not,
+receiveth not, the things of God.
 Now divine revelations are of this nature;
 if either chiefly or only those things were to be judged by the outward senses,
 it would contradict the apostle.
 For natural men, yea, the most wicked,
 have the use of the outward senses as true and exact as the most godly.
-And whereas the apostle adds, "`For they are spiritually discerned,
-it puts the matter out of all question: for thence it abundantly appears,
-that this discerning is not by the outward senses according "`to the following verse;
-for the apostle saith, The spiritual man judges all things:
-this then must be done by some senses or properties peculiar to the spiritual man,
+And whereas the apostle adds,
+"`For they are spiritually discerned,`" it puts the matter out of all question:
+for thence it abundantly appears,
+that this discerning is not by the outward senses according to the following verse;
+for the apostle saith,
+"`The spiritual man judgeth all things:`" this then must be done
+by some senses or properties peculiar to the spiritual man,
 and in which he excels the natural man, which is not in the outward senses,
 as we all do know.
-Therefore the perception of spiritual things cannot be by the outward senses,
-either as the chief or only means as is falsely contended for.
+Therefore the perception of "`spiritual things cannot be by the outward senses,
+either as the chief or only means,`" as is falsely contended for.
 
-Now as to these words of the apostle, Rom. 10.
-That faith comes by hearing; Zuinglius observed well,
+Now as to these words of the apostle, Rom. 10, That faith comes by hearing;
+Zuinglius observed well,
 that the apostle intended not to affirm faith to come by the hearing of the outward word;
 neither do the following words prove it, "`How shall they believe, unless they hear?
 and how shall they hear without a preacher?
-and how shall they preach, unless they be sent?`" for the apostle uses these words,
-not as his arguments, but as objections which might be formed;
+and how shall they preach, unless they be sent?`"
+for the apostle uses these words, not as his arguments,
+but as objections which might be formed;
 as the same apostle uses in other places;
 to which objections he answers in the same chapter, as appears verse 18.
-"`But I say, have not they all heard?
+"`But I say,
+have not they all heard?
 yes, truly their voice went into all the earth:`" that is, of the Father and Son,
 or the Father in the word; which word is not only near us,
 but according to the same apostle in the same chapter, in our mouths, and in our hearts.
@@ -1623,8 +1672,8 @@ that since faith cannot be without outward hearing,
 therefore nothing can certainly be believed,
 but where somewhat is proposed to the outward hearing.
 For if thou acknowledge faith can be begotten any otherwise than by hearing,
-thou loses the strength of thy argument: and if that argument hold,
-that faith comes only by outward hearing, thou destroys the whole hypothesis.
+thou losest the strength of thy argument: and if that argument hold,
+that faith comes only by outward hearing, thou destroyest the whole hypothesis.
 For having before affirmed,
 that outward miracles are sufficient to render one certain of the truth of any revelation;
 whether it be the healing of the sick, or the raising of the dead, would avail nothing,
@@ -1636,24 +1685,25 @@ But I the more wonder thy using of this argument,
 considering the discourse we had together before we entered upon this debate:
 for when we were speaking of the opinion of a certain person,
 who denied the certainty of everything, but what was discerned by the outward senses,
-thou condemns it as most absurd; but why, I cannot conceive,
+thou condemnedst it as most absurd; but why, I cannot conceive,
 since there is no great difference betwixt these two opinions:
 the one saith there can be no great certainty concerning any truths,
 whether they be necessary or contingent, but by the perception of the senses:
 the other affirms the same of contingent truths, though not of necessary truths.
-But among the number of contingent truths thou esteems what belongs to Christian religion,
+But among the number of contingent truths thou esteemest what belongs to Christian religion,
 for thou reckons the necessary truths only to belong to natural religion.
 This then is all the difference, that that other person says,
 there is no certainty of any religion, neither natural nor Christian,
 but by the perception of the outward senses:
-but thou sayest though thou esteems the certainty of natural religion to be without them,
+but thou sayest though thou esteemest the certainty
+of natural religion to be without them,
 yet not of the Christian religion.
 But again,
-since thou esteems that not natural religion but
+since thou esteemest that not natural religion but
 the Christian religion is necessary to salvation,
 thou must necessarily conclude, that those truths which are necessary to salvation,
 are only known and believed by the benefit of the outward senses: in which conclusion,
-(which is the sum of all,) thou yields the matter to that other person.
+(which is the sum of all,) thou yieldest the matter to that other person.
 
 But lastly: if all the certainty of our faith, hope, and salvation,
 did depend upon the infallibility of outward senses, we should be most miserable;
@@ -1677,7 +1727,10 @@ I pray God therefore to remove these clouds, which darken thy understanding,
 that thou mayest perceive the glorious gospel of Christ;
 this is that saving word of grace which I commend thee unto;
 and that God may give thee a heart inclinable to believe and obey the truth,
-is the desire of thy faithful friend,
+is the desire of
+
+[.signed-section-closing]
+Thy faithful friend,
 
 [.signed-section-signature]
 R+++.+++ Barclay.
@@ -1685,34 +1738,31 @@ R+++.+++ Barclay.
 [.signed-section-context-close]
 From the prison of Aberdeen, in Scotland,
 where I am confined for the sake of the testimony of Jesus.
+November 24, 1676.
 
-[.signed-section-context-close]
-November 24,1676.
+[.postscript]
+====
 
 This letter, a year ago,
 at the desire of my friend R. B. I delivered into the hands of the afore-named ambassador,
 desiring his answer in writing, which he then promised; but not having as yet done,
 it was seen meet to be published.
 
+====
+
 [.signed-section-signature]
-B.F.
+B+++.+++ F.
 
 [.signed-section-context-close]
 Rotterdam, the 28th of March, 1678.
 
 --
 
-[.embedded-content-document.letter]
---
-
-[.blurb]
-=== A brief and distinct Solution of the Argument which the Ambassador aforesaid uses against Robert Barclay`'s Thesis, whereby he attempts to evince that not the inward revelation of the Holy Spirit, but the outward by the Scripture, is the principal rule, and foundation of our faith: at least to us Europeans, who have the Scriptures.
-
 As to his argument, as it was transmitted to us,
 if he considers the strength and substance of it, thus it stands:
-'`The history of the outward coming, nativity, death, resurrection,
+"`The history of the outward coming, nativity, death, resurrection,
 and ascension of Jesus Christ, is either necessary to their salvation,
-to whom the Scriptures came, or it is not necessary, viz. to be known and believed.
+to whom the Scriptures came, or it is not necessary, viz. to be known and believed.`"
 If we say the second, namely,
 that the history is not necessary to be known and believed
 in order to the salvation of us Europeans who have the Scriptures,
@@ -1720,17 +1770,20 @@ then it will follow that we are not Christians, because we deny that true, essen
 and constitutive character of the Christian religion,
 which consists in believing that Christ was sent into the world, born of the Virgin Mary,
 dead and buried, rose again the third day, ascended into heaven,
-where he sits at the right hand of the Father, etc.
+where he sitteth at the right hand of the Father, etc.
 But if they say the first,
 viz. That the knowledge and faith of the history are necessary to our salvation,
 then it will follow, that the Scripture,
 and not the inward revelation of the holy Spirit,
 is the principal rule and foundation of that historical faith and knowledge.
 
-Now this he endeavors to prove, both from some other principles of the Quakers,
-so called, and from R. B.`'s sixth Thesis, after this manner:
+Now this he endeavours to prove, both from some other principles of the Quakers,
+so called, and from R. B.`'s sixth thesis, after this manner:
 
-That, said the ambassador, is the principal rule and foundation of our faith,
+[.embedded-content-document]
+--
+
+That, +++[+++said the ambassador,] is the principal rule and foundation of our faith,
 which is the only medium or mean,
 whereby that historical knowledge and faith are brought unto us: but,
 according to the Quakers, and the sixth Thesis, the Scripture is the only medium or mean,
@@ -1739,7 +1792,7 @@ according to the Quakers, and the sixth Thesis,
 the Scripture is the principal rule and foundation of our faith.
 
 The minor he proves thus: the author of the Thesis,
-(says he,) confesses in his sixth Thesis, that there is a people, to whom God,
+(says he,) confesseth in his sixth Thesis, that there is a people, to whom God,
 by some inevitable accident, hath made that historical knowledge and faith impossible:
 and the reason why that historical knowledge and faith are impossible to that people,
 is because they are destitute of the Scriptures, and live in those corners of the world,
@@ -1747,8 +1800,13 @@ whereunto the outward preaching of the history never came;
 from which argument it will follow, that the Scriptures are the only medium or mean,
 whereby the historical knowledge and faith of Christ came to any people.
 
+--
+
 For the clearer understanding the solution of this argument,
 some things worthy observation are to be considered:
+
+[.embedded-content-document]
+--
 
 [.numbered-group]
 ====
@@ -1778,21 +1836,19 @@ revelation and operation of the holy Spirit,
 may be without that divine love, humility and self-denial:
 wherefore precisely considered in its own nature, it is not saving.
 It was this kind of knowledge and faith which wicked Balaam had,
-who saw and knew many historical futurities, and believed them,
-but had not saving faith.
+who saw and knew many historical futurities, and believed them, but had not saving faith.
 
 [.numbered]
-2+++.+++ Observe, secondly.
-That the knowledge and faith necessary to salvation, are to be understood two ways,
-either by a necessity antecedent, or in way of priority, or by a necessity consequent,
-or in way of posteriority.
+2+++.+++ Observe, secondly, That the knowledge and faith necessary to salvation,
+are to be understood two ways, either by a necessity antecedent, or in way of priority,
+or by a necessity consequent, or in way of posteriority.
 Necessity antecedent, or in way of priority, is,
 when something is absolutely necessary to our salvation,
 that we both know and believe it; and because it is necessary,
 God doth therefore reveal it to us; of which sort are such principles as these,
 viz. That God follows men with his love and good-will;
 that he invites and persuades them to come unto him;
-that he is ready to show favor to men, and pardon their sins,
+that he is ready to show favour to men, and pardon their sins,
 if they sincerely repent themselves of their past misspent life,
 and lead a new one for the time to come;
 that God hears the prayers of those that are truly humble and suppliant;
@@ -1842,7 +1898,7 @@ By the formal object we understand the principal motive in respect to the object
 for which the Scriptures are believed.
 But the principal motive in respect of the object, is not the Scripture itself,
 but that inward testimony of the holy Spirit, which when we hear or read the Scriptures,
-when it pleases the most good and great God to inspire the hearts of men,
+when it pleaseth the most good and great God to inspire the hearts of men,
 works an assent in us,
 whether it inclines us to assent to the historical
 truths hitherto declared in the Scriptures or no:
@@ -1871,8 +1927,9 @@ or principal rule of that historical faith, much less of saving faith,
 to the producing of which the letter of the Scripture doth very frequently,
 (as to many of its acts, if not all,) not concur or cooperate,
 either as a material object, or as a necessary condition,
-which is wont commonly to be called in the schools.
-_Causa sine qua non,_ or a cause or condition without which a thing cannot be done,
+// lint-disable invalid-characters "â"
+which is wont commonly to be called in the schools, _Causa sine quâ non,_
+or a cause or condition without which a thing cannot be done,
 though it doth not influence the effect.
 
 Now for a direct solution of the argument aforesaid, we answer,
@@ -1907,10 +1964,10 @@ that white or red rose is the material object of my sight,
 and one necessary medium for the producing of that sight;
 yet that rose is not the only medium or mean; for the light is another,
 no less necessary, concurring to produce my sight, by way of formal object,
-by means of which I see that rose represented under such or such a color and figure.
+by means of which I see that rose represented under such or such a colour and figure.
 Moreover, in that he asserts,
-these inward motions brought by the holy Spirit in the hearts of believers,
-are so un-discernible by us,
+these inward motions wrought by the holy Spirit in the hearts of believers,
+are so undiscernible by us,
 that believers cannot clearly and infallibly distinguish
 them from their own private and proper motions;
 this he supposes but proves not.
@@ -1932,48 +1989,64 @@ or touched the strength of the argument, let it be remitted to us; and we,
 through divine assistance, shall answer it at large.
 
 [.signed-section-signature]
-George Keith, and Robert Barclay.
+George Keith
+
+[.signed-section-signature]
+Robert Barclay
+
+[.signed-section-context-close]
+This solution was delivered to the said ambassador,
+not long before the epistle cited page 537, and at page 17,
+in the appendix to Sewel`'s [.book-title]#Dutch History.#
 
 --
 
-This solution was delivered to the said ambassador,
-not long before the epistle cited page 537, and at page 17,
-in the Appendix to Sewel`'s [.book-title]#Dutch History.#
+[.embedded-content-document]
+--
 
 [.blurb]
-=== A brief Enodation of an Argument proposed by another person.
+=== A brief Enodation of an Argument Proposed by Another Person
 
-Moreover as to what relates to another person`'s argument
-against that part of R. B`'s second Thesis,
+Moreover as to what relates to another person`'s
+argument against that part of R. B.`'s second thesis,
 which asserts,
 that divine inward revelation is that which is evident and clear of itself,
 moving the well-disposed understanding by its own evidence,
-etc. to the end of the Thesis.
+etc. to the end of the thesis.
 
 The argument is thus formed: Such an evidence as is asserted in the Thesis,
 is destructive of faith, because it is not the evidence of faith.
 He proves the antecedent by the words of the Apostle,
-"`Faith is the evidence of things not seen.`" Heb.
-11:1. By which words the apostle seems to intimate,
+"`Faith is the evidence of things not seen.`" Heb. 11:1.
+By which words the apostle seems to intimate,
 that faith hath not this kind of evidence; for if it were of things seen,
 it would contradict the apostle.
 
 The solution of this argument is easy; for evidence is three-fold.
 
+[.numbered-group]
+====
+
+[.numbered]
 The first is the evidence of things sensible, appertaining to the outward senses.
 
-The second is the evidence of things intellectual, but natural,
-appertaining to natural reason.
+[.numbered]
+The second is the evidence of things intellectual, but natural, appertaining to natural reason.
 
-The third is the evidence of things spiritual and supernatural,
-as they are proposed to the understanding by the inward
-illumination and revelation of the Holy Spirit.
+[.numbered]
+The third is the evidence of things spiritual and supernatural, as they
+are proposed to the understanding by the inward illumination and revelation of the Holy Spirit.
 
+[.numbered]
 The first evidence may be called the evidence of sense, or animal evidence.
 
+[.numbered]
 The second, the evidence of reason, or rational evidence.
 
+[.numbered]
 The third, the evidence of faith, or spiritual evidence.
+
+====
 
 But faith is the evidence of things not seen, that is,
 neither visible by the outward senses, or by natural reason; yet these things hinder not,
@@ -1985,9 +2058,11 @@ Wherefore, though things appertaining to faith may be very obscure,
 and as it were mere darkness, both to the outward senses, and natural reason;
 yet they have their evidence, if duly proposed to an understanding divinely enlightened.
 Is it not said in the same chapter to the Hebrews, concerning Moses,
-that by faith he saw God.
+that by faith he saw God?
 That is to say, not by the outward eye, nor by the eye of natural reason,
 but by the eye of faith.
 
+--
+
 The curious may see the original Latin, from which the preceding are translated,
-in the Appendix to William Sewel`'s [.book-title]#Dutch History of the Quakers.#
+in the appendix to William Sewel`'s [.book-title]#Dutch History of the Quakers.#

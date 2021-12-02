@@ -1,6 +1,7 @@
-== Chapter X.
+== Chapter X
 
-=== 1660.
+[.section-date]
+1660.
 
 [.chapter-synopsis]
 * A warning to Parliament
@@ -13,7 +14,7 @@
 * Answers by E. Burrough
 * Imprisonment of G. Fox at Lancaster
 * Margaret Fell and the king
-* Release of G+++.+++ Fox
+* Release of G. Fox
 * Interview between R. Hubberthorn and the King
 * Friends at Leghorn, Venice and Rome
 * A message to the Turkish Sultan
@@ -23,6 +24,7 @@
 * Oath of allegiance
 * A consolatory epistle
 
+[.offset]
 About the beginning of this year,
 E+++.+++ Burrough wrote the following letter to the parliament,
 which then had the power again in their hands.
@@ -73,21 +75,21 @@ neither glory as though you should stand forever;
 for they were not greater sinners than you are,
 neither are you one whit more righteous than some of them; but you are as sure to fall,
 as they are fallen,
-with no less measure of dishonor and affliction than is come upon them;
+with no less measure of dishonour and affliction than is come upon them;
 and you are in your last hour; and I dare not say, that God expects much more from you,
 than for the end aforesaid,
 viz. to be the executioners of justice upon men as sinful as yourselves;
 so do not glory over them that are fallen: but know that your time also is but short,
-and our fall may prove to your destruction, and theirs may prove to make them better,
+and your fall may prove to your destruction, and theirs may prove to make them better,
 and refine them: and if God hath chosen you to execute some part of his wrath upon them,
 for their wickedness, he will doubtless find instruments to execute his wrath upon you,
-else he will do it with his own hands; for he purposes not to spare you;
+else he will do it with his own hands; for he purposeth not to spare you;
 for your sins cry as loud as any other people`'s,
 and the oppressions are as great under you, as under them whom you condemn.
 And I desire, if there be any good men amongst you, that such who are wise may consider,
 and mind the hand of the Lord in and through all these things that are come to pass;
 for God is working as well as you, he is seeking to set up a kingdom as well as you,
-and his government and yours cannot stand together;
+and his government and your`'s cannot stand together;
 and he will make you know that he is stronger, and his government of more force,
 and your kingdom cannot stand in place with his.
 
@@ -100,7 +102,7 @@ and go not beyond your commission; for a permission at least you have had from G
 even to scourge hypocrites, and to be a judgment upon that hypocritical,
 seeming religious generation of men aforesaid,
 which have many a time as it were mocked God, and pretended love to him with their lips,
-when their hearts have yearned after self-honor, and treasures of this world: I say,
+when their hearts have yearned after self-honour, and treasures of this world: I say,
 your present hour and permission is for this end,
 but not to persecute the people of the Lord, nor to destroy God`'s heritage;
 but if you shall extend your power unto such a work,
@@ -142,11 +144,9 @@ Let the whole earth, and all the powers thereof, bow and tremble before him:
 let not your hearts be stout and rebellious against him, for he can grind you to powder,
 and sink you into confusion and misery, as a stone into the sea.
 
-[.signed-section-signature]
-E+++.+++ Burrough
-
 --
 
+[.offset]
 This was directed for the hands of the speaker in parliament,
 and accordingly was given to William Lenthal,
 being enclosed to him with these lines following
@@ -158,7 +158,7 @@ being enclosed to him with these lines following
 Friend,
 
 The enclosed I do commend unto thee to present unto the house,
-and to endeavor sincerely the reading of it in your assembly;
+and to endeavour sincerely the reading of it in your assembly;
 for it is of special concernment to you all; and in the name of the Lord,
 and by his Spirit, I do charge thee not to be negligent in this matter,
 as though it were not of worth to you; and I do lay it upon thee,
@@ -166,7 +166,7 @@ as thou wilt answer the contrary at the dreadful day of God,
 when the King of Righteousness shall judge thee and all mankind.
 
 [.signed-section-signature]
-E+++.+++ Burrough
+E+++.+++ Burrough.
 
 [.signed-section-context-close]
 The 24th of the Eleventh month, 1659.
@@ -184,7 +184,7 @@ which was as followeth:
 [.embedded-content-document.letter]
 --
 
-Your day into darkness is turned; the sun is gong down over you.
+Your day into darkness is turned; the sun is gone down over you.
 You have had a large day, and power given unto you, to have done the will of God,
 but you have abused the power, and slighted your day;
 and you have refused to do the Lord`'s work, and have sought to serve yourselves,
@@ -198,14 +198,14 @@ and yet deliverance shall come, but not according to man`'s expectations.
 But as for you, ye have rejected the counsel of the Lord, and grieved his Spirit,
 and he hath long borne you; yea, you are departed from the Lord,
 and his presence is departed from you; indeed he hath hewed with you,
-and if you had been faithful to the end, he would have honored and prospered you,
+and if you had been faithful to the end, he would have honoured and prospered you,
 and would have been your sufficient reward: ye were his axe,
 but you have boasted yourselves against him; therefore as you have beaten, and hewed,
 and broken others, even so must you be beaten, hewed, and broken;
 for you have grievously provoked the Lord; and if he should now suffer that tree,
 which ye have cut, to fall upon you, and to break part of you, it were just.
 
-O ye treacherous, willful, proud, self-seeking people,
+O ye treacherous, wilful, proud, self-seeking people,
 who have despised the counsel of the Lord, and would not take warning,
 though he hath sent his prophets and servants early and late among you,
 some of whom you have imprisoned and despitefully used; what will ye do now?
@@ -252,7 +252,7 @@ who have long been trodden under, and they shall be the dread of all nations;
 the zeal of the Lord of Hosts shall perform this.
 
 [.signed-section-signature]
-George Fox, the younger.
+George Fox, _the younger._
 
 [.signed-section-context-close]
 11th Month, (59.)
@@ -272,8 +272,8 @@ for whatsoever Monk said of his resolution to be true and faithful to the parlia
 and to promote the interest of a commonwealth;
 yet it appeared ere long that he aimed at something else; which he could do the easier,
 because he wanted not adherents in the parliament;
-though he did not stick to say to Edmund Ludlow, '`We must live and die for, and with,
-a commonwealth:`' and to others he declared,
+though he did not stick to say to Edmund Ludlow, "`We must live and die for, and with,
+a commonwealth:`" and to others he declared,
 that he would oppose to the utmost the setting up of Charles Stuart.
 In the meanwhile he so ordered it, that many members of the parliament,
 that had been long excluded as unqualified, took session again in that assembly;
@@ -289,11 +289,11 @@ General Lambert was also sent to the Tower, and Monk, whose authority now increa
 sent for the lords, who until the year 1648, had sat in parliament,
 and bade them return to the house where they formerly used to sit.
 
-In these over-turnings G. Fox came to London, to wit,
-in the time when they were breaking the city gales.
+In these overturnings G. Fox came to London, to wit,
+in the time when they were breaking the city gates.
 He then wrote a paper to those that were now sinking, and told them,
 that now the prophecies were fulfilling upon them, which had been spoken to them;
-and that they who used to call the Quakers fanatics, and giddy-heads,
+and that they who used to call the Quakers fanatics, and giddyheads,
 now seemed themselves giddy, and fugitives or wanderers.
 
 From London G. Fox went to Sussex, and from thence to Dorsetshire.
@@ -321,7 +321,7 @@ he lolled it out in derision in the meeting:
 and the bull running his horn into the man`'s head,
 swung him about in a most fearful manner.
 
-G+++.+++ Fox traveling through Somersetshire, came into Devonshire, and so went into Cornwall,
+G+++.+++ Fox travelling through Somersetshire, came into Devonshire, and so went into Cornwall,
 till he came to the Land`'s End.
 Whilst he was in Cornwall, there were great shipwrecks about the Land`'s End.
 Now it was the custom of that country,
@@ -336,7 +336,7 @@ On this consideration, he was moved to write a paper to the magistrates, priests
 and others, both high and low; in which he showed them the wickedness of their deeds,
 and reproved them for such greedy actions,
 telling them how they were ready to fight with one another for the spoil,
-and spend what they got in taverns or alehouses, letting those that escaped drowning,
+and spend what they got in taverns or ale-houses, letting those that escaped drowning,
 go a begging up and down the country.
 Therefore he seriously exhorted them, to do unto others,
 what they would have done to themselves.
@@ -388,7 +388,7 @@ the city looked naked; and all was quiet.
 
 But in other places, about this time, things were not so quiet; for the soldiers,
 under general Monk`'s command, were often very rude in disturbing of meetings.
-But when complaint was made to him, who was then at Westminister,
+But when complaint was made to him, who was then at Westminster,
 he showed that he would not countenance such wickedness,
 and did in that respect better than several other generals had done,
 for he gave forth the following order.
@@ -418,8 +418,11 @@ and in England it being resolved upon to call him back, and to restore him,
 he gave forth the following declaration at Breda;
 thereby to persuade those that were yet backward to acknowledge him.
 
-[.embedded-content-document.legal]
+[.embedded-content-document]
 --
+
+[.salutation]
+Charles, R.
 
 Charles, by the grace of God, king of England, Scotland, France, and Ireland,
 defender of the faith, etc.
@@ -439,7 +442,7 @@ with as little blood and damage to our people as is possible.
 Nor do we desire more to enjoy what is ours,
 than that all our subjects may enjoy what by law is theirs,
 by a full and entire administration of justice throughout the land,
-and by extending our mercy where it is; wanted and desired.
+and by extending our mercy where it is wanted and desired.
 
 And to the end that the fear of punishment may not engage any,
 conscious to themselves of what is past, to a perseverance in guilt for the future;
@@ -449,9 +452,9 @@ we do by these presents declare, that we do grant a free and general pardon,
 which we are ready upon demand to pass under our great seal of England,
 to all our subjects, of what degree or quality soever, who,
 within forty days after the publishing hereof,
-shall lay hold upon this our grace and favor;
+shall lay hold upon this our grace and favour;
 and shall by any public act declare their doing so,
-and that they return to the loyal y and obedience of good subjects;
+and that they return to the loyalty and obedience of good subjects;
 excepting only such persons as shall hereafter be excepted by parliament.
 Those only excepted, let all our subjects, how faulty soever,
 rely upon the word of a king, solemnly given by this present declaration,
@@ -492,12 +495,9 @@ which can best provide for the just satisfaction of all men who are concerned.
 And we do further declare, that we will be ready to consent to any act,
 or acts of parliament, to the purposes aforesaid,
 and for the full satisfaction of all arrears due to the officers,
-and soldiers of the army, tinder the command of general Monk;
+and soldiers of the army, under the command of general Monk;
 and that they shall be received into our service,
 upon as good pay and conditions as they now enjoy.
-
-[.signed-section-signature]
-Charles, R.
 
 [.signed-section-context-close]
 Given under our sign manual and privy signet at our court at Breda,
@@ -519,13 +519,13 @@ and by the French to come to Calais, chose,
 at the pressing invitation of the States-general of the United Provinces,
 to go by Holland: and so he went, with the yachts of the States, to Rotterdam,
 and from thence with coaches to the Hague; where having stayed some days,
-he took shipping at Schevenningen for England,
+he took shipping at Schevelinghen for England,
 and made his entry at London on the anniversary of his birthday.
 Thus we see Charles the Second, (who not long after was crowned,) restored,
-not by the sword, but by the marvelous hand of the Lord.
+not by the sword, but by the marvellous hand of the Lord.
 
 About this time G. Fox the younger came to Harwich, where he was hauled out of a meeting,
-and imprisoned under a pretense of having caused a tumult.
+and imprisoned under a pretence of having caused a tumult.
 But to give to the reader a true sight of the matter, I must go back a little.
 
 About four years before this time, some of the people called Quakers,
@@ -559,38 +559,38 @@ The rude multitude seeing it, grew insolent,
 and made a hideous noise before the house where the meeting was kept,
 and some were for pulling it down.
 G+++.+++ Fox hearing the noise, whilst he was preaching, grew very zealous,
-and with a mighty power was made to say, '`Woe,
+and with a mighty power was made to say, "`Woe,
 woe unto the rulers and teachers of this nation, who suffer such ungodliness as this,
-and do not seek to suppress it.`'
+and do not seek to suppress it.`"
 Some that heard him thus speaking, went and told the magistrates of it,
 perhaps not in the self-same words as were uttered by him.
 The officers then coming,
 the mayor commanded the constables to take the said G. Fox into custody;
-who hearing this, said, '`If I have done any thing worthy of death, or bonds,
+who hearing this, said, "`If I have done any thing worthy of death, or bonds,
 I shall not refuse either; but I desire thee to show me what law I have transgressed;
-which thou ought to do, before thou sends me to prison,
-that I may know for what I am sent thither.`'
+which thou oughtest to do, before thou sendest me to prison,
+that I may know for what I am sent thither.`"
 But the mayor told him, he should know that afterward; and so he was carried to prison.
 Robert Grassingham, who was shipwright of the admiralty in that port,
 being at the meeting, out of which G. Fox was hauled,
 in love went freely along with him to prison.
 This seemed to please the mayor,
 who some days before had been heard to say concerning Grassingham,
-'`If I could but get him out of the town,
-I should know what course to take with the other Quakers.`'
+"`If I could but get him out of the town,
+I should know what course to take with the other Quakers.`"
 Some time after G. Fox was imprisoned, a mittimus was sent to the jailer,
 in which the prisoner was charged with causing a tumult in that borough,
 and disturbing the peace thereof.
 This mittimus was signed by Miles Hubbard, mayor, Anthony Woolward, and Daniel Smith;
 and these magistrates sent notice of what they had done, to the parliament,
-under a specious pretense, that so they might not fall into disgrace.
+under a specious pretence, that so they might not fall into disgrace.
 The parliament receiving this information, issued forth the following order:
 
 [.embedded-content-document.legal]
 --
 
 [.signed-section-context-open]
-Monday, May 21,1660.
+Monday, May 21, 1660.
 
 The house being informed, that two Quakers, that is to say,
 George Fox and Robert Grassingham, have lately made a disturbance at Harwich,
@@ -598,18 +598,18 @@ and that the said George Fox, who pretends to be a preacher,
 did lately in his preaching there,
 speak words much reflecting on the government and ministry,
 to the near causing of a mutiny,
-and is now committed by the mayor and the magistrates there;
+and is now committed by the mayor and the magistrates there.
 
 Ordered that the said George Fox and Robert Grassingham be forthwith brought up in custody;
 and that the sheriff of the county of Essex do receive them,
 and give them his assistance for the conveying them up accordingly,
-and delivering them into the charge of the sergeant at-arms attending this house.
+and delivering them into the charge of the serjeant at arms attending this house.
 
 Ordered, that the thanks of this house be given to the mayor and magistrates of Harwich,
 for their care in this business.
 
 [.signed-section-signature]
-William Jessop, Clerk of the Common House of Parliament.
+William Jessop, _Clerk of the Common House of Parliament._
 
 --
 
@@ -622,12 +622,11 @@ the commissioner of the admiralty and navy,
 for refitting one of the king`'s frigates.
 But notwithstanding Grassingham showed his order to the sheriff,
 yet he brought him back to London with Fox,
-and delivered them into the custody of the sergeant at arms attending the house,
+and delivered them into the custody of the serjeant at arms attending the house,
 who committed them to Lambeth house.
-They having been there about three weeks,
-wrote a letter to the House of Commons wherein they gave some account
-of the manner of their imprisonment and desired that they with
-their accusers might be brought face to face before the parliament,
+They having been there about three weeks, wrote a letter to the House of Commons,
+wherein they gave some account of the manner of their imprisonment,
+and desired that they with their accusers might be brought face to face before the parliament,
 saying, that if any thing could be proved against them, worthy of punishment,
 they should not refuse it.
 But they thought it to be unjust and unreasonable,
@@ -646,22 +645,26 @@ which they enclosed in a letter to the speaker of the House of Commons in these 
 For the Speaker of the House of Commons.
 
 [.salutation]
-Friends,
+Friend,
 
 We desire thee to communicate this enclosed to the House of Commons,
 it being a few innocent, just,
 and reasonable words to them though not in the eloquent language of man`'s wisdom,
-yet it is in the truth which is honorable.
+yet it is in the truth which is honourable.
+
 We are friends to righteousness and truth, and to all that are found therein.
 
 [.signed-section-signature]
-Robert Grassingham, George Fox.
+Robert Grassingham
+
+[.signed-section-signature]
+George Fox
 
 --
 
 But the speaker did not deliver the paper,
-under pretense that it was not directed with the ordinary title,
-'`To the Right honorable the House of Commons.`'
+under pretence that it was not directed with the ordinary title,
+"`To the Right Honourable the House of Commons.`"
 Therefore by the help of their friends they got it printed,
 that so each member of parliament might have a copy of it.
 Now after they had lain about fourteen weeks in Lambeth gate-house without being examined,
@@ -676,34 +679,33 @@ Thursday, October 30th, 1660.
 
 Ordered that George Fox and Robert Grassingham,
 who by virtue of a former order of this house,
-were taken into custody by the sergeant at arms attending this house,
+were taken into custody by the serjeant at arms attending this house,
 for some disturbance at Harwich, be forthwith released, and set at liberty,
 upon bail first given to render themselves, when they shall be in that behalf required.
 
 [.signed-section-signature]
-William Jessop, Clerk of the House of Commons
+William Jessop, _Clerk of the House of Commons._
 
 --
 
 Shortly after this order was issued forth,
-the sergeant at arms sent his clerk to demand fees and chamber rent of the prisoners,
-asking fifty-pounds for fees, and ten shillings a week for chamber rent.
+the serjeant at arms sent his clerk to demand fees and chamber rent of the prisoners,
+asking fifty pounds for fees, and ten shillings a week for chamber rent.
 But since no evil was laid to their charge,
 they could not resolve to satisfy this unreasonable demand,
 yet offered to pay two shillings and six pence a week,
 though the chamber where they had lain, was the highest room in a lofty tower,
 and all the windows open, until they had gotten them glazed,
-without any charge to the sergeant.
+without any charge to the serjeant.
 Matters standing thus, their cause was referred to the king`'s privy council.
 But it lasted yet a good while before they were released;
 for several evasions were made use of to keep them in custody.
 
-Whilst G. Fox was prisoner, he wrote a little book, which he called,
-_A Noble Salutation to king Charles Stuart,_ wherein
-he showed him how matters had gone in England,
-viz. That his father`'s party scorned those that appeared
-in arms against them because of their meanness;
-for they were tradesman, plowmen, servants, and the like;
+Whilst G. Fox was prisoner, he wrote a little book, which he called, [.book-title]#A Noble Salutation to King Charles Stuart,#
+wherein he showed him how matters had gone in England,
+viz. That his father`'s party scorned those that
+appeared in arms against them because of their meanness;
+for they were tradesmen, ploughmen, servants, and the like;
 which contemptible instruments God made use of to bring down the loftiness of the others.
 But those of the parliament party growing from time to time successful, and prevailing,
 got into the possessions of those they conquered,
@@ -711,7 +713,7 @@ and fell into the same pride and oppression which they had cried out against in 
 and many of them became greater oppressors, and persecutors than the former had been.
 Moreover,
 the author exhorted the king to observe the hand of the Lord in restoring of him.
-Therefore,`' said he, '`Let no man deceive thee,
+"`Therefore,`" said he, "`Let no man deceive thee,
 by persuading thee that these things are thus brought to pass,
 because the kingdom was thy own proper right,
 and because it was withheld from thee contrary to all right;
@@ -744,8 +746,9 @@ Thus they continually would flatter those that were at the helm.
 For when George Booth made a rising, and they thought there would be a turn,
 then some of the priests cried out against the parliament,
 and cursed such as would not go out against them.
-But when Booth was taken, then many began to petition the parliament,
-and to excuse themselves, that they had no hand in that rising.
+But when Booth was taken,
+then many began to petition the parliament and to excuse themselves,
+that they had no hand in that rising.
 
 Next the author set forth the wickedness of the people by excessive drinking and drunkenness,
 thereby as it were to show their loyalty to the king; and he relates also,
@@ -759,7 +762,7 @@ and was not long after by the author published in print.
 
 Now one of the most eminent royalists drew up divers queries to the Quakers,
 desiring them to answer them, and to direct their answer with this superscription,
-_Tradite hanc amico Regis,_ that is, '`Deliver this to the king`'s friend.`'
+_"`Tradite hanc amico Regis,`"_ that is, "`Deliver this to the king`'s friend.`"
 For it was clearly seen, that several of their predictions came to be fulfilled,
 of which those of Edward Burrough were not the least.
 And therefore some,
@@ -787,7 +790,7 @@ for though he and his father might have been injured,
 yet for as much as they had applied to the sword
 to determine their controversy with the nation,
 the sword went against them; and by that whereby they thought to stand, they did fall;
-and who then should they blame for that which befell them, seeing the sword,
+and who then should they blame for that which befel them, seeing the sword,
 which they themselves did choose, destroyed them.
 However, the author signified, that this was not meant of the king`'s death;
 that being quite another case.
@@ -797,10 +800,7 @@ having broke their promises, came to be punished on that account with death or o
 such could not be said to suffer for a good conscience, nor for righteousness sake;
 but it was because they were oppressors;
 and suffering for that cause could not be called persecution.
-
-[quote]
-____
-But none of us, (thus ran Edward Burrough`'s words,) can suffer for that cause,
+"`But none of us, (thus ran Edward Burrough`'s words,) can suffer for that cause,
 as not being guilty thereof.
 If we suffer in your government, it is for the name of Christ;
 because nothing can be charged against us in this capacity as we now stand,
@@ -812,8 +812,8 @@ And if any that are now amongst us were any way engaged
 in the parliament service in the wars,
 it was not in rebellion against the king or his father,
 as that we sought their destruction as men; but upon sober and reasonable principles,
-and not for corrupt ends, nor to get honor and riches to ourselves,
-as some others might do, who went into the war for self ends, and continue! in action,
+and not for corrupt ends, nor to get honour and riches to ourselves,
+as some others might do, who went into the war for self ends, and continued in action,
 after the cause which was once engaged for was utterly lost.
 And that principle, which some time led some into action to oppose oppression,
 and seek after reformation, that principle is still justified,
@@ -826,18 +826,12 @@ such as some time acted in the wars against you,
 in and upon sober and reasonable principles,
 and that did not make themselves rich and high in the world through your sufferings,
 and between such as have acted against you for self ends, and have insulted over you,
-and have made themselves great and rich in this world through your afflictions and sufferings.`'
-____
-
+and have made themselves great and rich in this world through your afflictions and sufferings.`"
 To the query, whether the great afflictions sustained by the king divers years,
 from subjects of his own nation, and the guilt thereof,
 did lie upon all the subjects in general; or whether upon any,
 or some particular sorts of people, who were such more than others;
-E+++.+++ Burrough made this answer,
-
-[quote]
-____
-So far as his sufferings were unjust,
+E+++.+++ Burrough made this answer, "`So far as his sufferings were unjust,
 the guilt thereof doth not lie upon all the subjects in general,
 but upon some more than others; and such are easy to be distinguished from others,
 if it be considered who they are that raised the war in this nation against the king,
@@ -847,7 +841,7 @@ and who cast out the bishops and prelates from their places,
 and took their revenues and benefices, and are become men as corrupted,
 as covetous and self-seeking, as proud and ambitious, as unjust persecutors,
 as ever the men were which they cast out:
-and who is it that hath gotten great estates in the nation, and worldly honor,
+and who is it that hath gotten great estates in the nation, and worldly honour,
 and raised themselves from nothing by the wars, and by your sufferings;
 and who got the estates and titles of their enemies,
 and pretended to free them from all oppressions, but have not done it;
@@ -874,7 +868,7 @@ When they had gotten the victory, they did not reform, but became oppressors,
 as well as others, and became cruel towards others, that would not say and do as they:
 and for this cause the Lord hath brought them down,
 and may justly suffer others to deal with them as they have dealt with others.
-Yet notwithstanding I must still say and it is my judgment,
+Yet notwithstanding I must still say, and it is my judgment,
 that there was very great oppression and vexation under the government of the late king,
 and bishops under his power, which the Lord was offended with,
 and many good people oppressed by;
@@ -884,23 +878,19 @@ and to press after reformation in all things.
 And that principle of sincerity,
 which in some things carried them on in opposing oppressions and pressing after reformation,
 I can never deny, but acknowledge it; though many soon lost it, and became self-seekers,
-forgetting the cause pretended to, etc.
-____
+forgetting the cause pretended to,`" etc.
 
 This is but a small part of the queries, and the answers thereunto,
 which E. Burrough concluded with a bold exhortation to the king,
 to fear and reverence the Lord.
 
-[.small-break]
-'''
-
 Now we return again to G. Fox the elder, whom we left about Bristol;
 from whence he passed to Gloucester, Worcester, Drayton,
 (the place of his nativity,) and Yorkshire.
 In that country at that time a Yearly meeting was kept at Balby, in an orchard,
-where some thousands of people were met`' together.
+where some thousands of people were met together.
 At York, about thirty miles off, notice being given of this meeting,
-a troop of horse came from thence:
+a troop of horse came from thence;
 and when G. Fox stood preaching in the meeting on a stool, two trumpeters came riding up,
 sounding their trumpets pretty near him; and then the captain bid him come down,
 for he was come, he said, to disperse the meeting.
@@ -911,7 +901,7 @@ such may suffer.
 But the captain told G. Fox, he must see them dispersed,
 for he came all night on purpose to disperse them.
 G+++.+++ Fox asked him,
-what honor it would be to him to ride with swords
+what honour it would be to him to ride with swords
 and pistols amongst so many unarmed men and women?
 But if he would be still and quiet,
 the meeting probably might not continue above two or three hours; and when it was done,
@@ -961,12 +951,12 @@ whose name was Henry Porter, and who had granted the warrant against him.
 He asked Porter, for what, and by whose order, he had sent forth his warrant;
 and he complained to him of the abuse of the constables and other officers:
 for they had set him upon a horse behind the saddle, so that he had nothing to hold by;
-and maliciously beating the horse, made him kick and gallop, and throw off his rider.`'
+and maliciously beating the horse, made him kick and gallop, and throw off his rider.
 But Porter would not take any notice of that, and told G. Fox, he had an order;
 but would not let him see it, for he would not reveal the king`'s secrets.
 After many words were exchanged, he was carried to Lancaster prison.
 Being there a close prisoner in the common jail, he desired two of his friends,
-one of which was Thomas Green, the other Thomas Cummings, a minister of the gospel,
+one of which was Thomas Green, the other Thomas Commings, a minister of the gospel,
 (with whom I was very familiarly acquainted,) to go to the jailer,
 and desire of him a copy of his mittimus.
 They went, but the jailer told them he could not give a copy of it;
@@ -976,9 +966,9 @@ that G. Fox was a person generally suspected to be
 a common disturber of the peace of the nation,
 an enemy to the king, and a chief upholder of the Quakers`' sect: and that he,
 together with others of his fanatic opinion,
-had of late endeavored to raise insurrections in these parts of the country,
+had of late endeavoured to raise insurrections in these parts of the country,
 and to embroil the whole kingdom in blood.
-Wherefore the jailer w-as commanded to keep him in safe custody,
+Wherefore the jailer was commanded to keep him in safe custody,
 till he should be released by order from the king and parliament.
 No wonder that the jailer would not give a copy of his mittimus,
 for it contained almost as many untruths as words.
@@ -986,7 +976,7 @@ G+++.+++ Fox then wrote an apology, wherein he answered at large to all those fa
 And Margaret Fell, considering what injury was offered to her,
 by hauling G. Fox out of her house, wrote the following information, and sent it abroad.
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 [.letter-heading]
@@ -996,7 +986,7 @@ and imprisoning of George Fox at Lancaster.
 I do inform the governors of this nation, that Henry Porter, mayor of Lancaster,
 sent a warrant with four constables to my house, for which he had no authority nor order.
 They searched my house, and apprehended George Fox in it,
-who was not guilty of the breach of any law, or of any offense against any in the nation.
+who was not guilty of the breach of any law, or of any offence against any in the nation.
 After they had taken him, and brought him before the said Henry Porter,
 there was bail offered, what he would demand for his appearance,
 to answer what could be laid to his charge: but he, (contrary to law,
@@ -1033,14 +1023,14 @@ how fierce he had been against the king, and his party,
 though now he would be thought zealous for the king.
 And among other passages he called to his remembrance, how,
 when he held Lancaster Castle for the parliament against the king,
-he was so rough and fierce against those that favored the king, that he said,
+he was so rough and fierce against those that favoured the king, that he said,
 he would leave them neither dog nor cat,
 if they did not bring him in provision to his castle.
 
 One Anne Curtis coming to see G. Fox, and understanding how he stood committed,
 resolved also to go to the king about it; for her father,
 who had been sheriff of Bristol, was hanged near his own door,
-for endeavoring to bring in the king: upon which consideration,
+for endeavouring to bring in the king: upon which consideration,
 she was in hopes to be admitted to the king`'s presence to speak with him.
 Coming to London, she and Margaret Fell went together to the king, who,
 when he understood whose daughter Anne was, received her kindly.
@@ -1051,7 +1041,7 @@ and commanded his secretary to send down an order for the bringing up G. Fox.
 But it was long before this order was executed, for many evasions were sought,
 as well by carping at a word, as by other craft;
 whereby the sending up of G. Fox was retarded above two months.
-He thus continuing prisoner, wrote several papers, and among the rest also this:
+He thus continuing prisoner, wrote several papers, and among the rest also this.
 
 [.embedded-content-document.paper]
 --
@@ -1062,7 +1052,7 @@ To the King.
 [.salutation]
 King Charles,
 
-Thou earnest not into this nation by sword, nor by victory of war;
+Thou camest not into this nation by sword, nor by victory of war;
 but by the power of the Lord; now if thou dost not live in it, thou wilt not prosper.
 And if the Lord hath showed thee mercy, and forgiven thee,
 and thou dost not show mercy and forgive, the Lord God will not hear thy prayers,
@@ -1072,7 +1062,7 @@ but if thou do persist in them, and uphold persecution,
 that will make thee as blind as them that have gone before thee:
 for persecution hath always blinded those that have gone into it;
 and such God by his power overthrows, and doth his valiant acts upon;
-and brings salvation to his oppressed ones: and if thou dost bear the sword in vain,
+and bringeth salvation to his oppressed ones: and if thou dost bear the sword in vain,
 and let drunkenness, oaths, plays, may-games, with fiddlers, drums, trumpets,
 to play at them, with such like abominations and vanities be encouraged,
 or go unpunished; as setting up of maypoles, with the image of the crown atop of them,
@@ -1121,7 +1111,8 @@ for now what E. Burrough and others had plainly foretold, was fulfilling on them
 The next morning G. Fox, and those with him, went to judge Thomas Mallet`'s chamber,
 who then was putting on his red gown, to sit upon some more of the king`'s judges,
 and therefore he told him he might come another time.
-G+++.+++ Fox did so, being accompanied by Marsh Esq., one of the king`'s bed-chamber.
+G+++.+++ Fox did so, being accompanied by +++_______+++ Marsh, esq.
+one of the king`'s bed-chamber.
 When he came to the judge`'s chamber, he found there also the lord chief justice Foster,
 and delivered to them the charge that was against him: but when they read those words,
 that he and his friends were embroiling the nation in blood,
@@ -1135,27 +1126,27 @@ they said why did he stand with his hat on?
 He told them, he did not stand in any contempt to them.
 Then they commanded one to take it off;
 and having called for the marshal of the King`'s Bench, they said to him,
-'`you must take this man and secure him, but you must let him have a chamber,
-and not put him amongst the prisoners.`'
+"`you must take this man and secure him, but you must let him have a chamber,
+and not put him amongst the prisoners.`"
 But the marshal said his house was so full,
 that he could not tell where to provide a room for him, but amongst the prisoners.
 Judge Foster then said to G. Fox,
-'`Will you appear tomorrow about ten of the clock at the King`'s Bench Bar,
-in Westminster Hall?`'
-'`Yes,`' said he, '`if the Lord give me strength.`'
-Hereupon the said judge said to the other judge, '`If he say yes, and promises it,
-ye may take his word.`'
+"`Will you appear tomorrow about ten of the clock at the King`'s Bench Bar,
+in Westminster Hall?`"
+"`Yes,`" said he, "`if the Lord give me strength.`"
+Hereupon the said judge said to the other judge, "`If he say yes, and promises it,
+ye may take his word.`"
 
 So he was dismissed for that time,
 and the next day appeared at the King`'s Bench Bar at the hour appointed,
 being accompanied by Richard Hubberthorn, Robert Withers, and esquire Marsh,
 before-named.
 And being brought into the middle of the court,
-he looked about and turning to the people, said, '`Peace be among you.`'
+he looked about and turning to the people, said, "`Peace be among you.`"
 Then the charge against him was read, and coming to that part which said,
 that he and his friends were embroiling the nation in blood, and raising a new war,
 and that he was an enemy to the king, etc. those of the bench lifted up their hands.
-He then stretching out his arms, said, '`I am the man whom that charge is against;
+He then stretching out his arms, said, "`I am the man whom that charge is against;
 but I am as innocent as a child concerning the charge,
 and have never learned any war postures.
 Do you think, that if I and my friends had been such men as the charge declares,
@@ -1163,20 +1154,20 @@ that I would have brought it up myself against myself?
 Or that I should have been suffered to come up with only one or two of my friends with me?
 For had I been such a man as this charge sets forth,
 I had need to have been guarded up with a troop or two of horse:
-but the sherif and magistrates of Lancashire had thought
+but the sheriff and magistrates of Lancashire had thought
 fit to let me and my friends come up by ourselves,
 almost two hundred miles, without any guard at all,
 which we may be sure they would not have done,
-if they had looked upon me to be such a man.`'
+if they had looked upon me to be such a man.`"
 Then the judge asked him, whether it should be filed, or what he would do with it?
-And he answered, '`Ye are judges, and able, I hope, to judge in this matter:
-therefore do with it what ye will.`'
+And he answered, "`Ye are judges, and able, I hope, to judge in this matter:
+therefore do with it what ye will.`"
 The judges said, they did not accuse him, for they had nothing against him.
 Whereupon esquire Marsh stood up and told the judges, it was the king`'s pleasure,
 that G. Fox should be set at liberty, seeing no accuser came against him.
 Then they asked him, whether he would put it to the king and council?
-He answered, '`Yes, with a good will.`'
-Thereupon they sent the sheriff`'s return, which he made to the writ of _habeas corpus_,
+He answered, "`Yes, with a good will.`"
+Thereupon they sent the sheriff`'s return, which he made to the writ of _habeas corpus,_
 to the king, and the return was thus:
 
 [.embedded-content-document.legal]
@@ -1191,19 +1182,18 @@ bearing date the 5th of June now last past; for that he, the said George Fox,
 was generally suspected to be a common disturber of the peace of this nation,
 an enemy to our sovereign lord the king, and a chief upholder of the Quakers`' sect;
 and that he, together with others of his fanatic opinion,
-have of late endeavored to make insurrections, in these parts of the country,
+have of late endeavoured to make insurrections, in these parts of the country,
 and to embroil the whole kingdom in blood.
 And this is the cause of his taking and detaining.
-Nevertheless, the body of thee said George Fox I have ready before Thomas Mallet, knight,
+Nevertheless, the body of the said George Fox I have ready before Thomas Mallet, knight,
 one of his Majesty`'s justices, assigned to hold pleas before his said Majesty,
-at his chamber in Sergeants-Inn, in Fleet Street,
+at his chamber in Serjeants-Inn, in Fleet Street,
 to do and receive those things which his Majesty`'s said
 justice shall determine concerning him in this behalf,
 as by the aforesaid writ is required.
 
 [.signed-section-signature]
-George Chetham, Esq.
-Sheriff.
+George Chetham, _Esq. Sheriff._
 
 --
 
@@ -1214,17 +1204,19 @@ commanded his secretary to send the following order to judge Mallet for his rele
 [.embedded-content-document.legal]
 --
 
+[.letter-heading]
+For Sir Thomas Mallet, knight, one of the justices of the King`'s Bench.
+
 It is his Majesty`'s pleasure that you give order for the releasing,
 and setting at full liberty, the person of George Fox, late a prisoner in Lancaster jail,
 and commanded hither by an _habeas corpus._
 And this signification of his Majesty`'s pleasure shall be your sufficient warrant.
-Dated at Whitehall, the 24th of October, 1660.
 
 [.signed-section-signature]
-Edward Nocholas.
+Edward Nicholas.
 
 [.signed-section-context-close]
-For Sir Thomas Mallet, knight, one of the justices of the King`'s Bench.
+Dated at Whitehall, the 24th of October, 1660.
 
 --
 
@@ -1235,26 +1227,26 @@ which warrant was thus:
 [.embedded-content-document.legal]
 --
 
+[.letter-heading]
+To Sir John Lenthal, knight, marshal of the King`'s Bench, or his deputy.
+
 By virtue of a warrant which this morning I have
-received from the right honorable sir Edward Nicholas,
+received from the right honourable sir Edward Nicholas,
 knight, one of his Majesty`'s principal secretaries,
 for the releasing and setting at liberty of George Fox,
-late a prisoner in Lancaster jail, and from thence brought hither, by habeas corpus,
+late a prisoner in Lancaster jail, and from thence brought hither, by _habeas corpus,_
 and yesterday committed unto your custody;
 I do hereby require you accordingly to release, and set the said prisoner, George Fox,
 at liberty: for which this shall be your warrant and discharge.
-Given under my hand the 25th dav of October, in the year of our Lord God, 1600.
+Given under my hand the 25th day of October, in the year of our Lord God, 1660.
 
 [.signed-section-signature]
 Thomas Mallet.
 
-[.signed-section-context-close]
-To Sir John Lenthal, knight, marshal of the King`'s Bench, or his deputy.
-
 --
 
 G+++.+++ Fox having been prisoner now above twenty weeks,
-was thus very honorably set at liberty by the king`'s command.
+was thus very honourably set at liberty by the king`'s command.
 After it was known that he was discharged, several that were envious and wicked,
 were troubled, and terror seized on justice Porter;
 for he was afraid G. Fox would take the advantage of the law against him,
@@ -1268,28 +1260,24 @@ About this time, Richard Hubberthorn got an opportunity to speak with the king,
 and to have a long discourse with him, which soon after he published in print.
 Being admitted into the king`'s presence,
 he gave him a relation of the state of his friends, and said,
-
-[quote]
-____
-Since the Lord hath called us, and gathered us to be a people, to walk in his fear,
+"`Since the Lord hath called us, and gathered us to be a people, to walk in his fear,
 and in his truth,
 we have always suffered and been persecuted by the powers that have ruled,
 and been made a prey of, for departing from iniquity;
 and when the breach of no just law could be charged against us,
 then they made laws on purpose to ensnare us;
-and so our sufferings were unjustly continued.
-____
+and so our sufferings were unjustly continued.`"
 
 [.discourse-part]
-_King:_ It is true, those who have ruled over you have been cruel,
+_King._
+It is true, those who have ruled over you have been cruel,
 and have professed much which they have not done.
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_
-And likewise the same sufferings do now abound in
+_R+++.+++ H._ And likewise the same sufferings do now abound in
 more cruelty against us in many parts of this nation:
 as for instance, one at Thetford in Norfolk, where Henry Fell,
-(ministering unto the people,) was taken out of the meeting and whipped,
+(ministering unto the people,) was taken out of the meeting and whipt,
 and sent out of the town, from parish to parish, towards Lancashire;
 and the chief ground of his accusation in his pass, (which was shown to the king,) was,
 because he denied to take the oath of allegiance and supremacy;
@@ -1301,227 +1289,231 @@ but have kept to the truth, and our yea hath been yea, and our nay, nay, in all 
 which is more than the oath of those that are out of the truth.
 
 [.discourse-part]
-_King:_ But why can you not swear?
+_King._
+But why can you not swear?
 for an oath is a common thing amongst men to any engagement.
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ Yes, it is manifest, and we have seen it by experience;
+_R+++.+++ H._ Yes, it is manifest, and we have seen it by experience;
 and it is so common amongst men to swear, and engage either for, or against things,
 that there is no regard taken to them, nor fear of an oath;
 that therefore which we speak of in the truth of our hearts,
 is more than what they swear.
 
 [.discourse-part]
-_King:_ But can you not promise before the Lord, which is the substance of the oath?
+_King._
+But can you not promise before the Lord, which is the substance of the oath?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ Yes, what we do affirm, we can promise before the Lord,
+_R+++.+++ H._ Yes, what we do affirm, we can promise before the Lord,
 and take him to our witness in it; but our so promising hath not been accepted,
 but the ceremony of an oath they have stood for,
 without which all other things were accounted of no effect.
 
 [.discourse-part]
-_King:_ But how may we know from your words that you will perform?
+_King._
+But how may we know from your words that you will perform?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ By proving of us; for they that swear are not known to be faithful,
+_R+++.+++ H._ By proving of us; for they that swear are not known to be faithful,
 but by proving of them; and so we, by those that have tried us,
 are found to be truer in our promises, than others by their oaths;
 and to those that do yet prove us, we shall appear the same.
 
 [.discourse-part]
-_King:_ Pray, what is your principle?
+_King._
+Pray, what is your principle?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ Our principle is this, "`That Jesus Christ is the true light,
-which enlightens every one that cometh into the world,
-that all men through him might believe;`" and that they were
-to obey and follow this light as they have received it,
+_R+++.+++ H._ Our principle is this, "`That Jesus Christ is the true light,
+which enlighteneth every one that cometh into the world,
+that all men through him might believe;`" and that they were to
+obey and follow this light as they have received it,
 whereby they may be led unto God, and unto righteousness, and the knowledge of the truth,
 that they might be saved.
 
 [.discourse-part]
-_King:_ This do all Christians confess to be truth;
-and he is not a Christian that will deny it.
+_King._
+This do all Christians confess to be truth; and he is not a Christian that will deny it.
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ But many have denied it, both in words and writings,
-and opposed us in it;
-and above a hundred books are put forth in opposition unto this principle.
+_R+++.+++ H._ But many have denied it, both in words and writings, and opposed us in it;
+and above an hundred books are put forth in opposition unto this principle.
 
-[.small-break]
-'''
-
+[.offset]
 Then some of the Lords standing by the king, said,
 that none would deny that every one is enlightened.
 
+[.offset]
 And one of the lords asked, how long we had been called Quakers, or did we own that name?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ That name was given to us in scorn and derision,
-about twelve years since;
+_R+++.+++ H._ That name was given to us in scorn and derision, about twelve years since;
 but there were some that lived in this truth before we had that name given unto us.
 
 [.discourse-part]
-_King:_ How long is it since you owned this judgment and way?
+_King._
+How long is it since you owned this judgment and way?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ It is near twelve years since I owned this truth,
+_R+++.+++ H._ It is near twelve years since I owned this truth,
 according to the manifestation of it.
 
 [.discourse-part]
-_King:_ Do you own the sacrament?
+_King._
+Do you own the sacrament?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ As for the word sacrament, I do not read of it in the Scripture;
+_R+++.+++ H._ As for the word sacrament, I do not read of it in the Scripture;
 but as for the body and blood of Christ I own,
 and that there is no remission without blood.
 
 [.discourse-part]
-_King:_ Well, that is it; but do you not believe that every one is commanded to receive it?
+_King._
+Well, that is it; but do you not believe that every one is commanded to receive it?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ This we do believe, that according as it is written in the Scripture,
+_R+++.+++ H._ This we do believe, that according as it is written in the Scripture,
 that Christ at his last supper took bread and brake it, and gave to his disciples,
 and also took the cup and blessed it, and said unto them, "`And as often as ye do this,
 (that is,
 as often as they brake bread,) you show forth the Lord`'s
 death till he come;`" and this we believe they did;
-"`and they did eat their bread in singleness of heart from house
-to house;`" and Christ did come again to them according to his promise;
+"`and they did eat their bread in singleness of heart from house to house;`"
+and Christ did come again to them according to his promise;
 after which they said, "`We being many are one bread,
 for we are all partakers of this one bread.`"
 
 [.discourse-part]
-_King`'s friend:_ Then one of the king`'s friends said, It is true;
-for as many grains make one bread, so they being many members, were one body.
+_King`'s friend._
+Then one of the king`'s friends said, It is true; for as many grains make one bread,
+so they being many members, were one body.
 
-[.small-break]
-'''
-
+[.offset]
 Another of them said, if they be the bread, then they must be broken.
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_
-There is a difference between that bread which he brake at his last supper,
+_R+++.+++ H._ There is a difference between that bread which he brake at his last supper,
 wherein they were to show forth, as in a sign, his death until he came;
 and this whereof they spake, they being many, are one bread;
 for herein they were come more into the substance, and to speak more mystically,
 as they knew it in the spirit.
 
-King`'s friends.
+[.discourse-part]
+_King`'s friends._
 Then they said, it is true, and he had spoken nothing but truth.
 
 [.discourse-part]
-_King:_ How know you that you are inspired by the Lord?
+_King._
+How know you that you are inspired by the Lord?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ According as we read in the Scriptures,
+_R+++.+++ H._ According as we read in the Scriptures,
 that "`The inspiration of the Almighty giveth understanding;`" so by his
 inspiration is an understanding given us of the things of God.
 
-[.small-break]
-'''
-
+[.offset]
 Then one of the lords said, How do you know that you are led by the true spirit?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ This we know, because the Spirit of Truth reproves the world of sin,
+_R+++.+++ H._ This we know, because the Spirit of Truth reproves the world of sin,
 and by it we were reproved of sin, and also are led from sin, unto righteousness,
 and obedience of truth, by which effects we know it is the true spirit;
 for the spirit of the wicked one doth not lead into such things.
 
-[.small-break]
-'''
-
+[.offset]
 Then the king and his lords said it was truth.
 
 [.discourse-part]
-_King:_ Well, of this you may be assured,
+_King._
+Well, of this you may be assured,
 that you shall none of you suffer for your opinions or religion,
 so long as you live peaceably, and you have the word of a king for it;
 and I have also given forth a declaration to the same purpose,
 that none shall wrong you or abuse you.
 
 [.discourse-part]
-_King:_ How do you own magistrates, or magistracy?
+_King._
+How do you own magistrates, or magistracy?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ Thus we do own magistrates: whosoever is set up by God.
-whether king as supreme, or any set in authority by him,
-who are for the punishment of evil-doers, and the praise of them that do well,
-such we shall submit unto, and assist in righteous and civil things,
-both by body and estate: and if any magistrates do that which is unrighteous,
-we must declare against it; only submit under it by a patient suffering,
-and not rebel against any by insurrections, plots, and contrivances.
+_R+++.+++ H._ Thus we do own magistrates: whosoever is set up by God, whether king as supreme,
+or any set in authority by him, who are for the punishment of evil-doers,
+and the praise of them that do well, such we shall submit unto,
+and assist in righteous and civil things, both by body and estate:
+and if any magistrates do that which is unrighteous, we must declare against it;
+only submit under it by a patient suffering, and not rebel against any by insurrections,
+plots, and contrivances.
 
 [.discourse-part]
-_King:_ That is enough.
+_King._
+That is enough.
 
-[.small-break]
-'''
-
+[.offset]
 Then one of the lords asked, Why do you meet together,
 seeing every one of you have the church in yourselves?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ According as it is written in the Scriptures, the church is in God,
-1 Thess. 1:1 "`And they that feared the Lord,
-did meet often together in the fear of the Lord,`" and to us it is profitable,
+_R+++.+++ H._ According as it is written in the Scriptures,
+the church is in God, Thes. 1:1.
+"`And they that feared the Lord, did meet often together in the fear of the Lord,`"
+and to us it is profitable,
 and herein we are edified and strengthened in the life of Truth.
 
 [.discourse-part]
-_King:_ How did you first come to believe the Scriptures were truth?
+_King._
+How did you first come to believe the Scriptures were truth?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ I have believed the Scriptures from a child to be a declaration of truth,
+_R+++.+++ H._ I have believed the Scriptures from a child to be a declaration of truth,
 when I had but a literal knowledge, natural education, and tradition;
 but now I know the Scriptures to be true,
 by the manifestation and operation of the Spirit of God fulfilling them in me.
 
 [.discourse-part]
-_King:_ In what manner do you meet, and what is the order in your meetings?
+_King._
+In what manner do you meet, and what is the order in your meetings?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ We do meet in the same order as the people of God did, waiting upon him:
+_R+++.+++ H._ We do meet in the same order as the people of God did, waiting upon him:
 and if any have a word of exhortation from the Lord, he may speak it;
 or if any have a word of reproof or admonition, and as every one hath received the gift,
 so they may minister one unto another, and may be edified one by another;
 whereby a growth into the knowledge of the Truth is administered to one another.
 
 [.discourse-part]
-_One of the lords:_ Then you know not so much as you may know,
-but there is a growth then to be admitted of?
+_One of the lords._
+Then you know not so much as you may know, but there is a growth then to be admitted of.
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ Yes, we do grow daily into the knowledge of the Truth,
+_R+++.+++ H._ Yes, we do grow daily into the knowledge of the Truth,
 in our exercise and obedience to it.
 
 [.discourse-part]
-_King:_ Are any of your friends gone to Rome?
+_King._
+Are any of your friends gone to Rome?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ Yes, there is one in prison in Rome.
+_R+++.+++ H._ Yes, there is one in prison in Rome.
 
 [.discourse-part]
-_King:_ Why did you send him thither?
+_King._
+Why did you send him thither?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ We did not send him thither,
-but he found something upon his spirit from the Lord,
+_R+++.+++ H._ We did not send him thither, but he found something upon his spirit from the Lord,
 whereby he was called to go to declare against superstition and idolatry,
 which is contrary to the will of God.
 
-[.small-break]
-'''
-
-King`'s friend said, There were two of them at Rome, but one was dead.
+[.discourse-part]
+_King`'s friend._ There were two of them at Rome, but one was dead.
 
 [.discourse-part]
-_King:_ Have any of your friends been with the great Turk?
+_King._
+Have any of your friends been with the great Turk?
 
 [.discourse-part]
-_R+++.+++ Hubberthorn:_ Some of our friends have been in that country.
+_R+++.+++ H._ Some of our friends have been in that country.
 
 [.small-break]
 '''
@@ -1534,14 +1526,11 @@ but as the Lord did guide them in his work and service by his spirit.
 So the king promised that we should not any ways suffer for our opinion or religion;
 and so in love passed away.
 
-[.small-break]
-'''
-
 The king having promised Richard Hubberthorn over and again,
 that his friends should not suffer for their opinion, or religion, they parted in love.
 But though the king seemed a good-natured prince, yet he was so misled,
-that in process of time he seemed to have forgot what he
-so solemnly promised on the word of a king.
+that in process of time he seemed to have forgot
+what he so solemnly promised on the word of a king.
 
 Now in this discourse mention being made of Rome, etc.
 I will say by the bye, that one John Perrot and John Love being come to Leghorn in Italy,
@@ -1586,13 +1575,13 @@ in such a manner as he was used to admit ambassadors.
 He asked by his interpreters, whereof there were three with him,
 whether it was true what had been told him,
 that she had something to say to him from the Lord God?
-She answered, '`Yea.`'
+She answered, "`Yea.`"
 Then he bade her speak on: and she not being forward,
 weightily pondering what she might say,
 and he supposing that she might be fearful to utter her mind before them all, asked her,
 whether she desired that any might go aside, before she spoke?
-She answered, '`No.`' He then bade her speak the word of the Lord to them, and not to fear,
-for they had good hearts, and could hear it.
+She answered, "`No.`" He then bade her speak the word of the Lord to them,
+and not to fear, for they had good hearts, and could hear it.
 He also charged her, to speak the word she had to say from the Lord,
 neither more nor less, for they were willing to hear it, be it what it would.
 Then she spoke what was upon her mind.
@@ -1600,14 +1589,15 @@ Then she spoke what was upon her mind.
 The Turks hearkened to her with much attention and gravity, till she had done;
 and then the sultan asking her whether she had any thing more to say?
 She asked him, whether he understood what she said?
-And he answered, '`Yes, every word,`' and further said, that what she had spoken was truth.
+And he answered, "`Yes, every word,`" and further said,
+that what she had spoken was truth.
 Then he desired her to stay in that country, saying,
 that they could not but respect such an one,
 as should take so much pains to come to them so far as from England,
 with a message from the Lord God.
 He also proffered her a guard to bring her into Constantinople, whither she intended.
-But she not accepting this offer, he told her it was dangerous traveling,
-especially for such a one as she;
+But she not accepting this offer, he told her it was dangerous travelling,
+especially for such an one as she;
 and wondered that she had passed so safe so far as she had: saying also,
 it was in respect to her, and kindness that he proffered it,
 and that he would not for any thing she should come to the least hurt in his dominions.
@@ -1617,9 +1607,9 @@ who was the light of the world, and enlightened every man coming into the world,
 him she knew.
 And concerning Mahomet she said, that they might judge of him to be true or false,
 according to the words and prophecies he spoke; saying further,
-'`If the word that a prophet speaks, come to pass,
+"`If the word that a prophet speaketh, come to pass,
 then shall ye know that the Lord hath sent that prophet; but if it come not to pass,
-then shall ye know that the Lord never sent him.`'
+then shall ye know that the Lord never sent him.`"
 The Turks confessed this to be true; and Mary having performed her message,
 departed from the camp to Constantinople, without a guard,
 whither she came without the least hurt or scoff.
@@ -1642,7 +1632,7 @@ and impeached not only as one of those that kept the king prisoner,
 but also that he signed the warrant for the king`'s execution,
 and had conducted him to the scaffold.
 To all which, and more, he said little, but that what he did,
-was by order of his superiors; and that he had endeavored to serve his country.
+was by order of his superiors; and that he had endeavoured to serve his country.
 But this did not avail him, for he was condemned for high treason,
 and hanged and quartered in October.
 A day or two before his death Margaret Fell visited him in prison;
@@ -1682,7 +1672,7 @@ nor pay tithes; and they were heard with moderation.
 The king also about this time showed himself moderate; for being solicited by some,
 and more especially by Margaret Fell,
 he set at liberty about seven hundred of the people called Quakers,
-who had been imprisoned under the government of Oliver and Richard Cromwell,
+who had been imprisoned under the government of Oliver and Richard Cromwell.
 This passed the easier, because those that were now at the helm,
 had also suffered under the former government:
 there seemed likewise some inclination to give liberty of conscience;
@@ -1700,7 +1690,7 @@ which now had taken place,
 thought it not meet for their cause to sit still while the government,
 which was yet but new, should be fully settled and established.
 Perhaps they had also some intent to free some of the late king`'s judges,
-who were imprisoned; for among these was also Sir Henry Vane,
+who were imprisoned; for among these was also sir Henry Vane,
 who having been one of the chief of the commonwealth party,
 was likewise said to be one of the heads of the Fifth Monarchy-men.
 It was in the night when these people made a rising; which caused such a stir,
@@ -1722,9 +1712,9 @@ why then did he ask such a question of him, whom he knew to be a peaceable man?
 Others of these fellows ran up into the chambers, and there found esquire Marsh,
 before mentioned, in bed, who though he was one of the king`'s bed-chamber,
 yet out of love to G. Fox, came and lodged where he did.
-When the troopers came down again, they said, '`Why should we take this man away with us?
-We will let him alone.`'
-'`Oh,`' said the parliament soldier,`'he is one of the heads, and a chief ringleader.`'
+When the troopers came down again, they said, "`Why should we take this man away with us?
+We will let him alone.`"
+"`Oh,`" said the parliament soldier, "`he is one of the heads, and a chief ringleader.`"
 Upon this the soldiers were taking him away.
 But esquire Marsh hearing of it, sent for him that commanded the party,
 and desired him to let G. Fox alone, since he would see him forthcoming in the morning,
@@ -1740,9 +1730,9 @@ if he had not been stopped: but now it being out of his power to keep them compa
 he commended their boldness, and encouraged them to persevere therein.
 When he was come to Whitehall, seeing the soldiers and people were exceeding rude,
 he began to exhort them to godliness.
-But some great persons coming by, who were envious to him, said, '`What,
+But some great persons coming by, who were envious to him, said, "`What,
 do you let him preach?
-Put him into such a place, where he may not stir.`'
+Put him into such a place, where he may not stir.`"
 So he was put into that place, and the soldiers watched over him; but G. Fox told them,
 though they could confine his body, and shut that up,
 yet the word of life they could not stop.
@@ -1775,20 +1765,20 @@ that were in nowise concerned in the said insurrection and riots, were treated;
 for several thousands of them were cast into prison.
 The king and council wondered how they could have such intelligence,
 since strict charge was given for the intercepting of all letters,
-so that none could pass un-searched.
+so that none could pass unsearched.
 But notwithstanding this, so much was heard of the numbers of the imprisoned,
 that Margaret Fell went a second time to the king and council,
 and acquainted them of the grievous sufferings of her friends.
 G+++.+++ Fox then wrote a letter of consolation to his suffering friends;
 and also published in print a declaration against all seditions, plotters, and fighters,
-wherein he manifested, that they were a harmless people, that denied wars and fightings,
+wherein he manifested, that they were an harmless people, that denied wars and fightings,
 and could not make use of the outward sword, or other carnal weapons.
 This declaration was presented to the king and his council, and was of such effect,
 that the king gave forth a proclamation, that no soldiers should go to search any house,
 but with a constable.
-When afterwards some of the Fifth Monarchy-men were put to death because of their insurrection,
+When afterwards some of the Fifth-Monarchy-men were put to death because of their insurrection,
 they did the Quakers, so called, that right,
-that they cleared them openly from having a hand in, or knowledge of their plot.
+that they cleared them openly from having an hand in, or knowledge of their plot.
 This and other evidences caused the king, being continually importuned thereunto,
 to issue forth a declaration,
 that the Quakers should be set at liberty without paying fees.
@@ -1801,7 +1791,7 @@ Others, who were a little more steadfast, made use of their money to get liberty
 though under the government of Cromwell they would
 permit no liberty of conscience to others;
 insomuch that one Hewes, an eminent priest at Plymouth in Oliver`'s days,
-when some liberty w`'as granted,
+when some liberty was granted,
 prayed that God would put it into the hearts of the chief magistrates of the nation,
 to remove this cursed toleration.
 But this Hewes, after the king was come in, being asked by one,
@@ -1809,16 +1799,16 @@ whether he would account toleration accursed now, answered only by shaking his h
 
 Now though many of the Quakers, as hath been said, were released from prison,
 yet they suffered exceedingly in their religious assemblies.
-Once a company of Irishmen came to Pall-Mall, when G. Fox was there;
+Once a company of Irishmen came to Pall-mall, when G. Fox was there;
 but the meeting was already broke up; and he being gone up into a chamber,
 heard one of those rude persons, who was a colonel, say, he would kill all the Quakers.
-Whereupon G. Fox came down, and told him, '`The law said, an eye for an eye,
-and a tooth for a tooth; but thou threatens to kill all the Quakers,
-though they have done thee no hurt:`' but said he further, '`Here is gospel for thee:
-here`'s my hair, here`'s my cheek, and here`'s my shoulder,`' turning it to him.
+Whereupon G. Fox came down, and told him, "`The law said, an eye for an eye,
+and a tooth for a tooth; but thou threatenest to kill all the Quakers,
+though they have done thee no hurt:`" but said he further, "`Here is gospel for thee:
+here`'s my hair, here`'s my cheek, and here`'s my shoulder,`" turning it to him.
 This so surprised the colonel, that he and his companions stood amazed, and said,
-'`If this be your principle as you say, we never saw the like in our lives.`'
-To which G. Fox said, '`What I am in words I am the same in life.`'
+"`If this be your principle as you say, we never saw the like in our lives.`"
+To which G. Fox said, "`What I am in words I am the same in life.`"
 Then the colonel carried himself lovingly;
 though a certain ambassador who stood without and then came in, said,
 that this Irish colonel was such a desperate man, that he durst not come in with him,
@@ -1828,13 +1818,13 @@ Notwithstanding such like rude encounters, yet by the change of the government,
 some stop was put to the fierce current of persecution;
 for the king being but newly settled on the throne, showed yet an inclination to lenity.
 But this quiet did not last long, and was but a time of respiration: for the churchmen,
-instigated, as it seems very probable, by the favorers of popery, continued envious,
+instigated, as it seems very probable, by the favourers of popery, continued envious,
 and stayed but for an opportunity to show their malice.
-An instance of which hath been seen already on the insurrection of the Fifth Monarchy-men,
+An instance of which hath been seen already on the insurrection of the Fifth-Monarchy-men,
 and in the sequel will be seen much clearer: since,
-though they did not seem to persecute for conscience-sake, yet under a color of justice,
+though they did not seem to persecute for conscience-sake, yet under a colour of justice,
 laws were made use of, that had formerly been enacted for the suppression of popery,
-and to secure the kingdom against Jesuits, and other traitorous Papists;
+and to secure the kingdom against Jesuits, and other traiterous Papists;
 these being the laws, of which G. Fox in his letter to the king had said,
 that they held up persecution about religion.
 
@@ -1859,7 +1849,7 @@ and in that law it was said,
 --
 
 If the judge of an ecclesiastical court make complaint to two justices of peace,
-(_quorum unus,_) of any contumacy,
+(quorum unus,) of any contumacy,
 or misdemeanor committed by a defendant in any suit there depending for tithes,
 the said justices shall commit such defendant to prison,
 there to remain till he shall find sufficient surety to be bound before them by recognizance,
@@ -1888,9 +1878,9 @@ projected in the time of Henry the eighth, which runs thus:
 [.embedded-content-document.legal]
 --
 
-I, A. B., do utterly testify and declare in my conscience, that the +++[+++king`'s]
+I _A. B._ do utterly testify and declare in my conscience, that the +++[+++king`'s]
 highness is the only supreme governor of this realm,
-and of all other (his) highnesses dominions and countries,
+and of all other (his) highness`'s dominions and countries,
 as well in all spiritual or ecclesiastical things or causes, as temporal.
 And that no foreign prince, prelate, state, or potentate, hath,
 or ought to have any jurisdiction, power, superiority, preeminence, or authority,
@@ -1907,6 +1897,7 @@ So help me God, and the contents of this book.
 
 --
 
+[.offset]
 In the first year of queen Elizabeth, an act was made for uniformity of common-prayer,
 and church-service, having this clause:
 
@@ -1934,7 +1925,7 @@ though the word itself properly signifies the assembly of the people.
 Now, since the aforesaid law was not strictly obeyed, not only by Papists,
 but also by others, who aiming at a further reformation,
 could not longer comply with the rites of the church of England,
-in the 23d year of Elizabeth, a more severe law was made, with this clause:
+in the 23rd year of Elizabeth, a more severe law was made, with this clause:
 
 [.embedded-content-document.legal]
 --
@@ -1944,12 +1935,13 @@ Every person not repairing to church, according to the statute of 1 Eliz.
 and if they so forbear by the space of twelve months, after certificate thereof,
 made by the ordinary unto the King`'s Bench, a justice of assize, jail-delivery,
 or peace of the county where they dwell,
-shall bind them with two sufficient sureties in 200. at least, to their good behavior,
+shall bind them with two sufficient sureties in 200£ at least, to their good behaviour,
 from which they shall not be released until they
 shall repair to church according to the said statute.
 
 --
 
+[.offset]
 This law it seems was not thought severe enough;
 therefore in the 29th year of the said queen, another law was made with this clause:
 
@@ -1964,7 +1956,7 @@ as shall happen next after such conviction,
 for the sum then due for the forfeiture of twenty pounds a month, and yearly after that,
 (in the same terms,) according to the rate of twenty pounds a month for so long time
 as they shall forbear to come to church according to the said statute of 23 Eliz.
-I.
+1.
 
 --
 
@@ -1979,14 +1971,14 @@ for in the 35th year of queen Elizabeth`'s reign,
 when the Papists sometimes were forming plots against the queen, an act was made,
 containing the effect of this clause:
 
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
 
 If any of above sixteen years of age shall be convicted
 to have absented themselves above a month from church,
 without any lawful cause, impugned the queen`'s authority in causes ecclesiastical,
 or frequented conventicles, or persuaded others so to do,
-under pretense of exercise of religion, they shall be committed to prison,
+under pretence of exercise of religion, they shall be committed to prison,
 and there remain until they shall conform themselves,
 and make such open submission as hereafter shall be prescribed:
 and if within three months after such conviction, they refuse to conform,
@@ -2002,32 +1994,31 @@ he makes his submission, the penalties aforesaid shall not be inflicted upon him
 
 --
 
-Though it maybe supposed this act was made chiefly against Papists,
+Though it may be supposed this act was made chiefly against Papists,
 yet some few of the Quakers, so called, had been prosecuted thereupon,
 which was for their lives; for if they had been willing to depart the realm, yet such,
 who for conscience-sake could not swear at all,
 could not oblige themselves by oath that they would do so.
 And this being very well known, it once happened, that one William Alexander,
 of Needham in Suffolk, being with several more indicted upon this act, was asked,
-'`Guilty or not guilty?
-He not being hasty to answer, the judge said, '`Why don`'t you plead guilty or not guilty?`'
-To which Alexander replied, '`What would thou advise us to plead?`'
-The judge, (who sometimes used to be severe enough,) said, '`Do you ask my advice?
-'`Yes,`' said Alexander.
-'`Then,`' returned the judge, '`you shall have it; and I`'ll advise you to plead not guilty.`'
+"`Guilty or not guilty?`"
+He not being hasty to answer, the judge said,
+"`Why don`'t you plead guilty or not guilty?`"
+To which Alexander replied, "`What would`'st thou advise us to plead?`"
+The judge, (who sometimes used to be severe enough,) said, "`Do you ask my advice?`"
+"`Yes,`" said Alexander.
+"`Then,`" returned the judge, "`you shall have it;
+and I`'ll advise you to plead not guilty.`"
 So the prisoners accordingly pleaded not guilty.
-Then said the judge to the prosecutors,`' Now you must prove these men,
+Then said the judge to the prosecutors, "`Now you must prove these men,
 neither to have been at their own parish church, nor at any other church or chapel,
-else they are not within this act, which is a sanguinary law.`'
+else they are not within this act, which is a sanguinary law.`"
 Thus the judge carried on his discourse,
 to a discharge of Alexander and his friends from that severe indictment:
 for the prosecutors were not able to prove this with evidence, as the law required.
-One William Bonnet, had also been long in prison at Edmondsbury in Suffolk, on this act,
+One William Bennet, had also been long in prison at Edmondsbury in Suffolk, on this act,
 and one Richard Vickris near Bristol.
 But now I go back again.
-
-[.small-break]
-'''
 
 After the demise of queen Elizabeth, when James the First had ascended the throne,
 the Papists still continued their wicked designs,
@@ -2039,14 +2030,14 @@ in which was contained the following oath, which was to be taken by popish recus
 [.embedded-content-document.legal]
 --
 
-I A. B. do truly and sincerely acknowledge, profess, testify,
+I _A. B._ do truly and sincerely acknowledge, profess, testify,
 and declare in my conscience before God and the world,
 that our sovereign lord king James, is lawful and rightful king of this realm,
 and of all other his majesty`'s dominions and countries; and that the pope,
 neither of himself, nor by any authority of the church, or see of Rome,
 or by any other means, with any other, hath any power or authority to depose the king,
 or to dispose of any of his majesty`'s kingdoms or dominions,
-or to authorize any foreign prince to invade, or annoy him, or his countries,
+or to authorise any foreign prince to invade, or annoy him, or his countries,
 or to discharge any of his subjects from their allegiance and obedience to his majesty,
 or to give license or leave to any of them to bear arms, raise tumults,
 or to offer any violence or hurt to his majesty`'s royal person, state, or government,
@@ -2060,9 +2051,9 @@ I will bear faith and true allegiance to his majesty, his heirs and successors,
 and him and them will defend to the uttermost of my power,
 against all conspiracies and attempts whatsoever,
 which shall be made against his or their persons, their crown and dignity,
-by reason or color of any such sentence or declaration, or otherwise:
-and will do my best endeavor to disclose, and make known unto his majesty,
-his heirs and successors, all treasons, and traitorous conspiracies,
+by reason or colour of any such sentence or declaration, or otherwise:
+and will do my best endeavour to disclose, and make known unto his majesty,
+his heirs and successors, all treasons, and traiterous conspiracies,
 which I shall know or hear of to be against him, or any of them.
 And I do further swear, that I do from my heart abhor, detest, and abjure,
 as impious and heretical, this damnable doctrine and position,
@@ -2099,17 +2090,17 @@ as will be seen in their proper time.
 
 At the close of this year,
 E+++.+++ Burrough wrote a consolatory epistle to his
-fellow-laborers in the ministry of the gospel,
+fellow-labourers in the ministry of the gospel,
 which I cannot omit to insert here,
 because it shows very evidently how valiant he was in the service of Truth,
-which epistle is as follows;
+which epistle is as followeth:
 
 [.embedded-content-document.epistle]
 --
 
 Dearly and well-beloved brethren, in the heavenly relation, and blessed immortal birth,
 of which we are born most dearly in our Father`'s love;
-my salutation extends unto you all,
+my salutation extendeth unto you all,
 as one with you perfectly in sufferings and in rejoicings, in faith and patience,
 and even in all things which you do and suffer for in the name of the Lord our God;
 and my soul greets you, and embraces you, and fervently wishes peace, love, and unity,
@@ -2119,7 +2110,7 @@ and if you suffer, and be in heaviness, I freely partake with you; whatsoever is
 whether liberty or bonds, whether life or death, I partake of the same;
 and whatsoever I enjoy, the same also is yours; we are of one birth, of one seed,
 of one line, even of the generation of him who is without beginning of days,
-or end of life, who is a high priest, made after the power of an endless life;
+or end of life, who is an high priest, made after the power of an endless life;
 and as he was blessed of the Father, so are we, because we are of the same birth,
 and are partakers of his nature, and he lives in us, and we in him.
 
@@ -2153,7 +2144,7 @@ and when we were strangers to him, he made himself known unto us;
 and when we were wholly ignorant, he gave us knowledge; and when we were not a people,
 he raised us up, and made us worthy to be called by his name; and thus,
 after this manner, did the Father love us, and show his love unto us: this you know,
-even as I do, and the consideration of it causes me thus to express it.
+even as I do, and the consideration of it causeth me thus to express it.
 
 Again, when he had thus wrought for us, and showed his love unto us,
 he was pleased to call us out into his work,
@@ -2171,7 +2162,7 @@ And therefore it is the Lord, and only he that hath effected his own purpose thr
 and by us, as instruments mean of ourselves, but by him very excellent.
 
 Again, he hath mightily prospered us in his work,
-and a glorious effect we have beheld of our labors, and travels, and testimony; yea,
+and a glorious effect we have beheld of our labours, and travels, and testimony; yea,
 the Lord hath been with us abundantly, and his arm hath compassed us about,
 and he hath often given us great victory over the wise and prudent of this world;
 he hath made his own word often very powerful in our mouths,
@@ -2179,15 +2170,15 @@ to the wounding of the consciences of our enemies;
 and the Lord hath blessed our testimony, to the confounding the wisdom of this world,
 and to the gathering of many unto himself;
 and he hath gone forth before us in his authority,
-and been always with us in his own work; and our testimonies, labors,
+and been always with us in his own work; and our testimonies, labours,
 and travels have been very precious and pleasant unto the Lord, and all his people;
-and the effect thereof causes my soul to rejoice, because the Lord hath been with us,
+and the effect thereof causeth my soul to rejoice, because the Lord hath been with us,
 and prospered us into a great people, who have received our witness,
 and accepted thereof unto their salvation; and unto the Lord alone,
 the glory of all this appertaineth.
 
 And for these eight years and upward,
-the hand of the Lord hath carried us through great labors and travels in his service,
+the hand of the Lord hath carried us through great labours and travels in his service,
 and many dangers, and persecutions, and afflictions have attended us all this time;
 and ye know that many a time hath the Lord delivered us
 from the hands of such as would have destroyed us;
@@ -2199,7 +2190,7 @@ even many a time have we been delivered out of the snare that hath been laid for
 and we have seen our enemies fall before us on the right hand, and on the left,
 even the wise in their worldly wisdom, and the foolish in their brutishness,
 both professors and profane hath our God often cut short
-in their desires and endeavors for our destruction;
+in their desires and endeavours for our destruction;
 and we have been wonderfully preserved unto this day;
 and all this I attribute to the infinite love and power of the Lord God,
 who is blessed forevermore.
@@ -2221,7 +2212,7 @@ and glorious days will appear; God will exalt his kingdom upon earth,
 and throw down the kingdom of the man of sin; all oppression must cease,
 and the oppressors shall be no more; and God will free his people,
 and they shall be happy in this world, and forever:
-these things have we prophesied from day to day; and my faith is constant and unmovable,
+these things have we prophesied from day to day; and my faith is constant and unmoveable,
 that God will effect these things in his season: for the Lord never yet deceived me,
 but what he hath said, will surely come to pass.
 
@@ -2241,7 +2232,7 @@ and the waves of the great sea seem to be void of mercy,
 and the hope of our adversaries is to extinguish us from being a people,
 and to destroy us from the face of the earth;
 and the hands of our persecutors are highly exalted at this day,
-as though all that we have done for the Lord, by our labors and travels,
+as though all that we have done for the Lord, by our labours and travels,
 should now be made of none effect.
 
 Well, dear brethren, though it be thus, yet our God can deliver us,
@@ -2258,7 +2249,7 @@ For God hath given us the witness of his eternal Spirit,
 that wrath is not in him towards us; his wrath be to his enemies,
 but unto us is joy and peace forevermore: and the Lord clears us, and he justifies us,
 who then shall condemn us?
-He charges no guilt upon us, as if we were unto ourselves the cause, by our evil deeds,
+He chargeth no guilt upon us, as if we were unto ourselves the cause, by our evil deeds,
 of these our present sufferings, and as if this were come to pass upon us,
 as punishment from the hand of God: I say, it is not so;
 these our present sufferings are not out of God`'s anger towards us,
@@ -2303,7 +2294,7 @@ and when the raging sea is dried up, this same people shall be safe;
 for hath the Lord done so excellent things for us?
 Hath he led us forth, and blessed us unto this day?
 And hath he preserved us hitherto through many tribulations and dangers?
-Hath he showed infinite love and favor unto us to this hour?
+Hath he showed infinite love and favour unto us to this hour?
 And will he now suffer us to be destroyed from being a people?
 Surely no.
 Will he give our enemies their heart`'s desire to cut us all off,
@@ -2347,7 +2338,7 @@ having more time than could be expected to clear my conscience to all people.
 It would be too large to mention every particular transaction,
 wherein I perceived the eminent hand of God with me;
 and also many things I observed concerning the present
-slate of things which I shall not mention;
+state of things which I shall not mention;
 for what have we to do with the affairs of worldly kingdoms?
 But as for friends, it was well with them,
 they grow and increase in the blessings and fulness of the Father;
@@ -2365,6 +2356,6 @@ I am well, and at liberty, as yet.
 E+++.+++ B.
 
 [.signed-section-context-close]
-Eleventh of the Twelfth month, 1660.
+11th of the Twelfth month, 1660.
 
 --
