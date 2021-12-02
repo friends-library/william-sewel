@@ -366,7 +366,345 @@ and his eternal happiness in that which is to come.
 [.blurb]
 === An account of the number of the said prisoners called Quakers, in the several counties.
 
-// NOTE: Jared, replace the table
+// --lint-ignore - asciidoc-source: https://gist.github.com/jaredh159/147c9e8db25621a5fbfefc130ecbc512/raw/2250aacba14f396b9e52bc7ef3f2bd140aad7bea/sewel-1.adoc
+++++
+<table class="tableblock frame-all grid-all stretch table-tail-align-right">
+  <colgroup>
+    <col style="width: 70%;"/>
+    <col style="width: 30%;"/>
+  </colgroup>
+  <tbody>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Bedfordshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">30</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Leicestershire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">37</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Berkshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">37</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Loncolnshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">12</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Bristol</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">103</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">London and Middlesex</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">66</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Buckinghamshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">19</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Norfolk</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">52</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Cambridgeshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">8</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Northampton</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">59</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Cheshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">9</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Nottinghamshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">6</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Cornwall</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">32</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Oxon</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">7</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Cumberland</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">22</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Shropshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">18</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Derbyshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">1</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Somersetshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">36</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Devonshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">104</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Southampton</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">15</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Dorsetshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">13</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Staffordshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">1</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Durham</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">39</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Suffolk</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">79</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Ely</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">11</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Surrey</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">29</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Essex</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">10</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Sussex</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">17</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Gloucestershire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">66</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Warwickshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">31</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Hertfordshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">18</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Westmoreland</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">5</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Herefordshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">18</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Wiltshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">34</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Huntingdonshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">10</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Worcestershire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">15</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Kent</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">16</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Yorkshire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">279</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Lancashire</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">73</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Wales</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">30</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>Total of Prisoners</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>1460</strong></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+++++
 
 [.signed-section-context-close]
 Delivered to the king the 3rd of the First month called March, 1684-5.
