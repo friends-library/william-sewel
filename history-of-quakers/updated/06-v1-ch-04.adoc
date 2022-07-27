@@ -462,7 +462,7 @@ A good while after this, the magistrates gave out the following warrant:
 --
 
 [.letter-heading]
-City of Bristol.
+City of Bristol
 
 [.salutation]
 To all the constables within this city, and to every one of them.
@@ -496,7 +496,7 @@ the magistrates caused another to be written in these words:
 --
 
 [.letter-heading]
-City of Bristol.
+City of Bristol
 
 [.salutation]
 To the constables of the peace of the district of +++________+++ and to every one of them.
