@@ -83,7 +83,6 @@ and with a guard of horsemen were sent to prison with the following court order.
 [.embedded-content-document.letter]
 --
 
-[.salutation]
 Peter Ceely, one of the justices of the peace of this county,
 to the keeper of his highness`'s jail at Launceston, or his lawful deputy on that behalf,
 greeting:
@@ -105,7 +104,7 @@ and in his highness`'s prison aforementioned you safely
 keep them until by due course of law they shall be delivered.
 Hereof fail not, as you will answer the contrary at your peril.
 
-ssccl
+[.signed-section-closing]
 Given under my hand, and seal, at St. Ives, the 18th day of January, 1656.
 
 [.signed-section-signature]
