@@ -840,7 +840,6 @@ of which the following is a true copy.
 [.signed-section-context-open]
 County of Devon
 
-[.salutation]
 John Page, merchant, mayor of the borough of Plymouth, in the county aforesaid,
 and one of his highness`'s justices of the peace within the said district,
 to the keeper of his highness`'s jail at Exon castle,
