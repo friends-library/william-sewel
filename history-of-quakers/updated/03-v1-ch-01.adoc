@@ -421,7 +421,7 @@ and each bow was made at the pronouncing of the name of Jesus.
 Such ceremonies increased over time, and the preachers who were truly religious,
 and who spoke most unto edification, were slighted and set by;
 for the bishops chiefly sought to promote such rituals as favored popery.^
-footnote:[Throughout this history, popery refers to the doctrines, practices,
+footnote:[Throughout this history, __popery__ refers to the doctrines, practices,
 and ceremonies associated with the Pope or the papal system; i.e. Roman Catholicism.]
 This was not only done in England,
 but in Scotland also endeavors were made to bring in episcopacy.^
@@ -478,7 +478,7 @@ where he came in the month called June, in the year 1644.
 While he thus led a solitary life, he fasted often,
 and read the Holy Scriptures diligently, so that some professors^
 footnote:[Throughout this history,
-the word professors refers to those who profess faith in Christ.
+the word __professors__ refers to those who profess faith in Christ.
 Here the word has nothing to do with teachers or scholars.]
 took notice of him and sought to be acquainted with him.
 But he soon perceiving they did not possess what they professed, grew afraid of them,
@@ -572,7 +572,7 @@ Thus all their discourse was lost; and George went away in sorrow,
 worse than he was when he came, finding none who could reach his condition.
 After this he went to one Macham, a priest of high regard; and he,
 being no more skillful than the others, was for giving George medicine and bleeding him;^
-footnote:[At this time, blood-letting was a common practice among physicians,
+footnote:[At this time, __blood-letting__ was a common practice among physicians,
 believed to prevent and cure all sorts of illness and disease.]
 but they could not get one drop of blood from him, either in the arms or the head,
 his body appearing dried up with sorrows, grief, and trouble.
@@ -1064,7 +1064,7 @@ and steeple-houses at Mansfield and other places,
 warning them to leave off oppression, deceit, and other evils.
 And having heard at Mansfield of a man in that country who was a common drunkard,
 a noted whore-master, and a poet also, he went to him, and reproved him in an awful^
-footnote:[Throughout this history, the word awful carries its original meaning:
+footnote:[Throughout this history, the word __awful__ carries its original meaning:
 full of awe, serious, weighty, or reverent.]
 manner for his evil courses.
 This so struck the man, that coming afterwards to G. Fox,
@@ -1167,9 +1167,9 @@ who seeks such as these to worship Him.
 
 Now he found also that the Lord forbade him to put off his hat to any man,
 of whatever social class;
-and that he was required to Thee and Thou every man and woman without distinction,^
+and that he was required to __Thee__ and __Thou__ every man and woman without distinction,^
 footnote:[Editor`'s Note--Most modern English speakers are unaware that the words "`you`"
-and "`your`" were originally plural pronouns used only to address two or more people,
+and "`your`" were originally __plural__ pronouns used only to address two or more people,
 whereas "`thee`" and "`thou`" were used to address one person.
 In the 1600`'s,
 it became fashionable (as a means of showing honor or flattery) to use
@@ -1209,7 +1209,7 @@ and shameful abuses quickly became the lot and share of those who (for
 conscience-sake) could no longer follow the ordinary customs of the times.
 For though it was alleged that the putting off of the hat was but a small thing,
 which none ought to scruple;^
-footnote:[The word scruple appears often throughout
+footnote:[The word __scruple__ appears often throughout
 this history both as a noun and a verb.
 It is used to speak of a feeling of doubt or hesitation with regard
 to the morality or propriety of a course of action.]
@@ -1550,6 +1550,10 @@ So when they had wearied themselves in examining him,
 they committed him and another man to the house of correction in Derby for six months,
 as "`blasphemers,`" as appears by the following court order.
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 To the Master of the House of Correction in Derby, Greetings.
 
 We have sent you herewith the bodies of George Fox,
@@ -1564,9 +1568,14 @@ and safely to keep them during the space of six months, without bail or mainpris
 or until they shall find sufficient security to be of good behavior,
 or be there delivered by an order from ourselves.
 Hereof you are not to fail.
+
+[.signed-section-closing]
 Given under our hands and seals this 30th day of October, 1650,
 
+[.signed-section-signature]
 Gervas Bennet, Nathaniel Barton.
+
+--
 
 George Fox being thus, as has been said, locked up,
 the priests bestirred themselves in their pulpits
@@ -1659,6 +1668,9 @@ The first of his letters I meet with is the following,
 which he wrote to the priests of Derby, from the house of correction,
 where he certainly had not the convenience of a scribe.
 
+[.embedded-content-document.letter]
+--
+
 O Friends, I was sent unto you to tell you, that if you had received the gospel freely,
 you would minister it freely without money or price;
 but you make a trade and sale of what the prophets and apostles have spoken,
@@ -1682,10 +1694,18 @@ You are their children, for you show forth their fruit.
 They had the chief place in the assemblies, and so do you.
 They loved to be called Rabbi, and so do you.
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+--
+
+[.offset]
 That which he wrote to the magistrates who committed him to prison, was to this effect:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 I am forced, in tender love unto your souls, to write unto you,
@@ -1705,7 +1725,10 @@ And if it be of man, it will fail; but if it be of God, nothing will overthrow i
 Therefore I desire and pray that you would take heed, and beware what you do,
 lest you be found fighters against God.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 George Fox having thus cleared his conscience, continued waiting in patience,
 leaving the outcome to God.
@@ -1717,6 +1740,10 @@ One of them (already mentioned) was justice Bennet, the other, named Nathaniel B
 was both a justice and a colonel, and also a preacher.
 To these he wrote as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 You did speak of the good old way, which the prophet +++[+++Jeremiah]
@@ -1746,9 +1773,15 @@ O come down, and sit in the dust!
 The Lord is coming with power; and He will throw down everyone that is exalted,
 that He alone may be exalted.
 
+--
+
 Having thus written to them jointly, he after some time, wrote to each of them separately.
 To justice Bennet he wrote thus:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 You that profess God and Christ in words, consider how you follow Him.
@@ -1773,10 +1806,18 @@ Be not deceived; God is not mocked with vain words.
 "`Evil communication corrupts good manners.
 Awake to righteousness and sin not.`"
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+--
+
+[.offset]
 And to justice Barton his words were:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 You who preach Christ and the Scriptures in words,
@@ -1788,12 +1829,19 @@ Mind the prophets, and Jesus Christ, and His apostles, and all the holy men of G
 what they spoke was from the life; but they that had not the life (but only the words),
 persecuted and imprisoned those that lived in the life, which they had backslidden from.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 Now, though the Mayor of Derby did not sign the court order,
 yet having had a hand with the rest in sending G. Fox to prison,
 he also wrote to him after this manner:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 You are set in place to do justice,
@@ -1828,7 +1876,13 @@ and the other was a beggar.
 O friend, consider these things, for they are near,
 and see whether you are not in the rich man`'s state.
 
+--
+
+[.offset]
 To those of the Court at Derby, he also wrote the following exhortation.
+
+[.embedded-content-document.letter]
+--
 
 I am moved to write unto you, to take heed of oppressing the poor in your courts,
 or laying burdens upon poor people which they cannot bear.
@@ -1840,8 +1894,15 @@ Therefore take heed of all these things speedily.
 The Lord`'s judgments are all true and righteous, and He delights in mercy.
 So love mercy, dear people, and consider in time.
 
+--
+
+[.offset]
 And to the bell-ringers of the steeple-house, called St. Peter`'s, in Derby, he wrote:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 Take heed of pleasures, and prize your time now while you have it,
@@ -1851,6 +1912,8 @@ Therefore look at the love of God now, while you have time;
 for it brings you to loathe all vanities and worldly pleasures.
 O consider, time is precious!
 Fear God and rejoice in Him who has made heaven and earth.
+
+--
 
 While G. Fox was in prison there, several of the professors came to discourse with him,
 and he perceiving that they came to plead for sin and imperfection,^
@@ -1934,6 +1997,9 @@ in order to discharge himself,
 he wrote the following paper and sent it forth for the opening
 of people`'s understandings in the way of truth,
 directing them to the true teacher in themselves.
+
+[.embedded-content-document.paper]
+--
 
 The Lord does show unto man his thoughts, and discovers all the secret workings in man.
 A man may be brought to see his evil thoughts, and his running mind,
@@ -2048,9 +2114,16 @@ but Jacob, the second birth, shall be fruitful, and shall arise.
 For Esau is hated, and must not be lord; but Jacob, the second birth,
 which is perfect and plain, shall be lord; for he is beloved of God.
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+--
+
+[.offset]
 About the same time he wrote to his friends the following paper:
+
+[.embedded-content-document.paper]
+--
 
 The Lord is King over all the earth!
 Therefore all people, praise and glorify your King in true obedience, in uprightness,
@@ -2067,9 +2140,14 @@ They sing and praise the eternal God in Zion,
 and no man shall ever take their joy from them.
 Glory be to the Lord God forevermore!
 
+--
+
 And since many who had been convinced of the truth,
 turned aside because of the persecution that arose,
 he wrote the following lines for the encouragement of the faithful:
+
+[.embedded-content-document.epistle]
+--
 
 Come you blessed of the Lord, and rejoice together; keep in unity and oneness of spirit.
 Triumph above the world; be joyful in the Lord, reigning above the world,
@@ -2079,6 +2157,8 @@ O hear, O hearken to the call of the Lord, and come out of the world,
 and keep out of it forevermore!
 And come, sing together you righteous ones, the song of the Lord, the song of the Lamb,
 which none can learn but they who are redeemed from the earth and from the world.
+
+--
 
 Now while G. Fox was at Derby in the house of correction, his relations came to see him,
 and being sorry for his imprisonment,
@@ -2101,6 +2181,10 @@ And on First-days he now and then visited the prisoners in their religious meeti
 But the justices then requiring sureties for his good behavior,
 it came upon him to write to them again, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 Consider what it is in you that does imprison; and consider who is head in you,
@@ -2116,8 +2200,15 @@ Therefore take heed of pleasures, and deceits, and pride.
 Look not at man, but at the Lord; for He says, "`Look unto Me, all you ends of the earth,
 and be saved.`"
 
+--
+
+[.offset]
 Not long after he wrote to them again, saying:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 Would you have me be bound for my good behavior, from drunkenness, swearing, fighting,
@@ -2131,8 +2222,15 @@ can justly accuse of these things, praised be the Lord!
 I can look to no man for my liberty, but to the Lord alone;
 who has all men`'s hearts in His hand.
 
+--
+
+[.offset]
 And after some time, not finding his spirit clear of them, he wrote again, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 Had you known who sent me to you, you would have received me;
@@ -2157,8 +2255,15 @@ But love mercy and true judgment and justice, for in these the Lord delights.
 I do not write with hatred to you, but to keep my conscience clear.
 Take heed how you spend your time.
 
+--
+
+[.offset]
 To the priests of Derby he also wrote again in this manner:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 You profess to be the ministers of Jesus Christ in words,
@@ -2185,9 +2290,14 @@ and not the nature of Jesus Christ.
 I write with no hatred to you, but only that you may weigh yourselves,
 and see how you pass your time.
 
+--
+
 Having thus cleared his conscience to the priests,
 it was not long before a concern came upon him to write again to the justices,
 which he did as follows:
+
+[.embedded-content-document.letter]
+--
 
 I am moved to warn you to take heed of giving way to your own wills.
 Love the cross, and do not satisfy your minds in the flesh,
@@ -2214,9 +2324,15 @@ This will lead to repentance, and keep you in the fear of the Lord.
 O look at the mercies of God, and prize them, and do not turn them into licentiousness!
 O turn your eye to the Lord, and not to earthly things!
 
+--
+
 Besides this, he wrote the following letter to Nathaniel Barton,
 who (as was hinted before) was both a justice and a preacher.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 Do not cloak and cover yourself.
@@ -2279,6 +2395,8 @@ and that you may dwell upon the earth alone.`"^
 footnote:[Isaiah 5:8]
 These things have come to the ears of the Lord of Hosts.
 
+--
+
 It has been said already,
 that G. Fox and some of his friends were sometimes moved to preach the doctrine of truth.
 And in this year it also happened that Elizabeth Hooton (of whom mention has been made),
@@ -2286,8 +2404,8 @@ from a true experience of the Lord`'s work in herself,
 also felt moved publicly to preach the way of salvation to others,
 being the first woman preacher (by what I am informed) among
 those who were now generally called by the name of Quakers.
-Yet I have found in a Dutch book, printed at Dordt in the year 1647, and called,
-History of the Troubles in England,
+Yet I have found in a Dutch book, printed at Dordt in the year 1647,
+and called, [.book-title]#History of the Troubles in England#,
 that among the various other religious persuasions at London,
 there were also women that did preach in large meetings,
 who were heard by many with great satisfaction;
@@ -2309,6 +2427,9 @@ not only with the Scots, but also with the English, if possible.
 And for this purpose he gave forth the following declaration at his Court at Dumfermling,
 dated the 16th day of August, 1650, and in the second year of his reign:
 
+[.embedded-content-document.address]
+--
+
 Though his Majesty, as a dutiful son, is obliged to honor the memory of his royal father,
 and have in estimation the person of his mother,
 yet he does desire to be deeply humbled and afflicted in spirit
@@ -2317,6 +2438,8 @@ and his opposition to the Work of Reformation,
 and to the Solemn League and Covenant (by which so much of the
 blood of the Lord`'s people has been shed in these kingdoms),
 and also for the idolatry of his mother.
+
+--
 
 Here the king confessed openly that his father`'s house was guilty of great crimes,
 and plainly signified that the nation indeed had been wronged by his father`'s behavior;

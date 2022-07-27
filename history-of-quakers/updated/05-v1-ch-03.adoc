@@ -318,6 +318,10 @@ G+++.+++ Fox being now having come again to Swarthmore,
 wrote several letters to the magistrates and priests who had raised persecutions thereabouts.
 That to justice John Sawrey, was very sharp, and after this manner:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 You were the first to begin all the persecution in the North.
@@ -364,7 +368,10 @@ You mounted up, and set your nest on high, but never got higher than the fowls o
 But now you have run among the beasts of prey, and have fallen into the earth;
 so that earthliness and covetousness have swallowed you up.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 Strong indeed was this letter; but G. Fox thought himself moved by the Lord to write it.
 And it is remarkable that this justice Sawrey,
@@ -1097,7 +1104,7 @@ that '`charity does not impoverish.`' The truth of this
 was also experienced by the people called Quakers;
 for though many people at first were shy and would not deal with
 them because of their nonconformity with the common salutations,
-and their saying Thee and Thou to a single person, instead of You,
+and their saying _Thee_ and _Thou_ to a single person, instead of _You_,
 etc. insomuch that some who were tradesmen lost their customers,
 and could hardly get enough money to buy bread; yet this changed in time,
 when people found by experience they could better trust the word of this people,
@@ -1114,6 +1121,10 @@ And indeed, it was the fear of God that led them into this practice,
 and they exhorted one another to it from time to time.
 G+++.+++ Fox also wrote a general epistle to them, which was as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 To you all, Friends everywhere, scattered abroad:
 
 In your measure of the life of God, wait for wisdom from God,
@@ -1173,7 +1184,10 @@ Therefore all you whose minds are turned to this light,
 which are contrary to the light),
 wait upon the Lord Jesus for the crown which is immortal, and which fades not away.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 This epistle was sent to be read at the meetings of his friends.
 Not long after, a certain priest of Wrexham in Wales, whose name was Morgan Floyd,

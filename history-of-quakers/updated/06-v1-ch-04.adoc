@@ -69,7 +69,7 @@ there had been meetings of a few persons in the same house, of whom she was one,
 and also Anne Downer (afterwards married to George Whitehead).
 It is also reported that one Isabella Buttery, with another woman,
 having spread some books in London, and among them one of G. Fox`'s,
-called The Way to the Kingdom, had met with this small company,
+called [.book-title]#The Way to the Kingdom#, had met with this small company,
 of which were but two or three men, one of which was Amos Stoddard,
 formerly a military officer, mentioned already;
 and at times the said Isabella Buttery spoke a few words in this small meeting.
@@ -146,6 +146,9 @@ And after having spoke to him,
 he thought it convenient to express himself further in writing;
 as he did in the following letter:
 
+[.embedded-content-document.letter]
+--
+
 Friend, I was moved of the Lord to come to you, to declare the word of the Lord,
 and deal plainly with you as I was commanded, and not to petition you for anything,
 but to declare what the Lord had revealed to me concerning you.
@@ -205,9 +208,13 @@ and you shall know that I am the Lord.
 Moved of the Lord to declare and write this, by a servant of the Truth for Jesus`'s sake,
 and a lover of your soul, called,
 
+[.signed-section-signature]
 Francis Howgill.
 
+[.signed-section-context-close]
 The last of the First Month, about the ninth hour, waiting in James`'s Park, at London.
+
+--
 
 How this was received by him, I am not aware; but this I have understood,
 that some of Cromwell`'s servants (and among these one Theophilus Green, and Mary,
@@ -365,6 +372,9 @@ yet this was not at all in concordance with the Protector`'s speech which
 he made to the parliament on the 12th of the month called September,
 in the painted chamber, where he spoke these words:
 
+[.embedded-content-document.address]
+--
+
 Is not liberty of conscience in religion a fundamental?
 So long as there is liberty for the supreme magistrate to exercise his conscience in
 erecting whatever form of church government he is satisfied he should set up,
@@ -385,6 +395,8 @@ if it had made such steps,
 or been as sharp and rigid as it threatened when it was first set up.
 This I say is a fundamental; it ought to be so.
 It is for us and the generations to come.
+
+--
 
 Cromwell spoke more in confirmation of these things;
 and indeed he would have been a noble man,
@@ -446,8 +458,13 @@ and the Lord never sent them.`"
 
 A good while after this, the magistrates gave out the following warrant:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 City of Bristol.
 
+[.salutation]
 To all the constables within this city, and to every one of them.
 
 Forasmuch as information has been given us, that John Camm, and John Audland,
@@ -456,12 +473,17 @@ come into this city again, to the disturbance of the public peace:
 these are therefore to will and require you forthwith to apprehend them,
 and bring them before us to be examined, according to law.
 
+[.signed-section-closing]
 Given this 22nd of January, 1654.
+
+[.signed-section-closing]
 Signed,
 
-William Cann, Richard Vickirs, Dept.
-Mayor.
+[.signed-section-signature]
+William Cann, Richard Vickirs, Dept. Mayor.
 Joseph Jackson, Henry Gibbs, Gabriel Sherman, John Lock.
+
+--
 
 Camm and Audland had departed the town before this time,
 having never been commanded (as the warrant says) to depart the city,
@@ -470,8 +492,13 @@ though Francis Howgill and Edward Burrough had been required to do so.
 This warrant proving ineffectual,
 the magistrates caused another to be written in these words:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 City of Bristol.
 
+[.salutation]
 To the constables of the peace of the district of +++________+++ and to every one of them.
 
 Forasmuch as information has been given us upon oath,
@@ -491,13 +518,19 @@ or any of them, and all other suspected persons,
 and to apprehend and bring them before us to be examined and dealt with according to law.
 Hereof fail not.
 
-Given the 25th of Jan.
-1654+++.+++ Signed,
+[.signed-section-closing]
+Given the 25th of Jan. 1654
 
+[.signed-section-closing]
+Signed,
+
+[.signed-section-signature]
 John Gunning, Mayor.
 William Cann, Gabriel Sherman, Joseph Jackson, Henry Gibbs, John Lock, George Hellier,
 Richard Vickirs.
 Gabriel Sherman.
+
+--
 
 Hereunto these magistrates affixed their seals;
 and that alderman Sherman might be sure his name was among them, he wrote it twice.
@@ -1519,7 +1552,7 @@ he openly defended the doctrine of the reviled Quakers.
 This so vexed Hammond, that falling into an even greater rage, he said,
 "`Our brother Fisher is also bewitched!`"
 But Fisher returned not reviling for reviling, but continued with patience in the faith.
-And this was he who afterwards wrote a book called Rusticus ad Academicos,
+And this was he who afterwards wrote a book called [.book-title]#Rusticus ad Academicos#,
 wherein he often confounded the priests with their own weapons;
 for he was very dexterous at this, and was so well versed in the ancient poets,
 that he now and then (with their words) gave strong blows to his adversaries,

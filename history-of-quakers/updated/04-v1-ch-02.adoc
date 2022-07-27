@@ -108,6 +108,9 @@ And he was the more troubled because such practices were
 even contrary to the law of God in the old covenant.
 He therefore wrote the following letter to the judges:
 
+[.embedded-content-document.letter]
+--
+
 I am moved to write unto you to take heed of putting
 men to death for stealing cattle or money,
 etc.; for the thieves under the law were to make restitution;
@@ -122,6 +125,8 @@ But I write that you should judge according to His laws, and also show mercy;
 for He delights in true judgment and in mercy.
 I beseech you to mind these things, and to prize your time now that you have it;
 and fear God and serve Him, for He is a consuming fire.
+
+--
 
 While G. Fox was in prison among the felons, it grieved him to hear their foul language,
 and he often reproved them for their wicked words and evil behavior towards each other.
@@ -178,6 +183,9 @@ and were generally confined to a cell at all times.]
 Hereupon G. Fox wrote to the justices, and those that were concerned in his commitment,
 the following lines:
 
+[.embedded-content-document.letter]
+--
+
 You who are without Christ, and yet use the words which He and His saints have spoken,
 consider how neither He nor His apostles did ever imprison anyone.
 My Savior is merciful even to the unmerciful and rebellious,
@@ -197,9 +205,14 @@ If the love of God had broken your hearts, you would not have imprisoned me;
 but still my love is to you, as to all my fellow creatures.
 This has been written so that you may weigh yourselves, and see how you stand.
 
+--
+
 About this time he gave forth the following paper
 to those that had been convinced of the truth,
 to show them the deceit of the world, and how the priests had deceived the people:
+
+[.embedded-content-document.paper]
+--
 
 Christ was ever hated; and the righteous were hated for His sake.
 Consider who they were that did ever hate them.
@@ -253,9 +266,16 @@ and the priests who taught for hire,
 and the prophets that prophesied for money and yet leaned on the Lord, saying,
 "`Is not the Lord among us?`"
 
+--
+
+[.offset]
 He also wrote a serious exhortation to the magistrates of Derby,
 to consider whom they imprisoned.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 I desire you to consider in time,
@@ -295,6 +315,8 @@ O friends, lay these things to heart, and let them not seem light things to you.
 I wrote unto you in love, to mind the laws of God, and your own souls,
 and to do as the holy men of God did.
 
+--
+
 During his imprisonment there,
 he found himself under a great exercise and travail of spirit,
 because of the wickedness of that town;
@@ -302,6 +324,9 @@ for though some had been convinced of the doctrine of truth,
 yet generally they were a hardened people.
 And seeing the visitation of God`'s love pass away from them, he mourned,
 and wrote the following lamentation.
+
+[.embedded-content-document.epistle]
+--
 
 O Derby!
 As the waters run away when the flood gates rise up,
@@ -325,6 +350,8 @@ and bowed down to, and covetousness abounds.
 He who acts wickedly is honored, so that the deceit in one permits the deceit in another;
 and yet you profess Christ in words.
 O, it does even break my heart to see how God is dishonored in you, O Derby!
+
+--
 
 After he had written this,
 he perceived that his imprisonment there would not continue long;
@@ -714,7 +741,7 @@ Then, telling him he was, the man rode away to the justice.
 Now the men that guarded G. Fox said it would be well if
 the justice was not drunk when they came to him,
 because he was usually drunk early.
-G+++.+++ Fox being brought in before him, and not putting off his hat, and saying thou to him,
+G+++.+++ Fox being brought in before him, and not putting off his hat, and saying _thou_ to him,
 the justice asked the man who had ridden there before whether he was not confused or mad?
 But the man said, "`No: it is his principle to behave himself so.`"
 G+++.+++ Fox, being unwilling to let any opportunity slip without admonishing people to virtue,
@@ -1213,7 +1240,7 @@ In the meantime G. Fox continued, and opening the Scriptures, said,
 and what they spoke, they also enjoyed and possessed, having received it from the Lord.
 But to what purpose do men speak of the Scriptures,
 if they come not to the Spirit that gave them forth?
-You will say, '`Christ says this, and the apostles say this;`' but what can you, O man,
+You will say, '`Christ says this, and the apostles say this;`' but what can _you_, O man,
 say yourself concerning this?
 Are you a child of the light?
 Do you walk in the light?

@@ -80,6 +80,10 @@ and asked to have cut it; but G. Fox told him he had no pride in it.
 G+++.+++ Fox and his companions were then taken into custody,
 and with a guard of horsemen were sent to prison with the following court order.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Peter Ceely, one of the justices of the peace of this county,
 to the keeper of his highness`'s jail at Launceston, or his lawful deputy on that behalf,
 greeting:
@@ -101,9 +105,13 @@ and in his highness`'s prison aforementioned you safely
 keep them until by due course of law they shall be delivered.
 Hereof fail not, as you will answer the contrary at your peril.
 
+ssccl
 Given under my hand, and seal, at St. Ives, the 18th day of January, 1656.
 
+[.signed-section-signature]
 P+++.+++ Ceely.
+
+--
 
 By this court order it appears under what odd pretences the Quakers, so called,
 were committed to prison;
@@ -470,6 +478,9 @@ And after S. Fisher had found an opportunity to stand,
 he said that he had a word to speak from the Lord to the protector, to the parliament,
 and the people, and then he began thus:
 
+[.embedded-content-document]
+--
+
 The burden of the word of the Lord God of heaven and of earth,
 as it came unto me on the 22nd day of the last month,
 and as it now lies upon me to declare it in His name, even unto you, Oliver Cromwell,
@@ -490,6 +501,8 @@ whether you like it, or like it not, you stand still and hear it;
 and when I have finished, you may do with me as the Lord shall give you leave,
 seeing that no law of equity condemns a man before he is heard,
 especially when he speaks on so high an account as from the God of heaven Himself.
+
+--
 
 Scarce had he spoken thus much, when some cried, "`A Quaker, a Quaker; keep him down,
 he shall not speak!`" though the protector and the
@@ -652,7 +665,7 @@ he caused him to be fastened to the whipping-post in the market place,
 where he was severely lashed by the executioner, and then put into a cart,
 and sent out of the town in freezing snowy weather.
 The mayor also threatened him, that if ever he returned,
-he should be whipped again and burnt in the shoulder with an "`R.`" signifying rogue.
+he should be whipped again and burnt in the shoulder with an "`R.`" signifying _rogue_.
 Notwithstanding this, he was moved of the Lord to return,
 and the mayor was very eager to have this threat executed upon him;
 but the other magistrates would not consent;
@@ -816,7 +829,7 @@ for the apostle, in the same epistle,
 has defined prophesy to be "`speaking unto men to edification, exhortation,
 and comfort.`"
 chapter 14:3. And he has also, in chapter 11,
-made express mention of women`'s praying and prophesying, together with the men.]
+made express mention of women`'s praying and prophesying, together with the men. --W. Sewel]
 whereupon they, who were truly excellent preachers,
 did not fail (according to their duty) to reprove this indiscretion.
 But these women were then so disgusted, that Martha and another woman,
@@ -869,8 +882,7 @@ who kept me in that day both in thought and deed, as to all women, like a child;
 God is my witness.
 This I mention in particular (hearing of some who still do not cease to reproach God`'s
 Truth and people therewith) that the mouth of enmity might be shut from evil speaking;
-though this touches not my conscience.`"
-Collection of James Nayler`'s Writings, p. 54.]
+though this touches not my conscience.`" [.book-title]#Collection of James Nayler`'s Writings#, p. 54.]
 But even so, he was already too much carried away, and grew even more exorbitant;
 for being released from that prison, and riding to Bristol in the beginning of November,
 he was accompanied by the aforesaid women and various other persons;
@@ -925,6 +937,9 @@ that it was a wonder to many why this foolish business
 should hold so many wise men so long at work.
 But on the 17th, after a long debate, they came to this resolution:
 
+[.embedded-content-document.address]
+--
+
 That James Nayler be set in the stocks, with his head in the stocks, in the Palace-yard,
 Westminster, during the space of two hours, on Thursday next,
 and then be whipped by the hangman as he is conveyed through the streets of London,
@@ -944,6 +959,8 @@ and put to hard labor till he shall be released by parliament;
 during which time he is to be debarred the use of pen, ink, and paper,
 and shall have no relief but what he earns by his daily labor.
 
+--
+
 It was long before they could agree on the sentence;
 for though they supposed that blasphemy has been committed,
 yet his tongue seemed not properly guilty of it,
@@ -953,7 +970,7 @@ the priest got some to swear blasphemy against George
 Fox (which was the common accusation in those days),
 but he was cleared, and the priests were enraged,
 who thereupon sent a petition to the council of state against George Fox and James Nayler,
-who answered the same in a book called, Saul`'s Errand to Damascus.
+who answered the same in a book called, [.book-title]#Saul`'s Errand to Damascus#.
 After this, J. Nayler was persecuted in several places, beaten, stoned,
 and cruelly treated by the priests and their rude followers, and in danger of his life.
 Afterward, by the instigation of the priest,
@@ -966,7 +983,7 @@ He was also another time charged with blasphemy for asserting in a book that
 which he proved from Romans 5,
 and so stopped their mouths, and cleared himself.
 By this we may see what this generation, who were righteous in their own eyes,
-would have called blasphemy.`"
+would have called __blasphemy__.`"
 --John Whiting`'s account.]
 And indeed,
 many thought it a very severe judgment to be executed upon one whose crime seemed more
@@ -1040,6 +1057,9 @@ who then respited his further punishment for one week.
 During this interval, several persons presented another petition to parliament,
 in which were these words:
 
+[.embedded-content-document.address]
+--
+
 Your moderation and clemency in respiting the punishment of James Nayler,
 in consideration of his illness of body,
 has refreshed the hearts of many thousands in these cities,
@@ -1052,6 +1072,8 @@ leaving him to the Lord, and to such gospel remedies as He has sanctified.
 We are persuaded you will find such a course of love
 and forbearance more effectual to reclaim him;
 and it will leave a seal of your love and tenderness upon our spirits.
+
+--
 
 This petition being presented at the bar of the house
 by about one hundred persons on behalf of the whole,
@@ -1216,6 +1238,9 @@ wrote several books and papers condemning his error, which were published in pri
 And after his release, he published several others, one of which, by way of recantation,
 is as follows:
 
+[.embedded-content-document.paper]
+--
+
 Glory to God Almighty, who rules in the heavens,
 and in whose hands are all the kingdoms of the earth; who raises up,
 and casts down at His will; who has ways to confound the exaltation of men,
@@ -1338,9 +1363,14 @@ and of whom I had so largely drank, and of which I now drink in measure).
 To Him be the glory of all, and to Him every tongue must confess, as Judge and Savior,
 God over all, blessed forever.
 
+--
+
 Nayler added to this an exhortation to the reader how to behave if, at any time,
 he comes to be tempted to sin, and also a warning not to rely too much upon gifts,
 wisdom, and knowledge, and then concluded with these words:
+
+[.embedded-content-document.paper]
+--
 
 These things I have learned in the depths and in secret, when I was alone,
 and now declare openly in the day of Your mercy, O Lord.
@@ -1350,7 +1380,10 @@ and to the eternal, invisible, pure God, over all, be fear, obedience,
 and glory forevermore.
 Amen.
 
+[.signed-section-signature]
 James Nayler
+
+--
 
 He wrote another paper wherein he related at length,
 how it was by unwatchfulness that he came to fall,
@@ -1363,6 +1396,9 @@ yet coming to the city of London (just prior to his fall) he entered
 it with the greatest fear that ever he knew in any place,
 foreseeing in spirit (as he relates) something to befall him there,
 but not knowing what it might be:
+
+[.embedded-content-document.paper]
+--
 
 Yet I had at that time (he continues) the same presence and power I had known before,
 in whatever place or service I was led of the Spirit;
@@ -1405,18 +1441,29 @@ whom I had formerly served, that He would bring me through it, and to the end of
 and that I should again see the day of my redemption from under it all.
 And this quieted my soul in my greatest tribulation.
 
+--
+
 The author then, seriously exhorting others who might also fall into great temptation,
 concludes with these words:
+
+[.embedded-content-document.paper]
+--
 
 He who has saved my soul from death thus far, and has lifted my feet up out of the pit,
 even to Him be glory forever.
 Let every troubled soul trust in Him, for His mercy endures forever.
 
+[.signed-section-signature]
 James Nayler
+
+--
 
 That he came to a perfect recovery out from having been so deceived,
 seems to appear plainly by the following thanksgiving to God for His mercies,
 which he also published after his fall:
+
+[.embedded-content-document.paper]
+--
 
 It is in my heart to praise You, O my God.
 Let me never forget You, what You have been to me in the night,
@@ -1474,7 +1521,10 @@ Then did gladness swallow up sorrow, and I forsook all my troubles; and I said,
 so that every mouth may become silent in Your hand until You make man known to himself,
 and have slain the boaster, and showed him the vanity that vexes Your Spirit.`"
 
+[.signed-section-signature]
 James Nayler
+
+--
 
 This plainly appears to be a poetical piece,
 as the author makes use of allegorical sayings throughout to signify
@@ -1489,6 +1539,8 @@ he had undisguisedly and clearly demonstrated the duty of rulers, preachers, and
 for in a certain book, published by him in the year 1653,
 in order to exhort men to repentance, he writes thus to the rulers:
 
+[quote]
+____
 O you rulers of the people, who are set up to judge between a man and his neighbor,
 should you not judge for God, and not for man?
 Should you not be men fearing God and hating covetousness,
@@ -1511,9 +1563,13 @@ worship or honor from men; but only to advance justice, equity, and righteousnes
 which is of God; that so you may be honored by the Lord.
 For true humility is honor, and he that honors the Lord, him will He honor.
 Such men have been honored in all ages, though they have never sought honor from men.
+____
 
+[.offset]
 This and much more he wrote to the rulers; and to the preachers he wrote thus:
 
+[quote]
+____
 You who say you are the teachers of the nation,
 how long will it be before you look at your own ways?
 Is not all manner of filthiness among you, which you should lead the people out of?
@@ -1534,9 +1590,13 @@ And many more works of this nature are among you,
 which the pure all-seeing God has showed unto His people,
 and therefore it is that they come out from you,
 lest they partake with you of your sins and plagues.
+____
 
+[.offset]
 In the same writing the lawyers also received a stroke:
 
+[quote]
+____
 And you lawyers,
 should you not plead the cause of equity between man and man for equity sake,
 without respect to yourselves or others, but only to truth itself?
@@ -1561,10 +1621,14 @@ Are your purses not filled, and your estates raised up in the ruins of the peopl
 The law, as it is now used, is scarce serviceable for any other end,
 but for the envious man, who has much money to revenge himself upon his poor neighbors,
 which, it may be, never did him wrong.
+____
 
+[.offset]
 Much more he wrote to the lawyers, to stir them up to do justice,
 and then addressed himself to the people in general, in these words:
 
+[quote]
+____
 And you people of the nation, O when will you cease to provoke the Lord by your sins?
 Where is your Redeemer whom you have professed for so long in words and forms?
 Do you bear witness to Him in your works?
@@ -1607,6 +1671,7 @@ Are not you yet strangers to Him, and worship an unknown God?
 "`For he that commits sin, has not seen Him, neither known Him,`"^
 footnote:[1 John 3:6]
 and so worship, they know not what, in forms and superstition.
+____
 
 Thus James Nayler wrote before his fall.
 But, by the wiles of Satan,
@@ -1638,6 +1703,10 @@ some of which have already been inserted,
 but the following letter has since come to my hand.
 It is a letter to his friends, written with his own hand:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear brethren,
 
 My heart is broken this day for the offense that
@@ -1665,8 +1734,13 @@ I am willing to confess my offense, that God`'s love may arise in all hearts as 
 if it be His will, who alone can remove what stands in the way.
 I do not intend to cover anything; God is my witness herein.
 
+--
+
 He also wrote several other confessions of his faults about this time, in one of which,
 among others, I find these words:
+
+[.embedded-content-document.epistle]
+--
 
 And concerning you, the tender plants of my Father, who have suffered because of me,
 or with me, in what the Lord has allowed to be done with me,
@@ -1679,16 +1753,26 @@ The Lord knows, it was never in my heart to cause you to mourn,
 whose suffering is my greatest sorrow that ever yet came upon me,
 for you are innocent herein.
 
+--
+
 When he had finished this letter, and set his name,
 he then wrote the following postscript:
+
+[.embedded-content-document.letter]
+--
 
 I beseech you (all that can),
 to receive this even as you would desire to be received of the Lord; and as for the rest,
 may the Lord give me patience to suffer till He makes up the breach.
 
+--
+
 While he was in Bridewell, he wrote to the parliament,
 who had punished him as a blasphemer,
 to let them know his true opinion concerning Jesus Christ.
+
+[.embedded-content-document.letter]
+--
 
 Christ Jesus (the Immanuel, of whose sufferings the Scriptures declare),
 Him alone I confess before men.
@@ -1710,7 +1794,10 @@ and in order to take off all offenses from every simple heart,
 to declare this to all the world, without guile or deceit,
 daily finding it to be my work to seek peace in truth with all men in that Spirit.
 
+[.signed-section-signature]
 James Nayler
+
+--
 
 After this,
 hearing that some had wronged him concerning something
@@ -1718,11 +1805,14 @@ he had spoken to the committee of the parliament,
 and understanding how men had perverted his words, he wrote a paper,
 declaring himself further concerning his belief of Christ, and His sufferings, and death, etc.
 He also denounced a paper which someone had published anonymously,
-under the title of James Nayler`'s Recantation,
+under the title of [.book-title]#James Nayler`'s Recantation#,
 wherein they had much perverted his words.
 
+[.embedded-content-document.paper]
+--
+
 And with regard +++[+++he writes]
-to the printing of that paper called James Nayler`'s Recantation, it was not done by me,
+to the printing of that paper called __James Nayler`'s Recantation__, it was not done by me,
 nor with my knowledge in the least, nor do I yet at all know the man that has done it.
 But I know it was done out of the Truth, and against the Truth, and for evil towards me,
 whoever it was.
@@ -1765,7 +1855,10 @@ May the throne of meekness and truth be set on the top of all enmity and deceit.
 And now, in the faith and power of Christ, I am given up to live or die,
 to suffer or rejoice, as God wills, even so be it, without murmuring.
 
+[.signed-section-signature]
 James Nayler
+
+--
 
 This is certain,
 that James Nayler came to very great sorrow and deep humiliation of mind; and therefore,

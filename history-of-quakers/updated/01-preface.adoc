@@ -37,8 +37,8 @@ we keep that knowledge only to ourselves, without imparting it to others.
 Now however difficult I found it, yet having made a beginning, I resolved to go on;
 and so I did, though often stopped by several occurrences, and also other work.
 For during this labor I have not only translated several bulky books into Dutch,
-besides Kennet`'s Antiquities of Rome, but also composed several treatises of importance,
-and among these my great dictionary, English and Low Dutch.
+besides [.book-title]#`'s Antiquities of Rome#, but also composed several treatises of importance,
+and among these my great dictionary, [.book-title]#English and Low Dutch#.
 And notwithstanding all these impediments,
 I continually resumed this work by intervals so often,
 that I have written it almost three times over to make it complete;
@@ -214,6 +214,9 @@ that since Great Britain and Ireland had already suffered so deeply,
 there was reason to hope that the judgments of God might have been past;
 yet he replied to it:
 
+[.embedded-content-document]
+--
+
 Do not fool yourselves with such hopes,
 for I tell you that all you have yet seen has been but the beginning of sorrows,
 compared to what is still to come upon the Protestant churches of Christ,
@@ -232,6 +235,8 @@ whose souls are made His temples,
 and He is honored and adored in the most inward thoughts of their hearts,
 and they sacrifice their lusts and vile affections, yes, and their own wills to Him;
 and these God will hide in the hollow of His hand and under the shadow of His wings.
+
+--
 
 If any now-a-days should speak in this way,
 it is likely that many who think themselves to be
@@ -317,8 +322,8 @@ And yet I have silently passed over some cases which I did not question to be tr
 lest any might think me too credulous.
 
 As to the transactions of state affairs,
-I have taken them mostly from The History of the Rebellion and the Civil Wars in England,
-written by Edward, Earl of Clarendon, and from the Memoirs of Edward Ludlow.
+I have taken them mostly from [.book-title]#The History of the Rebellion and the Civil Wars in England#,
+written by Edward, Earl of Clarendon, and from the [.book-title]#Memoirs of Edward Ludlow#.
 Yet a few things relating to state affairs that have not been mentioned by them,
 nor in any other public history that I know of,
 I thought worthy to be delivered to posterity by my pen.
