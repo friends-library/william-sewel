@@ -355,7 +355,10 @@ Your brother,
 William Leddra
 
 [.signed-section-context-close]
-Boston Jail, the 13th of the First Month, 1661. +++[+++The day before he suffered.]
+Boston Jail, the 13th of the First Month, 1661.
+
+[.signed-section-context-close]
++++[+++The day before he suffered.]
 
 --
 
