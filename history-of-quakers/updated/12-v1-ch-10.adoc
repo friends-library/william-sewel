@@ -1014,7 +1014,7 @@ I am concerned in this thing, inasmuch as he was apprehended in my house;
 and if he be guilty, so I am too.
 So I desire to have this searched out.
 
-ssss
+[.signed-section-signature]
 Margaret Fell
 
 --
@@ -1491,6 +1491,9 @@ __King:__ Have any of your friends been with the great Turk?
 
 [.discourse-part]
 __R+++.+++ Hubberthorn:__ Some of our friends have been in that country.
+
+[.small-break]
+'''
 
 Other things were spoken concerning the liberty of the servants of the Lord,
 who were called by Him into His service,
