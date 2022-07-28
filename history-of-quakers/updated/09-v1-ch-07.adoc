@@ -4,7 +4,7 @@
 1656--1657
 
 When King Charles the Second had ascended the throne,
-a man by the name of Richard Blome published a book entitled, The Fanatic History,
+a man by the name of Richard Blome published a book entitled, [.book-title]#The Fanatic History#,
 which was said to be published with the approbation of orthodox theologians (so called),
 and dedicated by him to the king.
 This book struck chiefly against the Quakers,
@@ -20,6 +20,8 @@ diffuse their poison over the better part of his kingdom,
 which none but a royal authority can stifle,`" so
 Nayler responded in the following words:
 
+[quote]
+____
 What has happened to your spiritual weapons?
 Have not your teachers told people of the strength of Truth, and the power of godliness?
 Have you lost both, and do you now run to the arm of flesh,
@@ -127,8 +129,8 @@ You are not in Him that loves His enemies,
 but the old accuser of the brethren is he that works strongly in you.
 And in that light which you reproach, you are seen to be the man that makes lies,
 and "`carries tales to shed blood.`"
-Ezek.
-22:9.
+Ezek. 22:9.
+____
 
 This and much more did James Nayler write to answer the falsehoods of which he was accused,
 and to show that the fault of his crime must in no way be
@@ -173,7 +175,7 @@ because the tempted may go from, and neglect the teaching of it.
 David and Peter,
 as their transgression came by their departing from this infallible guide,
 the Holy Spirit,
-so their recovery was only by it.`"--Joseph Wyeth in A Switch for the Snake]
+so their recovery was only by it.`"--Joseph Wyeth in [.book-title]#A Switch for the Snake#]
 
 After his recovery, he also wrote many papers and edifying letters.
 And when the persecution in New England burned so fierce,
@@ -224,6 +226,9 @@ in the latter end of the year 1660, about the 44th year of his age.
 About two hours before his death,
 he spoke the following words in the presence of several witnesses:
 
+[.embedded-content-document.address]
+--
+
 There is a Spirit which I feel, that delights to do no evil, nor to revenge any wrong,
 but delights to endure all things, in hope to enjoy its own in the end.
 Its hope is to outlive all wrath and contention,
@@ -245,7 +250,7 @@ I have fellowship therein with those who lived in
 dens and in desolate places of the earth,
 who through death obtained this resurrection, and eternal holy life.
 
-James Nayler.
+--
 
 This was J. Nayler`'s last testimony, or dying words; and thus he gave proof that,
 though he had erred, yet with great confidence he hoped for a happy resurrection.^
@@ -447,6 +452,9 @@ having heard of the design of making him king, wrote a letter to him, wherein I 
 that after having told the protector that he had had many warnings from the Lord,
 he thus speaks to him:
 
+[.embedded-content-document.letter]
+--
+
 I as one that has obtained mercy from the Lord, and unto whom His word is committed,
 being moved of Him, do hereby in His presence yet once more warn you,
 that you fear before Him, and diligently hearken to Him,
@@ -572,7 +580,10 @@ and hardening your heart against the cry of the poor.
 This I was moved with a heart of pity to lay before you, who am your friend,
 not in flattery, but in an upright heart, who wishes you well in the Lord.
 
+[.signed-section-signature]
 Edward Burrough.
+
+--
 
 That which Edward Burrough mentions in the forepart of this letter,
 of the grievous burdens and oppressions which were laid upon the just,
@@ -594,6 +605,9 @@ In the next month Edward Burrough spoke with him about it,
 and Cromwell told him in effect that all persecution and cruelty was against his mind,
 and said he was not guilty of those persecutions acted unjustly upon Burrough`'s friends.
 This made Edward Burrough write again to him, and bid him:
+
+[.embedded-content-document.letter]
+--
 
 Consider what the cause is, why what you say you desire not to be done, is yet done.
 Is it not so that you may please men?--thus manifesting you are more willing
@@ -647,7 +661,10 @@ through allowing the people of God to be oppressed in your name,
 which will surely be your overthrow if you remove it not,
 by turning and easing the oppressed.
 
+[.signed-section-signature]
 E+++.+++ Burrough.
+
+--
 
 This letter was delivered to Oliver Cromwell, in the fourth month,
 and in the month following Edward Burrough wrote to him again,
@@ -819,7 +836,7 @@ and he went with W. Ames to Zutphen in Gelderland;
 where meeting with nothing but opposition, he returned to Amsterdam,
 and from there by Leyden and the Hague, to Rotterdam;
 from which place he went to Zealand,
-where he wrote the book called The Moderate Enquirer Resolved, both in Latin and English,
+where he wrote the book called [.book-title]#The Moderate Enquirer Resolved#, both in Latin and English,
 which was afterwards translated inadequately into Dutch.
 After some stay, Caton returned again to England, and came to London,
 where the society of his friends was in a thriving condition,
