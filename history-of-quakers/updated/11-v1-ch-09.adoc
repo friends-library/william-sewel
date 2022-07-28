@@ -315,6 +315,9 @@ considering the desolation and the judgment that is at hand,
 to be executed upon the cruel oppressors.`"
 Thus he wrote to them as follows:
 
+[.embedded-content-document.epistle]
+--
+
 Wherefore all you rulers, and all you that have trodden down the heritage of God,
 and you that have disregarded these many warnings that you have had; I say unto you all,
 in the power of the Lord God, in His dominion, and by His Spirit:
@@ -456,7 +459,10 @@ and to the praise of His elect people.
 And all you saints upon the earth, look to the Lord continually,
 and do not turn unto idols, but let the Lord be your joy forevermore.
 
+[.signed-section-signature]
 E+++.+++ B.
+
+--
 
 Not long after the publishing of this paper, in the month called May,
 Edward Burrough and Samuel Fisher went from Dover to Dunkirk,
@@ -487,6 +493,9 @@ The next day Burrough wrote some queries to the friars and nuns in and about tha
 which were sent to them in Latin.
 The introduction was thus:
 
+[.embedded-content-document.epistle]
+--
+
 The mighty day of the Lord is come, and is coming upon you, and upon all the world.
 Awake, awake, you that sleep in the earth,
 for the dreadful God is arising to plead with you,
@@ -505,6 +514,8 @@ that all things may be brought to light and true judgment,
 and that you may be judged justly,
 and by the Spirit of the Lord either cleared or condemned according to your deeds.
 
+--
+
 These queries were partly concerning the orders of friars and nuns,
 whether any such thing was in the church in the apostles`' days;
 and concerning the popish worship and ceremonies,
@@ -522,6 +533,9 @@ They asked him whether he would admit more discourse at some other time;
 but he refused it.
 Burrough afterwards wrote a letter to him, which began thus:
 
+[.embedded-content-document.letter]
+--
+
 Friend, your wisdom and your knowledge is earthly and sensual,
 and thereby you cannot know the things of the kingdom of God.
 +++[+++And he concluded with this query:]
@@ -529,6 +543,8 @@ What is that whore that has sat upon multitudes of people?
 And what is that golden cup in her hand?
 And what are the abominations and fornication of which her cup is full,
 which she has caused the kings and people to drink?
+
+--
 
 But neither this query nor the others were answered.
 Burrough and Fisher did also visit the nuns; and speaking to them through a grate,
@@ -659,6 +675,10 @@ that the contents had been upon him to deliver by
 speech and word of mouth to the men then in power;
 but no way being made for him so to do, he had written what was upon him.
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Friends,
 
 My Master, is a high, and mighty, and powerful prince, and very honorable; and all fear,
@@ -1119,9 +1139,13 @@ my peace and reward is forever with Him.
 So I remain a subject of His kingdom, and a friend to this nation,
 however otherwise judged by ignorant men.
 
+[.signed-section-signature]
 E+++.+++ Burrough.
 
+[.signed-section-context-close]
 The Ninth month, 1659.
+
+--
 
 Now how soon after these sayings of Burrough,
 "`Your estates shall not be spared from the spoiler, nor your necks from the axe;
@@ -1142,6 +1166,9 @@ I have also a piece of a letter written about this time to the royalists,^
 footnote:[Supporters of Charles Stuart`'s return to the crown.]
 which, whether done by E. Burrough, or by George Fox the younger, or by George Bishop,
 I cannot tell: but thus it speaks:
+
+[.embedded-content-document.letter]
+--
 
 The very spirit of pride and oppression and idolatry has entered into them (that is,
 your enemies), and now lives in them in as high a measure as ever it lived among you.
@@ -1166,6 +1193,8 @@ And Charles Stuart must either be converted to God and ruled by Him,
 or else he can never rightly rule for God in this nation; though this I believe,
 it is not impossible but that he may be a rod to smite those who once smote him;
 and their oppressions and ambitions may receive a check through him.
+
+--
 
 Among several other eminent preachers,
 Stephen Crisp had now also become a public minister of the word of God;
@@ -1233,6 +1262,9 @@ though it was well known that they had no estate,
 their parents being already brought to poverty by their rapacious persecutors.
 To get this money, the following order was issued in the general court at Boston.
 
+[.embedded-content-document.legal]
+--
+
 Whereas Daniel Southwick, and Provided Southwick, son and daughter of Lawrence Southwick,
 absenting themselves from the public ordinances,
 have been fined by the courts of Salem and Ipswich, pretending they have no estates,
@@ -1244,7 +1276,10 @@ and shall be fully empowered to sell the said persons
 to any of the English nation at Virginia,
 or Barbados, to answer the said fines, etc.
 
+[.signed-section-signature]
 Edward Rawson, Secretary
+
+--
 
 The subject of this order was answered effectually at length in print by George Bishop,
 who showed the unreasonableness of this work very plainly from sacred writ;
@@ -1412,6 +1447,9 @@ he was counted unworthy to be a magistrate; as appears by a letter of one James 
 written some time before to one of his friends in Old England,
 wherein I meet with these words:
 
+[.embedded-content-document.letter]
+--
+
 As for the state and condition of things among us, it is sad.
 The antichristian persecuting spirit is very active, and that in the powers of this world.
 He that will not whip and lash,
@@ -1430,6 +1468,8 @@ but must give my testimony against sundry things that they held,
 as I had occasion and opportunity.
 But nevertheless, I told them, that, "`though I am no Quaker,
 neither will I be a persecutor.`"
+
+--
 
 Now I shall enter upon the narrative of their putting some to death, who died martyrs;
 for this was yet lacking to complete this tragedy,
@@ -1454,6 +1494,9 @@ Then he and the other prisoners were shortly released and banished;
 and that this was for no other reason than their being Quakers,
 may appear by the following warrant:
 
+[.embedded-content-document.legal]
+--
+
 You are required by this, presently to set at liberty William Robinson,
 Marmaduke Stevenson, Mary Dyer, and Nicholas Davis,
 who by an order of the court and council, had been imprisoned,
@@ -1464,9 +1507,13 @@ and that they must answer it at their peril, if they,
 or any of them after the 14th of this present month, September,
 are found within this jurisdiction, or any part thereof.
 
+[.signed-section-signature]
 Edward Rawson.
 
+[.signed-section-context-close]
 Boston, September 12, 1659.
+
+--
 
 Now though Mary Dyer and Nicholas Davis left that jurisdiction for that time,
 yet W. Robinson and M. Stevenson, though they departed the town of Boston,
@@ -1564,6 +1611,9 @@ where she was kept a week with her other two companions that were also condemned
 The paper of Marmaduke Stevenson, mentioned before,
 which he gave forth after he had received sentence of death, was as follows:
 
+[.embedded-content-document.paper]
+--
+
 In the beginning of the year 1655, I was at the plough, in the east parts of Yorkshire,
 in Old England, near the place where my outward habitation was,
 and as I walked after the plough I was filled with
@@ -1616,14 +1666,24 @@ And this is given forth to be upon record, that all people who hear it may know,
 that we came not in our own wills, but in the will of God.
 Given forth by me, who am known to men by the name of
 
+[.signed-section-signature]
 Marmaduke Stevenson.
 
+[.signed-section-context-close]
 But having a new name given me, which the world knows not of, written in the Book of Life.
+
+[.signed-section-context-close]
 Written in Boston prison, in the 8th Month, 1659.
+
+--
 
 Mary Dyer being returned to prison, wrote the following letter,
 which she sent to the rulers of Boston.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To the General Court in Boston.
 
 Whereas I am by many charged with the guiltiness of my own blood;
@@ -1720,11 +1780,19 @@ who will render to everyone according to the deeds done in the body,
 whether good or evil.
 Even so be it, says
 
+[.signed-section-signature]
 Mary Dyer.
+
+[.postscript]
+====
 
 A copy of this was given to the general court after
 Mary Dyer had received sentence of death,
 about the 8th or 9th month, 1659.
+
+====
+
+--
 
 The day appointed to execute the bloody sentence was the 27th of October,
 when in the afternoon the condemned prisoners were led to the gallows
@@ -1796,6 +1864,10 @@ to whom it seems they could not then resolve to deny that favor.
 Having heard why she was reprieved, the next day, being the 28th of October,
 she wrote the following letter to the court.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 The 28th of the Eighth month, 1659.
 
 Once more to the general court assembled in Boston, speaks Mary Dyer, even as before.
@@ -1838,7 +1910,10 @@ that I may know what His pleasure and counsel is concerning me, on whom I now wa
 Truly He is my life, and the length of my days; and as I said before,
 I came at His command, and go at His command.
 
+[.signed-section-signature]
 Mary Dyer.
+
+--
 
 The magistrates now perceiving that putting William Robinson and Marmaduke
 Stevenson to death caused great discontent among the people,

@@ -37,6 +37,9 @@ from the instigation of other malicious men.
 But to come to the vindication or declaration of the bloody persecutors,
 it was as follows:
 
+[.embedded-content-document.address]
+--
+
 Although the justice of our proceedings against William Robinson, Marmaduke Stevenson,
 and Mary Dyer, supported by the authority of this court, the laws of this country,
 and the law of God,
@@ -95,14 +98,17 @@ vindicate us from the clamorous accusations of severity,
 and our own just and necessary defense requiring
 us (other means having failed) to hold out the sword,
 which these persons have violently and willfully rushed upon,
-and thereby become felons de se +++[+++i.e. those who have killed
+and thereby become _felons de se_ +++[+++i.e. those who have killed
 themselves]. And that this might have been prevented,
 and the sovereign law and safety of the people been preserved, our former proceedings,
 as well as the sparing of Mary Dyer upon an inconsiderable intercession,
 will manifestly evince, and it will be seen that we desired their lives absent,
 rather than their deaths present.
 
+[.signed-section-signature]
 Edward Rawson, Secretary.
+
+--
 
 In this vindication, in which the Quakers (who always were a harmless people,
 and never made resistance with outward arms) are compared
@@ -162,10 +168,15 @@ We are zealous of government and order; not seditious to the interest of Caesar.
 However smooth and plausible this seemed, yet it could not stand the test;
 and Edward Burrough, who answered it in print, addressed the king thus:
 
+[.embedded-content-document.letter]
+--
+
 O king, my occasion to present you with these considerations is very urgent,
 and of great necessity, even on the behalf of innocent blood,
 hoping that my work will find such favor with you,
 as to induce you to the reading and serious consideration thereof.
+
+--
 
 E+++.+++ Burrough then examining all their pretended reasons,
 represented also to the king how some of these petitioners some time before
@@ -240,6 +251,10 @@ that they proceeded to pronounce sentence of death against him; which being done
 he was led from the court to the prison again,
 where the day before his death he wrote the following letter to his friends:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Most dear and inwardly beloved,
 
 The sweet influences of the Morning Star,
@@ -333,11 +348,19 @@ without grace possessed, there is no assurance of salvation.
 By grace you are saved; and the witnessing of this grace is sufficient for you,
 to which I commend you all my dear friends, and in it remain,
 
+[.signed-section-closing]
 Your brother,
 
-William Leddra.
+[.signed-section-signature]
+William Leddra
 
-Boston Jail, the 13th of the First Month, 1661. +++[+++The day before he suffered.]
+[.signed-section-context-close]
+Boston Jail, the 13th of the First Month, 1661.
+
+[.signed-section-context-close]
++++[+++The day before he suffered.]
+
+--
 
 The next day after this letter was written, the execution of W. Leddra was performed,
 which was on the 14th of the First month.
@@ -391,8 +414,13 @@ William`'s friends then took the body, laid it in a coffin, and buried it.
 For further confirmation of what has here been related,
 the following letter of one of the spectators, who was there accidentally, may be added:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Mr. George Lad, master of the "`America`" of Dartmouth, now at Barbados.
 
+[.signed-section-context-open]
 Boston, March 26, 1661.
 
 On the 14th of this month, there was one William Leddra who was put to death.
@@ -434,9 +462,13 @@ And when I was in the town, some did seem to sympathize with me in my grief.
 But I told them that they had no warrant from the word of God,
 nor precedent from our country, nor power from his majesty to hang the man.
 
+[.signed-section-closing]
 I rest your Friend,
 
+[.signed-section-signature]
 Thomas Wilkie.
+
+--
 
 William Leddra being thus dispatched,
 it was resolved to make an end also of Wenlock Christison.
@@ -645,6 +677,10 @@ had been banished on pain of death, if ever he returned there.
 The king accordingly granted the deputation to him, with full power to carry the writ,
 which was as follows:
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Charles R.
 
 Trusty and well-beloved, we greet you well.
@@ -667,14 +703,23 @@ here as shall be agreeable to our laws,
 and their demerits.
 And for so doing, this letter shall be your sufficient warrant and discharge.
 
+[.signed-section-closing]
 Given at our court at Whitehall, the 9th day of September, 1661,
 in the 13th year of our reign.
 
+[.signed-section-closing]
 By his majesty`'s command,
 
-William Morris.
+[.signed-section-signature]
+William Morris
 
+--
+
+[.offset]
 The superscription was:
+
+[.embedded-content-document.letter]
+--
 
 To our trusty and well-beloved John Endicot, Esq.
 and to all and every other governor or governors of our plantations of New-England,
@@ -682,12 +727,17 @@ and of all the colonies thereunto belonging, that now are, or hereafter shall be
 and to all and every minister and officer of our said plantations and colonies whatsoever,
 within the continent of New England.
 
+--
+
 Thus favorable the king manifested himself;
 and in England persecution for religion was a little at a stand;
 but this was only a kind of respite.
 G+++.+++ Fox the younger, a man of excellent qualifications and great boldness,
 foresaw an imminent storm; and lest any carelessness might enter among his friends,
 in the Fourth month he wrote the following exhortation to them:
+
+[.embedded-content-document.epistle]
+--
 
 What my heavenly Father has determined for these men to do, no man can stop it.
 Oh that patience might be abode in by all that know His name,
@@ -703,7 +753,10 @@ and comes swiftly, when another storm must arise;
 and it will be in vain to flee to the tall cedars and strong oaks for shelter;
 for nothing but the name of the Lord can preserve in that day.
 
+[.signed-section-signature]
 George Fox, the younger.
+
+--
 
 George Fox the younger was not mistaken in this exhortation when he said "`the
 day hastens when another storm must arise,`" as we shall see before long;
@@ -755,16 +808,26 @@ up praises to God for this wonderful deliverance.
 Now for as much as several of their friends were yet in prison at Boston,
 the following order was given forth by the council not long after.
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 To William Salter, keeper of the prison at Boston.
 
 You are required by authority, and order of the general court,
 forthwith to release and discharge the Quakers, who at present are in custody.
 See that you do not neglect this.
 
+[.signed-section-closing]
 By order of the court,
 
-Edward Rawson, Secretary:Boston, 9th Dec.
-1661.
+[.signed-section-signature]
+Edward Rawson
+
+[.signed-section-context-close]
+Secretary:Boston, 9th Dec. 1661.
+
+--
 
 They then consulted what to do that they might not incur the king`'s displeasure;
 and it was agreed to send a deputation to him.
@@ -799,8 +862,8 @@ according to his own words, he was roiled with infamy into the grave,
 which may serve indeed for a remarkable instance
 of the justice and equal judgments of God.
 
-About this time a book came out at London, bearing the title of Semper Idem,
-i+++.+++ e. Always the Same; a Parallel of Fanatics.
+About this time a book came out at London, bearing the title of [.book-title]#Semper Idem#,
+i+++.+++ e. __Always the Same; a Parallel of Fanatics.__
 The author concealed his name, but he made it sufficiently manifest that he was a Papist,
 and perhaps a Jesuit:
 for he inveighed not only against the Quakers and Baptists,
@@ -825,7 +888,7 @@ very distinctly answered by the said E. Burrough.
 
 And since persecution in the latter end of this year
 began to appear again with open face,
-he published a book, which he called Antichrist`'s Government Justly Detected.
+he published a book, which he called [.book-title]#Antichrist`'s Government Justly Detected#.
 This he dedicated to all the rulers, etc. in the (so called) Christian world;
 and therein, with sound arguments,
 he manifested the unlawfulness and injustice of persecution,
@@ -852,6 +915,9 @@ and showed the deceit that was in it, and who were the subjects of his kingdom.
 
 It was a little before this time that George Fox the younger, being a prisoner,
 and seeing an intent of promoting popery, wrote the following letter to the king:
+
+[.embedded-content-document.letter]
+--
 
 The King of kings has beheld, yes,
 the King of kings has seen even all your actings in the dark,
@@ -956,9 +1022,13 @@ by him who must deal uprightly with all men; though for it I suffer outwardly,
 yet I have a witness in your conscience, unto which I am made manifest;
 and peace with the Lord is my portion, which is better than an earthly crown.
 
+[.signed-section-signature]
 George Fox, the younger.
 
+[.signed-section-context-close]
 Given the 9th day of the Eighth month, 1660.
+
+--
 
 This letter (a clear evidence of the author`'s innocent
 courage) was delivered to the king,
@@ -968,7 +1038,7 @@ and being violently set against the author, advised the king to use severity tow
 But the king, being good-natured, said, "`It would be better for us to amend our lives.`"
 
 While George Fox the younger was prisoner in Lambeth-house,
-he wrote also a small treatise called, England`'s Sad Estate and Condition Lamented.
+he wrote also a small treatise called, [.book-title]#England`'s Sad Estate and Condition Lamented#.
 Herein he reproved the grievous abominations committed among the inhabitants,
 oppression by persecution, and the hypocrisy of the priests.
 He also predicted the pestilence which will be mentioned hereafter in its due place;
@@ -995,6 +1065,9 @@ as in the progress of this history may appear;
 and this last we will refer to at the proper time.
 After the writing of this treatise, he also gave forth the following prayer.
 
+[.embedded-content-document.prayer]
+--
+
 Surely it was You, O Lord, that gave bounds unto the sea,
 that the floods thereof could not overwhelm Your chosen.
 You can let forth the winds and permit a storm, and You can make a calm when You please.
@@ -1020,14 +1093,17 @@ only preserve Your people which You have gathered,
 and will gather unto Yourself in the day of trial, that so they may sing of Your power,
 and magnify Your name in the land of the living.
 
+--
+
 This George Fox +++[+++the younger]
 wrote also in prison several other papers and epistles,
 for exhortation and consolation of his friends; but his work was soon done,
 so that not long after this he departed this life, which was in this or the next year.
 He was, as may be seen from his writings, a man of extraordinary resignation and courage;
 and that he gave up his life, may appear from a small book that he wrote,
-being prisoner in Lambeth-house, which he called,
-The Dread of God`'s Power Uttering its Voice through Man, unto the Heads of the Nation.
+being prisoner in Lambeth-house,
+which he called, [.book-title]#The Dread of God`'s Power Uttering
+its Voice through Man, unto the Heads of the Nation#.
 Herein he exhorted the rulers very earnestly to do justice; and said among other things,
 "`Friends, I must deal plainly with you in the sight of God,
 who has made me a prophet to the nation.
@@ -1058,13 +1134,16 @@ if he continues not diligently watchful.
 But this valiant was now beyond the reach of all temptations, and so I leave him,
 that I may pass on to other matters.
 
-In this year Edward Burrough wrote a paper to the king and his council, which he called,
-A Just and Righteous Plea, in which he proposed, at length,
+In this year Edward Burrough wrote a paper to the king and his council,
+which he called, [.book-title]#A Just and Righteous Plea#, in which he proposed, at length,
 the reasons why the people called Quakers refused to take the oath of allegiance,
 showing that it was not because they would not be faithful to the king,
 but only for conscience-sake, since Christ so expressly had commanded his followers,
 "`Swear not at all,`" which command they dared not transgress.
 Yet to assure the government of their faithfulness, he said thus:
+
+[.embedded-content-document.paper]
+--
 
 We are now, and shall continue to be faithful, innocent,
 and peaceable in our several stations and conditions,
@@ -1102,6 +1181,8 @@ And this we declare, acknowledge, and testify,
 in the fear and presence of God (to whom we and all
 mankind must give an account) without secret equivocation,
 or any deceitful mental reservation.
+
+--
 
 Thus fully E. Burrough declared himself,
 and gave also a circumstantial relation of the practice of his friends meeting together,
@@ -1160,7 +1241,7 @@ Broadstreet however, not thinking it safe to remain in England, left the city,
 and with his companions went back again to New England.
 
 Not long before this time, G. Fox, with the help of John Stubbs and Benjamin Furly,
-published a book called, A Battledore.^
+published a book called, [.book-title]#A Battledore#.^
 footnote:[A battledore, also called a hornbook,
 was a leaf or page containing the alphabet or other educational materials,
 covered with a sheet of transparent horn and fixed in a frame with a handle,
@@ -1287,6 +1368,9 @@ which though then under some limitation,
 yet in process of time so broke forth that it caused his fall.
 The letter was thus:
 
+[.embedded-content-document.letter]
+--
+
 O Israel; the host of the most high God;
 His majesty has fulfilled to me the vision of my head,
 having showed Himself to be the Holy and just One.
@@ -1298,16 +1382,25 @@ Give thanks to Him for His power.
 The God of life promote you all in the virtue of His mercy and forgiveness,
 and keep you in the power of His everlasting love, unto the end.
 
+[.signed-section-signature]
 John.
 
+[.signed-section-context-close]
 Written to you all without the gates of Rome, the 2nd day of the Fourth month, 1661.
 Send this forward and read my life in your meetings.
+
+--
 
 He added not his surname, in imitation, as it seems, of the apostle John.
 He omitted it likewise in another letter he wrote from the prison at Rome,
 which began thus:
 
+[.embedded-content-document.letter]
+--
+
 I John the prisoner, being in the sense of the Spirit of life with you all, etc.
+
+--
 
 Who the two lambs were he mentions in his letter, I cannot tell;
 whether they were persons that had been imprisoned with him in the inquisition jail,
@@ -1321,10 +1414,15 @@ having endeavored to obtain his liberty, departed before him towards England.
 When Perrot afterward lived in America, about the beginning of the year 1665,
 John Taylor wrote thus from Jamaica concerning him:
 
+[.embedded-content-document.letter]
+--
+
 One of the judges of this place told me that he never had seen one who
 so severely exacted an oath from people as John Perrot did.
 And another judge that was also present,
 said that Perrot had altogether renounced his faith, and aimed at nothing but his profit.
+
+--
 
 Such a man was John Perrot, though even some wise men admired him for a time;
 but he became a man of a rough behavior.
@@ -1337,9 +1435,9 @@ but they were not of us.`"
 
 Now since persecution continued in England, Edward Burrough,
 who continually was laborious with his pen to oppose this evil,
-wrote also a small book which he called,
-The Case of Free Liberty of Conscience in the Exercise of Faith and Religion,
-presented unto the King and both Houses of Parliament.
+wrote also a small book which he called, [.book-title]#The Case of Free Liberty
+of Conscience in the Exercise of Faith and Religion,
+presented unto the King and both Houses of Parliament.#
 In this treatise he showed that to deprive honest and peaceable
 people of liberty of conscience in the exercise of worship to God,
 was unjust, an encroaching on God`'s sovereignty, and a usurpation of His authority.
@@ -1395,6 +1493,10 @@ was exceedingly vexed and poorly treated by the keeper of the prison.
 But this man, being struck with the terrors of the Lord, became such a notable convert,
 that in the year 1662, he wrote the following letter to G. Fox:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend,
 
 Having such a convenient messenger,
@@ -1419,11 +1521,16 @@ which would very much rejoice me.
 Not having else at present, but my kind love unto you,
 and all Christian friends with you, in haste I rest,
 
+[.signed-section-closing]
 Yours in Christ Jesus,
 
-Thomas Sharman.
+[.signed-section-signature]
+Thomas Sharman
 
+[.signed-section-context-close]
 Derby, the 22nd of the Fourth month, 1662.
+
+--
 
 I have heretofore made some mention of the imprisonment of Catharine
 Evans and Sarah Cheevers by the inquisition at Malta.
@@ -2404,7 +2511,7 @@ To this they replied, "`What, should we profess a Christ that we are be ashamed 
 
 Some of those that came to see them would pity them for not turning Papists;
 but others showed their hatred by crying out that they must be burnt, and by bawling,
-"`Fuoco, fuoco,`" (fire, fire.) While they were separated from each other,
+"`__Fuoco, fuoco__,`" (fire, fire.) While they were separated from each other,
 Catharine was often much concerned for Sarah, and afraid that she would be ensnared;
 for one of the friars many times accosted her with flattering words.
 But they both continued steadfast,
@@ -2608,111 +2715,76 @@ The inquisitors seeing it, wondered exceedingly;
 and Sarah began to speak zealously against superstition and idolatry.
 And when the time of their fast had expired, Catharine composed the following:
 
+[.letter-heading]
 A Hymn to God
 
+[verse]
+____
 All praise to Him that hath not put
-
 Nor cast me out of mind,
-
 Nor yet His mercy from me shut,
-
 As I could ever find.
 
 Infinite glory, laud, and praise
-
 Be given to His name,
-
 Who hath made known in these our days
-
 His strength and noble fame.
 
 Oh none is like unto the Lamb!
-
 Whose beauty shines bright,
-
 O glorify His holy name,
-
 His majesty and might.
 
 My soul praise Thou the only God,
-
 A fountain pure and clear,
-
 Whose crystal streams spread all abroad
-
 And cleans far and near.
 
 The well-springs of eternity,
-
 Which are so pure and sweet,
-
 And do arise continually,
-
 My bridegroom for to meet.
 
 My sweet and dear beloved one,
-
 Whose voice is more to me
-
 Than all the glory of the earth,
-
 Or treasures I can see.
 
 He is the glory of my life,
-
 My joy and my delight;
-
 Within the bosom of His love
-
 He closed me day and night.
 
 He doth preserve me clean and pure
-
 Within his pavilion,
-
 Where I with Him should be secure,
-
 And saved from all wrong.
 
 My soul praise Thou the Lord, I say,
-
 Praise Him with joy and peace;
-
 My spirit and mind both night and day
-
 Praise Him and never cease.
 
 O magnify His majesty,
-
 His fame and His renown,
-
 Whose dwelling is in Zion high,
-
 The glory of His crown.
 
 O praises, praises to our God,
-
 Sing praises to our King;
-
 O teach the people all abroad,
-
 His praises for to sing.
 
 A Zion song of glory bright,
-
 That doth shine out so clear;
-
 O manifest it in the sight
-
 Of nations far and near;
 
 That God may have His glory due,
-
 His honor and His fame;
-
 And all His saints may sing anew
-
 The praises of His name.
+____
 
 After Catharine had thus joyfully sung, she went to the well in the court,
 and drank much water in the sight of the prisoners, as did Sarah also;
@@ -2763,6 +2835,9 @@ wrote a paper to the rulers of Malta, in which she said,
 that on the 25th of the month called August,
 it came upon her from the Lord to write thus to them in His name:
 
+[.embedded-content-document.paper]
+--
+
 My wrath is kindled against you, and My judgment is set up among you,
 because of your hard-heartedness and unbelief.
 I the Lord, who desires the death of no man, but that all should return unto Me and live,
@@ -2786,6 +2861,8 @@ But if you will hear My servants which speak in My name,
 and return in your minds to the light in your consciences, which convinces of all evil,
 and deny all evil thoughts, words, and actions, then will I pour out My Spirit upon you,
 and will soon cure you of your diseases, and heal you of your pains.
+
+--
 
 This and more she wrote,
 and delivered it to the consul to give to the grand master and the rest of the governors;
@@ -2919,6 +2996,9 @@ Now to give the reader an idea of the frame of these women`'s minds,
 and their sufferings, I will insert some of their own letters.
 Among those which they wrote to their friends in England was this following:
 
+[.embedded-content-document.letter]
+--
+
 O dearly beloved friends, fathers, elders, and pillars of God`'s spiritual house,
 and brethren and sisters in the Lord Jesus Christ,
 in the measure of love and life of our God, do we salute you all,
@@ -3015,11 +3095,16 @@ He will blast all the fruits, works, and labors of wicked and ungodly men,
 with the mildew of His wrathful indignation,
 and will scatter all His enemies with the whirlwinds of His displeasure.
 
+--
+
 This letter was signed by both of them, though perhaps Catharine was the writer,
 who also wrote a letter of exhortation to the popish inquisitor at Malta,
 and another to friar Malachy.
 Among the letters she wrote to her husband and children,
 I count the following really worthy to be delivered to posterity:
+
+[.embedded-content-document.letter]
+--
 
 For the hands of John Evans, my right dear and precious husband,
 with my tender-hearted children,
@@ -3132,15 +3217,28 @@ who is able to build you up to everlasting life and eternal salvation.
 By me, who am your dear and precious wife, and spouse, in the marriage of the Lamb,
 in the bed undefiled,
 
+[.signed-section-signature]
 C+++.+++ E.
+
+[.postscript]
+====
 
 My dearly beloved yokemate in the work of our God does dearly salute you.
 Salute us dearly to our precious friends in all places.
 I do believe we shall see your faces again with joy.
 
+====
+
+[.signed-section-context-close]
 Written in the Inquisition at Malta, in the 11th month, in the year 1661.
 
+--
+
+[.offset]
 The following letter was written by Sarah to her husband, Henry Cheevers, and children.
+
+[.embedded-content-document.letter]
+--
 
 My dear husband, my love, my life is given up to serve the living God,
 and to obey His pure call in the measure of the manifestation of His love, light, life,
@@ -3199,18 +3297,26 @@ The day of the Lord is appearing in which He will discover every deed of darknes
 regardless how secretly it be done;
 for the light of Christ Jesus will make it manifest in every conscience.
 Indeed, the Lord will rip up all coverings that are not of His own Spirit.
+The God of peace be with you all. Amen.
 
-The God of peace be with you all.
-Amen.
+[.signed-section-closing]
+Written in the Inquisition prison by,
 
-Written in the Inquisition prison by Sarah Cheevers.
+[.signed-section-signature]
+Sarah Cheevers.
+
+--
 
 Several other letters both she and Catharine wrote to their husbands and relations.
 But since a great part of my narrative was gathered from there, I pass them by.
 But by these inserted, one may see that they were not women of a dull temper,
 but intelligent and cheerful.
 
+[.offset]
 In a letter of Sarah`'s to her friends in Ireland, I find these words:
+
+[.embedded-content-document.letter]
+--
 
 My life is given up to the service of the Lord.
 Bonds, chains, bolts, irons, double doors, death itself,
@@ -3219,7 +3325,13 @@ Thus may the seed be gathered, it is but a reasonable sacrifice.
 Bonds and afflictions become the gospel of Christ.
 Those that will live godly in Christ Jesus, must suffer persecution.
 
+--
+
+[.offset]
 And in a letter to Daniel Baker, Catharine said,
+
+[.embedded-content-document.letter]
+--
 
 The time is too short for me to disclose the twentieth part of the terrible trials;
 but whenever we were brought upon any trial, the Lord did take away all fear from us,
@@ -3236,26 +3348,43 @@ We do beseech you to tell all our dear friends, fathers, and elders,
 the pillars of our spiritual building, with all the rest of our Christian brethren,
 that we do desire their prayers, for we have need of them.
 
+--
+
+[.offset]
 This letter they concluded with the following poem:
 
-How strong and powerful is our King To all that do believe in Him!
-He doth preserve them from the snare, And teeth of those that would them tear.
+[verse]
+____
+How strong and powerful is our King
+To all that do believe in Him!
+He doth preserve them from the snare,
+And teeth of those that would them tear.
 
-We that are sufferers for the Seed, Our hearts are wounded,
-and do bleed To see the oppression, cruelty, Of men that do thy Truth deny.
+We that are sufferers for the Seed,
+Our hearts are wounded, and do bleed
+To see the oppression, cruelty,
+Of men that do thy Truth deny.
 
 In prisons strong, and dungeons deep,
-To God alone we cry and weep:Our sorrows none can learn
-nor read,But those that in our path do tread.
+To God alone we cry and weep:
+Our sorrows none can learn nor read,
+But those that in our path do tread.
 
-But He whose beauty shines bright,Who turns darkness into light, Makes cedars bow,
-and oaks to bend, To Him that`'s sent to the same end.
+But He whose beauty shines bright,
+Who turns darkness into light,
+Makes cedars bow, and oaks to bend,
+To Him that`'s sent to the same end.
 
-He is a fountain pure and clear, His crystal streams run far and near,
-To cleanse all those that come to Him, For to be healed of their sin.
+He is a fountain pure and clear,
+His crystal streams run far and near,
+To cleanse all those that come to Him,
+For to be healed of their sin.
 
-All them that patiently abide, And never swerve nor go aside.
-The Lord will free them out of all,Bondage, captivity, and thrall.
+All them that patiently abide,
+And never swerve nor go aside.
+The Lord will free them out of all,
+Bondage, captivity, and thrall.
+____
 
 They composed several others, which fell into the hands of their enemies,
 and copies of them were given to the inquisitor.

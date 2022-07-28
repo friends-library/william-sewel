@@ -154,7 +154,7 @@ if the bread and wine which the Corinthians ate and drank was Christ`'s actual b
 how then (continued he) has Christ a body in heaven?
 And he also signified to him, that both the disciples at the supper,
 and the Corinthians afterwards,
-were to eat the bread and drink the wine in remembrance of Christ,
+were to eat the bread and drink the wine _in remembrance_ of Christ,
 and to show forth His death till He came;
 which plainly proved that the bread and wine which they took, was not His body.
 For if it had been His real body that they ate, then He had been come,
@@ -229,6 +229,10 @@ if he did not avoid, would bring shame and ruin upon him and his posterity.
 This counsel Cromwell seemed to take well, and thanked him for it:
 yet G. Fox wrote again concerning the same thing to him in this manner:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 O Protector,
 
 You who have tasted of the power of God,
@@ -247,7 +251,10 @@ O Oliver, take heed of ruining yourself, by running into things that will fade, 
 the things of this world that will change.
 Be subject and obedient to the Lord God.
 
+[.signed-section-signature]
 George Fox.
+
+--
 
 About this time G. Fox wrote also another letter to Oliver Cromwell,
 wherein he signified to him that if he had been faithful and denounced all deceit,
@@ -261,6 +268,10 @@ being sick and much troubled in mind,
 so that none that came could minister any comfort to her,
 G+++.+++ Fox visited her with the following letter:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 Be still and cool in your own mind and spirit from your own thoughts,
@@ -344,7 +355,10 @@ Thus you may feel the power of an endless life, the power of God which is immort
 which brings the immortal soul up to the immortal God, in whom it does rejoice.
 So in the name and power of the Lord Jesus Christ, may God Almighty strengthen you.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 This paper being read to the aforesaid lady, it stayed her mind somewhat;
 but she lived not long after.
@@ -357,6 +371,9 @@ and another declaration for a collection for the relief of distressed Protestant
 On this occasion,
 G+++.+++ Fox wrote the following paper to show what kind
 of fast it was that God requires and accepts.
+
+[.embedded-content-document.paper]
+--
 
 To the heads and governors of this nation,
 who have put forth a declaration for the keeping of a day of solemn fasting and humiliation,
@@ -516,7 +533,10 @@ And now that light is made manifest, unto which all must answer,
 and in which all must appear before the judgment seat of Christ,
 that everyone may receive the things done in his body, whether good or bad.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 Many of his friends being at this time in prisons and dungeons,
 several others of them went to the parliament and offered to lie
@@ -530,6 +550,9 @@ And because the parliament that was then sitting consisted mostly of such who,
 pretending to be more religious than others,
 were indeed great persecutors of those that were truly pious,
 G+++.+++ Fox could not let this hypocrisy go unreproved, but wrote the following lines to them:
+
+[.embedded-content-document.letter]
+--
 
 O friends, do not cloak and cover yourselves; there is a God that knows your hearts,
 and who will uncover you.
@@ -553,7 +576,10 @@ you have fattened your hearts as in a day of slaughter.
 You have condemned, you have murdered the just; he does not resist you.`"^
 footnote:[James 5:5-6]
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 It was not G. Fox alone who was grieved with the said hypocrisy,
 but others of his friends also declared zealously against it.
@@ -579,8 +605,13 @@ as being that which would draw down God`'s anger against them.
 Several copies of the said letter were delivered to Oliver and his council;
 and some months after E. Burrough wrote the following letter to him.
 
-To the Protector.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To the Protector
+
+[.salutation]
 Friend,
 
 The salutation of my life wishes well unto you in the Lord,
@@ -622,15 +653,23 @@ and may no man suffer in your dominion under the cruelty of men upon such a grou
 Hereof I shall be glad to receive an answer; and in the meantime, and always,
 am a lover of your soul, but a witness against all oppression.
 
+[.signed-section-signature]
 E+++.+++ B.
+
+--
 
 This was delivered to his hands at Hampton Court, in the Fourth Month, 1658.
 I never understood that anything of importance followed upon this letter;
 but about two months afterwards, he wrote another letter to Cromwell,
 which was delivered to him at Hampton Court, in the sixth month.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Protector
 
+[.salutation]
 Friend,
 
 Know that there is a God that does whatever He will.
@@ -657,9 +696,13 @@ and feel His word and power and presence in you, to quench all that which is con
 and then you will be blessed in this life, and in the life to come.
 But if you continue in your oppression, the Lord will suddenly smite you.
 
+[.signed-section-closing]
 From a friend to you in the Lord,
 
+[.signed-section-signature]
 E+++.+++ B.
+
+--
 
 That the Lord, according to this prediction, did suddenly smite Cromwell, time verified;
 for he lived but about a month after the receipt of this letter.
@@ -697,6 +740,10 @@ but for his speedy recovery.`"
 While the protector was sick,
 Edward Burrough wrote the following letter to his wife and children.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 Remember, that by the Lord you were raised from a low state; and when He so desires,
@@ -805,9 +852,13 @@ Therefore, be obedient to Him, and love His ways and judgments,
 that He may make you more happy with a crown immortal that never fades away.
 And remember once more that the Lord has warned you, by a friend unto you in the Lord.
 
+[.signed-section-signature]
 E+++.+++ Burrough.
 
+[.signed-section-context-close]
 Written the 1st day of September, 1658.
+
+--
 
 Oliver Cromwell was snatched away by death unaware;
 however the day before his decease this letter was delivered to his relations.
@@ -847,6 +898,9 @@ was proclaimed Protector of the Commonwealth; to whom Edward Burrough wrote a le
 addressed to: "`Richard Cromwell, chosen to be protector and chief magistrate,
 etc.`" wherein he gave him some account of the most cruel sufferings of his friends;
 and speaking of the rulers, he says thus:
+
+[.embedded-content-document.letter]
+--
 
 As for magistracy, it was ordained of God to be a dread, terror and limit to evil-doers,
 and to be a defense and praise to all that do well, to condemn the guilty,
@@ -895,12 +949,14 @@ through the abuse of good government,
 and degeneration of magistracy from its perfect state and place
 whereunto it was ordained of God in the beginning.
 
+--
+
 This remonstrance, though large and powerful, had not its intended effect;
 but persecution continued, without being stopped by him.
 For the churchmen fawned upon him,
 calling him not only their "`Joshua,`" but the preachers
 of Suffolk said in their address to him,
-Sol occubuit, nox nulla secuta est.
+_Sol occubuit, nox nulla secuta est_.
 That is, "`Though our sun has gone down, yet no night has ensued.`"
 
 About this time a paper was given forth called,
@@ -963,6 +1019,10 @@ that several were set at liberty.
 Sufferings then growing very sharp,
 G+++.+++ Fox wrote the following lines in order to encourage his friends:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 My dear friends, everywhere scattered abroad, in prison, or out of prison,
 
 Fear not, because of the reports of sufferings;
@@ -982,7 +1042,10 @@ and to walk through the deep waters, though they be heaps upon heaps.
 For the evil spies of the good land may preach up hardness,
 but Caleb (which signifies a heart) and Joshua (a savior) will triumph over all.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 There was at that time great discord among those that were at the helm of government,
 and G. Fox relates that he then foresaw the king`'s coming in again;
@@ -1045,6 +1108,10 @@ and finding that all exhortations and warnings had been rejected,
 in the month called December,
 E+++.+++ Burrough wrote the following lines to Richard and his council:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To the Protector and his Council:
 
 The Lord God will shortly make you know that we are His people;
@@ -1057,7 +1124,10 @@ yet His judgments shall awaken you,
 and His heavy hand of indignation shall lie upon your consciences,
 and you will be scattered and broken to pieces.
 
+[.signed-section-signature]
 E+++.+++ Burrough
+
+--
 
 How soon this prediction was fulfilled, we shall see in the next year;
 for it was but a few months after the delivering of this letter,
@@ -1290,7 +1360,8 @@ nineteen shillings for not coming to church;
 and from others much money was extorted because their
 wives absented themselves from the public worship.
 William Marston, of Hampton, was fined ten pounds for possessing two books in his house,
-namely, John Lilburn`'s Resurrection, and William Dewsbury`'s Mighty Day of the Lord.
+namely, John Lilburn`'s [.book-title]#Resurrection#,
+and William Dewsbury`'s [.book-title]#Mighty Day of the Lord#.
 Thus these people did whatever they desired,
 without any regard to the laws in Old England:
 and when at one time some prisoners appealed to the laws of England,
@@ -1369,13 +1440,19 @@ They were then carried to the prison, and on the 16th of September,
 the Marshal`'s deputy came there, letting as many come in as he thought fit;
 and when the doors were shut and locked, the said marshal read the following order:
 
+[.embedded-content-document.legal]
+--
+
 To the marshal-general, or his deputy: you are to take with you the executioner,
 and repair to the house of correction,
 and there see him cut off the right ears of John Copeland, Christopher Holder,
 and John Rouse, Quakers; in execution of the sentence of the court of assistants,
 for the breach of the law, entitled Quakers.
 
+[.signed-section-signature]
 Edward Rawson, Secretary.
+
+--
 
 The prisoners were then brought into another room, where John Rouse said to the marshal,
 "`We have appealed to the chief magistrate of England.`"
@@ -1432,7 +1509,7 @@ to enter their dissents to that law;
 which the others seeing, and believing that so many difficulties would weaken their law,
 they admitted this addition: that they would be tried by a special jury;
 though a standing law of the country said that none could be sentenced
-to death and banishment but by a special jury and a court of assistants,
+to death and banishment but by a special jury _and_ a court of assistants,
 and that such a court must consist of seven magistrates at the least.
 But it was now resolved to prosecute the Quakers to death; and all their trial,
 when it came to it, was only a question of whether or not they were Quakers,
@@ -1442,6 +1519,10 @@ Now, in order to enter upon this bloody business,
 the following act was made at a general court, held at Boston, the 20th of October,
 in this year, 1658.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 Act made at a general court, held at Boston, the 20th of October, 1658.
 
 Whereas there is a pernicious sect, (commonly called Quakers) lately arisen,
@@ -1495,6 +1576,8 @@ they shall be sentenced to banishment upon pain of death; and any one magistrate
 upon information given him of any such person, shall cause him to be apprehended,
 and shall commit any such person to prison, according to his discretion,
 until he come to trial, as aforesaid.
+
+--
 
 Here ends this sanguinary act,
 being more similar to the decrees of the Spanish Inquisition,
