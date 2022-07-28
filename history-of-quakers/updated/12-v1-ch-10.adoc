@@ -139,6 +139,7 @@ being enclosed to him with these lines following:
 [.embedded-content-document.letter]
 --
 
+[.salutation]
 Friend,
 
 The enclosed letter I do commend unto you to present before the house,
