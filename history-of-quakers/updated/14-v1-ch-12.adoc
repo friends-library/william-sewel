@@ -86,6 +86,9 @@ Being on shore, he also delivered a paper, written in the Spanish tongue,
 to the governor and inhabitants of Gibraltar, along with some books in Latin.
 That to the governor was as follows:
 
+[.embedded-content-document.paper]
+--
+
 Behold, behold, the great day of God, and of His wrath, and of the wrath of His Lamb,
 has come.
 The hour of His judgment has come.
@@ -99,6 +102,8 @@ footnote:[Revelation 18:4]
 These are the words of the power of Christ, which is contrary to the false church.
 Behold, behold, plagues, plagues, plagues are coming upon the church of Rome,
 and upon her heads in all parts of the world.
+
+--
 
 Daniel having now come again on board the ship,
 the next day the Lord gave them a rear wind, and all the fleet set sail;
@@ -381,8 +386,8 @@ upon refusing to pay him tithes, felt likewise the effects of Letchford`'s fury;
 for he caused him also to be cast into jail, where he kept him six years.
 And after these prisoners were at length released by the sheriff,
 T+++.+++ Luxford was then excommunicated by Letchford,
-and afterwards sued under the statute de excommunicato capiendo,^
-footnote:[The Statute de excommunicato capiendo was a writ in old English law,
+and afterwards sued under the statute de __excommunicato capiendo__,^
+footnote:[The Statute __de excommunicato capiendo__ was a writ in old English law,
 ordering the imprisonment of an excommunicated person
 until he or she submitted to the national church.]
 whereby he was shut up again in prison,
@@ -425,8 +430,11 @@ And under a pretense that their meetings were dangerous,
 and a terror to the king`'s subjects,
 a further act was made against those who refused to take an oath:
 
-An act for preventing mischief and danger that may arise by certain persons called Quakers,
-and others refusing to take lawful oaths.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== An act for preventing mischief and danger that may arise by certain persons called Quakers, and others refusing to take lawful oaths.
 
 Whereas of late times, certain persons under the name of Quakers,
 and other names of separation,
@@ -490,8 +498,10 @@ then every person so offending shall, for his or her third offense, abjure the r
 or be transported in any ship or ships,
 to any of his majesty`'s plantations beyond the seas, etc.
 
-This act caused Edward Burrough to write a small book, called,
-The Case of the People called Quakers, Stated,
+--
+
+This act caused Edward Burrough to write a small book,
+called, [.book-title]#The Case of the People called Quakers#, Stated,
 to Show the Falsehood of the Accusations Charged upon Them.
 First he showed in this treatise that,
 even if it were supposed that the Quakers were heretics
@@ -502,6 +512,8 @@ And having treated of this matter at length,
 he laid down the state of their way of meeting and worship,
 appealing to others on this account, with these words:
 
+[quote]
+____
 What judgment do our neighbors give in this case?
 Concerning our meetings,
 they say they have known us to meet together in such a manner for many years,
@@ -550,7 +562,7 @@ And the judgment of the Scriptures, according to both law and gospel,
 and the precedents of saints, do justify us in this case,
 in our choosing patiently to suffer the greatest
 penalties of the law rather than to obey,
-(by doing) any such law as requires things contrary to our pure consciences.
+(by __doing__) any such law as requires things contrary to our pure consciences.
 And this is according to the example of the three young men in Daniel 3,
 who were commanded to fall down and worship the golden
 image when they heard the sound of the music,
@@ -596,11 +608,11 @@ and appealing to them "`that they ought to obey God rather than man.`"^
 footnote:[Acts 5:29]
 Many examples we might collect out of the Scriptures where the
 servants of God did disobey the commands of kings and rulers,
-and could not obey (by doing) any command contrary to God,
+and could not obey (by __doing__) any command contrary to God,
 but rather chose to suffer afflictions and even death itself,
 rather than to obey such laws and decrees as required anything contrary to a pure conscience.
 And this is our case at this day.
-We cannot obey (by doing) anything against our consciences,
+We cannot obey (by __doing__) anything against our consciences,
 but must break the laws of men and disobey their commandments,
 rather than break the law of God and sin against our own consciences,
 whatever we suffer for it;
@@ -693,7 +705,10 @@ Must this law be executed more than some others laws that are as truly enacted,
 and as fully in force as this act can be?
 For indeed there are some laws which deserve greater execution than this,
 and yet they lie dormant, as is apparent at this day.
-As, for example, is the case with 4 Jac. c. 5, in which are found these words:
+As, for example, is the case with __4 Jac. c. 5__, in which are found these words:
+
+[.small-break]
+'''
 
 "`Let it be enacted, that all and every person or persons who shall be drunk,
 and of this offense of drunkenness shall be lawfully convicted,
@@ -707,7 +722,8 @@ or justices, before whom he was convicted.
 And if the offender is not able to pay the sum of five shillings,
 then he shall be committed to the stocks for the space of six hours.`"
 
-Also in 1 Jac. c. 7, are found these words:
+[.offset]
+Also in __1 Jac. c. 7__, are found these words:
 
 "`That all persons going about begging; all idle persons going about in any country,
 either begging or using any subtle craft, or unlawful games or plays,
@@ -717,9 +733,12 @@ footnote:[Those who trained and pitted bears against
 dogs for the entertainment of the public.]
 and common minstrels who go wandering abroad, shall be taken, adjudged,
 and deemed as rogues, vagabonds, and beggars,
-and shall suffer such pains and punishments as are expressed in 39 Eliz. c. 4. namely,
+and shall suffer such pains and punishments as are expressed in __39 Eliz. c. 4.__ namely,
 that every such person shall be stripped naked from the middle upwards,
 and shall be openly whipped, until his or her body be bloody,`" etc.
+
+[.small-break]
+'''
 
 Read this statute at length, and then consider how duly it is executed now,
 and why the late act against us is more rigorously enforced upon honest, sober persons,
@@ -748,6 +767,7 @@ not only because there is a law against us,
 but it is also, or rather, because there is enmity, and wrath,
 and wickedness in the hearts of men against us,
 which is the main cause of our sufferings at this day.
+____
 
 Thus was E. Burrough always laborious,
 and like a faithful and diligent minister of Christ,
@@ -808,6 +828,9 @@ At Dover, in New England, Anne Coleman, Mary Tomkins,
 and Alice Ambrose were sentenced to very cruel whipping, for only having come there.
 The warrant was as follows:
 
+[.embedded-content-document.legal]
+--
+
 To the constables of Dover, Hampton, Salisbury, Newbury, Rowley, Ipswich, Wenham, Lynn,
 Boston, Roxbury, Dedham.
 Until these vagabond Quakers are carried out of this jurisdiction:
@@ -822,9 +845,13 @@ and thus to convey them from constable to constable until they are out of this j
 as you will answer this at your peril.
 This shall serve as your warrant.
 
+[.signed-section-signature]
 Richard Waldron.
 
+[.signed-section-context-close]
 At Dover, dated December 22, 1662.
+
+--
 
 Cruel indeed was this order;
 because to whip these three tender women through all eleven towns,
@@ -1085,6 +1112,10 @@ though they had nothing to charge him with but that he had
 come from Salem to Boston to visit his sick friend;
 and for this pretended crime the following warrant was framed:
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 To the constables of Boston, Charlestown, Maiden, and Lynn.
 
 You are each required to take into your custody Edward Wharton,
@@ -1094,9 +1125,13 @@ And then from constable to constable you are required
 to convey him until he has come to Salem,
 the place where he says he dwells; and in so doing this shall be your warrant.
 
+[.signed-section-signature]
 John Endicot.
 
+[.signed-section-context-close]
 Dated at Boston, the 20th of June, 1664.
+
+--
 
 Pursuant to this warrant, E. Wharton, (who therein was called a vagabond,
 for no other reason than having departed from his
@@ -1123,6 +1158,9 @@ or carry anything from them, upon the penalty of five pounds for the first time,
 and ten pounds for the second.
 In this letter John Smith said:
 
+[.embedded-content-document.letter]
+--
+
 O my spirit is grieved for you,
 because the love I did once see in you has departed from you,
 and there remains in you a spirit of cruelty and of hard-heartedness to your poor neighbors,
@@ -1135,6 +1173,8 @@ and how you do walk and act contrary to what you did formerly profess.
 Yes, I have heard you say that all the armies on earth cannot subdue one lust in man or woman.
 And now you pronounce sentence of death upon some,
 because they cannot submit to your wills, nor worship as you do.
+
+--
 
 But I return to Edward Wharton,
 who after his whipping was not led the direct way to Salem, but by Charlestown,
