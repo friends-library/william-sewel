@@ -183,6 +183,10 @@ A book was also printed,
 wherein many base abuses along with his furious behavior were exposed to public view;
 and this book was dedicated to him with this small epistle:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Richard Brown,
 
 If you are not sealed up already for destruction,
@@ -193,6 +197,8 @@ And may the Lord God of heaven and earth give judgment
 of final determination between you and us,
 that all the earth may know whether your cause against us, or our cause,
 is just before Him, who only is the righteous judge.
+
+--
 
 The said book, though published without the author`'s name, was not only sent to Brown,
 but about thirty copies were also delivered to the lord mayor and the sheriffs of London,
@@ -222,7 +228,7 @@ where they pulled down one who was preaching,
 and presently laid hold of another who requested
 Reeves to show a court order for his doings.
 To this Reeves replied that he would not do so in that place;
-but it appeared afterwards that he could not, having been granted no warrant at all.
+but it appeared afterwards that he __could not,__ having been granted no warrant at all.
 Nevertheless,
 he caused his soldiers to take away about forty persons
 (some of whom were not at the meeting,
@@ -492,7 +498,7 @@ threatened the prisoners to gag any of them that should speak anything.
 Thus innocence was forced to give way to violence.
 And once, when being asked the common question, "`guilty, or not guilty,`" one answered,
 "`I deny I am guilty,`" and "`I can say I am not guilty;`" and also in Latin,
-saying "`Non reus sum.`"
+saying __"`Non reus sum.`"__
 Yet he was sentenced as a mute, and fined accordingly,
 though the words he spoke fully signified not guilty,
 albeit he had not expressed them in the exact terms.
@@ -588,6 +594,9 @@ In this hot time of persecution,
 Francis Howgill wrote and gave forth the following
 paper for the encouragement of his friends.
 
+[.embedded-content-document.paper]
+--
+
 The cogitations of my heart have been many, deep, and ponderous some months, weeks,
 and days,
 concerning this people which the Lord has raised to bear testimony unto His name,
@@ -643,7 +652,10 @@ but at last my heart was filled with joy,
 even as when the ark of God was brought from the house of Obed-Edom,
 when David danced before it, and Israel shouted for joy.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 It is certain that this writing of F. Howgill, who was a pious man of great abilities,
 together with many other powerful exhortations of those who valiantly went before,
@@ -673,6 +685,9 @@ and after having been in White-lion prison about nine weeks,
 they were brought to the bar, where Richard Onslow sat as judge of the sessions.
 The indictment drawn up against them was as follows.
 
+[.embedded-content-document.legal]
+--
+
 The jurors for our lord the king do present upon their oath, that Arthur Fisher,
 of the parish of St. Olave, in the borough of Southwark, in the county of Surry, yeoman;
 Nathaniel Robinson, of the same, yeoman; John Chandler, of the same, yeoman; and others,
@@ -690,6 +705,8 @@ against the laws and statutes of this kingdom of England,
 in contempt of our lord the king, his laws,
 and to the evil and dangerous example of all others.
 
+--
+
 I have inserted this indictment,
 that the reader may see not only the manner of their proceeding,
 but also with what black and heinous colors the religious
@@ -706,7 +723,7 @@ when the people had but newly stepped out of popery;
 and then they endeavored to show how unjustly they had been dealt with.
 But being required to plead guilty or not guilty to the indictment,
 some who were not very quick to answer, were hauled out of the court,
-as pro confessi +++[+++in English, as having confessed], and so sent back to prison.
+as __pro confessi__ +++[+++in English, as __having confessed__], and so sent back to prison.
 The rest, being twenty-two in number, pleaded not guilty.
 
 The jurymen were then called, and when the prisoners had protested against one,
@@ -783,44 +800,58 @@ the recorder, chief justice Forster, and other judges and justices,
 among whom was also Richard Brown.
 
 Now since John Crook published this trial in print, and by that we may judge,
-as ex ungue leonem, +++[+++in English: from the part we may judge the whole]
+as __ex ungue leonem,__ +++[+++in English: __from the part we may judge the whole__]
 of other trials of the Quakers, I will give it here at length:
+
+[.small-break]
+'''
 
 J+++.+++ Crook being brought to the courthouse in the Old Bailey, with two of his friends,
 Isaac Gray, doctor of medicine, and John Bolton, goldsmith;
 one of the prisoners was called to the bar, and then asked by the chief judge:
 
-Chief Judge: What meeting was it that you were at?
+[.discourse-part]
+__Chief Judge:__ What meeting was it that you were at?
 
-Prisoner: I desire to be heard, where is my accuser?
+[.discourse-part]
+__Prisoner:__ I desire to be heard, where is my accuser?
 
-Chief Judge: Your tongue is not your own,
+[.discourse-part]
+__Chief Judge:__ Your tongue is not your own,
 and you must not have liberty to speak what you wish.
 
-Prisoner: I speak in the presence and fear of the everlasting God.
+[.discourse-part]
+__Prisoner:__ I speak in the presence and fear of the everlasting God.
 My tongue is indeed not my own, for it is the Lord`'s,
 and to be disposed of according to His pleasure, and not to speak my own words.
 Therefore I desire to be heard.
 I have been so long in prison... +++[+++then he was interrupted by the judge.]
 
-Judge: Leave off your canting!
+[.discourse-part]
+__Judge:__ Leave off your canting!
 
+[.offset]
 +++[+++He then commanded him to be taken away, which he was accordingly by the jailer.
 This was the substance of what the prisoner aforesaid spoke the first time.]
 
-Chief Judge: Call John Crook to the bar; +++[+++which the crier did accordingly,
+[.discourse-part]
+__Chief Judge:__ Call John Crook to the bar; +++[+++which the crier did accordingly,
 he being kept among the felons as aforesaid.]
 
-Chief Judge: When did you take the oath of allegiance?
+[.discourse-part]
+__Chief Judge:__ When did you take the oath of allegiance?
 
-J+++.+++ Crook: I desire to be heard.
+[.discourse-part]
+__J+++.+++ Crook:__ I desire to be heard.
 
-Chief Judge: Answer the question, and you shall be heard.
+[.discourse-part]
+__Chief Judge:__ Answer the question, and you shall be heard.
 
-J+++.+++ Crook: I have been about six weeks in prison, and am I now called to accuse myself?
+[.discourse-part]
+__J+++.+++ Crook:__ I have been about six weeks in prison, and am I now called to accuse myself?
 For the answering to this question in the negative, is to accuse myself,
-which you ought not to force me upon; for, Nemo debet seipsum prodere +++[+++in English:
-No one should be obliged to betray himself.]
+which you ought not to force me upon; for, __Nemo debet seipsum prodere__ +++[+++in English:
+__No one should be obliged to betray himself.__]
 I am an Englishman, and by the law of England I ought not to be taken, nor imprisoned,
 nor deprived of my possessions, nor called in question, nor made to answer,
 except according to the law of the land; which I challenge as my birthright,
@@ -830,11 +861,13 @@ I stand here at this bar as a delinquent,
 and do desire that my accuser may be brought forth to accuse me for my delinquency,
 and then I shall answer to my charge, if there is any I am guilty of.
 
-Chief Judge: You are here demanded to take the oath of allegiance,
+[.discourse-part]
+__Chief Judge:__ You are here demanded to take the oath of allegiance,
 and when you have done that, then you shall be heard about the other charge;
 for we have power to tender the oath to any man.
 
-J+++.+++ Crook: Not to me upon this occasion, and in this place;
+[.discourse-part]
+__J+++.+++ Crook:__ Not to me upon this occasion, and in this place;
 for I am brought here as an offender already, and am not to be made an offender here,
 or made to accuse myself.
 For I am an Englishman, as I have said to you,
@@ -851,6 +884,9 @@ but rather to inform me of the benefit of those laws.
 And wherein I am ignorant, you ought to inform me,
 that I may not suffer through my own ignorance of those advantages
 which the laws of England afford me as an Englishman.
+
+[.small-break]
+'''
 
 +++[+++Reader, I here give you a brief account of how I was taken and imprisoned,
 that you may judge the better what justice I had from the aforesaid court;
@@ -875,12 +911,14 @@ where we remained until the court sessions in the Old Bailey as aforesaid.
 Hereby you may understand what justice I met with, by what went before,
 and now further follows:]
 
-Chief Judge: We sit here to do justice, and are upon our oaths.
+[.discourse-part]
+__Chief Judge:__ We sit here to do justice, and are upon our oaths.
 We are to tell you what the law is, and not you us; therefore, sirrah,^
-footnote:[Sirrah was a word of reproach and contempt, used in addressing vile characters.]
+footnote:[__Sirrah__ was a word of reproach and contempt, used in addressing vile characters.]
 you are too bold.
 
-J+++.+++ Crook: Sirrah is not a word fit for a judge; for I am no felon.
+[.discourse-part]
+__J+++.+++ Crook:__ Sirrah is not a word fit for a judge; for I am no felon.
 Nor ought you to threaten the prisoner at the bar;
 for I stand here arraigned as for my life and liberty,
 and the preservation of my wife and children, and my outward estate,
@@ -890,18 +928,22 @@ Therefore I hope the court will bear with me, if I am bold to assert my liberty,
 as an Englishman, and as a Christian; and if I speak loud, it is my zeal for the Truth,
 and for the name of the Lord; and my innocency makes me bold.
 
-Judge: +++[+++Interrupting John Crook]
+[.discourse-part]
+__Judge:__ +++[+++Interrupting John Crook]
 It is an evil zeal.
 
-J+++.+++ Crook: No, I am bold in the name of the Lord God Almighty, the everlasting Jehovah,
+[.discourse-part]
+__J+++.+++ Crook:__ No, I am bold in the name of the Lord God Almighty, the everlasting Jehovah,
 to assert the Truth, and stand as a witness for it.
 Let my accuser be brought forth, and I am ready to answer any court of justice.
 
+[.offset]
 +++[+++Then the judge interrupted me,
 saying "`sirrah,`" with some other words I do not remember.
 But I answered:]
 
-J+++.+++ Crook: You are not to threaten me,
+[.discourse-part]
+__J+++.+++ Crook:__ You are not to threaten me,
 neither are those insults fit for the mouth of a judge;
 for the safety of the prisoner depends upon the impartiality of the court.
 And you ought not to behave yourselves as a party,
@@ -909,22 +951,26 @@ all seeking advantage against the prisoner,
 but not heeding anything that may help for his clearing or advantage.
 +++[+++The judge again interrupting me, saying:]
 
-Judge: Sirrah, you are to take the oath, and here we tender it to you,
+[.discourse-part]
+__Judge:__ Sirrah, you are to take the oath, and here we tender it to you,
 +++[+++bidding one to read it].
 
-J+++.+++ Crook: Let me see my accuser,
+[.discourse-part]
+__J+++.+++ Crook:__ Let me see my accuser,
 that I may know for what cause I have been six weeks imprisoned;
 and do not put me to accuse myself by asking me questions,
 but either let my accuser come forth, or otherwise let me be discharged by proclamation,
 as you ought to do.
 +++[+++Here I was interrupted again.]
 
-Judge Twisden: We take no notice of your being here otherwise than of a straggler,
+[.discourse-part]
+__Judge Twisden:__ We take no notice of your being here otherwise than of a straggler,
 or as any other person or people that are here this day;
 for we may tender the oath to any man.
 +++[+++And another judge spoke to the like purpose.]
 
-J+++.+++ Crook: I have been brought to your bar as a prisoner restrained of my liberty,
+[.discourse-part]
+__J+++.+++ Crook:__ I have been brought to your bar as a prisoner restrained of my liberty,
 and I do question whether you ought in justice to tender
 me the oath on the account I am now brought before you.
 I am supposed to be an offender; or else why have I been six weeks in prison already?
@@ -934,50 +980,67 @@ and to the question now propounded; for I am a lover of justice with all my soul
 and am well known by my neighbors where I lived to keep a conscience
 void of offense both towards God and towards man.
 
-Judge: Sirrah, leave off your canting.
+[.discourse-part]
+__Judge:__ Sirrah, leave off your canting.
 
-J+++.+++ Crook: Is this canting, to speak the words of the Scripture?
+[.discourse-part]
+__J+++.+++ Crook:__ Is this canting, to speak the words of the Scripture?
 
-Judge: It is canting in your mouth, though they are Paul`'s words.
+[.discourse-part]
+__Judge:__ It is canting in your mouth, though they are Paul`'s words.
 
-J+++.+++ Crook: I speak the words of the Scripture, and it is not canting, though I speak them;
+[.discourse-part]
+__J+++.+++ Crook:__ I speak the words of the Scripture, and it is not canting, though I speak them;
 but they are words of truth and soberness in my mouth, they being witnessed by me,
 and fulfilled in me.
 
-Judge: We do ask you again, whether you will take the oath of allegiance?
+[.discourse-part]
+__Judge:__ We do ask you again, whether you will take the oath of allegiance?
 It is but a short question, you may answer if you will.
 
-J+++.+++ Crook: By what law have you power to tender me the oath?
+[.discourse-part]
+__J+++.+++ Crook:__ By what law have you power to tender me the oath?
+
+[.offset]
 +++[+++Then, after some consultation together by whispering, they called for the statute book,
 and turning over the pages, they answered:]
 
-Judge: By the third of King James.
+[.discourse-part]
+__Judge:__ By the third of King James.
 
-J+++.+++ Crook: I desire that statute may be read; for I have consulted it,
+[.discourse-part]
+__J+++.+++ Crook:__ I desire that statute may be read; for I have consulted it,
 and do not understand that you have power by that statute to tender me the oath,
 being here before you in this place and upon this occasion, as a delinquent already.
 Therefore I desire the judgment of the court in this case,
 and that the statute may be read.
 
-Judge: +++[+++Then they took the statute-book, and consulted together upon it, and one said:]
+[.discourse-part]
+__Judge:__ +++[+++Then they took the statute-book, and consulted together upon it, and one said:]
 We are the judges of this land, and better understand our power than you do;
 and we do judge that we may lawfully do it.
 
-J+++.+++ Crook: Is this the judgment of the court?
+[.discourse-part]
+__J+++.+++ Crook:__ Is this the judgment of the court?
 
-Judge: Yes.
+[.discourse-part]
+__Judge:__ Yes.
 
-J+++.+++ Crook:
+[.discourse-part]
+__J+++.+++ Crook:__
 I desire the statute to be read that empowers you to tender
 the oath to me upon this occasion in this place;
-for, Vox audita perit, sed litera scripta manet +++[+++in English: Words only spoken are lost;
-but writing remains], therefore let me hear it read.
+for, Vox audita perit, __sed litera scripta manet__ +++[+++in English: __Words
+only spoken are lost; but writing remains__], therefore let me hear it read.
 
-Judge: Hear me.
+[.discourse-part]
+__Judge:__ Hear me.
 
-J+++.+++ Crook: I am as willing to hear as to speak.
+[.discourse-part]
+__J+++.+++ Crook:__ I am as willing to hear as to speak.
 
-Judge: Then hear me.
+[.discourse-part]
+__Judge:__ Then hear me.
 You are here required to take the oath by the court,
 and I will inform you what the penalty will be in case you refuse.
 Your first denial shall be recorded,
@@ -985,18 +1048,21 @@ and then it shall be tendered to you again at the end of the sessions.
 Upon the second refusal, you run yourself into a premunire,
 which is the forfeiture of all your estate (if you have any) and imprisonment.
 
-J+++.+++ Crook: It is justice I stand for;
+[.discourse-part]
+__J+++.+++ Crook:__ It is justice I stand for;
 let me have justice by bringing my accuser face to face, as by law you ought to do,
 for I stand at your bar as a delinquent.
 And when that is done, I will answer to what can be charged against me,
 as also to the question of the oath.
 Until then, I shall give no other answer than I have already done, at least at present.
 
+[.offset]
 +++[+++There was then a cry in the court saying,
 "`take him away,`" which occasioned a great interruption,
 and J. Crook spoke to this purpose, saying:]
 
-J+++.+++ Crook: Mind the fear of the Lord God, that you may come to the knowledge of His will,
+[.discourse-part]
+__J+++.+++ Crook:__ Mind the fear of the Lord God, that you may come to the knowledge of His will,
 and do justice.
 And take heed of oppressing the innocent,
 for the Lord God of heaven and earth will assuredly plead their cause.
@@ -1004,16 +1070,19 @@ As for my part, I desire not the hurt of one of the hairs of your heads;
 but let God`'s wisdom guide you.
 +++[+++These words he spoke at the bar and as he was being carried away.]
 
+[.offset]
 +++[+++On the sixth day of the week, in the forenoon following, the court having sat,
 John Crook was called to the bar.]
 
-Chief Judge: Friend Crook,
+[.discourse-part]
+__Chief Judge:__ Friend Crook,
 we have given you time to consider of what was said yesterday to you by the court,
 hoping you may have better considered it by this time.
 Therefore, without any more words, will you take the oath?
 +++[+++He then called to the clerk, and bid him read it.]
 
-J+++.+++ Crook: I did not, neither do I deny allegiance to the king,
+[.discourse-part]
+__J+++.+++ Crook:__ I did not, neither do I deny allegiance to the king,
 but I desire to know the cause of my so long imprisonment.
 For, as I said, I stand at your bar as a delinquent, and am brought here by force,
 contrary to the law.
@@ -1029,22 +1098,26 @@ And therefore I am in the condition of not being rightfully brought before you.
 It therefore cannot be supposed, in right reason, that you have power at this time,
 and in this place, to legally tender me the oath.
 
-Judge: Read the oath to him.
+[.discourse-part]
+__Judge:__ Read the oath to him.
 +++[+++And so the clerk began to read.]
 
-J+++.+++ Crook: I desire justice, according to the laws of England.
+[.discourse-part]
+__J+++.+++ Crook:__ I desire justice, according to the laws of England.
 You ought first to convict me concerning the cause of my long imprisonment.
 For you are to proceed according to the laws already made, and not to make laws;
 for you ought to be ministers of the law.
 
-Judge: You are a saucy and impudent fellow.
+[.discourse-part]
+__Judge:__ You are a saucy and impudent fellow.
 Will you teach us the law, or our duties?
 +++[+++Then he said to the clerk:]
 Read on! +++[+++And when the clerk had finished reading, John Crook said:]
 
-J+++.+++ Crook: Read the preface to the act.
-I say again, read the title and preamble to the act; for titles to laws are claves legum,
-as keys to open the law; for by their titles, laws are understood and known,
+[.discourse-part]
+__J+++.+++ Crook:__ Read the preface to the act.
+I say again, read the title and preamble to the act; for titles to laws are __claves legum,__
+as __keys to open the law;__ for by their titles, laws are understood and known,
 as men by their faces.
 +++[+++Then the judges would have interrupted me, but I said as follows:]
 If you will not hear me, nor do me justice,
@@ -1052,10 +1125,15 @@ I must appeal to the Lord God of heaven and earth, who is judge of the living an
 before whom we must all appear to give an account of the deeds done in the body;
 for He will judge between you and me this day, whether you have done me justice or not.
 
+[.offset]
 +++[+++These words following, (or the like,) I spoke as I was being pulled away from the bar.]
 
-J+++.+++ Crook: Mind the fear of the Lord God, that you may do justice,
+[.discourse-part]
+__J+++.+++ Crook:__ Mind the fear of the Lord God, that you may do justice,
 lest you perish in His wrath.
+
+[.small-break]
+'''
 
 +++[+++For sometimes the court cried, "`Pull him away,`" and then said, "`Bring him again!`"
 And thus they did several times, like men in confusion and disorder.
@@ -1063,10 +1141,12 @@ The same day, in the afternoon, silence being achieved, John Crook,
 was called to the bar before the judges and justices aforesaid.
 The indictment being read, the judge said:]
 
-Judge: Mr. Crook, you have heard your indictment, what do you say?
+[.discourse-part]
+__Judge:__ Mr. Crook, you have heard your indictment, what do you say?
 Are you guilty or not guilty?
 
-J+++.+++ Crook: I desire to speak a few words in humility and soberness,
+[.discourse-part]
+__J+++.+++ Crook:__ I desire to speak a few words in humility and soberness,
 as my estate and liberty lie at stake,
 and I am likely to be a precedent for many more of my Friends.
 Therefore I hope the court will not deny me the right and benefit of the law,
@@ -1076,7 +1156,8 @@ that I desire to know my accusers.
 I have been kept these six weeks in prison, and I still know not my accusers,
 nor have I seen their faces.
 
-Judge: We shall afford you the right of the law, as an Englishman.
+[.discourse-part]
+__Judge:__ We shall afford you the right of the law, as an Englishman.
 God forbid you should be denied it.
 But you must answer first, guilty, or not guilty,
 that so in your trial you may have a fair hearing and pleading.
@@ -1089,7 +1170,8 @@ you are out of the king`'s protection, and lose the benefit of the law;
 and all this by your not answering guilty, or not guilty.
 If you plead not guilty, you may be heard.
 
-J+++.+++ Crook: It is recorded in the statutes of the 28 Edw. 3. and 3,
+[.discourse-part]
+__J+++.+++ Crook:__ It is recorded in the statutes of the 28 Edw. 3. and 3,
 and 42 Edw. 3. and 3. in these words.
 "`No man is to be taken, or imprisoned, or made to answer,
 without presentation before justices, or matter of record, or by due process,
@@ -1102,12 +1184,15 @@ These words, ("`the law of the land,`") are explained by the statute of 37 Edw. 
 "`without due process of law;`" and if any judgments are given contrary to Magna Charta,
 they are void, 25 Edw. 1. 2.
 
-Judge: Mr. Crook, you are out of the way, and do not understand the law.
+[.discourse-part]
+__Judge:__ Mr. Crook, you are out of the way, and do not understand the law.
 Though you adore the statute law so much, yet you do not understand it.
 
-J+++.+++ Crook: I desire you to tell me the right way.
+[.discourse-part]
+__J+++.+++ Crook:__ I desire you to tell me the right way.
 
-Judge: Mr. Crook, hear me.
+[.discourse-part]
+__Judge:__ Mr. Crook, hear me.
 You must say, guilty, or not guilty.
 If you plead not guilty, you shall be heard,
 and then you may see how far the law favors you.
@@ -1118,7 +1203,8 @@ and waive other things, and answer guilty, or not guilty.
 What the law affords you, you shall have, if you do what the law requires you;
 or else you will lose the benefit of the law, and be out of the king`'s protection.
 
-J+++.+++ Crook: Observe how the judge seeks to draw me into a snare--by first pleading guilty,
+[.discourse-part]
+__J+++.+++ Crook:__ Observe how the judge seeks to draw me into a snare--by first pleading guilty,
 or not guilty, and when I have done so, they may put me as an outlawed person,
 out of the king`'s protection; and how then can I have remedy for my false imprisonment?
 Therefore first clear me, or condemn me for my false imprisonment,
@@ -1128,9 +1214,11 @@ and then tell me that if I have been wronged, or falsely imprisoned,
 I may have my remedy afterwards.
 This is to ensnare me, and is contrary to both law and justice.
 
-Judge: You must plead guilty, or not guilty.
+[.discourse-part]
+__Judge:__ You must plead guilty, or not guilty.
 
-J+++.+++ Crook: In humility and meekness I must say, I shall not do it.
+[.discourse-part]
+__J+++.+++ Crook:__ In humility and meekness I must say, I shall not do it.
 I dare not betray the honesty of my cause,
 and the honest ones of this nation whose liberty I stand for, as well as my own.
 For truly,
@@ -1140,28 +1228,34 @@ before I am first acquitted of the cause of my being brought prisoner to your ba
 I therefore see no other way than to urge this further:
 that I may see my accusers... +++[+++Interruption].
 
-Judge: The most notorious thief may say he is not satisfied in his conscience.
+[.discourse-part]
+__Judge:__ The most notorious thief may say he is not satisfied in his conscience.
 
-J+++.+++ Crook: My case is not theirs.
+[.discourse-part]
+__J+++.+++ Crook:__ My case is not theirs.
 But even so, they are allowed to see their accusers; and may I not call for mine?
 Therefore, call for them, for you ought to do so, as Christ said to the woman, "`Woman,
 where are your accusers?`"
 So you ought to say to me, "`Man, where are your accusers?`"... +++[+++Interruption].
 
-Judge: Your indictment is your accuser,
+[.discourse-part]
+__Judge:__ Your indictment is your accuser,
 and the grand jury has found you guilty because you would not swear.
 What do you say, Mr. Crook, are you guilty, or not guilty?
 If you will not answer, then what you have said already shall be taken for your answer;
 and as I told you before, you will lose the benefit of the law.
 What I tell you is for your good.
 
-J+++.+++ Crook: What is truly for my good, I hope I shall take it so.
+[.discourse-part]
+__J+++.+++ Crook:__ What is truly for my good, I hope I shall take it so.
 
-Judge: If you will not answer, you run yourself into a premunire;
+[.discourse-part]
+__Judge:__ If you will not answer, you run yourself into a premunire;
 and you will lose the benefit of the law, and the king`'s protection,
 unless you plead guilty, or not guilty.
 
-J+++.+++ Crook: I stand as one brought forcibly and violently here;
+[.discourse-part]
+__J+++.+++ Crook:__ I stand as one brought forcibly and violently here;
 nor would I have been here but by a violent action.
 That you should take no notice of this seems strange to me; and not only so,
 but that you should hasten me so quickly into a course
@@ -1171,16 +1265,21 @@ by reason of your hasty proceedings against me to put me out of the king`'s prot
 and the benefit of all law.
 Was ever the like case known, or heard of, in a court of justice?
 
-Judge: Friend, it is not here in question whether or not you were unjustly brought here.
+[.discourse-part]
+__Judge:__ Friend, it is not here in question whether or not you were unjustly brought here.
 If you were brought by a wrong hand, you have a plea against them;
 but you must first answer guilty, or not guilty.
 
-J+++.+++ Crook: How can I help myself after you have outlawed me by premunire?
+[.discourse-part]
+__J+++.+++ Crook:__ How can I help myself after you have outlawed me by premunire?
 Therefore, let a proclamation be made in the court that I was brought here by force,
 and let me first be cleared by proclamation, as you ought to do;
-for you are discernere per legem, quid sit juslum, +++[+++in English:
-to determine justice by way of law,]
+for you are __discernere per legem, quid sit juslum,__ +++[+++in English:
+__to determine justice by way of law,__]
 and not to do what seems good in your own eyes.
+
+[.small-break]
+'''
 
 +++[+++Here I was interrupted again,
 but might have spoken justice Crook`'s words in Hampden`'s case, who said,
@@ -1192,7 +1291,11 @@ And he further said,
 nor conveniences, but only according to law.`"
 These were his words, which I might have spoken; but was interrupted.]
 
-Judge:
+[.small-break]
+'''
+
+[.discourse-part]
+__Judge:__
 Even though no man tendered you the oath when you were committed
 (as you say,) it is now tendered to you.
 And from the time you refused it (being tendered
@@ -1200,7 +1303,8 @@ to you by a lawful authority) you are indicted.
 We look not upon why you were brought here, but finding you here, we tender you the oath;
 and finding that you refuse it, your imprisonment is now just, and according to law.
 
-J+++.+++ Crook: How did I come to be here?
+[.discourse-part]
+__J+++.+++ Crook:__ How did I come to be here?
 I have told you already it was by force and violence, without a court order,
 which our law altogether condemns.
 And therefore, as I am not legally before you, so I am not before you;
@@ -1209,7 +1313,8 @@ For as I was brought illegally to your bar,
 you ought not to take notice of my being here,
 and much less to create further charges against me.
 
-Judge: No, no, you are mistaken; for so you may say of all the gazers who are here,
+[.discourse-part]
+__Judge:__ No, no, you are mistaken; for so you may say of all the gazers who are here,
 they not being legally here, are not here.
 I tell you, though a man be brought here by force, yet we may tender him the oath;
 and if he does not take it, he may be committed to prison.
@@ -1220,6 +1325,9 @@ you are indicted by the grand jury.
 Answer the accusation, or confute the indictment; you must do the one or the other;
 answer, guilty, or not guilty.
 
+[.small-break]
+'''
+
 +++[+++Here I was interrupted, but I might have said, that the people that were spectators,
 beholding and hearing the trials,
 are not to be called "`gazers,`" as the judge termed them;
@@ -1228,7 +1336,11 @@ and the law of England allows it.
 So that they are not to be termed gazers upon this account,
 but are legally in that place to hear trials, and to see justice done.]
 
-J+++.+++ Crook: The law is built upon right reason, or right reason is the law;
+[.small-break]
+'''
+
+[.discourse-part]
+__J+++.+++ Crook:__ The law is built upon right reason, or right reason is the law;
 and whatever is contrary to right reason, is contrary to law; the reason of the law,
 being the law itself.
 I am no lawyer, and my knowledge of it is but little,
@@ -1239,19 +1351,23 @@ many laws being just and good--not all of them, but, I say,
 a great part of them--and it is not my intention in the
 least to disparage or derogate from them.
 
-Judge: Mr. Crook, you have been told, you must plead guilty or not guilty,
+[.discourse-part]
+__Judge:__ Mr. Crook, you have been told, you must plead guilty or not guilty,
 or else you will run yourself into a premunire.
 Do not be your own enemy, nor be so obstinate.
 
-J+++.+++ Crook: I do not desire to stand obstinately before you, neither am I so.
+[.discourse-part]
+__J+++.+++ Crook:__ I do not desire to stand obstinately before you, neither am I so.
 If you understand it otherwise, it is a mistake indeed.
 
-Judge: Will you speak to the indictment, and then you may plead?
+[.discourse-part]
+__Judge:__ Will you speak to the indictment, and then you may plead?
 If you will not answer guilty, or not guilty, we will record it,
 and judgment shall go against you.
 Clerk, enter it.
 
-Recorder: Mr. Crook, if you will answer, you may plead for yourself.
+[.discourse-part]
+__Recorder:__ Mr. Crook, if you will answer, you may plead for yourself.
 Or will you take the oath?
 The court takes no notice of how you came here.
 What do you say?
@@ -1260,7 +1376,8 @@ For a man may be dragged out of Smithfield by his head and shoulders,
 and the oath tendered to him, and may be committed to prison,
 without taking any notice how he came here.
 
-J+++.+++ Crook: That kind of proceeding is not only unjust,
+[.discourse-part]
+__J+++.+++ Crook:__ That kind of proceeding is not only unjust,
 but unreasonable also--+++[+++here was some interruption]--and
 it is against the laws aforementioned, which say:
 "`No man shall be taken or imprisoned but by warrant, or due process of law,`"
@@ -1273,14 +1390,16 @@ is not only unrighteous in itself, but is against the law,
 and makes one evil act the ground of another; and one injury offered to one,
 becomes the foundation of another; and this is my case this day--+++[+++Interruption.]
 
-Judge: Mr. Crook you must not be your own judge; we are your judges.
+[.discourse-part]
+__Judge:__ Mr. Crook you must not be your own judge; we are your judges.
 But for our parts we will not wrong you.
 Will you answer, guilty or not guilty?
 If not, you will run yourself into a premunire unavoidably,
 and then you know what I told you would follow; for we take no notice how you came here,
 but finding you here, we tender you the oath.
 
-J+++.+++ Crook: Then it seems you make the law a trap to ensnare me, or as a nose-of-wax,^
+[.discourse-part]
+__J+++.+++ Crook:__ Then it seems you make the law a trap to ensnare me, or as a nose-of-wax,^
 footnote:[The term "`nose-of-wax`" was used to refer to a person
 or thing that was easily twisted or swayed in any direction.]
 or whatever you please.
@@ -1288,38 +1407,47 @@ Well, I shall leave my cause with the Lord God, who will plead for me in righteo
 But suppose I do take the oath now, at this time, you may call me again tomorrow,
 and make a new tender; or others may call me before them.
 
-Judge: Yes, if there be new matter;
+[.discourse-part]
+__Judge:__ Yes, if there be new matter;
 or if there be any sudden occurrence whereby you give new occasion on your part.
 Mr. Crook, will you swear?
 
-J+++.+++ Crook: If I do take it today, it may be tendered me again tomorrow, and so next day,
+[.discourse-part]
+__J+++.+++ Crook:__ If I do take it today, it may be tendered me again tomorrow, and so next day,
 ad infinitum,
 whereby a great part of my time may be spent and
 taken up in taking the oath and swearing.
 
-Chief Judge: When you have once sworn, you may not be put upon it again,
+[.discourse-part]
+__Chief Judge:__ When you have once sworn, you may not be put upon it again,
 unless you minister occasion on your part.
 
-J+++.+++ Crook: Is this the judgment of the court,
+[.discourse-part]
+__J+++.+++ Crook:__ Is this the judgment of the court,
 that the oath once taken by me is sufficient, and ought not to be tendered a second time,
 without new offense given on my part?
 
-Judge: Yes; so long as you make it appear that you have once taken it.
+[.discourse-part]
+__Judge:__ Yes; so long as you make it appear that you have once taken it.
 
-J+++.+++ Crook: Is this the judgment of the whole court?
+[.discourse-part]
+__J+++.+++ Crook:__ Is this the judgment of the whole court?
 For I would not do anything rashly.
 
-Judges.
+[.discourse-part]
+__Judges:__
 Yes, it is the judgment of the court, +++[+++to which they all standing up, said "`Yes.`"]
 
-J+++.+++ Crook:
+[.discourse-part]
+__J+++.+++ Crook:__
 Then it seems there must be some new occasion given by me after I have once taken it,
 or it ought not to be tendered to me the second time.
 
-Judges.
-Yes.
+[.discourse-part]
+__Judges:__ Yes.
 
-J+++.+++ Crook: Then by the judgment of this court,
+[.discourse-part]
+__J+++.+++ Crook:__ Then by the judgment of this court,
 if I may make it appear that I have taken the oath once,
 and I have given no new occasion on my part whereby
 I can be justly charged with the breach of it,
@@ -1332,16 +1460,19 @@ If not, you ought not, by your own judgment,
 tender me the oath a second time.--+++[+++Interrupted by the shout of the court,
 when these last words might have been spoken.]
 
-Judge: Mr. Crook, you are mistaken, you must not think to surprise the court,
+[.discourse-part]
+__Judge:__ Mr. Crook, you are mistaken, you must not think to surprise the court,
 nor draw false conclusions from our judgments.
 
-J+++.+++ Crook: If this is not a natural conclusion from the judgment of the court,
+[.discourse-part]
+__J+++.+++ Crook:__ If this is not a natural conclusion from the judgment of the court,
 let right reason judge.
 And if you retreat from your own judgments, what justice can I expect from you?
 For, if you will not be just to yourselves, and to your own judgments,
 how can I expect you should be just to me?
 
-Judge: Mr. Crook, even if you have taken the oath, yet if there be a new emergency,
+[.discourse-part]
+__Judge:__ Mr. Crook, even if you have taken the oath, yet if there be a new emergency,
 you are to take it again.
 As for instance, the king has been out of England, and has now come in again.
 There are many that have taken it twenty, thirty, or forty years ago,
@@ -1356,76 +1487,91 @@ or take the oath, and then you shall be freed from the indictment.
 What do you say?
 Are you guilty, or not guilty?
 
-J+++.+++ Crook: Will you not stand to your own judgments?
+[.discourse-part]
+__J+++.+++ Crook:__ Will you not stand to your own judgments?
 Did you not say, even now, that if I had once taken the oath,
 it ought not to be tendered to me the second time,
 unless I administered new occasion on my part that I have not kept it?
 But no such occasion appearing, you ought not to tender it to me the second time,
 by your own confession, much less to indict me for refusal.
 
-Judge: If you will not plead, we will record it, and judgment shall be given against you.
+[.discourse-part]
+__Judge:__ If you will not plead, we will record it, and judgment shall be given against you.
 Therefore say, guilty, or not guilty, or else we will record it.
 +++[+++The clerk beginning to record it.]
 
-J+++.+++ Crook: Before I answer, I request a copy of my indictment;
+[.discourse-part]
+__J+++.+++ Crook:__ Before I answer, I request a copy of my indictment;
 for I have heard it affirmed by counsel learned in the law,
 that if I plead before I have a copy, or have made my exceptions,
 my exceptions afterwards against the indictment will be made void.
 Therefore I desire a copy of the indictment.
 
-Judge: He that said so deserves not the name of a counsel; for the law says,
+[.discourse-part]
+__Judge:__ He that said so deserves not the name of a counsel; for the law says,
 you must first answer, and then you shall have a copy.
 Will you plead guilty or not guilty?
 
-J+++.+++ Crook: If my pleading guilty, or not guilty,
+[.discourse-part]
+__J+++.+++ Crook:__ If my pleading guilty, or not guilty,
 will not deprive me of the benefit of quashing the indictment for insufficiency,
 or other exceptions that I may make against it, I shall speak to it.
 
-Judge: No, it will not.
+[.discourse-part]
+__Judge:__ No, it will not.
 Will you answer, guilty, or not guilty?
 If you do not plead, the indictment will be found against you.
 Will you answer?
 We will stay no longer.
 
-J+++.+++ Crook: I am upon the point.
+[.discourse-part]
+__J+++.+++ Crook:__ I am upon the point.
 Will not my pleading deprive me of the benefit of the law?
 For I am tender in that respect, because it is not my own case only,
 but may be the case of thousands more;
 therefore I would do nothing that might prejudice others, or myself, as a Christian,
 or as an Englishman.
 
-Judge: You shall have the right done to you as an Englishman.
+[.discourse-part]
+__Judge:__ You shall have the right done to you as an Englishman.
 The way is to answer, guilty or not guilty.
 If you plead, and afterwards find the indictment not good, you may have your remedy.
 Answer, guilty or not guilty.
 
-J+++.+++ Crook: As to the indictment it is very large, and seems to be confused,
+[.discourse-part]
+__J+++.+++ Crook:__ As to the indictment it is very large, and seems to be confused,
 and made up of some things which are true, and some things which are false.
 My answer therefore is, what is true in the indictment I will not deny,
 because I make what I say a matter of conscience.
 Therefore, with regard to what is true, I confess myself guilty,
 but I am not guilty of what is false.
 
-Judge: That is not sufficient, either answer guilty, or not guilty,
+[.discourse-part]
+__Judge:__ That is not sufficient, either answer guilty, or not guilty,
 or judgment will be given against you.
 
-J+++.+++ Crook: I will speak the truth, as before the Lord,
+[.discourse-part]
+__J+++.+++ Crook:__ I will speak the truth, as before the Lord,
 as all along I have endeavored to do.
 I am not guilty of that which is false, contained in the indictment,
 which is the substance thereof.
 
-Judge: No more ado.
+[.discourse-part]
+__Judge:__ No more ado.
 Are you guilty or not?
 
-J+++.+++ Crook: I must not wrong my conscience.
+[.discourse-part]
+__J+++.+++ Crook:__ I must not wrong my conscience.
 I am not guilty of what is false, as I said before.
 What is true, I am guilty of; what is not true,
 I am not guilty of that--which is the greater part thereof, as I said before.
 
-Recorder: It is enough, and shall serve turn.
+[.discourse-part]
+__Recorder:__ It is enough, and shall serve turn.
 Enter that, clerk.
 
-The seventh day of the week, called Saturday.
+[.offset]
+__The seventh day of the week, called Saturday.__
 
 Silence being made, John Crook was called to the bar.
 The clerk of the sessions read something concerning the new jury,
@@ -1437,7 +1583,8 @@ some of whom had by violence and force pulled and hauled Friends out of their me
 and some of us out of our houses; and this was the jury by whom we were to be tried.
 The clerk then read the indictment +++[+++as I remember].
 
-J+++.+++ Crook: I desire to be heard a few words, which are these:
+[.discourse-part]
+__J+++.+++ Crook:__ I desire to be heard a few words, which are these:
 I request that we may have liberty till the next quarter sessions to traverse the indictment,
 it being long and in Latin, and likely to be a precedent for many others.
 I hope I need not press this issue; because I understood that you promised,
@@ -1450,10 +1597,12 @@ and today being so suddenly hurried down to the court sessions,
 we cannot reasonably be supposed to be prepared (as
 to matter of law) to make our defense.
 
-Judge: We have given you time enough, and you shall have no more.
+[.discourse-part]
+__Judge:__ We have given you time enough, and you shall have no more.
 We will try you at this time, therefore swear in the jury.
 
-J+++.+++ Crook: I desire we may have justice, and that we may not be ensnared in our trial,
+[.discourse-part]
+__J+++.+++ Crook:__ I desire we may have justice, and that we may not be ensnared in our trial,
 but that we may have time till the next quarter sessions, our indictment being in Latin,
 and so large as it is.
 This is only reasonable, and is the practice of other courts.
@@ -1467,11 +1616,13 @@ This liberty we also desire, and we hope, as it is so reasonable,
 that it will not be denied, especially upon this occasion,
 as we are likely to be made a precedent for others.
 
-Judge: There is no great matter of law in the case; it is only matter of fact,
+[.discourse-part]
+__Judge:__ There is no great matter of law in the case; it is only matter of fact,
 whether you have refused to take the oath or not.
 This is the point in issue; and what precedent can arise here?
 
-Recorder: Mr. Crook, there is no need for law or counsel in this case;
+[.discourse-part]
+__Recorder:__ Mr. Crook, there is no need for law or counsel in this case;
 and therefore we considered of it last night, and sent you word.
 The keeper of the prison was spoken to, to tell you that we intended to try you this day,
 and we therefore ordered that counsel might come to you if you so desired;
@@ -1481,7 +1632,11 @@ for the matter is only whether you refuse the oath or not?
 Therefore it is in vain to say anything, for the court is resolved to try you now;
 therefore swear in the jury, cryer.
 
-J+++.+++ Crook: I hope you will not try to surprise us.
+[.discourse-part]
+__J+++.+++ Crook:__ I hope you will not try to surprise us.
+
+[.small-break]
+'''
 
 +++[+++Then the other prisoners (who also were indicted) cried out, "`Let us have justice,
 and let not the jury be sworn in till we have first been heard.`"
@@ -1511,16 +1666,19 @@ to express the presence and love of God to himself,
 and to exhort others to mind His fear, that they also might become acquainted with God,
 etc.]
 
-Judge: Stop his mouth, executioner! +++[+++Which was accordingly done.]
+[.discourse-part]
+__Judge:__ Stop his mouth, executioner! +++[+++Which was accordingly done.]
 
-Prisoners: Will you not give us leave to speak for ourselves?
+[.discourse-part]
+__Prisoners:__ Will you not give us leave to speak for ourselves?
 We except against some of the jury, as being our enemies.
 Indeed some are the very men who by force commanded us to be pulled out of our meetings,
 contrary to law, and carried us to prison without warrant or due process of law.
 Shall these now be our judges?
 We except against them.
 
-Judge: It is too late now,
+[.discourse-part]
+__Judge:__ It is too late now,
 you should have done it before they had been sworn in as jurymen.
 Jury, go together now.
 That which you must determine is whether they have refused to take the oath or not,
@@ -1528,6 +1686,9 @@ which has been sworn before you that they did refuse.
 You need not go from the bar.
 +++[+++Similar words were spoken by the recorder and others,
 there being a confusion and noise in the court, many speaking at the same time.]
+
+[.small-break]
+'''
 
 +++[+++Then we cried for justice, and that we might be heard,
 desiring to make our defense before the jury gave their verdict.
@@ -1537,31 +1698,41 @@ The executioner also endeavored to have me gagged, striving to get hold of my to
 having a gag ready in his hand for that purpose; and so we were treated several times.
 Then I called out with a loud voice:]
 
-J+++.+++ Crook: Will you condemn us without a hearing?
+[.small-break]
+'''
+
+[.discourse-part]
+__J+++.+++ Crook:__ Will you condemn us without a hearing?
 This is to deal worse with us than Pilate did with Christ.
 For though he condemned Christ without a cause,
 yet it was not without hearing Him speak for Himself.
 But you deny us both.
 
-Judge: Let Mr. Gray come to the bar.
+[.discourse-part]
+__Judge:__ Let Mr. Gray come to the bar.
 
+[.offset]
 +++[+++Room being made, Isaac Gray was conveyed by an officer in the inner bar,
 where he spoke to the court to this purpose:]
 
-Isaac Gray: I desire to know whether, according to law, and the practice of this court,
+[.discourse-part]
+__Isaac Gray:__ I desire to know whether, according to law, and the practice of this court,
 myself and my fellow prisoners may have liberty to put in bail,
 in order to prosecute our defense at the next sessions?
 
-Court: No, we will try you presently.
+[.discourse-part]
+__Court:__ No, we will try you presently.
 
-Judge: Stop their mouths, executioner! +++[+++And this was the cry of many upon the bench,
+[.discourse-part]
+__Judge:__ Stop their mouths, executioner! +++[+++And this was the cry of many upon the bench,
 they being still in a continued confusion; some crying to the jury,
 "`Give in your verdict,
 for we will not hear them;`" with other words which
 could not be heard because of the noise,
 the court being in confusion.]
 
-J+++.+++ Crook: You might as well have caused us to have been murdered before we came here,
+[.discourse-part]
+__J+++.+++ Crook:__ You might as well have caused us to have been murdered before we came here,
 as to bring us here under a pretense to try us,
 and then not give us freedom to make our defense,
 but instead command us to be thus abused, and to have our mouths stopped.
@@ -1570,7 +1741,8 @@ Let the righteous God judge between us!
 Will you hear me?
 You have often promised that you would.
 
-Judge: Hear me, and we will hear you.
+[.discourse-part]
+__Judge:__ Hear me, and we will hear you.
 +++[+++He then began to speak, and some others of the bench interrupted him.
 Sometimes two or three spoke at one time,
 and there was a noise among the officers of the court.
@@ -1578,28 +1750,33 @@ But the judge said:]
 We can give you liberty until the next sessions, but it is our choice;
 and therefore we choose to try you now.
 
-J+++.+++ Crook: +++[+++I bid the people:]
+[.discourse-part]
+__J+++.+++ Crook:__ +++[+++I bid the people:]
 Take notice of their promise, that I should have liberty to speak.
 +++[+++Then speaking to the judges:]
 See now, be as good as your word.
 
-Judge: The law of England is not only just, but merciful;
+[.discourse-part]
+__Judge:__ The law of England is not only just, but merciful;
 and therefore you shall not be surprised or ensnared,
 but shall have what justice the law allows.
 
-J+++.+++ Crook: The judge has said just now that the law of England was a merciful law;
+[.discourse-part]
+__J+++.+++ Crook:__ The judge has said just now that the law of England was a merciful law;
 and the court said that they might, if they were willing,
 give us liberty till the next sessions, but they would not.
-The maxim of the law is, Summum jus est summa injuria, +++[+++in English:
-The extreme of the law is extreme injustice]. Therefore
+The maxim of the law is, __Summum jus est summa injuria,__ +++[+++in English:
+__The extreme of the law is extreme injustice__]. Therefore
 I hope your practice will make good this maxim,
-and show the law of England to be a merciful law; and not to execute summum jus,
+and show the law of England to be a merciful law; and not to execute __summum jus,__
 +++[+++the extreme of the law]
 upon me, and thereby condemn yourselves out of your own mouths.
 
-Judge: Jury, give in your verdict.
+[.discourse-part]
+__Judge:__ Jury, give in your verdict.
 
-J+++.+++ Crook: Let me have liberty first to speak; it is but a few words,
+[.discourse-part]
+__J+++.+++ Crook:__ Let me have liberty first to speak; it is but a few words,
 and I hope I shall do it with what brevity and pertinency my understanding will allow,
 and the occasion requires.
 It is concerning these two heads: Matter of law, and matter of conscience.
@@ -1620,14 +1797,18 @@ and it is for this reason that we dare not break Christ`'s commands, who said.
 The court then called again to the executioner to stop my mouth,
 which he did accordingly with his dirty cloth, as aforesaid, and his gag in his hand.]
 
-Judge: Let us hear the jury.
+[.discourse-part]
+__Judge:__ Let us hear the jury.
 
+[.offset]
 +++[+++The jury then said something to him, which was supposed to be the verdict.]
 
-Judge: Cryer, make silence in the court.
+[.discourse-part]
+__Judge:__ Cryer, make silence in the court.
 +++[+++Then the recorder, taking a paper into his hand, read:]
 
-Recorder: The jury for the king do find that John Crook, John Bolton,
+[.discourse-part]
+__Recorder:__ The jury for the king do find that John Crook, John Bolton,
 and Isaac Gray are guilty of refusing to take the oath of allegiance;
 for which you do incur a sentence of premunire,
 which is the forfeiture of all your real estates during your life,
@@ -1635,7 +1816,8 @@ and your personal estates forever; and you are now put out of the king`'s protec
 and shall be imprisoned during his pleasure.
 This is your sentence.
 
-J+++.+++ Crook: But we are still under God`'s protection.
+[.discourse-part]
+__J+++.+++ Crook:__ But we are still under God`'s protection.
 
 [.asterism]
 '''
