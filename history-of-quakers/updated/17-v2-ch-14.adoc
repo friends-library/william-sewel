@@ -94,6 +94,9 @@ but they made a wrong reckoning.
 Francis Howgill then gave forth a kind of lamentation which, though written in prose,
 was not void of poetical expressions, and was as follows:
 
+[.embedded-content-document.paper]
+--
+
 Shall days, or months, or years, wear out your name, as though you had no being?
 Oh no!
 Shall not your noble and valiant acts,
@@ -219,6 +222,8 @@ and will raise up children unto Abraham, of those who have been as dead stones.
 Indeed, His power is Almighty,
 and He is great in His people in the midst of their enemies.
 
+--
+
 With these sublime expressions Francis Howgill lamented
 his endeared friend Edward Borrough.
 
@@ -279,6 +284,9 @@ and from there to Cambridgeshire, where he heard of Edward Burrough`'s decease.
 And being sensible how great a grief this loss would be to his friends,
 he wrote the following lines to them:
 
+[.embedded-content-document.epistle]
+--
+
 Friends, be still and quiet in your own conditions,
 and settled in the Seed of God which does not change;
 that in that you may feel dear E. B. among you, in the Seed, in which, and by which,
@@ -287,7 +295,10 @@ Thus, in the Seed you may all see and feel him,
 in which is the unity with him in the life;
 and so enjoy him in the life that does not change, which is invisible.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 G+++.+++ Fox afterwards traveling through several places, came again to London,
 where having visited his friends in their meetings (which were numerous),
@@ -781,7 +792,7 @@ and whether or not it was made for Papists.
 And having a suspicion that some of that persuasion were sitting on the bench,
 he asked also whether they who were present, for the satisfaction of the people,
 ought not also to take the oath.
-But the judge waived this, telling him that he must take the oath,
+But the judge waived this, telling him that _he_ must take the oath,
 or else sentence would be pronounced against him.
 Smith then asked, whether the example of Christ should decide the question;
 but the judge said,
@@ -1741,10 +1752,15 @@ and other towns they past along the way,
 they fastened to the market cross the following inscription,
 which also had been put on his coffin.
 
+[.embedded-content-document.address]
+--
+
 This is Oliver Atherton from the parish of Ormskirk,
 who by the countess of Derby has been persecuted to death
 for keeping a good conscience towards God and Christ,
 in not paying tithes to her.
+
+--
 
 Now, though three others who with Oliver were imprisoned for the same cause,
 gave notice of this to the countess,

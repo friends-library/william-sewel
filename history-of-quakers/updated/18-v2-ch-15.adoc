@@ -81,7 +81,7 @@ he saw an extraordinary great light, and looking up,
 he beheld an angel of the Lord with a glittering sword stretched southward,
 which shone so bright, as if the court had been all on fire.
 For proof of this I have what G. Fox says of it in his journal,
-and also another small book he gave out with the title of A Warning to England.
+and also another small book he gave out with the title of [.book-title]#A Warning to England#.
 Not long after this, a war broke out between England and Holland;
 afterwards the pestilence appeared at London^
 footnote:[The Great Plague of London, lasting from 1665 to 1666,
@@ -388,11 +388,13 @@ He then said, "`I will not trouble you now to answer to your indictment,
 but I must do that the next court session.
 In the meantime you must enter into bond for your good behavior.`"
 
+[.offset]
 To this Francis Howgill answered,
 "`I desire liberty to speak,`" which was granted without interruption,
 and he said as follows:
 
-F+++.+++ Howgill: Judge Twisden, you very well know upon how slender an account, or none,
+[.discourse-part]
+__F+++.+++ Howgill:__ Judge Twisden, you very well know upon how slender an account, or none,
 I was brought before you the last court session,
 where you were pleased to tender me the oath of allegiance,
 though I believe both you and the rest of the court did know it
@@ -406,20 +408,25 @@ the Lord has redeemed me and many more out of such things,
 and seeing I am engaged to appear at the next court session,
 I desire no further thing may be required of me.
 
-Judge: You must enter into bond during this dangerous time; therefore consider it,
+[.discourse-part]
+__Judge:__ You must enter into bond during this dangerous time; therefore consider it,
 and tell me either now, or before the court session ends.
 
+[.offset]
 The second day of the court session he was called again.
 
-F+++.+++ Howgill: Seeing you are pleased to let me answer to the indictment,
+[.discourse-part]
+__F+++.+++ Howgill:__ Seeing you are pleased to let me answer to the indictment,
 which I am willing to do, I have been of good behavior, and shall so continue;
 but it seems a hard thing to me, and full of severity,
 that seeing I am obliged to appear to answer an indictment of so serious a nature,
 which aims at the loss of my liberty for life, and my property forever,
 I hope the court will not also deprive me of my liberty for the next five months.
 
-Judge Turner: We do not desire your imprisonment, if you will be of good behavior.
+[.discourse-part]
+__Judge Turner:__ We do not desire your imprisonment, if you will be of good behavior.
 
+[.offset]
 F+++.+++ Howgill then pressed that they would not force him to give bond to be of good behavior,
 knowing himself to be bound by the truth, so that he could not misbehave.
 
@@ -428,28 +435,35 @@ another persecuting justice who had framed another
 indictment against him for attending a meeting,
 stood up (fearing that the snare of giving bond would not hold) and said as follows:
 
-D+++.+++ Flemming: My lord, he is a great speaker,
+[.discourse-part]
+__D+++.+++ Flemming:__ My lord, he is a great speaker,
 and it may be the Quakers cannot go on without him.
 
-Judge: Let him be what he will, if he will enter into bond.
+[.discourse-part]
+__Judge:__ Let him be what he will, if he will enter into bond.
 
+[.offset]
 F+++.+++ Howgill then said he had nothing to accuse himself of,
 for his conscience bore him witness that he loved peace, and sought it with all men.
 
-Judges: Why do you speak of conscience?
+[.discourse-part]
+__Judges:__ Why do you speak of conscience?
 We don`'t meddle with it; but you disregard the laws, and keep up great meetings,
 and do not go to church.
 
-F+++.+++ Howgill: We have fallen in a sad age,
+[.discourse-part]
+__F+++.+++ Howgill:__ We have fallen in a sad age,
 if meeting together peaceably without arms or force, or any intention to hurt any man,
 but only to worship God in Spirit, and exhort one another to righteousness,
 and pray together in the Holy Spirit as the primitive Christians did of
 old--that this should be reckoned a breach of peace and misbehavior.
 
-Judge Twisden: Do you compare these times with them?
+[.discourse-part]
+__Judge Twisden:__ Do you compare these times with them?
 They were heathens that persecuted, but we are Christian magistrates.
 
-F+++.+++ Howgill: It is a doctrine always held by us,
+[.discourse-part]
+__F+++.+++ Howgill:__ It is a doctrine always held by us,
 and a received principle which we believe,
 that Christ`'s kingdom cannot be set up with carnal weapons;
 nor can the gospel be propagated by force of arms,
@@ -457,11 +471,13 @@ nor the church of God built with violence;
 but because the Prince of Peace has been manifested among us, we can learn war no more,
 but love our enemies, and forgive those that do evil to us.
 
+[.offset]
 Philip Musgrave then stood up and said, "`My Lord,
 we have been remiss towards this people, and have striven with them,
 and put them in prison again and again, and fined them,
 and as soon as they are out they meet again.`"
 
+[.offset]
 Then stood up John Lowther, called a justice, and said, "`My Lord, they grow insolent,
 notwithstanding all laws, and the execution of them, yet they grow upon us,
 and their meetings are dangerous.`"
@@ -474,17 +490,21 @@ and one of them died at Lancaster, and they carried his corpse through the count
 and set that paper upon his coffin, "`This is the body of such a one,
 who was persecuted by Daniel Flemming unto death.`"
 
-Judge: We have spent much time with you; I will discourse no more.
+[.discourse-part]
+__Judge:__ We have spent much time with you; I will discourse no more.
 
-F+++.+++ Howgill: I acknowledge your moderation towards me, allowing me liberty to speak.
+[.discourse-part]
+__F+++.+++ Howgill:__ I acknowledge your moderation towards me, allowing me liberty to speak.
 I shall not trouble you much longer.
 I shall be willing to appear and answer the indictment at the next court session,
 and in the meantime to live peaceably and quietly, as I have done,
 if that will satisfy the court.
 
-Judge: You must enter into bond that you will attend no more meetings.
+[.discourse-part]
+__Judge:__ You must enter into bond that you will attend no more meetings.
 
-F+++.+++ Howgill: I cannot do that; if I did,
+[.discourse-part]
+__F+++.+++ Howgill:__ I cannot do that; if I did,
 I would be treacherous to God and to my own conscience,
 and the people and you would but judge me a hypocrite.
 
@@ -571,6 +591,10 @@ greater blessing in a husband so kind and affectionate.
 And how heartily and tenderly she loved him,
 may be seen by the following letter she wrote to him.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Husband,
 
 You are dearer to me than ever; my love flows out to you,
@@ -615,7 +639,10 @@ and let your prayers be for me, that I may be kept pure, out of all temptations,
 to dwell entirely in the life.
 So farewell.
 
+[.signed-section-signature]
 Anne Audland.
+
+--
 
 By this letter it appears that there was an endeared
 mutual love between this virtuous couple.
@@ -744,11 +771,13 @@ judge Turner said to him,
 "`Here is an indictment against you for refusing to take the oath of allegiance;
 so you must plead to it, either guilty or not guilty.`"
 
+[.offset]
 F+++.+++ Howgill, with a heart girded up with strength and courage, said: "`Judge Turner,
 may I have liberty to speak, and make my defense,
 for I have none to plead my cause but the Lord?`"
 
-Judge: You may.
+[.discourse-part]
+__Judge:__ You may.
 
 F+++.+++ Howgill: I will lay the true state of my case before you,
 and of the proceedings against me from the first, seeing judge Twisden is not here,
@@ -786,7 +815,8 @@ and also shall in those words testify the same in open court, if required;
 and seeing it is the very substance the law does require I desire it may be accepted,
 and I cleared from my imprisonment.
 
-Judge: I have come to execute the law, and the law requires an oath,
+[.discourse-part]
+__Judge:__ I have come to execute the law, and the law requires an oath,
 and I cannot alter it.
 Do you think the law must be changed for you, or for only a few?
 If this be permitted, the administration of justice is hindered, no action can be tried,
@@ -795,17 +825,20 @@ Your principles are altogether inconsistent with the law and government;
 I pray you show me which way we shall proceed, show me some reason,
 and give me some ground.
 
-F+++.+++ Howgill: I shall:
+[.discourse-part]
+__F+++.+++ Howgill:__ I shall:
 "`In the mouth of two or three witnesses every truth
 is confirmed;`" and we never denied to give,
 and are still ready to give evidence for the king wherein it concerns us,
 and in any other matter for the ending of strife between man and man in truth and righteousness,
 and this answers the substance of the law.
 
-Judge: Do you think this is a good answer?
+[.discourse-part]
+__Judge:__ Do you think this is a good answer?
 The law requires an oath.
 
-F+++.+++ Howgill:
+[.discourse-part]
+__F+++.+++ Howgill:__
 Still evidence is and may be given in truth according to the substance of the law,
 so that no detriment comes unto any party,
 seeing that true testimony may be borne without an oath.
@@ -818,30 +851,36 @@ in tenderness of conscience, for fear of breaking the command of Christ,
 the Savior of the world; which if we do,
 there is none of you who are able to plead our cause with Him.
 
-Judge: But why do not you go to church, but meet in houses and private conventicles,
+[.discourse-part]
+__Judge:__ But why do not you go to church, but meet in houses and private conventicles,
 which the law forbids?
 
-F+++.+++ Howgill: We meet together only for the worship of the true God in Spirit and Truth,
+[.discourse-part]
+__F+++.+++ Howgill:__ We meet together only for the worship of the true God in Spirit and Truth,
 having the primitive Christians for our example,
 and to no other end but that we may be edified, and God glorified;
 and when two or three are met together in the name of Christ,
 and He in the midst of them, there is a church.
 
-Judge: That is true.
+[.discourse-part]
+__Judge:__ That is true.
 But how long has it been since you have been to church?
 Or will you go to the church that the law does allow?
 Give me some reasons why you do not go.
 
-F+++.+++ Howgill: I have many to give you, if you have patience to hear me.
+[.discourse-part]
+__F+++.+++ Howgill:__ I have many to give you, if you have patience to hear me.
 First, God dwells not in temples made with men`'s hands.
 Secondly, the parish house has been a temple for idols, that is,
 for their ceremonies and images; and I dare have no fellowship with idols,
 nor worship in idols`' temples; for what have we to do with idols,
 their temples and worship?
 
-Judge: Were there not houses in Scripture called the houses of God, and temples?
+[.discourse-part]
+__Judge:__ Were there not houses in Scripture called the houses of God, and temples?
 
-F+++.+++ Howgill: Yes, under the law; but the Christians, who believed in Christ,
+[.discourse-part]
+__F+++.+++ Howgill:__ Yes, under the law; but the Christians, who believed in Christ,
 separated from these,
 (and the temple was made and left desolate,) and from the Gentiles`' temples too,
 and met together in houses, and broke bread from house to house.
@@ -849,25 +888,34 @@ And the church was not confined then to one particular place, neither is it now;
 many more things I have to say.
 +++[+++The judge interrupted.]
 
-Judge: Will you answer to your indictment?
+[.discourse-part]
+__Judge:__ Will you answer to your indictment?
 
-F+++.+++ Howgill: I know not what it is, I never heard it, though I have often desired a copy.
+[.discourse-part]
+__F+++.+++ Howgill:__ I know not what it is, I never heard it, though I have often desired a copy.
 
-Judge: Clerk, read it.
+[.discourse-part]
+__Judge:__ Clerk, read it.
 
+[.offset]
 So the clerk read it, stating that F. Howgill "`had willfully, obstinately,
 and contemptuously denied to swear when the oath was tendered.`"
 
-F+++.+++ Howgill: I deny it.
+[.discourse-part]
+__F+++.+++ Howgill:__ I deny it.
 
-Judge: What do you deny?
+[.discourse-part]
+__Judge:__ What do you deny?
 
-F+++.+++ Howgill: The indictment.
+[.discourse-part]
+__F+++.+++ Howgill:__ The indictment.
 
-Judge: Did you not deny to swear?
+[.discourse-part]
+__Judge:__ Did you not deny to swear?
 And the indictment convicts you that you did not swear.
 
-F+++.+++ Howgill: I gave unto the court the substance of the oath, as you all know.
+[.discourse-part]
+__F+++.+++ Howgill:__ I gave unto the court the substance of the oath, as you all know.
 Secondly, I told you I did not deny it out of obstinacy or willfulness,
 neither in contempt of the king`'s law or government;
 for my will would rather choose my liberty, than bonds.
@@ -880,9 +928,13 @@ Do you judge I would lose my liberty willfully, and suffer the spoiling of my es
 and the ruining of my wife and children for obstinacy and willfulness?
 Surely no.
 
-Judge: Jury, you see he denies the oath, and he will not plead to the indictment,
+[.discourse-part]
+__Judge:__ Jury, you see he denies the oath, and he will not plead to the indictment,
 but only excepts against it because of the form of words; but you see he will not swear,
 and yet he says he denies the indictment, and you see upon what ground.
+
+[.small-break]
+'''
 
 Then they called the jailer to witness and swear that at
 the last court session F. Howgill did refuse the oath,
@@ -895,7 +947,8 @@ Francis was brought to the bar to receive his sentence.
 The judge stood up and said, "`Come now, the indictment is proved against you,
 what do you have to say as to why sentence should not be given?`"
 
-F+++.+++ Howgill: I have many things to say, if you will hear them.
+[.discourse-part]
+__F+++.+++ Howgill:__ I have many things to say, if you will hear them.
 First, as I have said, I denied not out of obstinacy or willfulness,
 but was willing to testify the truth in this matter of obedience,
 or any other matter wherein I was concerned.
@@ -911,31 +964,40 @@ cited very many ancient fathers to show that for the first
 three hundred years Christians did not swear,
 so that this is no new doctrine.
 
+[.offset]
 To this the court seemed to give a little ear, and said nothing,
 but talked one to another as Francis stood silent.
 Then the judge said,
 
-Judge: Surely you mistake.
+[.discourse-part]
+__Judge:__ Surely you mistake.
 
-F+++.+++ Howgill: I have not the books here.
+[.discourse-part]
+__F+++.+++ Howgill:__ I have not the books here.
 
-Judge: Will you say upon your honest word that they denied all swearing?
+[.discourse-part]
+__Judge:__ Will you say upon your honest word that they denied all swearing?
 
-F+++.+++ Howgill: What I have said is true.
+[.discourse-part]
+__F+++.+++ Howgill:__ What I have said is true.
 
-Judge: Why do you not come to church, and hear service, and be subject to the law,
+[.discourse-part]
+__Judge:__ Why do you not come to church, and hear service, and be subject to the law,
 and to every ordinance of man for the Lord`'s sake?
 
-F+++.+++ Howgill: We are subject, and for that cause we pay taxes, tribute, and custom,
+[.discourse-part]
+__F+++.+++ Howgill:__ We are subject, and for that cause we pay taxes, tribute, and custom,
 and give unto Caesar the things that are his, and unto God the things that are His,
 namely, worship, honor, and obedience; and if you mean the parish assembly,
 I tell you faithfully, I am persuaded, and upon good ground,
 that their teachers are not the ministers of Christ,
 neither is their worship the worship of God.
 
-Judge: Why, it may be for some small things in the service, you reject it all.
+[.discourse-part]
+__Judge:__ Why, it may be for some small things in the service, you reject it all.
 
-F+++.+++ Howgill: First, it is manifest they are time-servers,^
+[.discourse-part]
+__F+++.+++ Howgill:__ First, it is manifest they are time-servers,^
 footnote:[A time-server is one who adapts his opinions and manners to the times,
 or to the changing ruling powers.]
 for a time they preach up as divine service what another time they cry down as popish,
@@ -944,9 +1006,11 @@ And that which they have preached twenty years together,
 they make shipwreck of all in a day; and then later will again call it divine,
 and compel all to believe what they themselves once made void.
 
-Judge: What, since the king came in?
+[.discourse-part]
+__Judge:__ What, since the king came in?
 
-F+++.+++ Howgill: Yes, the same men that preached against it once,
+[.discourse-part]
+__F+++.+++ Howgill:__ Yes, the same men that preached against it once,
 now commend it and compel all to believe.
 They are so unstable and wavering,
 that we cannot believe them to be the ministers of Christ.
@@ -962,32 +1026,43 @@ imprisonment and banishment is threatened.
 I could mention more particulars.
 +++[+++Then the judge interrupted.]
 
-Judge: Well, I see you will not swear, nor conform, nor be subject,
+[.discourse-part]
+__Judge:__ Well, I see you will not swear, nor conform, nor be subject,
 and you think we deal severely with you, but if you would be subject,
 there would be no need.
 
-F+++.+++ Howgill: I do so judge indeed,
+[.discourse-part]
+__F+++.+++ Howgill:__ I do so judge indeed,
 that you deal severely with us for obedience to the commands of Christ.
 Can you show me how any of those people for whom the act
 was made have been proceeded against by this statute?
 Though I envy no man`'s liberty.
 
-Judge: Oh yes, I can instance you many up and down the country that are premunired.
+[.discourse-part]
+__Judge:__ Oh yes, I can instance you many up and down the country that are premunired.
 I have done it myself, pronounced sentence against several.
 
-F+++.+++ Howgill: What, against papists?
+[.discourse-part]
+__F+++.+++ Howgill:__ What, against papists?
 
-Judge: No.
+[.discourse-part]
+__Judge:__ No.
 
-F+++.+++ Howgill: What, against the Quakers?
+[.discourse-part]
+__F+++.+++ Howgill:__ What, against the Quakers?
 So I have heard indeed.
 Therefore, though the statute was made against papists, you let them alone,
 and execute it against the Quakers.
 
-Judge: Well, you will meet in great numbers, and do increase,
+[.discourse-part]
+__Judge:__ Well, you will meet in great numbers, and do increase,
 but there is a new statute will make you fewer.
 
-F+++.+++ Howgill: Well, if we must suffer, it is for Christ`'s sake, and for well doing.
+[.discourse-part]
+__F+++.+++ Howgill:__ Well, if we must suffer, it is for Christ`'s sake, and for well doing.
+
+[.small-break]
+'''
 
 Francis then being silent, the judge pronounced the sentence, but spoke so low,
 that the prisoner, though near to him, could scarce hear it.
@@ -995,19 +1070,26 @@ The sentence was: "`You are put out of the king`'s protection,
 and the benefit of the law; your lands are confiscated to the king during your life,
 and your goods and belongings forever; and you are to be prisoner during your life.`"
 
-F+++.+++ Howgill: A hard sentence for my obedience to the commands of Christ;
+[.discourse-part]
+__F+++.+++ Howgill:__ A hard sentence for my obedience to the commands of Christ;
 the Lord forgive you all.
 
+[.offset]
 So he turned from the bar.
 But the judge speaking, he turned again,
 and many more words passed to the same purpose as before.
 At last, the judge rose up and said,
 
-Judge: Well, if you will yet be subject to the laws, the king will show you mercy.
+[.discourse-part]
+__Judge:__ Well, if you will yet be subject to the laws, the king will show you mercy.
 
-F+++.+++ Howgill: The Lord has showed mercy unto me, and I have done nothing against the king,
+[.discourse-part]
+__F+++.+++ Howgill:__ The Lord has showed mercy unto me, and I have done nothing against the king,
 nor government, nor any man, and blessed be the Lord, therein stands my peace;
 for it is for Christ`'s sake I suffer, and not for evil doing.
+
+[.small-break]
+'''
 
 And so the court broke up.
 The people were generally moderate, and many were sorry to see what was done against him.
@@ -1025,11 +1107,15 @@ but also some books to refute the opposers of it.
 
 We have just seen how the judge said,
 "`there is a new statute which will make you fewer.`"
-This statute bore the title of An Act to Prevent and Suppress Seditious Conventicles.
+This statute bore the title of __An Act to Prevent and Suppress Seditious Conventicles.__
 And though an act made two years previously did extend to banishment,
 yet that punishment was renewed and expressed more at length in this new act,
 an excerpt of which follows:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 An Act to Prevent and Suppress Seditious Conventicles
 
 For providing of further and more speedy remedies against
@@ -1102,6 +1188,8 @@ the respective courts wherein such a refusal shall be made are hereby enabled
 and required to record or register such refusal as a conviction of the offense;
 and every person offending in this manner shall incur the judgment and
 punishment of banishment overseas in such manner as previously described.
+
+--
 
 A learned man at London, of what religious persuasion I know not,
 published a little book in relation to this act,
@@ -1178,7 +1266,7 @@ The indictment having been delivered to the grand jury,
 they could not agree in their verdict;
 for there were some among them whose consciences would not
 give them leave to be accessary to this work of persecution;
-and therefore they brought in their verdict ignoramus.^
+and therefore they brought in their verdict __ignoramus__.^
 footnote:[Meaning there is not enough evidence to support the charges.]
 Now, though such a verdict as this ought not to be rejected,
 yet judge Bridgman standing up, and seeming to be angry,
@@ -1200,7 +1288,7 @@ they soon returned with a guilty verdict.
 Then four of the prisoners were called to the bar.
 Their indictment was read, and they were asked, "`Guilty, or not guilty?`"
 To this they answered, "`Not guilty,`" stating that they had transgressed no just law.
-"`But,`" said the judge, "`you have transgressed this law (having the act in his hand),
+"`But,`" said the judge, "`you have transgressed _this_ law (having the act in his hand),
 and you have been twice convicted already upon record,
 and if you are found guilty by the jury this time,
 I must pass the sentence of banishment upon you.
@@ -1435,7 +1523,7 @@ at length accepted.
 But how painful a case this was to some,
 appeared by the mournful confession of one of the jury,
 who to ease his conscience published in print a small book,
-with the title of The Wounded Heart, or The Juryman`'s Offenses.
+with the title of [.book-title]#The Wounded Heart, or The Juryman`'s Offenses#.
 In this book he openly disapproved the indictment,
 which he had been induced to accept by fear.
 And the clerk was reported to have said that he would rather have
@@ -1485,7 +1573,7 @@ I do not know but I may go there a hundred times more.`"
 The judge then saying, "`Woman, will you plead or not, guilty or not guilty,
 or else I must pass sentence upon you.`"
 She answered, "`The will of the Lord be done, I am innocent.`"
-Yet this did not help her, and she was set by as mute, or pro confesso,
+Yet this did not help her, and she was set by as mute, or __pro confesso__,
 as to the charges against her in the indictment.
 Others who complained of the unreasonableness of the proceedings, were mocked as impudent.
 
@@ -1495,7 +1583,7 @@ so that there was reason enough to disprove their testimony.
 But whatever was objected, the business went on.
 For though one of the witnesses declared that the meeting
 from which the prisoners had been taken was peaceable;
-and though one of the prisoners said that the law was made against seditious meetings,
+and though one of the prisoners said that the law was made against _seditious_ meetings,
 and that nothing of sedition had been proved against them;
 nevertheless judge Keeling said that the act was made to prevent such meetings,
 because under color and pretense of religion, plots and conspiracies might be carried on.
@@ -1589,8 +1677,13 @@ Others did not neglect to exhort the king and parliament to leave off persecutio
 Among these was William Bayly,
 who gave forth the following serious exhortation and warning against persecution:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 For the King and Parliament, etc.
 
+[.salutation]
 Friends,
 
 The God of heaven has put it into my heart to write a few words unto you,
@@ -1792,8 +1885,13 @@ and you will fall after the manner of Egypt;
 and the weight of the dreadful judgments shall suddenly
 sink you down into the pit that is bottomless.
 
+[.signed-section-closing]
 From His servant, who is a lover of the welfare of all your souls,
 
-William Bayly.
+[.signed-section-signature]
+William Bayly
 
+[.signed-section-context-close]
 Written in the Tenth month, 1664, at Hartford.
+
+--
