@@ -508,6 +508,9 @@ __F+++.+++ Howgill:__ I cannot do that; if I did,
 I would be treacherous to God and to my own conscience,
 and the people and you would but judge me a hypocrite.
 
+[.small-break]
+'''
+
 They were reluctant to commit him, yet at last they did.
 This was in the latter part of the month called March,
 and he was kept about five months as before in a filthy room,
@@ -779,7 +782,8 @@ for I have none to plead my cause but the Lord?`"
 [.discourse-part]
 __Judge:__ You may.
 
-F+++.+++ Howgill: I will lay the true state of my case before you,
+[.discourse-part]
+__F+++.+++ Howgill:__ I will lay the true state of my case before you,
 and of the proceedings against me from the first, seeing judge Twisden is not here,
 who had knowledge of all the proceedings hitherto.
 I am a countryman, born and brought up in this country;
