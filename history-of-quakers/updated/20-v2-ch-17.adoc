@@ -228,7 +228,7 @@ did so affect the judge that tears trickling down his face, and he sorrowfully s
 "`Woman, such a case as this I never met with before.
 Perhaps you, who are but young, and speak so piously,
 as one being struck to the heart with repentance, might yet do much good in the world.
-But now you force me, that ex officio^
+But now you force me, that __ex officio__^
 footnote:[An obligation that one is under by virtue of their office.]
 I must pronounce the sentence of death against you, since you will allow no excuse.`"
 
@@ -370,15 +370,10 @@ subsisting in three distinct and separate persons?`"
 Whitehead and those with him saying that this was an unscriptural doctrine,
 Vincent framed this syllogism.
 
-There are three that bear record in heaven, the Father, the Word, and the Holy Spirit:
-and these three are one.
-
-These are either three manifestations, three operations, three substances,
-or three somethings else besides subsistences.
-
-But they are not three manifestations, three operations, three substances,
-nor three anythings else besides subsistences.
-Ergo, they are three subsistences.
+[.syllogism]
+* There are three that bear record in heaven, the Father, the Word, and the Holy Spirit: and these three are one.
+* These are either three manifestations, three operations, three substances, or three somethings else besides subsistences.
+* But they are not three manifestations, three operations, three substances, nor three anythings else besides subsistences. Ergo, they are three subsistences.
 
 G+++.+++ Whitehead rejected these terms as not to be found in Scripture,
 and not deducible from the 1 John, 5:7, the place Vincent instanced.
@@ -407,14 +402,10 @@ and said he did not understand how Paul, Peter,
 and John could be three persons and yet one apostle.
 At this, one Maddocks, one of Vincent`'s assistants, framed this odd syllogism:
 
-He that scornfully and reproachfully compares our
-doctrine of the blessed Trinity of Father,
-Son, and Spirit, one in essence but three in persons, to three finite men, as Paul,
-Peter, and John, is a blasphemer.
-
-But you, George Whitehead, have done so.
-
-Ergo, you are a blasphemer.
+[.syllogism]
+* He that scornfully and reproachfully compares our doctrine of the blessed Trinity of Father, Son, and Spirit, one in essence but three in persons, to three finite men, as Paul, Peter, and John, is a blasphemer.
+* But you, George Whitehead, have done so.
+* Ergo, you are a blasphemer.
 
 A rash conclusion; but I leave the judicious reader to determine how solid it is.
 I have no mind to enter further into this quarrel,
@@ -434,7 +425,7 @@ for it gave occasion to some of his hearers to inquire into the doctrines of the
 and thus some came to be convinced of the truth thereof.
 
 Now since the aforesaid dispute made a great noise in London,
-William Penn published a book with the title, The Sandy Foundation Shaken,
+William Penn published a book with the title, [.book-title]#The Sandy Foundation Shaken,#
 in which he explained the disputed points,
 and defended his positions with good reason and the Holy Scriptures.
 But even this book, which he himself spread, caused such a stir,
@@ -622,6 +613,10 @@ He therefore named this child Abigail, which means, the father`'s joy.
 In this testament he gave her the following instructions
 for the future conduct of her life:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Daughter Abigail,
 
 This is for you to observe, and keep, and take heed unto all the days of your life,
@@ -705,7 +700,7 @@ Take heed unto that, and it will show the evil motions and thoughts; and as you 
 it will also subdue them, and preserve you out of evil for the time to come.
 
 For though you are born into the world a reasonable creature, yet you must be born again,
-and be made a new creature, or else you cannot enter into God`'s kingdom.
+and be made a __new__ creature, or else you cannot enter into God`'s kingdom.
 You must know the Seed of the kingdom in yourself (of which
 you must be born) and be formed again into God`'s image.
 I have told you that God has sown it in you-a grain of it, a measure of it,
@@ -843,9 +838,16 @@ so you will be happy in this life and in the life to come.
 These things I charge you to observe, as expressive of my unalterable mind, and will,
 and counsel, unto you; in witness whereof I have set my hand.
 
+[.signed-section-closing]
 Your dear father,
 
-Francis Howgill.26th of the 5th month, 1666.
+[.signed-section-signature]
+Francis Howgill
+
+[.signed-section-context-close]
+26th of the 5th month, 1666.
+
+--
 
 In the beginning of this year,
 the members of this society held a general yearly-meeting at London, which,
@@ -1090,14 +1092,20 @@ Whereupon the king gave command to sir John Otway, to write to the sheriff of La
 to set her at liberty;
 which letter G. Fox accordingly hastened his daughters with into the country.
 
+[.offset]
 The parliament now sitting, made a law entitled:
-An Act to Prevent and Suppress Seditious Conventicles, which is as follows:
+__An Act to Prevent and Suppress Seditious Conventicles,__ which is as follows:
 
-For providing farther and more speedy remedies against the growing and
-dangerous practices of seditious sectaries and other disloyal persons,
-who under pretense of tender consciences,
-have or may at their meetings contrive insurrections (as late experience has shown):
+[.embedded-content-document.legal]
+--
 
+[.blurb]
+=== For providing farther and more speedy remedies against the growing and dangerous practices of seditious sectaries and other disloyal persons, who under pretense of tender consciences, have or may at their meetings contrive insurrections (as late experience has shown):
+
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Let it be it enacted by the king`'s most excellent majesty,
 by and with the advice and consent of the spiritual and temporal lords,
 and this present parliament assembled, and by authority of the same,
@@ -1106,22 +1114,23 @@ at any time after the tenth day of next May, shall be present at any assembly,
 conventicle, or meeting, under pretense of an exercise of religion,
 in a manner other than according to the liturgy and practice of the church of England,
 in any place within the kingdom of England or dominion of Wales, at which conventicle,
-meeting, or assembly, there shall be five persons or more assembled together,
+meeting, or assembly, there shall be __five persons or more__ assembled together,
 over and besides those of the same household,
 it shall be lawful for any one or more justices of the peace of the county to make a
 record of every such offense under his or their hands and seals respectively:
 and thereupon the said justice, justices, or chief magistrate,
 shall impose on every such offender so convicted,
-a fine of five shillings for their first offense:
+__a fine of five shillings for their first offense:__
 which record and conviction shall be certified by the said justice, justices,
 or chief magistrate,
 at the next quarter-sessions for the county or place where the offense was committed.
 
+[.numbered]
 II. And let it be further enacted by the aforesaid authority,
 that if an offender so convicted shall at any time
 again commit the like offense or offenses,
 contrary to this act, and be thereof convicted,
-then such offender shall for every such offense incur the penalty of ten shillings;
+then such offender shall for every such offense __incur the penalty of ten shillings;__
 which fine or fines shall be levied by seizure and
 sale of the offender`'s goods and estate;
 or in case of the poverty of such offender,
@@ -1131,11 +1140,12 @@ at the discretion of the justice, justices, or chief magistrate respectively,
 so as the sum to be levied on any one person in case of the poverty of other offenders,
 amount not in the whole to above the sum of ten pounds, upon occasion of any one meeting.
 
+[.numbered]
 III.
 And let it be further enacted by the authority aforesaid,
 that every person who shall take upon himself to preach or teach in any such meeting,
 assembly or conventicle, and shall thereof be convicted, as aforesaid,
-shall forfeit for his first offense the sum of twenty pounds,
+shall forfeit for his first offense __the sum of twenty pounds,__
 to be levied in manner aforesaid upon his goods and estate.
 And if the said preacher or teacher be a stranger, and his name and habitation not known,
 or he has fled and cannot be found, or in the judgment of the justice,
@@ -1145,17 +1155,22 @@ goods and estates of any such persons who shall be present at the same conventic
 And if such offender so convicted shall at any time again
 commit the like offense or offenses contrary to this act,
 and be thereof convicted in manner aforesaid,
-then such offender shall for every such offense, incur the penalty of forty pounds,
+then such offender shall for every such offense, __incur the penalty of forty pounds,__
 to be levied and disposed as aforesaid.
 
+[.numbered]
 IV. And let be it further enacted by the authority aforesaid,
 that every person who shall willingly allow any such conventicle, meeting,
 or unlawful assembly to be held in his or her house, outhouse, barn, or yard,
-and be convicted thereof in manner aforesaid, shall forfeit the sum of twenty pounds,
+and be convicted thereof in manner aforesaid, __shall forfeit the sum of twenty pounds,__
 to be levied in the manner aforesaid, upon his or her goods and estate;
 or in case of his or her poverty or inability,
 upon the goods and estates of such persons who shall
 be convicted of being present at the same conventicle; etc.
+
+====
+
+--
 
 By this law, many an honest family was impoverished;
 for the Quakers did not cease meeting together publicly.
@@ -1291,7 +1306,7 @@ But we have been sufficiently tried and proved, and have always been found peace
 Therefore you would do well to make a difference between the innocent and the guilty.`"
 The lord mayor then said that the act was made against meetings,
 and against a worship that was not according to the liturgy.
-G+++.+++ Fox told him, "`according to, does not mean the very same thing.
+G+++.+++ Fox told him, "`__according to,__ does not mean __the very same thing.__
 Is the liturgy according to the Scriptures?
 And may we not read Scriptures, and speak from Scriptures?`"
 The lord mayor said "`Yes.`"

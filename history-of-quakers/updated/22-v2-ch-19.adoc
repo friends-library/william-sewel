@@ -48,6 +48,10 @@ but he went about to disguise the matter, and said,
 and wrote a book to prove that some oaths were lawful, though not all.`"
 Nor did he deny the aforementioned letter, for it was in print, and is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Brother Pitman and Brother Shewel,
 
 I am at this time surprised with a holy passion;
@@ -94,11 +98,16 @@ and yet now say that you will swear willingly.
 Oh! for the Lord`'s sake, do something that may roll away this reproach.
 This is the prayers of your brother, who wishes he could call himself,
 
+[.signed-section-closing]
 Your companion in tribulation,
 
+[.signed-section-signature]
 Jeremy Ives
 
+[.signed-section-context-close]
 Jan. 14, 1660.
+
+--
 
 Thus zealously Jeremy Ives wrote to his fellow-teachers, who, because of human fear,
 and to avoid sufferings,
@@ -123,6 +132,10 @@ had taken the oath that was demanded of him.
 But what a bitter taste this became to him,
 and what terror and horror he was afterwards seized with, the following letter will show:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Friends,
 
 I desire to lay before you my condition in this my fall,
@@ -151,11 +164,16 @@ and for them to take heed lest they also fall.
 Now I know and feel that it is better to part with anything of this world,
 though it be as dear to one as their right hand or eye, than to break our peace with God.
 
+[.signed-section-closing]
 Pray for me; for my bonds are greater than yours.
 
+[.signed-section-signature]
 Edward Chilton
 
+[.signed-section-context-close]
 Windsor, the 22nd of the 11th month, 1660.
+
+--
 
 It is remarkable that E. Chilton in the conclusion of his letter
 says that his bonds were greater than those of his friends,
@@ -218,11 +236,10 @@ Now to come to the dispute;
 I already mentioned it was asserted that the Quakers were no Christians;
 and to maintain this, Thomas Hicks used the following syllogism:
 
-They that deny the Lord`'s Christ, are no Christians;
-
-But the Quakers deny the Lord`'s Christ;
-
-Therefore the Quakers are no Christinas.
+[.syllogism]
+* They that deny the Lord`'s Christ, are no Christians;
+* But the Quakers deny the Lord`'s Christ;
+* Therefore the Quakers are no Christinas.
 
 To this W. Penn said, "`I deny the minor,^
 footnote:[A categorical syllogism consists of three parts: a major premise,
@@ -232,11 +249,10 @@ debate amongst the educated class at this time.]
 that is that the Quakers deny the Lord`'s Christ.`"
 And T. Hicks returned:
 
-They that deny Christ to be a distinct person outside of them, deny the Lord`'s Christ;
-
-But the Quakers deny Christ to be a distinct person outside of them;
-
-Therefore, the Quakers deny the Lord`'s Christ.
+[.syllogism]
+* They that deny Christ to be a distinct person outside of them, deny the Lord`'s Christ;
+* But the Quakers deny Christ to be a distinct person outside of them;
+* Therefore, the Quakers deny the Lord`'s Christ.
 
 W+++.+++ Penn then requested that T. Hicks would explain what he meant by the term "`person.`"
 And T. Hicks answered, "`I mean the man Christ Jesus.`"
@@ -247,12 +263,10 @@ One of your own writers says that Christ was never seen with carnal eyes,
 nor heard with carnal ears.`"
 To this J. Ives added,
 
-He that denies that Christ was ever seen with carnal eyes,
-etc. denies the man Jesus Christ;
-
-But the Quakers deny that Christ was ever seen with carnal eyes;
-
-Therefore the Quakers deny the man Jesus Christ.
+[.syllogism]
+* He that denies that Christ was ever seen with carnal eyes, etc. denies the man Jesus Christ;
+* But the Quakers deny that Christ was ever seen with carnal eyes;
+* Therefore the Quakers deny the man Jesus Christ.
 
 George Keith then said, "`I answer by distinguishing the following:
 Christ as God was never seen with carnal eyes; but as man He was seen with carnal eyes.`"
@@ -575,6 +589,9 @@ gave an excellent testimony in writing concerning him.
 And John Crook, in a preface to W. Bayly`'s works,
 gave the following testimony of him (the truth of which I know by my own experience):
 
+[.embedded-content-document.testimony]
+--
+
 As he was bold and zealous in his preaching,
 being willing to improve his time (as if he had known it was not to be long amongst us),
 so was he as valiant in suffering for his testimony when called thereunto.
@@ -597,6 +614,8 @@ And when this persecutor had done his pleasure, he commanded the jailer to take 
 and put him in some nasty hole for his entertainment and cure.
 And had not the God of Israel been his physician there,
 he had been taken from us long before this.
+
+--
 
 At the beginning of this year, 1676, one Matthew Hyde died at London.
 This man had made it his business, during the space of about twenty years,
@@ -719,7 +738,7 @@ At one point these plunderers forced Alexander`'s servant to help them;
 which made Alexander say that it was a most unreasonable thing
 to require a servant to assist in taking his master`'s goods.
 In response to this, the warden, Robert Clerk, snarled at him and said,
-"`They are our goods.`"
+"`They are _our goods._`"
 The aforesaid officers came also to the house of Samuel Duncon,
 and with them came the informer Charles Tennison, and the hangman.
 Here they stayed several days and nights, and kept Samuel`'s wife,
@@ -900,6 +919,9 @@ in the West Indies,
 a law was made to prevent negroes from coming into the meetings of the Quakers,
 which is as follows:
 
+[.embedded-content-document.legal]
+--
+
 Whereas of late,
 many negroes have been allowed to remain at the meetings
 of the Quakers as hearers of their doctrine,
@@ -935,7 +957,13 @@ Read, and passed the council the 21st of April, 1676,
 and consented to by his excellency +++[+++the governor]
 the same day.
 
-Edward Steed Deputy-secretary.
+[.signed-section-signature]
+Edward Steed
+
+[.signed-section-context-close]
+Deputy-secretary.
+
+--
 
 Although in the beginning of this statute,
 the instructing of the negroes in the doctrine of the Quakers is represented
@@ -948,10 +976,9 @@ with whom he had some discourse when the said Herr returned from Spain,
 where he had been ambassador for the States of the United Provinces.
 Herr Pacts, having a strange opinion of the doctrine of the Quakers,
 had a good while ago written a letter^
-footnote:[To be found in the book called Prastantium ac
+footnote:[To be found in the book called [.book-title]#Prastantium ac
 eruditorum virorum Epistole Eccksiastique & Theologica.
-Amatelodami apud Franciscum Halman.
-1704]
+Amatelodami apud Franciscum Halman.# 1704]
 to Christian Hartzoeker, at Rotterdam, about their doctrine;
 and having afterwards discoursed with Barclay concerning
 the inward and immediate revelation of the Spirit of God,
@@ -965,7 +992,7 @@ which he promised he would do.
 But he continuing deficient in the case,
 Furly at last published the said letter in print,
 but without mentioning the name of him to whom it was written,
-only that it was addressed to Cuidam legato +++[+++in English: To a certain ambassador.]
+only that it was addressed to _Cuidam legato_ +++[+++in English: To a certain ambassador.]
 
 In this letter was set down first the objection of Herr Pacts, namely,
 that since the being and substance of the Christian
@@ -1001,6 +1028,10 @@ that Pacts readily yielded that he had been mistaken in his notion of the Quaker
 for he found they could make a reasonable plea for the foundation of their religion.
 Thereupon R. Barclay translated the said letter into English as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Friend,
 
 Albeit I judge I did fully answer all your arguments in that conference we had,
@@ -1071,10 +1102,15 @@ Therefore you say that there can be no immediate revelation
 by the simple operation of the Spirit of God in the mind,
 unless there be something also proposed to the outward senses.
 
+[.offset]
 Before I proceed to a direct answer to this argument,
 some things are necessary to be premised:
 
-First then:
+[.numbered-group]
+====
+
+[.numbered]
+_First then:_
 That it is falsely supposed that the essence of the Christian religion
 consists in the historical faith and knowledge of the birth,
 death, life, resurrection, and ascension of Jesus Christ.
@@ -1084,9 +1120,10 @@ But it is an integral part, which goes to the completing of the Christian religi
 even as the hands or feet of a man are integral parts of a man,
 without which nevertheless a man may exist, but not an entire and complete man.
 
-Secondly:
+[.numbered]
+_Secondly:_
 If by immediate revelation you understand such a revelation of God as begets
-in our souls a historical faith and knowledge of the birth of Christ in the flesh,
+in our souls a __historical__ faith and knowledge of the birth of Christ in the flesh,
 without the means of the holy Scripture,
 we do not contend for such a revelation as something that is commonly given,
 or something to be expected by us, or any other Christians.
@@ -1097,7 +1134,8 @@ yet the historical knowledge of Christ is not commonly manifested to us,
 nor to any others, except by the holy Scripture as the means,
 and that by way of a material object.
 
-Thirdly: Nevertheless we do firmly assert, that God can most easily, clearly,
+[.numbered]
+_Thirdly:_ Nevertheless we do firmly assert, that God can most easily, clearly,
 and certainly, manifest to our minds the historical truths of Christ`'s birth,
 etc. whensoever it pleases Him, even without the Scripture, or any other outward means.
 And because your argument seems to be formed against the possibility of such a revelation,
@@ -1108,29 +1146,33 @@ did know these matters of fact by the inward inspiration of God,
 without any outward means:
 for the proof of which see 1 Peter 1:10-11. Now that which has been may still be.
 
-Fourthly:
+[.numbered]
+_Fourthly:_
 This argument of yours does at most conclude that
-we cannot naturally know any matter of fact,
+we cannot __naturally__ know any matter of fact,
 except by the relation of another without us, or by the perception of the outward senses;
-because there are naturally in our minds no ideas concerning contingent truths
+because there are __naturally__ in our minds no ideas concerning contingent truths
 (and every matter of fact is a contingent truth) as there are of necessary truths.
-This then proves that we cannot naturally know any
+This then proves that we cannot __naturally__ know any
 contingent truth except by the relation of another,
 or the perception of the outward senses;
 but this hinders not the truth that we may know a
-contingent truth by a supernatural knowledge,
+contingent truth by a __supernatural__ knowledge,
 wherein God supplies the place of an outward relator; who indeed is so true,
 that He ought to be believed, since God is the fountain of truth.
 
-Fifthly:
+[.numbered]
+_Fifthly:_
 When God does make known unto men any matter of fact by divine immediate revelation
 or inspiration--God speaking as to the ear of the heart of the inward man,
 or as by his finger writing therein--two things are to be
 considered in such an immediate revelation.
 
-1+++.+++ To Materiale, The matter of fact or thing revealed, which is contingent.
+[.offset]
+1+++.+++ __To Materiale,__ The matter of fact or thing revealed, which is contingent.
 
-2+++.+++ To Formale, The form or mode, how the revelation is made: which form is an inward,
+[.offset]
+2+++.+++ __To Formale,__ The form or mode, how the revelation is made: which form is an inward,
 divine, and supernatural revelation,
 which is the voice or speech of God inwardly speaking
 to the ear of the inward man or mind of man,
@@ -1152,7 +1194,8 @@ and that by its own specific nature or property proceeding from its nature;
 and this has its proper idea, by which it is distinguishable from every other thing,
 if so be its idea be stirred up in us, and clearly proposed to us.
 
-Sixthly: Now as some beings are natural and some supernatural,
+[.numbered]
+_Sixthly:_ Now as some beings are natural and some supernatural,
 so some ideas are natural and some supernatural.
 And as when any natural idea is excited in us, we clearly know it;
 so also when a supernatural idea is raised in us,
@@ -1166,7 +1209,8 @@ For the voice of God is full of vigor, virtue, and divine glory, as the psalmist
 who had often experienced it; and we also in our measures are witnesses thereof,
 for the voice of God is known to be His by its divine virtue.
 
-Seventhly: The senses are either outward or inward;
+[.numbered]
+_Seventhly:_ The senses are either outward or inward;
 and the inward senses are either natural or supernatural.
 We have an example of the inward natural sense in being angered or pacified,
 in love and hatred, or when we perceive and discern any natural truth.
@@ -1188,6 +1232,8 @@ but because of the revelation proposing it, which is the mighty voice of God.
 For when the voice of God is heard in the soul,
 the soul does as certainly perceive the truth of that voice,
 as the truth of God`'s being, from whom it proceeds.
+
+====
 
 These things being thus premised, I now proceed to a direct answer.
 As for what you have said,
@@ -1382,7 +1428,7 @@ Habakuk also says, that he was "`standing on his watch,
 to see what Jehovah would speak in him.`"^
 footnote:[Habakkuk 2:1 literal translation]
 And it is so clearly manifest that the most heavenly revelations are by
-inward illustrations and inspirations in the very minds of the prophets,
+_inward_ illustrations and inspirations in the very minds of the prophets,
 that it is strange how any who believe in the Scripture should doubt of it.
 And it is also certain that, even when they foretold contingent truths to come,
 they were most certainly persuaded that they were divinely inspired,
@@ -1465,6 +1511,11 @@ which is that saving Word of grace which I commend you unto.
 And that God may give you a heart inclinable to believe and obey the truth,
 is the desire of your faithful friend,
 
-Robert Barclay From the prison of Aberdeen, in Scotland,
-where I am confined for the sake of the testimony of Jesus.
-November 24,1676.
+[.signed-section-signature]
+Robert Barclay
+
+[.signed-section-context-close]
+From the prison of Aberdeen, in Scotland,
+where I am confined for the sake of the testimony of Jesus. November 24, 1676.
+
+--

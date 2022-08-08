@@ -54,7 +54,7 @@ who were assembled in a great number in Gracechurch-street,
 but they could not hear what he said.
 
 The recorder then asked William Mead whether he was there?
-Who answered, that "`It is a maxim in your own law, nemo tenetur seipsum accusare,
+Who answered, that "`It is a maxim in your own law, _nemo tenetur seipsum accusare,_
 which if it be not true Latin, I am sure it is good English,
 that '`No man is bound to accuse himself.`' Why then
 do you offer to ensnare me with such a question?`"
@@ -110,7 +110,7 @@ For where there is no law, there is no transgression; and a law which is not in 
 is so far from being common, that it is no law at all.`"
 The recorder the snapped, "`You are an impertinent fellow!
 Will you teach the court what law is?
-It is lex non scripta +++[+++i.e. an unwritten law],
+It is _lex non scripta_ +++[+++i.e. an unwritten law],
 that which many have studied thirty or forty years to know,
 and would you have me tell you in a moment?`"
 "`Certainly,`" replied W. Penn, "`if the common law is so hard to be understood,
@@ -118,8 +118,8 @@ it is far from being very common;
 but if the lord Coke in his institutes be of any consideration,^
 footnote:[Sir Edward Coke (1552-1634) was an English lawyer, judge, and politician,
 considered to be the greatest jurist of his time.
-He is best known for his four-volume Institutes of the Laws of England,
-and his thirteen-volume Law Reports.]
+He is best known for his four-volume [.book-title]#Institutes of the Laws of England,#
+and his thirteen-volume [.book-title]#Law Reports.#]
 he tells us that common law is common right;
 and that common right is the great charter privileges confirmed,
 9 Hen. 3. 29. 25 Edw. 1. 1. 2 Edw. 3. 8. Coke`'s Institutes, 2. p. 56.`"
@@ -195,9 +195,12 @@ and next a Papist.`"
 Mead, not being willing to openly to affront this alderman,
 told him this well-known Latin verse:
 
+[verse]
+____
 "`Turpa est doctori cum culpa redarguit ipsum.`"
 
 +++[+++In English: It is shameful to blame others for the things you do yourself.]
+____
 
 For Brown himself had formerly been an Independent,
 though he now belonged to the church of England, and was of the court party.
@@ -236,7 +239,7 @@ I say it is directly opposite to,
 and destructive of the undoubted right of every English prisoner, as Coke in the 2 Inst.
 on the chapter of Magna Charta, speaks.`"
 The recorder, being thus unexpectedly lashed for his extra-judicial procedure,
-said with a disdainful smile, "`Why, you are present; you heard me, did you not?`"
+said with a disdainful smile, "`Why, you __are__ present; you heard me, did you not?`"
 To which Penn returned,
 "`No thanks to the court that commanded me to be put into the bail-dock.
 And you of the jury take notice, that I have not been heard,
@@ -283,14 +286,20 @@ before they gave a more satisfactory verdict,
 they called for pen, ink, and paper, and so went upstairs again.
 And returning in half an hour, they delivered the following verdict in writing:
 
+[.embedded-content-document.legal]
+--
+
 We, the jurors hereafter named,
 do find William Penn to be guilty of speaking or preaching to an assembly,
 met together in Gracechurch-street, the 14th of August last, 1670;
 and that Willam Mead is not guilty of the said indictment.
 
+[.signed-section-signature]
 Foreman Thomas Veer, Charles Milson, Edward Bushel, Gregory Walklet, John Hammond,
 John Baily, Henry Henly, William Lever, Henry Michel, James Damask, John Brightman,
 William Plumsted.
+
+--
 
 This verdict was so highly resented by the mayor and recorder,
 that they exceeded the bounds of all moderation and civility.
@@ -513,12 +522,15 @@ and W. Mead was reprinted I think more than once;
 for it came to be much requested,
 because the liberties of the people were therein well-defended,
 and arbitrary power was controlled.
-The title of it was, The People`'s Ancient and Just Liberties Asserted;
+The title of it was, [.book-title]#The People`'s Ancient and Just Liberties Asserted;#
 and underneath was added this well known verse of Juvenal,
 
+[verse]
+____
 Sic volo, sic jubeo; stat pro ratione voluntas.
 
 (in English: Thus I wish, thus I order, my will stands in place of reason.)
+____
 
 This matter was more circumstantially treated of
 in a book in print by Thomas Rudyard a lawyer,
@@ -541,7 +553,7 @@ under pretense that he had "`stirred up persons to disobedience of the laws,
 and abetted and encouraged such as met in unlawful and seditious conventicles,
 contrary to the late act.`"
 But his case being brought before the justices of the court of Common Pleas,
-at Westminster, by a habeas corpus,^
+at Westminster, by a _habeas corpus_,^
 footnote:[i.e. a writ of unlawful imprisonment.]
 that court, after solemn debate,
 gave their judgment that Thomas Rudyard had been unjustly imprisoned and unjustly detained;
@@ -601,7 +613,7 @@ the chamber was so deeply in debt that it was almost incredible.
 Now, since Rudyard as a lawyer had a more full knowledge of these unlawful
 proceedings against him and his friends than many others,
 he composed a treatise of those prosecutions,
-which he called The Second Part of the People`'s Ancient and Just Liberties Asserted.
+which he called [.book-title]#The Second Part of the People`'s Ancient and Just Liberties Asserted.#
 Many true lovers of their country were pleased with this publication;
 for the party which countenanced popery,
 and therefore endeavored to violate the people`'s rights,
@@ -620,9 +632,12 @@ Indeed, sometimes they swore only by guess, that in such a place a meeting had b
 though the witnesses had not seen it, as was requisite by law.
 And this informing came so much in vogue, that even some magistrates turned informers.
 
+[verse]
+____
 Quid non mortalia pectora cogis Auri sacra fames!
 
 +++[+++In English: Accursed thirst for gold, what do you not compel mortals to do!]
+____
 
 I might write a large volume of these abominable deeds, if I could find leisure for it;
 yet now and then I will mention a few instances,
@@ -753,9 +768,9 @@ and then he would be heard.
 But continuing to refuse swearing, he was remanded to prison with the rest;
 and afterwards being sent for again,
 and still being unwilling to break Christ`'s command not to swear at all,
-the sentence of premunire was read against him and his fellow prisoners,
+the sentence of _premunire_ was read against him and his fellow prisoners,
 and so they continued in jail above two years,
-till they were discharged by an Act of Grace from the king.
+till they were discharged by an _Act of Grace_ from the king.
 
 The meetings of those called Quakers were miserably
 disturbed in Horslydown in the county of Surry.
@@ -811,7 +826,7 @@ When they were rebuked for their cruel dealing, some said,
 And being asked,
 "`How can you deal thus with a people who make no
 resistance nor opposition;`" they answered,
-"`We had rather, and it would be better for us, if you did resist and oppose us.`"
+"`We had rather, and it would be better for us, if you _did_ resist and oppose us.`"
 From this it appeared plainly that this mischief was done in order to provoke opposition,
 that they might then have excuse to imbrue
 their hands in the blood of these sufferers,
@@ -853,6 +868,9 @@ and though he continued weak after a time of heavy sickness,
 yet he did not cease preaching;
 and about this time he made the following prayer to the Lord, which he put in writing:
 
+[.embedded-content-document.prayer]
+--
+
 O Lord God Almighty!
 Prosper the Truth, and preserve justice and equity in the land,
 and bring down all injustice and iniquity, oppression and falsehood,
@@ -873,9 +891,13 @@ where no unclean thing can enter; for such works lead people to hell.
 In mercy bring down all these things in the nation to stop your wrath, O God,
 from coming on the land.
 
+[.signed-section-signature]
 G+++.+++ Fox.
 
+[.signed-section-context-close]
 This Prayer was written the 17th day, at night, of the 2nd Month, 1671
+
+--
 
 G+++.+++ Fox thinking his wife was at liberty, now understood that her enemies,
 notwithstanding the king`'s order to release her,
@@ -896,8 +918,8 @@ with several of his friends that accompanied him.
 
 Now while I leave him on board the ship,
 I cannot forbear to mention that this year at London
-a witty pamphlet came forth with this title,
-An Easy Way to get Money cum Privilegio +++[+++i.e. without fear or cumber],
+a witty pamphlet came forth with this title, [.book-title]#An Easy Way to get
+Money cum Privilegio# +++[+++i.e. without fear or cumber],
 printed for the society of informers.
 This book contained a satirical rebuke to the informers, beginning with these words:
 "`To all you that are able to work, but will not;
@@ -1213,6 +1235,10 @@ I will insert here a copy of a letter he wrote in the year 1674 to G. Fox,
 who was then prisoner in Worcester jail.
 The said letter is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 George Fox,
 
 You dear and well-beloved of the Lord, whom He sent out of His eternal love to me,
@@ -1239,7 +1265,10 @@ as I dwell and abide faithful to Him who is my light and life, my joy and peace,
 God over all, blessed forevermore.
 Amen.
 
+[.signed-section-signature]
 Miles Halhead.
+
+--
 
 In the month called January, 1674,
 G+++.+++ Fox and Thomas Lower were brought to their trial in the court at Worcester,
@@ -1345,7 +1374,7 @@ And afterwards told him the same to his face, which so cooled the priest`'s eage
 that he thought it more safe for him to let him alone.
 
 Soon after the court sessions were over,
-a writ of habeas corpus was sent down to Worcester,
+a writ of _habeas corpus_ was sent down to Worcester,
 for the sheriff to bring up G. Fox to the king`'s bench bar,
 whereupon his son-in-law T. Lower conducted him;
 for the under sheriff had made Lower his deputy, to convey G. Fox to London.
@@ -1371,7 +1400,7 @@ A day was then appointed for another hearing,
 and G. Fox appeared again at the king`'s bench.
 Hearing that it was under deliberation to send him back to Worcester,
 he signified to them that this was only to ensnare him by putting the oath to him,
-that so they might premunire him.
+that so they might _premunire_ him.
 And he further told them, that though he had never taken an oath in his life,
 yet if he broke his yes or no,
 he was content to suffer the same penalty as those that break their oaths.
@@ -1512,6 +1541,9 @@ and delivered to them the following declaration,
 setting forth what he was willing to promise instead of
 taking the oaths of allegiance and supremacy.
 
+[.embedded-content-document]
+--
+
 This I declare in the truth, and in the presence of God,
 that king Charles the Second is the lawful king of this realm,
 and of all others under his dominion; and that he was brought in,
@@ -1531,7 +1563,10 @@ I dare not take an oath, because it is forbidden by Christ and His apostle;
 but if I break my yes or no,
 then let me suffer the same penalty as they that break their oaths.
 
+[.signed-section-signature]
 George Fox.
+
+--
 
 This declaration,
 being the substance of what the oaths of allegiance and supremacy contain,
@@ -1554,7 +1589,7 @@ yet now put on a troubled countenance,
 and told him of the sad sentence he had to speak against him.
 To this G. Fox replied that he had many more errors to allege against the indictment,
 besides those he had already mentioned.
-Whereupon the chairman told him that he was going to tell him the danger of a premunire,
+Whereupon the chairman told him that he was going to tell him the danger of a _premunire,_
 "`which,`" he said, "`is the loss of your liberty, and all your goods and estate,
 and to endure imprisonment during your life.
 But,`" he added, "`I do not deliver this as the sentence of the court,
@@ -1581,6 +1616,10 @@ and desired him to give order to the jailer that he might
 have liberty to go out of the jail into the city.
 Whereupon Parker wrote the following letter to the jailer.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mr. Harris,
 
 I have been much importuned by some friends of George Fox to write to you.
@@ -1590,11 +1629,16 @@ please show him.
 I suppose the next term they will make application to the king.
 I am,
 
+[.signed-section-closing]
 Sir, your loving friend,
 
-Henry Parker.
+[.signed-section-signature]
+Henry Parker
 
+[.signed-section-context-close]
 Evesham, the 8th of October, 1674.
+
+--
 
 This letter was a sufficient warrant for the jailer to permit G.
 Fox to be brought from prison to the house of one of his friends.
@@ -1624,9 +1668,9 @@ that G. Fox needed not scruple about being released by a pardon;
 Nevertheless, G. Fox was unwilling to receive a pardon,
 but desired to have the validity of his indictment tried before the judges.
 The lord chancellor, who showed himself a discreet man,
-then procured a writ of habeas corpus in order to bring G. Fox to London,
+then procured a writ of _habeas corpus_ in order to bring G. Fox to London,
 once more to appear before the king`'s bench.
-This habeas corpus was immediately sent down by his wife to Worcester;
+This _habeas corpus_ was immediately sent down by his wife to Worcester;
 but they would not part with him at first (finding
 him now a little recovered of his sickness),
 under the pretense that he was premunired, and could not go out in that manner.
@@ -1638,7 +1682,7 @@ with the under-sheriff and the clerk of the peace accompanying him.
 Having come down, he was brought before the four judges at the king`'s bench,
 where counselor Thomas Corbet pleaded his cause, and acquitted himself exceedingly well;
 for he started a new plea,
-and told the judges that by law they could not imprison any man upon a premunire.
+and told the judges that by law they could not imprison any man upon a _premunire._
 The judges then saying they must have time to look into their books,
 and to consult the statutes, the hearing was put off till the next day.
 And since it appeared that Corbet was in the right, they chose to let their plea fall,
