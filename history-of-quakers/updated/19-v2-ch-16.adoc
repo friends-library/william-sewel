@@ -9,16 +9,26 @@ notwithstanding what George Bishop gave forth in print and caused
 to be delivered to the king and the members of parliament,
 which was as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 To the King and both Houses of Parliament, this says the Lord:
 
 "`Meddle not with My people, because of their conscience to me,
 and banish them not out of the nation because of their conscience; for if you do,
 I will send my plagues upon you, and you shall know that I am the Lord.`"
 
+[.signed-section-closing]
 Written in obedience to the Lord, by his servant,
 
-George Bishop.
+[.signed-section-signature]
+George Bishop
+
+[.signed-section-context-close]
 Bristol, the 29th of the Fifth month, 1664.
+
+--
 
 The fulfilling of this prediction we shall see;
 for within a short time a war ensued with the Dutch, and the pestilence^
@@ -213,7 +223,7 @@ And when she had finished speaking, I do not remember that she was contradicted 
 but one of their speakers concluded the meeting with a prayer.
 
 Before that time she wrote and published a small book to those of her former society,
-which she called a Serious Reproof of the Flemish Baptists:
+which she called a [.book-title]#Serious Reproof of the Flemish Baptists:#
 in which she dealt very plainly with them, and showed how they had apostatized.
 She also wrote some other treatises, still in print,
 and was much beloved and well esteemed by English friends,
@@ -245,6 +255,10 @@ To give a small instance of her true zeal for God,
 I will insert here the following epistle she wrote to her friends,
 to stir up the pure mind in them.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle to the Friends of the Church.
 
 Grace and peace be multiplied among you, my dearly and much beloved friends,
@@ -365,7 +379,10 @@ This is written in love to you, from a young plant,
 according to the gift received from the Lord.
 My salutation is to you all in the light of truth.
 
+[.signed-section-signature]
 Judith Zinspenning.
+
+--
 
 In the year 1664,
 a small book came forth in print addressed to the king and to both houses of parliament,
@@ -419,7 +436,7 @@ brought on board a ship to be transported to the West Indies.
 We have seen already how those that were sentenced at Hertford by judge Orlando Bridgman,
 returned home having been put ashore by the master of the ship.
 And it was not long after this that three of their friends,
-being on board the ship called The Many-Fortune of Bristol,
+being on board the ship called _The Many-Fortune_ of Bristol,
 were also set on shore with a certificate from the master of the ship,
 signed by him and seven of his men,
 wherein they stated that God had spoken (as it were) in their hearts:
@@ -598,6 +615,9 @@ from going on with this mischievous work of persecution.
 In this paper, containing some queries, among many weighty expressions,
 I find the following:
 
+[.embedded-content-document.paper]
+--
+
 After you have done all you can, even made laws as strong as you can,
 and put them in the strictest course of execution you can,
 yet one night from the Lord may end the controversy,
@@ -707,6 +727,8 @@ and if the Lord our God is pleased not to appear for us,
 we are content to be overcome by you.
 So may the will of the Lord be done, says my soul.
 
+--
+
 This the author concludes with a postscript,
 containing a serious exhortation to forsake evil.
 Besides this,
@@ -767,7 +789,7 @@ seeing that the day on which the oath had been tendered to him
 at the court session before was wrong in the indictment;
 and yet they had sworn that on that day he had refused to take the oath.
 Now, before George Fox was brought before the judge,
-he had already passed a sentence of premunire against
+he had already passed a sentence of _premunire_ against
 Margaret Fell for having refused to take the oath.
 And though this sentence had not been passed against George Fox,
 yet he was recorded as a premunired person;
@@ -991,11 +1013,11 @@ This I know by my own experience, for I have had familiar conversation with him.
 In this prison he was much visited, even by many people of note.
 General Fairfax`'s widow once came to him with a great company,
 one of which was a priest who began to quarrel with him,
-because speaking to one person he said thee and thou, and not you;
+because speaking to one person he said _thee_ and _thou,_ and not _you;_
 and those that spoke so, the priest said, he counted but fools.
 This made G. Fox ask him whether those who had translated the Scriptures,
 and had made the grammar book were fools, seeing they translated the Scriptures so,
-and made the grammar book so--thou to one, and you to more than one.
+and made the grammar book so, _thou_ to one, and _you_ to more than one.
 With these and other reasons he soon silenced the priest;
 and several of the company acknowledged the truth he declared to them,
 and were loving to him; and some of them would have given him money,
@@ -1246,7 +1268,7 @@ Having come and again found that entrance was denied him by the aforementioned o
 the mayor charged the officer not to hinder Caton from visiting the prisoners.
 
 About this time a law was made in England called,
-An Act for Restraining Non-Conformists from Inhabiting in Corporations.
+__An Act for Restraining Non-Conformists from Inhabiting in Corporations.__
 This act was chiefly made against the Presbyterians and Independents
 who formerly had been employed in the public church,
 requiring an oath they they would not "`distill the poisonous principles
@@ -1255,12 +1277,17 @@ to the great danger of the church and kingdom.`"
 All vicars, curates, lecturers,
 and persons in holy orders were by this law required to take the follow oath:
 
+[.embedded-content-document.legal]
+--
+
 I, +++_______+++ do swear, that it is not lawful upon any pretense whatsoever,
 to take arms against the king;
 and that I do abhor that traitorous position of taking arms against his person,
 or against those that are commissioned by him, in pursuance of such commission;
 and that I will not at anytime endeavor any alteration of government,
 either in church or state; etc., on pain of forfeiting 40£.
+
+--
 
 But though, as has been said,
 this act was chiefly leveled against the Presbyterians and Independents,
@@ -1427,12 +1454,23 @@ This order being obtained, was not long after brought to Scarborough,
 and delivered to the governor, who upon the receipt thereof, discharged him,
 and gave him the following passport:
 
+[.embedded-content-document.legal]
+--
+
 Permit the bearer thereof, George Fox, recently a prisoner here,
 and now discharged by his majesty`'s order, quietly to pass about his lawful occasions,
 without any molestation.
+
+[.signed-section-closing]
 Given under my hand at Scarborough Castle, this first day of September,
 
-Jordan Croslands, Governor of Scarborough Castle.
+[.signed-section-signature]
+Jordan Croslands
+
+[.signed-section-context-close]
+Governor of Scarborough Castle.
+
+--
 
 G+++.+++ Fox being thus released,
 would have given the governor something for the civility
@@ -1457,6 +1495,7 @@ some years before passing through the streets of London,
 preached repentance to the inhabitants; and coming through Cheapside,
 he cried out that unless London repented as Nineveh did, God would destroy it.
 
+[.offset]
 Now I may relate another remarkable prediction.
 
 Thomas Ibbitt, of Huntingdonshire,
@@ -1549,6 +1588,10 @@ and saw the fulfilling of what had been shown to him some years before.
 But notwithstanding this stroke on London, persecution did not cease,
 which gave occasion to Josiah Coale to write these lines to the king:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 King Charles,
 
 Set the people of God at liberty,
@@ -1559,16 +1602,25 @@ or else His judgments shall not depart from your kingdom,
 until thereby He has wrought the liberty of His people, and removed their oppressions.
 And remember you are once more warned,
 
+[.signed-section-closing]
 By a servant of the Lord,
 
-Josiah Coale.
+[.signed-section-signature]
+Josiah Coale
 
+[.signed-section-context-close]
 London, Dec. 2nd, 1666.
+
+--
 
 About this time, or it may be in the next month, Stephen Crisp published an epistle,
 containing an exhortation to his friends,
 and also a prediction concerning succeeding times, which is as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Friends,
 
 I am drawn forth at this time to visit you with an epistle,
@@ -1749,7 +1801,10 @@ and we shall yet live to praise Him who is worthy of glory, of honor and renown,
 from the rising of the sun to the setting of the same, now and forever, amen, amen,
 says my soul.
 
+[.signed-section-signature]
 Stephen Crisp
+
+--
 
 The aforesaid Armorer came very often to the house of Thomas Curtis, at Reading,
 to disturb the meeting there, taking many persons prisoners,
@@ -1874,7 +1929,7 @@ which sometimes was so rudely that even the spectators showed their dislike.
 When once for lack of good witnesses the jury could not come to an agreement,
 Armorer rose off the bench and appeared as a witness himself.
 But notwithstanding this,
-the jury returned the second time and brought in a verdict of ignorumus.
+the jury returned the second time and brought in a verdict of _ignorumus._
 Upon hearing this, the other justice told the jury that sir William Armorer,
 an honorable gentleman, had also taken his oath in this case.
 To which the jury replied, it was true, sir William Armorer was an honorable gentleman,
@@ -1893,7 +1948,7 @@ being called to the bar and asked if she would take the oath, said,
 being under covert,^
 footnote:["`Under covert`" was a legal status in common law whereby, upon marriage,
 a woman`'s legal rights and obligations were subsumed by those of her husband.
-An unmarried woman had the right to own property and make contracts in her own name.
+An __unmarried__ woman had the right to own property and make contracts in her own name.
 But a woman "`under covert`" was legally considered one person with her husband,
 and was not recognized as having legal rights and
 obligations distinct from those of her husband.]
@@ -1944,11 +1999,12 @@ He died leaving his wife and children in such a condition,
 that by reason of debts they fell into poverty.
 
 About this time a certain papist author,
-who expressed his name no further than with the letters A. S., gave forth a book called,
-The Reconciler of Religions; or, A Decider of all Controversies in Matters of Faith.
+who expressed his name no further than with the letters A. S.,
+gave forth a book called, [.book-title]#The Reconciler of Religions;
+or, A Decider of all Controversies in Matters of Faith.#
 Josiah Coale, who was very zealous for the truth, and well saw what this author aimed at,
-answered him in a book that appeared in print, with the title of, The Whore unveiled;
-or The Mystery of the Deceit of the Church of Rome Revealed.
+answered him in a book that appeared in print, with the title of, [.book-title]#The Whore unveiled;
+or The Mystery of the Deceit of the Church of Rome Revealed.#
 Now although the said A. S. chiefly struck at the Quakers as the worst of heretics,
 falsely perverting their doctrine as asserting that
 the same spirit that reproved Judas of sin,
@@ -2019,6 +2075,10 @@ and among the many expressions which signified his good frame of mind,
 and the divine consolation he felt, were also these words,
 that were taken in writing from his mouth:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Friends,
 
 God has been mightily with me, and has stood by me at this time.
@@ -2028,6 +2088,8 @@ But God has appeared for the acknowledging of our testimony,
 and has broken in upon me as a flood,
 and I am filled with His love more than I am able to express.
 Truly God has appeared for us.
+
+--
 
 This he spoke but a short time before his departure;
 and exhorted his friends to faithfulness and steadfastness,
