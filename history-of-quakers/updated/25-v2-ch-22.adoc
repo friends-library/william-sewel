@@ -73,6 +73,9 @@ Yet to comply with the people called Quakers,
 who for conscience-sake scrupled to take any oath,
 this act required that they should subscribe to the following declaration:
 
+[.embedded-content-document.legal]
+--
+
 I +++_______+++, do sincerely promise and solemnly declare, before God and the world,
 that I will be true and faithful to king William and queen Mary;
 and I do solemnly profess and declare, that I do from my heart abhor,
@@ -84,13 +87,20 @@ And I declare that no foreign prince, person, prelate, state, or potentate, has,
 or ought to have any power, jurisdiction, superiority, preeminence, or authority,
 ecclesiastical or spiritual, within this realm.
 
+--
+
 Besides this they were obliged to subscribe to another also,
 with respect to their orthodoxy, and for excluding Socinianism.
+
+[.embedded-content-document.legal]
+--
 
 I +++_______+++, profess faith in God the Father, and in Jesus Christ his eternal Son,
 the true God, and in the Holy Spirit, one God, blessed forevermore;
 and do acknowledge the holy Scriptures of the Old
 and New Testament to be given by divine inspiration.
+
+--
 
 And lest any Papist might make use of this declaration,
 there were required sufficient Protestant witnesses
@@ -130,9 +140,13 @@ now sent over a petition to the king wherein they set forth how they were molest
 and requested relief.
 This had such effect, that the king issued forth the following order:
 
-At the Council at Whitehall, Dec.
-12, 1689.
+[.embedded-content-document.legal]
+--
 
+[.signed-section-context-open]
+At the Council at Whitehall, Dec. 12, 1689.
+
+[.salutation]
 Present the king`'s most excellent majesty in council.
 
 Upon reading a petition of the people called Quakers, inhabiting the island of Barbados,
@@ -147,7 +161,10 @@ who is to give the petitioners such relief in relation to the militia,
 as to him seems just and reasonable to answer their particular circumstances,
 and then to make report thereof to his majesty.
 
-Richard Colling.
+[.signed-section-signature]
+Richard Colling
+
+--
 
 This year deceased Alexander Parker, sometimes mentioned in this history,
 being a man not only of a godly life and conduct,
@@ -176,6 +193,9 @@ advice to all the churches of Christ throughout the world,
 in which he exhorted them more particularly to charity.
 And since several remarkable duties are held forth and recommended therein,
 I cannot well omit to insert a copy of it here, which is as follows:
+
+[.embedded-content-document.epistle]
+--
 
 Dearly beloved friends and brethren,
 gathered out of the world by the eternal arm and power of the mighty God,
@@ -698,9 +718,13 @@ Amen.
 From your friend and brother,
 in the communion and fellowship of the gospel of peace and purity,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.signed-section-context-close]
 London, the 15th of the 7th month, 1690.
+
+--
 
 Passing now by other matters of this year, we pass on to the next, being 1691,
 about the beginning of which G. Fox departed this life,
@@ -764,6 +788,9 @@ to the admiration of those who heard him.
 His qualities are at length set forth by Thomas Ellwood, an eminent author,
 who having been much with him, gave the following description of his character.
 
+[.embedded-content-document.testimony]
+--
+
 He was indeed a heavenly-minded man, zealous for the name of the Lord,
 and preferred the honor of God before all things.
 He was valiant for the truth, bold in asserting it, patient in suffering for it,
@@ -788,6 +815,8 @@ full of brotherly love, full of fatherly care,
 for indeed the care of the churches of Christ was daily upon him,
 the prosperity and peace of which he diligently sought.
 
+--
+
 Still more is said of him to his praise, both by Thomas Ellwood and others,
 but I will not detain my reader any longer therewith.
 His wife, about six months before his death, came to him at London,
@@ -801,6 +830,10 @@ What this signified, seemed to be a riddle; but he being now deceased,
 it was judged to be the time to open this letter, which was directed to his friends,
 and was as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 For the yearly and second-day`'s-meeting in London and to
 all the children of God in all places in the world.
 By and from G. Fox.
@@ -890,7 +923,11 @@ there is trouble.
 Therefore keep in Christ, and walk in Him.
 Amen.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+[.postscript]
+====
 
 P+++.+++ S. Jerusalem was the mother of all true Christians before the apostasy;
 and since then, the outward Christians are broken into many sects,
@@ -898,9 +935,15 @@ and they have gotten many mothers.
 But all who have come out of the apostasy by the power and Spirit of Christ,
 have Jerusalem above as their mother, who does nourish all her spiritual children.
 
+====
+
+[.signed-section-signature]
 G+++.+++ Fox
 
+[.signed-section-context-close]
 Read at the Yearly Meeting in London, 1691.
+
+--
 
 This year I find that William Goodridge of Banwell, in Somersetshire,
 was released from prison, where he had been confined about thirteen years.
@@ -1056,6 +1099,10 @@ and agreeable with the Holy Scriptures.
 This they did by the following treatise,
 which in the year 1693 came forth in print in London, as follows:
 
+[.embedded-content-document.treatise]
+--
+
+[.letter-heading]
 The Christian Doctrine and Society of the People called Quakers, Cleared, etc.
 
 Whereas several accounts have been lately published in print regarding some recent
@@ -1079,6 +1126,7 @@ solemnly and sincerely declare what our Christian belief and profession has been
 and still is, in respect to Jesus Christ the only begotten Son of God, His suffering,
 death, resurrection, glory, light, power, great day of judgment, etc.
 
+[.offset]
 We sincerely profess:
 
 Faith in God by His only begotten Son Jesus Christ, as being our light and life,
@@ -1352,6 +1400,7 @@ what the holy Scriptures plainly declare and testify in these matters,
 having always been ready to embrace the testimonies
 and prophecies of Christ and His apostles.
 
+[.offset]
 1+++.+++ As for the doctrine of the resurrection:
 
 "`If in this life only we have hope in Christ,
@@ -1387,6 +1436,7 @@ Howbeit, we esteem it very unnecessary to dispute or question how the dead are r
 or with what body they come;
 but rather submit such things to the wisdom and pleasure of the Almighty God.
 
+[.offset]
 2+++.+++ As for the doctrine of eternal judgment:
 
 God has committed all judgment unto His Son Jesus Christ;
@@ -1452,6 +1502,7 @@ unto the judgment of the great day, Jude 6; Matt.
 25:30. It is not for us to determine or dispute the manner how they shall be so reserved;
 but leave it to God; for He knows how.
 
+[.offset.centered]
 A Postscript relating to the doctrine of the Resurrection and eternal Judgment.
 
 At the last trumpet of God, and the voice of the archangel,
@@ -1484,10 +1535,14 @@ and every one shall be judged by the things recorded therein, according to their
 Rev.
 20:12-15.
 
+[.signed-section-closing]
 Signed in behalf of our Christian profession and the people aforesaid by,
 
+[.signed-section-signature]
 George Whitehead, Charles Marshall, Ambrose Rigge, John Bowater, William Fallowfield,
 John Vaughton, James Parke, William Bingley.
+
+--
 
 This paper generally gave satisfaction, and was also well received in Holland,
 where having translated it into Dutch, I got it published in print.
@@ -1497,26 +1552,40 @@ endeavored also to render them odious to the government,
 the following confession of faith (signed by thirty-one persons,
 of which G. Whitehead was one) was in December presented to the parliament:
 
+[.embedded-content-document.paper]
+--
+
+[.offset]
 Be it known to all that we sincerely believe and confess:
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ That Jesus of Nazareth, who was born of the Virgin Mary, is the true Messiah,
 the very Christ, the Son of the living God, to whom all the prophets gave witness;
 and that we do highly value His death, sufferings, works, offices,
 and merits for the redemption of mankind, together with His laws, doctrine,
 and ministry.
 
-II. That this very Christ of God,
+[.numbered]
+II+++.+++ That this very Christ of God,
 who is the Lamb of God that takes away the sins of the world, was slain, was dead,
 and is alive, and lives forever in His divine, eternal glory, dominion,
 and power with the Father.
 
-III.
-That the holy Scriptures of the Old and New Testament, are of divine authority,
+[.numbered]
+III+++.+++ That the holy Scriptures of the Old and New Testament, are of divine authority,
 as being given by the inspiration of God.
 
-IV. And that magistracy or civil government is God`'s ordinance,
+[.numbered]
+IV+++.+++ And that magistracy or civil government is God`'s ordinance,
 the good ends thereof being for the punishment of evil-doers,
 and the praise of them that do well.
+
+====
+
+--
 
 By this and the similar writings,
 the eyes of many that were at the helm began to be more opened;
@@ -1537,6 +1606,9 @@ setting forth the great sufferings they had endured because their
 solemn declaration would not be accepted instead of an oath.
 This petition concluded thus:
 
+[.embedded-content-document.paper]
+--
+
 We therefore earnestly and humbly request,
 that you will be pleased to give leave to bring in a bill,
 allowing for our solemn answer, affirmation or denial, to be accepted instead of an oath,
@@ -1547,20 +1619,35 @@ and be duly convicted thereof,
 that every such person shall undergo the like pains and
 penalties as are provided against perjured persons.
 
+[.signed-section-signature]
 William Mead, William Bingley, George Whitehead, Samuel Waldenfield, William Crouch,
 John Staploe, Walter Rental, William Macker, Thomas Hart, Joseph Wright,
 Jr. Michael Russet, Theodore Ecclestone.
 
+--
+
+[.offset]
 The petition being read in the House of Commons, they came to the following resolution:
+
+[.embedded-content-document]
+--
 
 A petition of the people called Quakers was read.
 Resolved, that the consideration thereof be referred to a committee;
 and that they report their opinions therein to the house.
 
+--
+
+[.offset]
 A committee being ordered accordingly, sat thereupon, and gave their judgment as follows:
+
+[.embedded-content-document]
+--
 
 Upon the whole it is the opinion of this committee,
 that the Quakers ought to be relieved according to the request of their petition.
+
+--
 
 Nevertheless, nothing was obtained during that session;
 for their enemies were yet powerful enough in parliament,
@@ -1574,6 +1661,10 @@ a representation of their case of not swearing,
 being signed on their behalf by Theodore Ecclestone,
 was delivered to the members of parliament, and was as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 A brief representation of the Quakers`' case of not swearing;
 and why they might have been, and yet may be relieved therein by Parliament.
 
@@ -1624,18 +1715,27 @@ Seeing then that their relief is so needful to them, so harmless to all,
 and so useful to the government and their neighbors;
 let us a little consider the common objections; which may be summed up in short thus:
 
-First objection: How shall we certain that they speak the truth?
+[.numbered-group]
+====
 
-Secondly: Why should the laws be altered for them?
+[.numbered]
+__First objection:__ How shall we be certain that they speak the truth?
 
-Thirdly: This would be to tear down old foundations.
+[.numbered]
+__Secondly:__ Why should the laws be altered for them?
 
-Fourthly: And it would allow them into the government.
+[.numbered]
+__Thirdly:__ This would be to tear down old foundations.
+
+[.numbered]
+__Fourthly:__ And it would allow them into the government.
+
+====
 
 It is hoped that these will not be difficult to answer one by one,
 and that to reasonable satisfaction.
 
-As to the first, namely, the doubt of certainty:
+__As to the first, namely, the doubt of certainty:__
 It may be rationally affirmed that whosoever is bound to tell the truth,
 especially against a man`'s own interest (which is where the temptation, if any,
 mainly lies), such are either so bound by the law of God, or by the law of men, or both.
@@ -1649,7 +1749,7 @@ it would then be equally effectual and binding both
 to them that give answers without swearing,
 and to them that swear.
 
-As to the second objection, that it would be an alteration of the law:
+__As to the second objection, that it would be an alteration of the law:__
 It would not be an alteration of the substance of the law, but only of a circumstance;
 and if the change has no detriment in it, but is really an amendment,
 and is a conveniency to an honest and industrious people, why should it not be done?
@@ -1664,12 +1764,12 @@ And shall the ease of trade be so quickly granted,
 while the ease of conscience be so long denied,
 knowing that the scruple of this people arises from a positive command of Christ?
 
-And for the third objection, that this is to tear down old foundations: I answer, not so;
+__And for the third objection, that this is to tear down old foundations:__ I answer, not so;
 it is rather to mend them, which is the proper work of parliament.
 
 Did not parliament abrogate popery, with all its claims to antiquity?
-Did not a parliament make the act of Habeas Corpus^
-footnote:[The act of Habeus Corpus gave persons who were deprived of their
+Did not a parliament make the act of __Habeas Corpus__^
+footnote:[The act of __Habeus Corpus__ gave persons who were deprived of their
 liberty the right to challenge the legality of their arrest or detention.]
 against the claim of royal prerogative?
 And was it more reasonable to protect a subject from
@@ -1687,7 +1787,7 @@ And therefore their relief in parliament is a fitting
 case to be there tenderly taken notice of,
 and provided for.
 
-As to the fourth objection, that it will tend to let them into the government:
+__As to the fourth objection, that it will tend to let them into the government:__
 In answer to this I say, you may bar this in whatever manner you please;
 only do not let this concern,
 (from which they may so easily and so willingly be excluded) be a hindrance
@@ -1700,7 +1800,7 @@ text which they esteem plain and positive on their side,
 and from which they dare not swerve.
 And in this they have the concurrence of many ancient fathers and martyrs,
 and more recently of the Mennists, and the late Francis Osbourne, esq.
-in his Political Reflections, 7th edition, p. 319, who speaking of judicial cases,
+in his [.book-title]#Political Reflections#, 7th edition, p. 319, who speaking of judicial cases,
 calls not swearing,
 a "`yielding sincere and faithful obedience to the precept of our Savior,
 '`Swear not at all:`' which,`" says he,
@@ -1734,11 +1834,16 @@ for which ease they are sincerely thankful; so be pleased to add to that kindnes
 their relief in the matter of oaths between them and other subjects,
 as well as between the government and them.
 
+[.signed-section-closing]
 Signed on behalf of the said people,
 
-Theodore Ecclestone.
+[.signed-section-signature]
+Theodore Ecclestone
 
+[.signed-section-context-close]
 London, Dec. 22, 1694.
+
+--
 
 Though after the delivering of this representation,
 the parliament this year did not come to a full resolution for their relief,
@@ -1776,4 +1881,4 @@ and perhaps no queen in many ages has been more beloved than she was.
 But I break off;
 others have given an account of her excellent qualities and character to the world,
 and it may be none better than Gilbert Burnet, bishop of Salisbury,
-in a treatise entitled, An Essay on the Memory of the late Queen.
+in a treatise entitled, [.book-title]#An Essay on the Memory of the late Queen#.

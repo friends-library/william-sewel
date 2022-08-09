@@ -7,6 +7,9 @@ King James had not long been at the helm of the government,
 when the dissenters applied to him for liberty of worship,
 and among these were also the Quakers, who made the following petition:
 
+[.embedded-content-document]
+--
+
 To the King and both houses of parliament:
 humbly presenting the suffering condition of the peaceable people called Quakers,
 only for tender conscience towards Almighty God.
@@ -62,37 +65,21 @@ thereby to force us to a conformity without inward
 conviction or satisfaction of our tender consciences,
 wherein our peace with God is concerned.
 
+[.offset]
 The statutes on which we, the said people, suffer imprisonment, distress, and spoil,
 are as follows:
 
-The 5th of Elizabeth ch.
-23+++.+++ De Excommunicato Capiendo.
-
-The 23rd of Elizabeth ch.
-1, for twenty pounds per month.
-
-The 29th of Elizabeth ch.
-6, for continuation.
-
-The 35th of Elizabeth ch.
-1, for abjuring the realm, on pain of death.
-
-The 1st of Elizabeth ch.
-2, for twelve pence a Sunday.
-
-The 3rd of King James I. ch.
-4, for Premunire, imprisonment during life, and estates confiscated.
-
-The 13th and 14th of King Charles II. against Quakers, etc. for banishment.
-
-The 22nd of King Charles II. ch.
-1, against seditious conventicles.
-
-The 17th of King Charles II. ch.
-2, against nonconformists.
-
-'`The 27th of King Henry VIII.
-ch. 20, some few suffer thereupon.
+[.syllogism]
+* The 5th of Elizabeth ch. 23+++.+++ De Excommunicato Capiendo.
+* The 23rd of Elizabeth ch. 1, for twenty pounds per month.
+* The 29th of Elizabeth ch. 6, for continuation.
+* The 35th of Elizabeth ch. 1, for abjuring the realm, on pain of death.
+* The 1st of Elizabeth ch. 2, for twelve pence a Sunday.
+* The 3rd of King James I. ch. 4, for Premunire, imprisonment during life, and estates confiscated.
+* The 13th and 14th of King Charles II. against Quakers, etc. for banishment.
+* The 22nd of King Charles II. ch. 1, against seditious conventicles.
+* The 17th of King Charles II. ch. 2, against nonconformists.
+* The 27th of King Henry VIII. ch. 20, some few suffer thereupon.
 
 Upon indictments at common law,
 pretended and framed against our peaceable religious assemblies for riots,
@@ -113,15 +100,15 @@ etc. when nothing of that nature could ever be proved against them,
 there being nothing of violence or injury either done, threatened, or intended,
 against the person or property of anyone whatsoever.
 
-The long and tedious imprisonments are chiefly upon the writs de excommunicatu capiendo,^
+The long and tedious imprisonments are chiefly upon the writs _de excommunicatu capiendo_,^
 footnote:[A writ ordering the imprisonment of an excommunicated
 person until he or she submitted to the national church.]
 upon the judgment of premunire, or upon fines said to be for the king.
 
 The great spoil and excessive distresses and seizures
 are chiefly based on the conventicle act,
-and for twenty pounds a month, two-thirds of estates, and upon writs of qui tam.^
-footnote:[A writ of qui tam is where a private party brings a lawsuit
+and for twenty pounds a month, two-thirds of estates, and upon writs of _qui tam_.^
+footnote:[A writ of __qui tam__ is where a private party brings a lawsuit
 against an individual on behalf of the king or government.]
 In some counties many have suffered by seizures and distresses from eight years previous,
 and writs have been issued for further seizures in
@@ -216,10 +203,18 @@ and for Christ`'s sake,
 entreat that you will tenderly and charitably consider the premises,
 and find out some effectual way for our relief from prisons, spoil, and ruin.
 
+--
+
+[.offset]
 The following application was likewise presented.
 
+[.embedded-content-document]
+--
+
+[.letter-heading]
 To King James the Second.
 
+[.signed-section-context-open]
 The humble application of the people called Quakers.
 
 Whereas it has pleased Almighty God, by whom kings reign,
@@ -237,6 +232,8 @@ we do humbly hope that the king`'s tenderness will
 appear and extend with his power to express the same;
 recommending to his princely clemency,
 the case of our present suffering friends hereunto annexed.
+
+--
 
 This annexed list, with the aforesaid petition to the king and parliament,
 was not altogether ineffectual; for there was much talk now of liberty of conscience.
@@ -257,6 +254,10 @@ which grew concerned that by the repeal of those laws,
 the Papists (who now had a king of their own persuasion) would become too powerful.
 In the meantime the king published the following proclamation:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 James R.
 
 To all archbishops and bishops, to their chancellors and commissioners,
@@ -278,7 +279,7 @@ In pursuance of the said will of our most dear brother,
 and in consideration of the sufferings of the said persons, our will and pleasure now is,
 that you cause all proceedings against the said persons to be wholly suspended and void.
 And if any of the said persons be decreed or pronounced excommunicated,
-or have been so certified, or are in prison upon the writ de excommunicato capiendo,
+or have been so certified, or are in prison upon the writ de __excommunicato capiendo__,
 for any of the causes aforesaid,
 our pleasure is that you absolve and cause such persons to be cleared, discharged,
 or set at liberty,
@@ -289,9 +290,13 @@ until our pleasure therein shall be further signified.
 Given at our Court at Whitehall, this 18th of April, 1685,
 in the first year of our reign.
 
+[.signed-section-closing]
 By his majesty`'s command,
 
+[.signed-section-signature]
 Sunderland
+
+--
 
 This was the king`'s first step towards liberty of conscience,
 both for Papists as well as persons of other persuasions,
@@ -439,6 +444,10 @@ into any engagement upon such terms as were prescribed.
 Yet it was concluded to acknowledge the good intention of the magistrates of Embden,
 by drawing up the following letter and sending it to them.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To the Lords, Burgomasters, Counsellors, and Rulers of the city of Embden.
 
 This is to acquaint you, with due respect, that a plan of yours,
@@ -510,12 +519,17 @@ that the Lord God may be pleased to preserve you,
 and to make you continue in such a good, wholesome, and well-grounded resolution.
 We are, and rest,
 
+[.signed-section-closing]
 Your true friends and well-wishers,
 
+[.signed-section-signature]
 Barent Van Tongeren, William Sewel, Jacob Claus, Stephen Crisp, John Roelofs, John Claus,
 Peter Hendriksz.
 
+[.signed-section-context-close]
 Amsterdam, the 9th of the Third month, alias March, 1686.
+
+--
 
 In answer to this,
 the senate sent the following resolution to the subscribers of the aforesaid letter,
@@ -523,6 +537,10 @@ being, as appears by the contents,
 the decree of the senate according as it was entered into their records,
 of which the authentic copy, signed by the city`'s secretary, is in my custody.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Lunce 15 Marti, 1686.
 
 Received a letter on the 12th of this month,
@@ -538,9 +556,13 @@ that our word shall effectually be kept to the subscribers,
 and all others of their persuasion,
 and that the promised protection shall be really performed.
 
+[.signed-section-closing]
 Ad mandatum senatus speciale,
 
+[.signed-section-signature]
 O+++.+++ Hillings, Sec.
+
+--
 
 Thus it pleased the senate of Embden to give those
 called Quakers liberty to dwell among them,
@@ -580,6 +602,9 @@ For having heard that the Quakers in the isle of Barbados, in the West Indies,
 were very much molested because for conscience-sake they could not bear arms,
 he ordered some of the members of his council to write the following letter:
 
+[.embedded-content-document.letter]
+--
+
 After our hearty commendations,
 his majesty having been pleased to refer unto us
 the petition of the Quakers inhabiting Barbados,
@@ -595,9 +620,13 @@ according to the intention of the said act.
 And so we bid you heartily farewell.
 Your loving friends,
 
+[.signed-section-signature]
 Jefferies, Craven, Albemarle, Middleton.
 
+[.signed-section-context-close]
 From the Council chamber, Whitehall, the 23rd July, 1686.
+
+--
 
 From this letter it appears plainly that the king endeavored to relieve
 the Quakers from the burden of persecution that they were under.
@@ -607,12 +636,18 @@ to the earl of Huntington,
 to stop the persecution in Leicestershire and Nottinghamshire
 where one John Smith had acted most grievously.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Whitehall, Dec. 7, 1686.
 
+[.offset]
 To the right honorable earl of Huntingdon,
 one of his majesty`'s most honorable privy council, chief recorder of Leicester,
 keeper of the records of the county of Leicester.
 
+[.salutation]
 My Lord,
 
 The king being informed that one John Smith, a common informer,
@@ -626,17 +661,26 @@ and his prosecution against the Quakers.
 My lord, I am for his grace the duke of Newcastle,
 one of his majesty`'s most honorable privy council, etc.
 
+[.signed-section-closing]
 Your grace`'s most faithful and humble servant,
 
+[.signed-section-signature]
 Sunderland, P.
+
+--
 
 The king being thus inclined to give liberty to prisoners who were in custody for religion,
 neglected no opportunity to obtain it; of which the following petition is an evidence.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To chief Justice Herbert and judge Wright,
 assigned to hold court session and jail-delivery for the western circuit,
 at Wells for the county of Somerset, the thirtieth of the month called March, 1686.
 
+[.salutation]
 Several of the people called Quakers, now prisoners in the jail at Ivelchester,
 in the county of Somerset, on behalf of themselves and many others of the same people,
 in humility show:
@@ -690,6 +734,8 @@ The Lord guide you in judgment, and more and more incline your hearts to love me
 and do justice, and may He grant you the reward thereof,
 which is truly our desire and prayer.
 
+--
+
 This petition was signed by sixteen persons, some of whom had been imprisoned fifteen,
 others ten, and some fewer years;
 and along with the length of their imprisonment was
@@ -708,6 +754,10 @@ in addition to discharging his duty by word of mouth.
 And lest carelessness should creep in, by reason of the liberty that was now enjoyed,
 he wrote the following epistle to his friends:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Friends,
 
 The Lord by His eternal power has opened the heart of the king, to open the prison doors,
@@ -744,9 +794,13 @@ and is now the rock of our age; which rock and foundation of God stands sure.
 And upon this, may the Lord God establish all His people.
 Amen.
 
+[.signed-section-signature]
 George Fox.
 
+[.signed-section-context-close]
 London, the 25th of the Seventh month, 1686.
+
+--
 
 In this year David Barclay died at Ury in Scotland.
 Before his departure he uttered many excellent expressions indeed,
@@ -868,6 +922,9 @@ and by beads, etc., in the year 1687 he wrote the following paper concerning pra
 not fearing to contradict openly that which he judged to be superstition,
 though the king himself was of the popish religion.
 
+[.embedded-content-document.paper]
+--
+
 Christ Jesus, when He taught His disciples to pray, said unto them, "`When you pray, say,
 Our Father, who is in heaven, hallowed be Your name,`" etc.
 Christ does not say that they should pray to Mary the mother of Christ;
@@ -904,7 +961,10 @@ Eccles.
 and that cover with a covering, but not of My Spirit, that they may add sin to sin.`"
 Isa. 30:1
 
+[.signed-section-signature]
 George Fox.
+
+--
 
 On the 20th of the month called March, Robert Widders,
 one of the first preachers among those called Quakers, died.
@@ -937,12 +997,18 @@ to the king for his declaration for liberty of conscience,
 thought it convenient to draw up an address also, and present it to the king,
 which was as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King James II, over England, etc.
 
+[.offset]
 The humble and thankful address of several of the king`'s subjects,
 commonly called Quakers, in and about the city of London,
 on behalf of themselves and those of their communion.
 
+[.salutation]
 May it please the king,
 
 Though we are not the first to appear in this way,
@@ -985,7 +1051,10 @@ And we pray God to bless the king, his royal family and people, with grace and p
 and that after a long and prosperous reign here,
 he may receive a better crown amongst the blessed.
 
+[.signed-section-closing]
 Which is the prayer of, etc.
+
+--
 
 This address was received favorably,
 and therefore some deputies from the yearly-meeting (which was
@@ -994,6 +1063,10 @@ and went to Windsor where the court then was.
 William Penn, being the one who had been chosen to present the address,
 then made the following speech to the king:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 May it please the King,
 
 It was the saying of our blessed Lord to the captious Jews respecting tribute,
@@ -1023,10 +1096,16 @@ which is now met together in London about our church affairs,
 has appointed us to wait upon the king with our humble thanks, and me to deliver them.
 This I do by this address, with all the affection and respect of a dutiful subject.
 
+--
+
 After W. Penn had spoken this much, he then presented the written address to the king,
 who after kindly receiving it, gave it again to William Penn to read,
 which was as follows:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 To King James II over England, etc.
 
 The humble and grateful acknowledgements of his peaceable subjects called Quakers,
@@ -1061,10 +1140,18 @@ and prosperity of the kingdom,
 will produce such a concurrence from the parliament
 as will secure it to our posterity in after-times.
 
+[.signed-section-closing]
 His peaceable, loving, and faithful subjects.
 
+--
+
+[.offset]
 After William Penn had read the said address, the king spoke as follows:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Gentlemen,
 
 I thank you heartily for your address.
@@ -1074,6 +1161,8 @@ and that all men ought to have the liberty of their consciences.
 And what I have promised in my declaration, I will continue to perform as long as I live;
 and I hope before I die,
 to settle it so that after-ages shall have no reason to alter it.
+
+--
 
 Here we see what the king declared to be his intention; but perhaps he did not consider,
 that if such a general liberty had been procured,
@@ -1099,6 +1188,10 @@ he would open a door for the Papists to bear offices without taking the required
 However, that he did discharge the Quakers from some oaths,
 may be seen by the following order to the lord mayor of London:
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 My Lord,
 
 The king being informed that Edward Brooker, Henry Jefferson, and Joseph Tomlinson,
@@ -1115,17 +1208,26 @@ either be allowed to serve the said offices without taking any oaths,
 or else that they be not fined or otherwise molested upon that account;
 and his majesty would have you give order therein accordingly.
 
+[.signed-section-closing]
 I am, my Lord, your Lordship`'s most humble servant,
 
+[.signed-section-signature]
 Sunderland
+
+--
 
 Now whereas in some places goods taken from the Quakers still lay unsold,
 the king ordered these goods to be restored to them,
 as may appear by the following letter written to the mayor and aldermen of Leeds,
 in Yorkshire:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Whitehall, December 14, 1687.
 
+[.salutation]
 Gentlemen,
 
 The King being informed that some goods belonging to John Wales,
@@ -1142,9 +1244,13 @@ which were heretofore seized upon the account of religious worship, and are unso
 in whose hands soever they remain,
 to be forthwith restored to the respective owners without any charge.
 
+[.signed-section-closing]
 I am, gentlemen, your affectionate friend and servant,
 
+[.signed-section-signature]
 Sunderland
+
+--
 
 By such means some received back the goods which
 had been taken upon the account of religious worship;
@@ -1275,8 +1381,13 @@ was held this summer in London) to draw up again an address to the king,
 and to acquaint him with one thing more which continued to be troublesome to them.
 The address they presented to him was as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King James II over England, etc.
 
+[.offset]
 The humble address of the People called Quakers, from their Yearly-Meeting in London,
 the 6th day of the month called June, 1688.
 
@@ -1318,6 +1429,8 @@ and heartily appear in support of liberty of conscience,
 and yet be entirely true to our own religion,
 whatever the folly or malice of some men may suggest to the contrary.
 
+--
+
 This address being presented to the king, was well received.
 Some have thought that the latter part of this address concerned the office of a magistrate,
 which position, it is believed,
@@ -1351,10 +1464,16 @@ There were now at Norwich, about forty of the people called Quakers,
 who having petitioned the king that he would be pleased to cause them to be made freemen,
 obtained the following order from him:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To our trusty and well-beloved our Attorney-General.
 
+[.signed-section-context-open]
 James R.
 
+[.salutation]
 Trusty and well-beloved, we greet you well:
 
 Whereas we have received a good report of the loyalty of our well-beloved subjects,
@@ -1376,7 +1495,10 @@ Given at our court at Whitehall, the 13th day of July, 1688,
 in the fourth year of our reign.
 By his majesty`'s command.
 
-Sunderland.
+[.signed-section-signature]
+Sunderland
+
+--
 
 Many now said that the king had no right to do this;
 and those who grudged the Quakers this liberty,
@@ -1531,7 +1653,7 @@ looking over the property and seeing some oars and poles,
 he required the constable to take them away.
 To this the constable answered, "`I am no porter.`"
 "`Then,`" said the justice, "`command some others to do it.`"
-To which the constable replied, "`I command you to do it.`"
+To which the constable replied, "`I command _you_ to do it.`"
 This so enraged the justice that he fined him.
 
 Some time after this,
@@ -1576,7 +1698,7 @@ if we would take it away again he would not hinder us.
 This is all we have to say.`"
 Some of the grand jury knew Theophilus very well, and the cause too,
 which did not much work in the justice`'s favor; and as for the indictment,
-they brought it in ignoramus.^
+they brought it in _ignoramus_.^
 footnote:[The decision of a grand jury that there is not evidence to support the charges,
 upon which all proceedings are stopped, and the accused person is discharged.]
 So Theophilus was cleared by proclamation; and sir Richard How, being one of the jury,
@@ -1608,6 +1730,9 @@ as admiral,
 had had in the service of the king when still duke of York and high admiral of England;
 also do his favor in releasing him out of the tower of London in the year 1669.
 To this he added:
+
+[.embedded-content-document.paper]
+--
 
 My father`'s humble request to him upon his deathbed, was,
 to protect me from the inconveniences and troubles
@@ -1647,6 +1772,8 @@ Nor did I ever once think of promoting any sort of liberty of conscience
 for anybody which did not preserve the common Protestant kingdom,
 and the ancient rights of the government; for to say truth,
 the one cannot be maintained without the other.
+
+--
 
 From this little abstract of William Penn`'s defense,
 it appears sufficiently what kind of liberty he defended;
@@ -1697,11 +1824,17 @@ But being now released, he came in the month called May to London,
 and there preached a sermon concerning regeneration,
 which was taken from his mouth in short hand, and afterwards printed as follows.
 
+[.embedded-content-document]
+--
+
+[.letter-heading]
 A Sermon preached by William Dewsbury, at Gracechurch Street, the 6th of the Third month,
 1688.
 
+[.salutation]
 My Friends,
 
+[.offset]
 Except you be regenerated and born again, you cannot inherit the Kingdom of God.
 
 This is the word of the Lord God to all people this day.
@@ -1925,7 +2058,7 @@ do not put off this work, but pursue it, and it will be perfected.
 Experience Christ to be revealed in you by His Holy Spirit and fire.
 God will redeem you by the spirit of judgment and burning.
 It is not by roving abroad in your minds,
-but you must know "`Christ in you unless you be reprobates.`"^
+but you must know "`Christ __in you__ unless you be reprobates.`"^
 footnote:[2 Corinthians 13:5]
 
 If He has set your eyes and hearts upon Himself,
@@ -1953,7 +2086,7 @@ Oh who will not lose their lives for this everlasting life?
 Who will not die for this eternal life?
 The matter lies in the death of your own wills.
 And when you have done the will of God, then watch that your own wills remain slain,
-and that cursed self takes not the jewels of God, or His bracelets and ornaments,
+and that cursed _self_ takes not the jewels of God, or His bracelets and ornaments,
 to bestow them upon self, to paint and deck cursed self,
 or to take the members of Christ, and make them the members of a harlot.
 If you are dead to your own wills, you are risen with Christ,
@@ -2109,12 +2242,17 @@ that He may lift them up, and be all in all to them.
 And in His blessed presence they shall have joy,
 and rivers of pleasures at His right hand forevermore.
 
+--
+
 William Dewsbury`'s intention was to have attended the yearly meeting of his friends;
 but he was prevented by illness; and therefore before he grew worse,
 he returned to Warwick where he lived.
 Having come there, his infirmity increased, and lying very sick in bed,
 and being visited by some of his friends, he said to them in great weakness of body,
 as follows:
+
+[.embedded-content-document]
+--
 
 My God has yet put it in my heart to bear a testimony to His name and blessed truth.
 I can never forget the day of His great power and blessed appearance,
@@ -2144,6 +2282,8 @@ and bear a faithful and living testimony for Him in your day.
 The Lord will prosper His work in your hand,
 and cause His truth to flourish and spread abroad.
 For truth shall have the victory, and no weapon formed against it shall prosper.
+
+--
 
 Thus fervent in spirit was William Dewsbury in his latter end.
 He prayed to God very earnestly for all his friends,
