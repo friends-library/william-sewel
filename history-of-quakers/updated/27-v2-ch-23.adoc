@@ -55,7 +55,7 @@ and charity, to the glory of God, and the benefit of these nations.
 May the King of kings make your reign long and glorious,
 in addition to which temporal blessing we shall pray for your eternal happiness.
 
-[.signed-section-closing]
+[.signed-section-context-close]
 Signed on behalf and by appointment of the aforesaid people, at a meeting in London,
 the 10th of the second month, 1702.
 
@@ -102,7 +102,7 @@ to direct all your counsels and undertakings, so that righteousness,
 which exalts a nation, and mercy and justice, which establish a throne,
 may be the character of your reign, and the blessings of these kingdoms under it.
 
-[.signed-section-closing]
+[.signed-section-context-close]
 Signed by the appointment and on the behalf of the said meeting.
 
 --
@@ -1645,9 +1645,7 @@ that '`He who rules over men must be just, ruling in the fear of God;
 and he shall be like the light of the morning when the sun rises,
 a morning without clouds,
 like the tender grass springing out of the earth by clear shining after rain.`'^
-footnote:[2 Samuel 23:3-4]`"
-
-This speech was favorably heard by the prince.
+footnote:[2 Samuel 23:3-4]`" This speech was favorably heard by the prince.
 
 It was not long after the king`'s coming in that Dr. Gilbert Burnet, bishop of Salisbury,
 the renowned author of the [.book-title]#History of the Reformation in England#, died.
