@@ -108,6 +108,9 @@ he was so sensibly touched with repentance that he
 caused the following paper to be written,
 and signed it.
 
+[.embedded-content-document.paper]
+--
+
 I, John Batt the younger, of the island of Barbados,
 was lately by commission from Colonel Thornhill,
 a marshal to his regiment of foot soldiers;
@@ -127,7 +130,13 @@ and I do believe that no man will ever be blessed or prosper,
 that practices such things against that people.
 In witness whereof I have hereunto set my hand, this tenth day of May, 1679.
 
-John Batt, Jr. Witness William Howard, Antrobus.
+[.signed-section-signature]
+John Batt, Jr.
+
+[.signed-section-context-close]
+Witness William Howard, Antrobus.
+
+--
 
 Well had others done, if they had taken example by this;
 but it was not in vain that our Savior in the parable of the rich man and Lazarus,
@@ -211,8 +220,11 @@ that the solemn affirmation and declaration of the people called
 Quakers would be accepted instead of an oath in the usual form,
 as appears by the following act:
 
-An Act that the solemn Affirmation and Declaration of the people called Quakers,
-shall be accepted instead of an Oath in the usual form.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== An Act that the solemn Affirmation and Declaration of the people called Quakers, shall be accepted instead of an Oath in the usual form.
 
 Whereas various dissenters, commonly called Quakers,
 refusing to take an oath in courts of justice and other places,
@@ -230,9 +242,14 @@ shall, instead of the usual form,
 be permitted to make his or her solemn affirmation
 or declaration in these following words:
 
+[.numbered-group]
+====
+
+[.numbered]
 "`I +++_______+++, do declare in the presence of Almighty God,
 who is the witness of the truth of what I say, etc.`"
 
+[.numbered]
 II. This solemn affirmation or declaration shall be adjudged and taken,
 and is hereby enacted and declared to be of the same force and effect,
 to all intents and purposes, in all courts of justice and other places,
@@ -240,6 +257,7 @@ wherever an oath is required by law within this kingdom
 of England and the dominion of Wales,
 as if such Quaker had taken an oath in the usual form.
 
+[.numbered]
 III.
 And let it be further enacted by the aforesaid authority, that if any Quaker,
 making such a solemn affirmation or declaration,
@@ -250,13 +268,19 @@ every such Quaker so offending shall incur the same penalties
 and forfeitures as by the laws and statutes of this realm
 are enacted against persons convicted of willful perjury.
 
+[.numbered]
 IV. And let it be it enacted, that no Quaker,
 or reputed Quaker shall by virtue of this act be qualified
 or permitted to give evidence in any criminal causes,
 or serve on any juries, or bear any office or place of profit in the government.
 
+[.numbered]
 V+++.+++ Provided, that this act shall continue in force for the space of seven years,
 and from there to the end of the next session of parliament, and no longer.
+
+====
+
+--
 
 Thus the Quakers were discharged and freed from that grievous
 burden by which they had been oppressed so many years.
@@ -295,13 +319,20 @@ persons might gather together and cause a dangerous disturbance.
 They therefore declined to appear there, and gave the following reasons of their refusal,
 which were read at the appointed meeting, and afterwards published in print:
 
+[.embedded-content-document.paper]
+--
+
 Whereas George Keith has, after his customary irregular and unruly manner,
 has challenged several of us to defend ourselves against such charges
 as he desires to exhibit against us at Turner`'s hall;
 the following is to certify the reasons why we decline any such meeting,
 before all whom it may concern:
 
-First.
+[.numbered-group]
+====
+
+[.numbered]
+__First.__
 Because the said G. Keith has given us such frequent proofs of his very passionate
 and abusive behavior at the many private meetings we have had with him,
 in all manner of sweetness, long-suffering and patience on our side,
@@ -309,7 +340,8 @@ to satisfy and preserve him from these extremes;
 so that we cannot assure ourselves now of any better reception,
 or that the meeting can have any desirable success.
 
-Secondly.
+[.numbered]
+__Secondly.__
 We decline to meet because it is not a meeting agreed upon by both sides,
 which it ought to have been.
 And where this is not possible, the press is the next fair way and expedient,
@@ -317,26 +349,30 @@ which indeed he has begun, but now seems to decline;
 nor has he sent us any copy of his charges or accusations against us,
 which he also ought to have done.
 
-Thirdly.
+[.numbered]
+__Thirdly.__
 He has two of our books in vindication of us and our doctrines from his accusations,
 and which he has not yet answered; so that he is not upon equal terms with us.
 We therefore we think his challenge, appointment, and summons to be unfair;
 and we believe that all who are not partial will be of the same mind with us.
 
-Fourthly.
+[.numbered]
+__Fourthly.__
 Such public and uncontrolled meetings are too often attended with passion, levity,
 and confusion, and do not answer the end desired by sober and inquiring men.
 Besides this,
 it may set up a practice which the authorities may judge to be an abuse to our liberty,
 and so make us appear to be no friends to the civil peace.
 
-Fifthly.
+[.numbered]
+__Fifthly.__
 We know not what religion or persuasion this wavering man belongs to,
 nor what church or people he adheres to,
 nor who will receive and acknowledge him with his vain speculations,
 or who will be accountable to us for him and his irregularities and abuses.
 
-Sixthly, and lastly.
+[.numbered]
+__Sixthly, and lastly.__
 Let it therefore be known unto all, that for the sake of true religion,
 the liberty granted us, and the civil peace, we decline to meet him;
 and not from any apprehension we have of his abilities,
@@ -353,6 +389,10 @@ and through a true contrition, the remission of his great sin of envy,
 and of evilly treating the Lord`'s people, and way, which we profess,
 and which he too--the said G. Keith--has long and even recently both professed,
 and zealously vindicated as such.
+
+====
+
+--
 
 As has been said, these reasons the Quakers published in print,
 to show the world that it was not without a weighty
@@ -389,7 +429,7 @@ otherwise such a bold action might easily have turned to his disadvantage.
 My limits do not admit of a circumstantial relation
 of what was transacted at that time in Turner`'s-hall;
 yet, in order to show briefly how G. Keith handled matters,
-I will produce one or two instances, whereby, ut ex ungue leonem,
+I will produce one or two instances, whereby, _ut ex ungue leonem_,
 (i.e. the whole may be judged by the part).
 He said he would charge the Quakers with nothing
 but what he would prove from their own writings,
@@ -398,14 +438,14 @@ and he went on thus:
 This was a strange claim indeed,
 since it was very well known that G. Whitehead had
 published a book of above twenty sheets in length,
-with the title, "`The Divinity of Christ,
+with the title, [.book-title]#The Divinity of Christ,
 and Unity of the Three that bear record in Heaven,
 with the blessed end and effect of Christ`'s appearance, coming in the flesh, sufferings,
-and sacrifice for sinners, confessed and vindicated by his followers called Quakers.`"
+and sacrifice for sinners, confessed and vindicated by his followers called Quakers.#
 G+++.+++ Keith could not pretend ignorance of this book,
 for he picked something out of it in his narrative.
-But in order to maintain his charge, he appealed to a book of G. Whitehead`'s, called,
-"`The Light and Life of Christ Within.`"
+But in order to maintain his charge, he appealed to a book of G. Whitehead`'s,
+called, [.book-title]#The Light and Life of Christ Within#.
 This book G. Whitehead had written in answer to W. Burnet, a Baptist preacher,
 who writing of Christ, said, "`As He was God, He was Co-Creator with the Father,
 and so was before Abraham, and had Glory with God before the world was,
@@ -427,7 +467,7 @@ and believe all that is recorded of Him in the holy Scriptures.`"
 
 Now to prove that G. Whitehead had denied Christ to be man,
 Keith cited the following passage from the aforementioned book,
-called "`The Divinity of Christ,
+called [.book-title]#The Divinity of Christ#,
 etc.;`" "`Where does the Scripture say that His soul was created?
 For was He not the brightness of the Father`'s glory,
 and the express image of His divine substance?
@@ -509,7 +549,7 @@ And I yet wish from my very heart, that it may please God, in his unsearchable m
 so to touch his heart before the door of grace be shut,
 that seeing the greatness of his transgression, he may by true repentance,
 obtain forgiveness from the Lord of his evil;^
-footnote:[Editor`'s Note:
+footnote:[__Editor`'s Note:__
 George Keith continued to revile and persecute Friends for many years,
 the details of which can be found in the journals of John Richardson, Samuel Bownas,
 Thomas Wilson, James Dickenson, and others.
@@ -518,8 +558,8 @@ many of Keith`'s neighbors were accustomed to say they should
 be glad if the Quakers would take him back again,
 so that they might be rid of so turbulent a spirit.
 William Hodgson,
-in his "`Select Historical Memoirs of the Religious Society of
-Friends,`" relates the following interesting information regarding
+in his [.book-title]#Select Historical Memoirs of the Religious Society of
+Friends#, relates the following interesting information regarding
 his final days:
 {footnote-paragraph-split}
 "`There is ground to hope,
@@ -558,6 +598,9 @@ which gave occasion to the House of Commons to draw up a
 kind of declaration to be signed by all their members,
 as follows:
 
+[.embedded-content-document.legal]
+--
+
 Whereas, there has been a horrible and detestable conspiracy,
 formed and carried on by Papists and other wicked and traitorous
 persons for the assassinating of his majesty`'s royal person,
@@ -575,12 +618,14 @@ associate, and stand by each other,
 in revenging the same upon his enemies and their adherents,
 and in supporting and defending the succession of the crown,
 according to an act made in the first year of the reign of king William and queen Mary,
-entitled, "`An Act declaring the Rights and Liberties of the Subjects,
-and settling the succession of the Crown.`"
+entitled, __"`An Act declaring the Rights and Liberties of the Subjects,
+and settling the succession of the Crown.`"__
+
+--
 
 A declaration was also signed by the lords, and both were presented to the king,
 and were followed by all the corporations in England.^
-footnote:[See The Life of King William, vol.
+footnote:[See [.book-title]#The Life of King William#, vol.
 III.]
 The dissenters also presented declarations to the
 king that had some resemblance to the others.
@@ -589,8 +634,11 @@ could in no way enter into such a league.
 Nevertheless, to show that they were loyal and faithful to the king,
 they drew up the following declaration, and published it in print:
 
-The ancient testimony and principle of the people called Quakers renewed,
-with respect to the king and government, and touching the present declaration:
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== The ancient testimony and principle of the people called Quakers renewed, with respect to the king and government, and touching the present declaration:
 
 We, the said people, do solemnly and sincerely declare,
 that it has been our judgment and principle from the first day we were called to profess
@@ -627,8 +675,11 @@ and the sad effects it might have had, is an eminent mercy from Almighty God.
 And for this, we, and the whole nation, have great cause to be humbly thankful to Him,
 and to pray for the continuance of His mercies to them and to us.
 
+[.signed-section-context-close]
 From a meeting of the said people in London, the 23rd of the first month, called March,
 1669.
+
+--
 
 In this year Roger Haddock died of a fever at his house in Penketh, in Lancashire,
 about the age of fifty-three years.
@@ -641,6 +692,9 @@ was more than ordinarily full of valuable matter in his preaching,
 his death was much lamented among those churches
 in England where he had labored most in the gospel.
 His wife Eleanor, in her testimony concerning him, said the following:
+
+[.embedded-content-document.testimony]
+--
 
 My spirit has been,
 and is bowed under a deep sense of my great loss
@@ -662,6 +716,8 @@ that the living may see His wonders, and magnify His power in all, through all,
 and over all, who is God eternal, blessed forever.
 Amen.
 
+--
+
 Then in her testimony she gives an account of his life,
 and how in her young years he had been to her a faithful instructor in godliness,
 and at length became her husband.
@@ -671,6 +727,9 @@ that though his love to her was above all visible things,
 as the best of enjoyments he had in this world,
 yet she was not too dear to him to give up to serve the truth of God.
 Thus, she said,
+
+[.embedded-content-document.testimony]
+--
 
 I was made a blessing to him, more comfortable every day than the one before.
 He would often express it; and truly he was so to me every day, every way,
@@ -697,6 +756,8 @@ And though it may be my lot to stay for a time in this world of troubles,
 yet I have hope in immortality and eternal blessedness,
 when time in this world shall be no more.
 
+--
+
 Thus she wrote; but to avoid prolixity, I break off.
 She then giving some account of his life and ministry, mentions,
 that having been away from home, she was not present at his death;
@@ -721,18 +782,22 @@ footnote:[Two verses or poetic lines making a complete sentence; or a couplet.]
 was an evidence, which being sent over by a clergyman from Ghent in Flanders to Holland,
 fell first into my hands:
 
+[verse]
+____
 Prospicimus modo quod durabunt Fcedera longo
-
 Tempore, nee nobis pax cito diffugiet.
+____
 
 Which may be turned into English thus,
 "`We foresee now that the confederacy shall last a long time,
 and that peace will not quickly fly away from us.`"
 However, if one reads this distich backward, it runs thus:
 
+[verse]
+____
 Diffugiet cito pax nobis, nee tempore longo
-
 Fcedera durabunt, quod modo prospicimus.
+____
 
 And it makes out a quite contrary sense, namely: "`Peace will soon fly from us,
 and the covenant shall not last long; which we foresee already.`"
@@ -746,10 +811,16 @@ and people of all societies and persuasions addressed the king,
 the Quakers also drew up also an address, which they presented to the king,
 and was as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King William III over England, etc.
 
+[.offset]
 The grateful acknowledgment of the people commonly called Quakers, humbly presented:
 
+[.salutation]
 May it please the King,
 
 Seeing the most high God, who rules in the kingdoms of men,
@@ -774,7 +845,10 @@ to prosecute all his just and good inclinations,
 that his days here may be happy and peaceable,
 and hereafter he may partake of a lasting crown that will never fade away.
 
+[.signed-section-context-close]
 London, the 7th of the 11th Month, called January, 1697.
+
+--
 
 This address being signed, and presented to the king by George Whitehead, Thomas Lower,
 Daniel Quare, John Vaughton, John Edge, and Gilbert Latey,
@@ -790,8 +864,11 @@ for restraining the liberty of the press.
 Those called Quakers, perceiving that this might be pernicious,
 drew up the following remarks, which they delivered to the members of parliament:
 
-Some considerations humbly offered by the people called Quakers,
-relating to the bill for restraining the liberty of the press.
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== Some considerations humbly offered by the people called Quakers, relating to the bill for restraining the liberty of the press.
 
 To prevent the printing and publishing of seditious
 or treasonable books against the government,
@@ -806,8 +883,8 @@ or reject what he shall construe to be either heretical, seditious, or offensive
 
 History and experience have taught how the obscure term "`heresy`" has been turned
 and stretched against primitive Christian martyrs and famous reformers.
-Nor should it be forgotten for what reason the writ De Haeretico Comburendo^
-footnote:[De haeretico comburendo (2 Hen.4 c.15) was a law
+Nor should it be forgotten for what reason the writ __De Haeretico Comburendo__^
+footnote:[__De haeretico comburendo__ (2 Hen.4 c.15) was a law
 passed by Parliament under King Henry IV of England in 1401,
 punishing heretics with burning at the stake.
 This law was one of the strictest religious censorship statutes ever enacted in England.]
@@ -831,6 +908,8 @@ who is of a different religious persuasion.
 We therefore humbly hope that nothing may be enacted that will lessen the toleration,
 which we thankfully enjoy under the favor of this, as well as the former government.
 
+--
+
 These considerations, with others that were offered,
 were of such an effect that the bill was dropped.
 
@@ -838,7 +917,7 @@ About this time the writings of Antoinette Bourignon were not only translated in
 but also published in print in London.
 This displeased many of the clergy, and an author was employed to write against them,
 who also wrote largely against the Quakers.
-He called his book, The Snake in the Grass; but his own name he concealed;
+He called his book, [.book-title]#The Snake in the Grass#; but his own name he concealed;
 though it was discovered afterwards that he was a suppressed parson,
 who had refused the oath of allegiance to king William.
 This man, in order to render the Quakers odious,
@@ -870,15 +949,15 @@ that holy Scriptures declare,
 This poisonous book was answered at length by George Whitehead and Joseph Wyeth;
 a work which required more toil and labor than art,
 to review all the manifold citations from many authors,
-and to show the unfairness and disingenuity of The Snake in the Grass.
+and to show the unfairness and disingenuity of [.book-title]#The Snake in the Grass#.
 Now since many were very ready to believe the falsities in this book,
 along with those propagated in the pamphlets of the apostate
 Francis Bugg (who had gone over to the church of England),
 a book of John Crook (who was still alive,
 though above eighty years of age) was republished this year,
 which had first been published thirty-five years previous, in the year 1663.
-The title of this book was Truth`'s Principles concerning the Man Christ, His Suffering,
-Death, Resurrection, Faith in His Blood, the Imputation of His Righteousness, etc.
+The title of this book was [.book-title]#Truth`'s Principles concerning the Man Christ, His Suffering,
+Death, Resurrection, Faith in His Blood, the Imputation of His Righteousness, etc.#
 By this it appeared that the sentiments of the Quakers
 concerning these points were not only orthodox now,
 but that they had been so from their early days.
@@ -890,6 +969,10 @@ since he departed this life in the year 1699.
 He left behind in writing the following exhortation or advice to his children and grandchildren,
 written scarcely two months before his death:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Children,
 
 I must leave you in a wicked age,
@@ -999,11 +1082,16 @@ knowing how the vain mind of man little regards such advice as this I leave behi
 But by this advice I show my true love to you all, desiring God`'s blessing upon it;
 to whom I commit you all, my dear children, and so end my days.
 
+[.signed-section-closing]
 Your loving father and grandfather,
 
+[.signed-section-signature]
 John Crook
 
+[.signed-section-context-close]
 Hertford, the first of the First month, 1699.
+
+--
 
 The sharp affliction he speaks of in this writing was more than a single illness;
 for kidney stones, gout, and colic attacked him sometimes sorely,
@@ -1060,9 +1148,8 @@ somebody (of what religious persuasion I do not know) made a collection
 of his critical sentiments concerning the national church and its clergy,
 and what account he gave of their rites and ceremonies from
 books and papers he had published many years before;
-to which the author gave this title,
-"`Mr. George Keith`'s Account of the National Church and Clergy,
-Humbly Presented to the Bishop of London.`"
+to which the author gave this title, [.book-title]#Mr. George Keith`'s Account
+of the National Church and Clergy, Humbly Presented to the Bishop of London#.
 To this were added some queries he once wrote concerning
 what is called the sacrament of the Lord`'s supper.
 This account was now published in print, and presented to the bishop of London,
@@ -1091,11 +1178,16 @@ with a thankful acknowledgment of his favors.
 This they did as follows, in a letter presented to the king in December,
 by George Whitehead, William Mead, and Francis Camfield.
 
-To King William III.
-over England, etc.
+[.embedded-content-document.address]
+--
 
+[.letter-heading]
+To King William III. over England, etc.
+
+[.offset]
 An Address from the people commonly called Quakers humbly presented:
 
+[.salutation]
 May it please the King,
 
 We, your dutiful subjects, sincerely express our joy for your safe return to your people;
@@ -1124,8 +1216,11 @@ establishing your throne in mercy and truth,
 giving you a long and prosperous reign over us, and hereafter a glorious immortality.
 This is, and shall be, the fervent prayer of us, your true and faithful subjects.
 
+[.signed-section-closing]
 Signed in behalf and by appointment of the aforesaid people, at a meeting in London,
 the 8th month, 1701
+
+--
 
 This address being read to the king, was favorably received,
 and he thanked those that presented it, and replied, "`I have protected you,
@@ -1275,6 +1370,9 @@ as may be seen in the beginning of this history.
 And looking back a little, the same may also appear by a testimony of George Fox,
 published after his death, in the collection of his epistles:
 
+[.embedded-content-document]
+--
+
 When the Lord first sent me forth in the year 1643, I was sent as an innocent lamb,
 and young in years, amongst men in the nature of wolves, dogs, bears, lions, and tigers,
 into the world, which the devil had made like a wilderness.
@@ -1320,7 +1418,10 @@ for the Lord did either destroy them, or bring them to nothing,
 and His truth did flourish, and His people in it, to the praise of God,
 who is the avenger of His chosen.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 G+++.+++ Fox then,
 having in England been the first of the Quakers that preached and proclaimed
@@ -1364,6 +1465,9 @@ of whom,
 Isaac Penington (mentioned more than once in this history) was a signal instance,
 as may appear from a relation concerning himself, written with his own hand,
 and found among his papers after his death, wherein he speaks as follows:
+
+[.embedded-content-document.paper]
+--
 
 I have been a man of sorrow and affliction from my childhood,
 feeling my lack of the Lord, and mourning after Him; separated by Him from the love,
@@ -1531,9 +1635,13 @@ And these things I write, as having no end at all therein of my own,
 but felt it this morning required of me, and so in submission and subjection to my God,
 have I given up to do it, leaving the success and service of it with Him.
 
+[.signed-section-signature]
 I+++.+++ Penington.
 
+[.signed-section-context-close]
 Aylesbury, 10th of 3rd month, 1667.
+
+--
 
 From this conclusion, we see the humility of the mind of this friend, who,
 when he wrote this, was already much advanced in the way of godliness,
@@ -1570,6 +1678,10 @@ we may generally discover very plainly their inward state,
 and also their outward qualities.
 This letter was as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend,
 
 My dear and tender love salutes you, in that love from which I had my being,
@@ -1651,7 +1763,10 @@ and may my God and Father keep you in the arms of eternal love, over all, unto t
 and unto His praise.
 Amen.
 
+[.signed-section-signature]
 John Crook.
+
+--
 
 This John Crook had been a man of note in the world,
 not only because he had been a justice of peace, as has been said in due place,

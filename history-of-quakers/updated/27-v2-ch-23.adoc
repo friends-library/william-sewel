@@ -17,8 +17,13 @@ went to present it on the 11th of the month called April,
 they were introduced by the duke of Marlborough and the duke of Ormond.
 The address was as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Queen Anne, over England, etc.
 
+[.salutation]
 May it please the Queen,
 
 We, your peaceable subjects,
@@ -50,8 +55,11 @@ and charity, to the glory of God, and the benefit of these nations.
 May the King of kings make your reign long and glorious,
 in addition to which temporal blessing we shall pray for your eternal happiness.
 
+[.signed-section-context-close]
 Signed on behalf and by appointment of the aforesaid people, at a meeting in London,
 the 10th of the second month, 1702.
+
+--
 
 This address was very favorably received by the queen, and after it was read to her,
 she answered: "`I thank you for your address, and I assure you of my protection.`"
@@ -64,11 +72,17 @@ in which it was thought fit to thank the queen for her declaration that
 she would maintain the act of toleration in favor of the dissenters.
 Therefore an address was drawn up by the said assembly, which was as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Quean Anne, over England, etc.
 
+[.offset]
 The humble and thankful acknowledgment of the people commonly called Quakers,
 from their yearly meeting in London, the 30th day of the 3rd month, called May, 1702.
 
+[.salutation]
 May it please the Queen,
 
 We, your peaceable and dutiful subjects,
@@ -88,7 +102,10 @@ to direct all your counsels and undertakings, so that righteousness,
 which exalts a nation, and mercy and justice, which establish a throne,
 may be the character of your reign, and the blessings of these kingdoms under it.
 
+[.signed-section-context-close]
 Signed by the appointment and on the behalf of the said meeting.
+
+--
 
 Of those who presented this address, William Penn was the deliverer,
 and the queen was pleased to speak to him in a very kind manner,
@@ -177,8 +194,8 @@ as has been said already,
 having uttered in the time of her sickness many excellent sayings,
 by which it appeared that she was prepared for death, and longed to be dissolved.
 She had been a zealous preacher, and had also written much.
-Among the rest of her publications was a book entitled,
-"`The Call of the Jews out of Babylon,`" which she
+Among the rest of her publications was a book entitled, [.book-title]#The Call of
+the Jews out of Babylon,# which she
 dedicated to the famous Manasseh Ben Israel,
 and charged him, as he would answer it before God,
 to cause it to be read among his brethren.
@@ -350,7 +367,7 @@ and therefore they judge it not lawful to make war.
 And in these sincerely held beliefs,
 they believe they may very safely be tolerated by any civil government;
 not only because they are willing and ready to pay taxes to Caesar, but also that,
-though they cannot fight for the government, neither can they fight against it.
+though they cannot fight _for_ the government, neither can they fight _against_ it.
 
 Concerning the sword of magistracy,
 they do in no way assert that it is unlawful for Christians to be magistrates;
@@ -482,7 +499,7 @@ in reference to baptism, are metaphorical expressions;
 for they both serve for cleansing and purifying, though in a different way.
 Now although some did baptize with water, yet it ought to be considered,
 that if the command of Christ to His disciples, "`Go and teach all nations,
-baptizing them in +++[+++Gr. into]
+baptizing them in +++[+++Gr. __into__]
 the name of the Father, and of the Son,
 and of the Holy Spirit,`" related absolutely to water-baptism,
 it would indeed have been very strange that Paul, that eminent apostle of the Gentiles,
@@ -506,7 +523,7 @@ where he speaks to Peter about washing the disciple`'s feet,
 you also ought to wash one another`'s feet.`"
 More might be said on this subject;
 but since Robert Barclay has treated of this matter at length,
-the reader may refer to his Apology for the true Christian Divinity.
+the reader may refer to his [.book-title]#Apology for the true Christian Divinity#.
 
 Concerning the outward supper, it may be truly said,
 that it was the Passover that was kept by Christ at the eating of the paschal lamb;
@@ -887,8 +904,13 @@ the queen was congratulated on that account by a multitude of addresses; and the
 so called, judged themselves obliged also to testify their affection to the princess,
 as they did by the following address:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Anne, Queen of Great Britain, etc.
 
+[.offset]
 The grateful and humble Address of the People commonly called Quakers,
 from their Yearly Meeting in London, this 28th day of the third month, called May, 1708.
 
@@ -911,6 +933,8 @@ prove ourselves in all fidelity the queen`'s faithful and obedient subjects.
 As such, we conclude with fervent prayers to the Lord of Hosts, that after a prosperous,
 safe and long reign in this life, you, O queen,
 may be blessed with an eternal crown of glory.
+
+--
 
 This address was signed in the name of the meeting by fourteen members thereof,
 who were also ordered to present it.
@@ -975,6 +999,10 @@ This may appear by two letters which I will insert here; the one of Samuel Crisp
 a clergyman of the episcopal church,
 who gave the following account of his change to one of his near relations.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Friend,
 
 I received a letter from you, the week before last, which was sent by your uncle Bolton:
@@ -994,7 +1022,7 @@ and not cut me off in the midst of my sins and provocations against Him.
 He is long-suffering to us, not willing that any should perish,
 but that all should come to repentance.
 He has brought me off from the forms and shadows of religion, and let me see,
-in a more illustrious manner, what is the life and substance of it,
+in a more illustrious manner, what is the _life_ and _substance_ of it,
 as He found me in some degree faithful to that measure of light and knowledge
 He had bestowed on me while I was in the communion of the Church of England.
 Therefore He was pleased of late, as I humbly waited upon Him,
@@ -1152,12 +1180,12 @@ Having heard in the country that he was a man of great account amongst the Quake
 I had a mind to see what their principles were,
 and what defense they could make for themselves; for surely, thought I,
 these people cannot be so silly and ridiculous, nor maintainers of such horrid opinions,
-as the author of The Snake^
+as the author of [.book-title]#The Snake#^
 footnote:[This book, which came out in the year 1696, was published anonymously.
 The author was employed by some of the clergy to render
 Friends and their principles odious to the world.
 His misrepresentations were disproved, and his crafty artifices made manifest,
-by Joseph Wyeth and George Whitehead in a book entitled, A Switch for the Snake.]
+by Joseph Wyeth and George Whitehead in a book entitled, [.book-title]#A Switch for the Snake#.]
 and some others would make us believe.
 I took Barclay home with me, and I read him through in a week`'s time,
 except for a little treatise at the end, which, finding to be very philosophical,
@@ -1188,7 +1216,8 @@ and to what body of people I should join myself.
 So I immediately left the communion of the Church of England,
 and went to Gracechurch Street Meeting.
 After I had read Barclay, I read some other books of that kind,
-among which was an excellent piece, though in a small volume, called No Cross, No Crown.^
+among which was an excellent piece,
+though in a small volume, called [.book-title]#No Cross, No Crown#.^
 footnote:[By William Penn]
 Thus I continued reading and frequenting meetings for several weeks together,
 but did not let any one soul know what I was doing.
@@ -1286,11 +1315,19 @@ Let us remember to pray for one another with all fervency,
 that we may stand perfect in the whole will of God.
 Amen, says my soul.
 
+[.signed-section-closing]
 I am your most affectionate friend and servant in Jesus,
 
+[.signed-section-signature]
 Samuel Crisp
 
+--
+
+[.offset]
 The following letter, or account of one Evan Jevans, is also remarkable.
+
+[.embedded-content-document.letter]
+--
 
 Since it has pleased divine goodness to endue me with reason,
 I heartily thank His most excellent Majesty,
@@ -1320,7 +1357,7 @@ and I waxed worse.
 
 In this wretched and doleful condition, when I was at a relation`'s house,
 who had providentially returned from Pennsylvania to his native country,
-I happened upon Robert Barclay`'s Apology for the Quakers;
+I happened upon Robert Barclay`'s [.book-title]#Apology# for the Quakers;
 by the reading of which I was well persuaded of their principles.
 And by turning my mind inward to the divine gift (according to their doctrine),
 it gave me victory in great measure over our common enemy,
@@ -1387,6 +1424,8 @@ Indeed, it is apparent to many, that I rather declined it.
 For it was peace with God my Maker, and mercy to my soul, that I needed,
 and having at last found the pearl of great price, I parted with all to purchase it.
 
+--
+
 From this account,
 it appears that the writer aimed at nothing in his change of religious persuasion,
 but the quietness of his mind, and the salvation of his soul.
@@ -1398,8 +1437,13 @@ wherefore the people called Quakers also esteemed it their
 duty to show their grateful acknowledgment of this favor,
 which they did by the following address.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Queen Anne, of Great Britain, etc.
 
+[.offset]
 The humble and thankful address from people called Quakers,
 in and about the city of London, on behalf of themselves,
 and the rest of their persuasion.
@@ -1422,6 +1466,8 @@ That it may graciously please Almighty God to defend and bless you, O queen,
 and guide you by His counsel in a long and prosperous reign here,
 and afterwards receive you to glory, is the hearty prayer of your faithful subjects.
 
+--
+
 To this address the Queen was pleased to answer, "`I thank you for your address,
 and you may depend upon my protection.`"
 The animosities mentioned in this address had regard to a division
@@ -1439,8 +1485,8 @@ because I hasten towards a conclusion,
 yet I think it worthwhile to add the following case:
 
 In the year 1713, in the spring,
-there was a lawsuit upon the Act against Occasional Conformity.^
-footnote:[The Act against Occasional Conformity was a law created to prevent
+there was a lawsuit upon the _Act against Occasional Conformity_.^
+footnote:[The __Act against Occasional Conformity__ was a law created to prevent
 dissenters and Roman Catholics from "`occasionally`" attending the national church
 for the soul purpose of making themselves eligible to hold public office.]
 It happened that one John Penry,
@@ -1471,7 +1517,7 @@ for fear that they should be condemned to pay charges, and therefore let the thi
 
 The next year, being that of 1714, the queen was often ill,
 and there was much division among the people;
-for a bill was brought into parliament called An Act to Prevent the Growth of Schism;
+for a bill was brought into parliament called __An Act to Prevent the Growth of Schism__;
 and the prevailing party was very active to get this bill passed.
 And since it aimed to deprive Protestant dissenters from keeping private schools,
 granting that liberty to none but members of the Episcopal church,
@@ -1497,7 +1543,7 @@ on whom the succession of the crown of Great Britain had been settled.
 Scarcely two months after her demise, queen Anne also deceased,
 who after having languished a long time,
 at length was taken away by death on the first of August,
-the very same day that the Act to Prevent the Growth of Schism was to take effect.
+the very same day that the __Act to Prevent the Growth of Schism__ was to take effect.
 
 The very same day, George, prince elector of Brunswick Lunenburg,
 was proclaimed the new king of Great Britain; who returning to England some time after,
@@ -1519,10 +1565,16 @@ Being then presented to the king, G. Whitehead said,
 Whereupon receiving it again, he delivered it to Joseph Wyeth, who read it audibly,
 being as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To George, King of Great Britain, etc.
 
+[.offset]
 The humble address of the people commonly called Quakers.
 
+[.salutation]
 Great Prince,
 
 It having pleased Almighty God to deprive these kingdoms of our late gracious queen,
@@ -1550,6 +1602,8 @@ give him health and length of days here, and eternal felicity hereafter.
 And may He so bless his royal offspring,
 that they may never fail to adorn the throne with
 a successor endowed with piety and virtue.
+
+--
 
 To this address the king was pleased to give this gracious answer:
 "`I am well satisfied with the marks of duty you express in your address,
@@ -1591,15 +1645,13 @@ that '`He who rules over men must be just, ruling in the fear of God;
 and he shall be like the light of the morning when the sun rises,
 a morning without clouds,
 like the tender grass springing out of the earth by clear shining after rain.`'^
-footnote:[2 Samuel 23:3-4]`"
-
-This speech was favorably heard by the prince.
+footnote:[2 Samuel 23:3-4]`" This speech was favorably heard by the prince.
 
 It was not long after the king`'s coming in that Dr. Gilbert Burnet, bishop of Salisbury,
-the renowned author of the History of the Reformation in England, died.
+the renowned author of the [.book-title]#History of the Reformation in England#, died.
 He generally had showed himself moderate,
 and had written very plainly against persecution in matters of faith,
-especially in his Apology for the Church of England,
+especially in his [.book-title]#Apology for the Church of England#,
 first printed in Holland in the year 1688, and afterwards also in England,
 wherein among other things, he said,
 "`I will not deny that many of the dissenters were
@@ -1637,6 +1689,9 @@ they did not fail to thankfully acknowledge his kindness,
 as appears from the general epistle of their annual assembly,
 where they expressed their gratitude in these words:
 
+[.embedded-content-document.epistle]
+--
+
 The Lord our God, who, for the sake of His heritage,
 has often heretofore rebuked and limited the raging waves of the sea, has,
 blessed be His name, mercifully dispersed the cloud threatening a storm,
@@ -1647,6 +1702,8 @@ call for true thankfulness to Him.
 And to humbly pray to Almighty God for the king and those in authority,
 for his and their safety and defense, is certainly our Christian duty,
 as well as to walk inoffensively as a grateful people.
+
+--
 
 Thus they signified their thankfulness for the favor they enjoyed;
 and as this people did now enjoy both liberty and quiet,
@@ -1693,9 +1750,11 @@ And since mention has several times been made in this history of
 the epistles of the annual assembly to the particular churches,
 I have thought fit to insert one here, from the year 1717, which is as follows:
 
-The Epistle from the Yearly Meeting in London,
-held from the 10th day of the Fourth month, to the 14th of the same, 1717.
-To the quarterly and monthly meetings of Friends in Great Britain, and elsewhere.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== The Epistle from the Yearly Meeting in London, held from the 10th day of the Fourth month, to the 14th of the same, 1717. To the quarterly and monthly meetings of Friends in Great Britain, and elsewhere.
 
 Our salutation, in the love of Christ Jesus our blessed Lord is freely extended unto you,
 whose tender care and mercy to this our annual assembly
@@ -1799,9 +1858,13 @@ and the God of peace, we trust, will be with you to the end.
 The grace of our Lord Jesus Christ be with your spirits.
 Amen.
 
+[.signed-section-closing]
 Signed in, and on the behalf, and by the order of this meeting, by
 
+[.signed-section-signature]
 Benjamin Bealing.
+
+--
 
 From this epistle my readers may judge something of the others,
 which are sent from the yearly meeting of the people called
