@@ -239,7 +239,7 @@ and to maintain this, Thomas Hicks used the following syllogism:
 [.syllogism]
 * They that deny the Lord`'s Christ, are no Christians;
 * But the Quakers deny the Lord`'s Christ;
-* Therefore the Quakers are no Christinas.
+* Therefore the Quakers are no Christians.
 
 To this W. Penn said, "`I deny the minor,^
 footnote:[A categorical syllogism consists of three parts: a major premise,
@@ -307,13 +307,13 @@ men might see Him in that bodily appearance,
 and yet not see Him to be the Christ of God.
 They saw His manhood, but not His Christ-ship.
 This I will prove from Christ`'s words to Peter, when he confessed Him to be Christ,
-the Son of the living God, saying, "`Flesh and blood has not revealed this unto you,
-but My Father who is in heaven.`"
+the Son of the living God, saying, '`Flesh and blood has not revealed this unto you,
+but My Father who is in heaven.`'
 Therefore, it follows that Peter, with a carnal eye,
 could not have seen the Lord`'s Christ; much less could wicked men really see Him.
 My second proof is from the apostle`'s words,
-"`Whom none of the rulers of this world knew; for had they known Him,
-they would not have crucified Him.`"
+'`Whom none of the rulers of this world knew; for had they known Him,
+they would not have crucified Him.`'`"
 W+++.+++ Penn enlarging a little more on this subject, said also,
 that seeing and knowing in Scriptures are sometimes equivalent.
 And G. Keith added, "`Christ said, '`He who has seen Me,
@@ -334,10 +334,10 @@ And then directing his question to Ives, he said,
 "`But,`" replied W. Penn, "`Was He the Lord`'s Christ?
 I will prove Him to have been the Lord`'s Christ both before and after: first,
 from the apostle Paul`'s words to the Corinthians,
-that Israel "`drank of that spiritual Rock that followed them,
-and that Rock was Christ.`"
+that Israel '`drank of that spiritual Rock that followed them,
+and that Rock was Christ.`'
 Next from Jude, where some Greek copies have it thus,
-"`That Jesus brought the people of Israel out of Egypt.`"
+'`That Jesus brought the people of Israel out of Egypt.`'`"
 But to this Ives gave no answer, regardless how many times he was called upon for it.
 And this was no great wonder,
 since it was well known that there were such among
@@ -470,7 +470,7 @@ Now though he and Richard Woodland appealed for justice,
 yet the court positively denied their appeal unless
 they would first take the oath of allegiance.
 This was the old snare; thus their hearing was denied,
-and treble damages were levied against them.
+and triple damages were levied against them.
 
 At Lewes in Sussex, the priest, William Snat, became an informer himself,
 and went several times to the Quakers`' meeting there,
@@ -486,7 +486,7 @@ In Norfolk, the rage of the persecutors was such that some, having been bereaved
 were obliged even in winter time to lie upon straw, as was the case with Joseph Harrison,
 his wife and children.
 Yet this family, unwearied, did not leave off attending their religious meetings.
-Indeed, not even the dead were not allowed to rest,
+Indeed, not even the dead were allowed to rest,
 for this outrageous barbarity came to such a height, that Mary,
 the wife of Francis Larder, being dead and buried, was, by order of one Thomas Bretland,
 dug up again, whereby the coffin was broken and carrying away,
@@ -742,7 +742,7 @@ In response to this, the warden, Robert Clerk, snarled at him and said,
 The aforesaid officers came also to the house of Samuel Duncon,
 and with them came the informer Charles Tennison, and the hangman.
 Here they stayed several days and nights, and kept Samuel`'s wife,
-who was xpecting a child, a prisoner in her own house,
+who was expecting a child, a prisoner in her own house,
 not allowing her to speak with any, nor permitting any to come to her.
 And after they had broken open all the locked doors,
 they took away to the value of about forty-three pounds in goods.
@@ -949,7 +949,7 @@ and the other to the public use of the island.
 And no person whatsoever, who is not an inhabitant and resident of this island,
 and has been so for twelve months together,
 shall hereafter publicly discourse or preach at the meeting of the Quakers,
-on pain of six months imprisonment, and forfeiture of 1000 lbs.
+on pain of six months imprisonment, and forfeiture of 1000lbs.
 Muscovado sugar, the one half to such as sue for it,
 the other to the public use of the island.
 
@@ -1036,7 +1036,7 @@ My Friend,
 
 Albeit I judge I did fully answer all your arguments in that conference we had,
 concerning the necessity and possibility of inward immediate revelation,
-and of the certainly of true faith proceeding therefrom; nevertheless,
+and of the certainty of true faith proceeding therefrom; nevertheless,
 because after we had ended and were parting,
 you recommended me to the further consideration of the strength of your argument,
 as that in which you suppose the very hinge of the question to lie;
@@ -1256,7 +1256,7 @@ revelation stirred up in us by a divine motion or supernatural operation.
 But it is no wonder that men who have no experience of supernatural ideas,
 or at least do not heed them, do deny them.
 This is as if a man naturally blind denied the existence of light or colors,
-or a deaf man denied sounds, only because they the did not experience them.
+or a deaf man denied sounds, only because they did not experience them.
 Therefore, we cannot conceal that we feel a fervent zeal, even divinely kindled in us,
 against such an absurd opinion as affirms that God cannot
 make known to us His will in any contingent truth,
