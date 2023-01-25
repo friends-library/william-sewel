@@ -37,7 +37,8 @@ we keep that knowledge only to ourselves, without imparting it to others.
 Now however difficult I found it, yet having made a beginning, I resolved to go on;
 and so I did, though often stopped by several occurrences, and also other work.
 For during this labor I have not only translated several bulky books into Dutch,
-besides [.book-title]#`'s Antiquities of Rome#, but also composed several treatises of importance,
+besides [.book-title]#Kennet`'s Antiquities of Rome#,
+but also composed several treatises of importance,
 and among these my great dictionary, [.book-title]#English and Low Dutch#.
 And notwithstanding all these impediments,
 I continually resumed this work by intervals so often,
